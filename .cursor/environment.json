@@ -4,11 +4,13 @@
   "terminals": [
     {
       "name": "api",
-      "command": "npm run dev:server"
+      "command": "npm run dev:server",
+      "description": "Express API (tsx watch) on http://localhost:3001"
     },
     {
       "name": "web",
-      "command": "npm run dev:client"
+      "command": "npm run dev:client",
+      "description": "Vite dev server on http://localhost:5173 (proxies /api to :3001)"
     }
   ],
   "ports": [
