@@ -7,7 +7,7 @@ Updated 2026-09-14. Batch 1 (W2 to W6) written. Format: LECTURE, Max solo. No sp
 | File | Status | Spoken words | Four marks verbatim | Primary text |
 |---|---|---|---|---|
 | `drive/W02-You-Are-Not-Crazy-LECTURE.md` | DRAFT | 4,385 | 2x (open + close) | Psalm 73 |
-| `drive/W03-The-Four-Marks-LECTURE.md` | DRAFT | 4,316 | 2x (open + close) | Genesis 2:15-17; 3:1-13 |
+| `drive/W03-The-Four-Marks-LECTURE.md` | DRAFT | 4,325 | 2x (open + close) | Genesis 2:15-17; 3:1-13 |
 | `drive/W04-Stop-Waiting-LECTURE.md` | DRAFT | 4,410 | 2x (open + close) | John 5:1-9, 14; Haggai 1 |
 | `drive/W05-Pick-Up-The-Weight-LECTURE.md` | DRAFT | 4,306 | 2x (open + close) | Nehemiah 1-2 |
 | `drive/W06-Go-First-LECTURE.md` | DRAFT | 4,323 | 2x (open + close) | Joshua 3:7-17 |

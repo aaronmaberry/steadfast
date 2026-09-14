@@ -64,7 +64,7 @@ That claim says two things at once, and you need both.
 
 First, the confusion is real. I am not going to tell you it's all in your head. It isn't. There are real forces working on you: a culture with no shared picture of what a man is, a marketplace that makes money off your insecurity, and an enemy who has been trying to get men to sit down and stay quiet since the third chapter of Genesis. If you feel pulled in six directions, it's because you are being pulled in six directions.
 
-Second, the confusion is not the last word. There is a fixed point. There is a place a man can stand where the ground does not move. And the rest of this hour is about a man who found it the hard way.
+Second, the confusion is not the last word. There is a fixed point. There is a place a man can stand where the ground does not move. And the rest of this lecture is about a man who found it the hard way.
 
 ## TEXT
 

@@ -62,7 +62,7 @@ Manhood is not an age. You do not become a man at eighteen. Plenty of forty-year
 
 Manhood is not a feeling. Most of the men I respect most did not feel like men when they did the bravest thing they ever did. They felt sick. They did it anyway.
 
-Manhood is not a body. A body makes you male. It does not make you a man. If it did, every male in a prison would be a man and every man in a wheelchair wouldn't. That's obviously false.
+Manhood is not a body. A body makes you male. It does not make you a man. If it did, manhood would be a matter of muscle, and the strongest man in a prison yard would qualify while a faithful man in a wheelchair wouldn't. That's obviously false.
 
 Manhood is a calling. It is something God summons a male toward. It has a shape. It can be described. It can be aimed at. It can be missed. And because it has a shape, it can be measured. That's the level.
 
