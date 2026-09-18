@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Begin — Steadfast Men</title>
+  <meta name="description" content="Training $79. Ebook $14. Bundle $89. Paperback on request. Daily walk free. Groups for churches.">
+  <link rel="canonical" href="https://www.walksteadfast.com/start">
+  <link rel="icon" href="img/logo-lockup.jpg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="nav">
+    <div class="wrap nav-inner">
+      <a class="brand" href="index.html"><img src="img/logo-lockup.jpg" alt="Steadfast Men"></a>
+      <button class="nav-toggle" aria-label="Open menu">☰</button>
+            <ul class="nav-links">
+        <li><a href="training.html">Training</a></li>
+        <li><a href="shop.html">Shop</a></li>
+        <li><a href="book.html">Book</a></li>
+        <li><a href="index.html#daily-walk">Daily</a></li>
+        <li><a href="give.html">Support</a></li>
+        <li><a href="login.html">Login</a></li>
+        <li><a class="nav-cta" href="start.html" aria-current="page">Begin</a></li>
+      </ul>
+    </div>
+  </header>
+  <div class="page-hero">
+    <div class="wrap">
+      <p class="eyebrow">Begin</p>
+      <h1>Choose the product. Then walk.</h1>
+      <p>Every paid door hits this page until Stripe (or Kajabi, Teachable, Gumroad) is live. Swap the button hrefs. Do not leave a man without a next step.</p>
+    </div>
+  </div>
+
+  <section>
+    <div class="wrap shop">
+      <article>
+        <img src="img/road.jpg" alt="">
+        <div class="card-body">
+          <h3>Training</h3>
+          <p class="price">$79</p>
+          <a class="btn btn-ink" href="https://buy.stripe.com/test_28EaEQ8AI10F5BCgJtdnW00">Buy training — test</a>
+        </div>
+      </article>
+      <article>
+        <img src="img/books-table-wh.jpg" alt="Steadfast Men hardcover">
+        <div class="card-body">
+          <h3>Ebook</h3>
+          <p class="price">$14</p>
+          <a class="btn btn-line" href="https://buy.stripe.com/test_8x2bIUeZ67p36FGgJtdnW01">Buy ebook — test</a>
+        </div>
+      </article>
+      <article>
+        <img src="img/cloth-wh.jpg" alt="">
+        <div class="card-body">
+          <h3>Bundle</h3>
+          <p class="price">$89</p>
+          <a class="btn btn-line" href="https://buy.stripe.com/test_14A14g8AI8t79RSfFpdnW02">Buy bundle — test</a>
+        </div>
+      </article>
+      <article>
+        <img src="img/books-table-wh.jpg" alt="Steadfast Men print">
+        <div class="card-body">
+          <h3>Paperback</h3>
+          <p class="price">Request</p>
+          <a class="btn btn-line" href="#form" data-pick="paperback">Select print</a>
+          <!-- SLOT amazon-kdp -->
+          <p class="slot">Later: paste Amazon / printer URL.</p>
+        </div>
+      </article>
+      <article>
+        <img src="img/mug-wh.jpg" alt="">
+        <div class="card-body">
+          <h3>Daily walk</h3>
+          <p class="price">Free</p>
+          <a class="btn btn-line" href="daily.html">Open today</a>
+          <!-- SLOT devotion-cms -->
+          <p class="slot">Later: paste Substack / list / CMS.</p>
+        </div>
+      </article>
+      <article>
+        <img src="img/chapel.jpg" alt="">
+        <div class="card-body">
+          <h3>Groups</h3>
+          <p class="price">Ask</p>
+          <a class="btn btn-line" href="groups.html">Churches &amp; crews</a>
+          <!-- SLOT group-kit -->
+          <p class="slot">Later: paste leader guide and group price.</p>
+        </div>
+      </article>
+    </div>
+  </section>
+
+  <section id="form">
+    <div class="wrap split">
+      <form data-start-form>
+        <label for="offer">Product</label>
+        <select id="offer" name="offer">
+          <option value="training">24-week training · $79</option>
+          <option value="bundle">Training + hardcover · $89</option>
+          <option value="ebook">Ebook · $14</option>
+          <option value="hardcover">Hardcover request</option>
+          <option value="paperback">Paperback request</option>
+          <option value="workbook">Bound printed workbook</option>
+          <option value="group">Group / church table</option>
+          <option value="bulk-hardcover">Bulk hardcover · 8+</option>
+          <option value="bulk-paperback">Bulk paperback · 8+</option>
+          <option value="bulk-workbook">Printed workbooks · 8+</option>
+          <option value="list">Daily letter</option>
+        </select>
+        <label for="name">Name</label>
+        <input id="name" name="name" required>
+        <label for="email">Email</label>
+        <input id="email" name="email" type="email" required>
+        <!-- SLOT: form action becomes Stripe or Formspree -->
+        <button class="btn btn-ink" type="submit">Continue</button>
+        <p class="tiny" style="color:var(--muted)">No charge on this preview. Wire payment and this is checkout.</p>
+      </form>
+      <div>
+        <p class="eyebrow">Coming — leave the URLs</p>
+        <h2>The table.</h2>
+        <p class="lede" style="margin:12px 0 20px">YouTube, Shorts, Reels, Spotify, Apple Podcasts. Hidden until you paste a real href.</p>
+        <p class="slot" style="margin-top:16px">Replace each href="#" with the live channel. Until then the click tells you the slot is wired.</p>
+      </div>
+    </div>
+  </section>
+  <script src="site.js"></script>
+  <script>
+    const sel = document.getElementById("offer");
+    const q = new URLSearchParams(location.search).get("offer");
+    if (q && [...sel.options].some(o => o.value === q)) sel.value = q;
+    document.querySelectorAll("[data-pick]").forEach((el) => {
+      el.addEventListener("click", () => { sel.value = el.getAttribute("data-pick"); });
+    });
+  </script>
+</body>
+</html>

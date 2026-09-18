@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Login — Steadfast Men</title>
+  <meta name="description" content="Sign in to the 24-week training if you already bought the path.">
+  <meta name="robots" content="noindex">
+  <link rel="canonical" href="https://www.walksteadfast.com/login">
+  <link rel="icon" href="img/logo-lockup.jpg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="nav">
+    <div class="wrap nav-inner">
+      <a class="brand" href="index.html"><img src="img/logo-lockup.jpg" alt="Steadfast Men"></a>
+      <button class="nav-toggle" aria-label="Open menu">☰</button>
+      <ul class="nav-links">
+        <li><a href="training.html">Training</a></li>
+        <li><a href="shop.html">Shop</a></li>
+        <li><a href="book.html">Book</a></li>
+        <li><a href="index.html#daily-walk">Daily</a></li>
+        <li><a href="give.html">Support</a></li>
+        <li><a href="login.html" aria-current="page">Login</a></li>
+        <li><a class="nav-cta" href="start.html">Begin</a></li>
+      </ul>
+    </div>
+  </header>
+  <div class="page-hero">
+    <div class="wrap">
+      <p class="eyebrow">Members</p>
+      <h1>Already in the path?</h1>
+      <p>This door is the 24-week path. Ebook or audiobook bought on their own do not use this login — those files go to the email on the receipt. Daily walk stays free.</p>
+    </div>
+  </div>
+  <section>
+    <div class="wrap" style="max-width:560px">
+      <article class="daily-cell" style="width:100%;flex:none;min-height:0">
+        <p class="k">Sign in</p>
+        <form id="gate" style="margin-top:8px">
+          <label for="email">Email</label>
+          <input id="email" name="email" type="email" required autocomplete="username">
+          <label for="password">Password</label>
+          <input id="password" name="password" type="password" required autocomplete="current-password">
+          <p id="gate-err" class="tiny" style="color:#f2b8b5;min-height:1.2em"></p>
+          <button class="btn btn-gold" type="submit">Open the path</button>
+        </form>
+      </article>
+      <p style="margin-top:28px;color:var(--muted)">Bought only the ebook or audio? Check the inbox on the receipt. Have not bought the path yet? <a href="training.html">See the 24 weeks</a>.</p>
+    </div>
+  </section>
+  <script src="site.js"></script>
+  <script src="auth.js"></script>
+  <script>
+    const q = new URLSearchParams(location.search);
+    const next = q.get("next") || "program.html";
+    if (SMAuth.session()) location.replace(next);
+    document.getElementById("gate").addEventListener("submit", (e) => {
+      e.preventDefault();
+      const ok = SMAuth.login(
+        document.getElementById("email").value,
+        document.getElementById("password").value
+      );
+      if (!ok) {
+        document.getElementById("gate-err").textContent = "Wrong email or password.";
+        return;
+      }
+      location.href = next;
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Daily Walk — Steadfast Men</title>
+  <meta name="description" content="A short daily devotion for Christian men. Come back every morning. The library can be swapped in without changing the page.">
+  <link rel="canonical" href="https://www.walksteadfast.com/daily">
+  <link rel="icon" href="img/logo-lockup.jpg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="nav">
+    <div class="wrap nav-inner">
+      <a class="brand" href="index.html"><img src="img/logo-lockup.jpg" alt="Steadfast Men"></a>
+      <button class="nav-toggle" aria-label="Open menu">☰</button>
+            <ul class="nav-links">
+        <li><a href="training.html">Training</a></li>
+        <li><a href="shop.html">Shop</a></li>
+        <li><a href="book.html">Book</a></li>
+        <li><a href="index.html#daily-walk">Daily</a></li>
+        <li><a href="give.html">Support</a></li>
+        <li><a href="login.html">Login</a></li>
+        <li><a class="nav-cta" href="start.html">Begin</a></li>
+      </ul>
+    </div>
+  </header>
+  <div class="video-slot" id="daily-video">
+    <div>
+      <p class="eyebrow" style="color:var(--brass)">Today’s film</p>
+      <h2>Video slot</h2>
+      <p>Paste a YouTube, Vimeo, or Mux URL. Upload the mp4 when you have it. The written walk still rotates daily.</p>
+      <div class="slot" style="max-width:520px;margin:24px auto 0;text-align:left">
+        <p class="label">Upload or paste</p>
+        <input type="file" accept="video/mp4,video/webm">
+        <input type="url" placeholder="YouTube / Vimeo / Mux URL">
+      </div>
+    </div>
+  </div>
+  <div class="page-hero">
+    <div class="wrap">
+      <p class="eyebrow">Every morning</p>
+      <h1>The daily walk</h1>
+      <p>A reason to open this site before the phone opens you. Replace the starter cycle with your full devotionals whenever you are ready — the page does not need to be rebuilt.</p>
+    </div>
+  </div>
+  <section>
+    <div class="wrap devotion-card" data-devotion>
+      <img data-devotion-img src="img/daily/watch.jpg" alt="">
+      <div class="devotion-copy">
+        <p class="eyebrow">Today · <span data-devotion-kicker></span></p>
+        <h2 data-devotion-silent-title></h2>
+        <p class="scripture" data-devotion-verse></p>
+        <p class="verse-ref" data-devotion-verse-ref></p>
+        <p class="k" style="margin:18px 0 8px">Silent touch</p>
+        <div data-devotion-silent></div>
+        <p class="k" style="margin:28px 0 8px">Today’s challenge</p>
+        <h3 data-devotion-title style="margin:0 0 10px"></h3>
+        <div data-devotion-challenge></div>
+        <p class="k" style="margin:28px 0 8px">Reflection</p>
+        <p data-devotion-reflection style="font-size:22px;line-height:1.4"></p>
+        <p class="k" style="margin:28px 0 8px">Guided prayer</p>
+        <div data-devotion-prayer></div>
+      </div>
+    </div>
+    <div class="wrap" style="margin-top:48px;max-width:720px">
+      <p class="eyebrow">How this is built</p>
+      <h3 style="margin:8px 0 12px">A slot, not a dead page</h3>
+      <p>Seven starter walks rotate by calendar day so the URL always has a pulse. Drop a JSON feed, a CMS, or a Substack embed in <code>site.js</code> later. Same route: <strong>/daily</strong>. Same promise: come back tomorrow.</p>
+      <p style="margin-top:20px"><a class="btn btn-ink" href="training.html">Pair this with the 24 weeks</a> <a class="btn btn-ghost" href="listen.html">Hear it as a podcast</a></p>
+    </div>
+  </section>
+  <footer>
+    <div class="wrap foot-grid">
+      <div><img src="img/logo-lockup.jpg" alt="" style="width:140px"></div>
+      <div><a href="index.html">Home</a><a href="training.html">Training</a></div>
+      <div><a href="book.html">Book</a><a href="about.html">The men</a></div>
+    </div>
+  </footer>
+  <script src="site.js"></script>
+</body>
+</html>

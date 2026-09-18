@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Support the mission — Steadfast Men</title>
+  <meta name="description" content="A one-time or monthly gift to help Steadfast Men reach more husbands and fathers. Training and the book stay in Shop.">
+  <link rel="canonical" href="https://www.walksteadfast.com/give">
+  <link rel="icon" href="img/logo-lockup.jpg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="nav">
+    <div class="wrap nav-inner">
+      <a class="brand" href="index.html"><img src="img/logo-lockup.jpg" alt="Steadfast Men"></a>
+      <button class="nav-toggle" aria-label="Open menu">☰</button>
+      <ul class="nav-links">
+        <li><a href="training.html">Training</a></li>
+        <li><a href="shop.html">Shop</a></li>
+        <li><a href="book.html">Book</a></li>
+        <li><a href="index.html#daily-walk">Daily</a></li>
+        <li><a href="give.html" aria-current="page">Support</a></li>
+        <li><a href="login.html">Login</a></li>
+        <li><a class="nav-cta" href="start.html">Begin</a></li>
+      </ul>
+    </div>
+  </header>
+
+  <div class="page-hero page-hero-tight">
+    <div class="wrap">
+      <p class="eyebrow">Support</p>
+      <h1>Help us expand the mission and make steadfast men.</h1>
+      <p>Help us put this path in front of more men who need it — husbands and fathers who have not found the table yet. Training and the book stay in Shop. What you send here expands the reach: the films, Daily, and rooms we can open next.</p>
+    </div>
+  </div>
+
+  <section>
+    <div class="wrap give-grid">
+      <div>
+        <p class="eyebrow">Contribute</p>
+        <h2 style="margin:8px 0 20px">Once, or every month.</h2>
+        <div class="cadence" role="tablist">
+          <button type="button" data-cadence="once">One time</button>
+          <button type="button" class="on" data-cadence="monthly">Monthly</button>
+        </div>
+        <div class="amtgrid" id="amts"></div>
+        <label for="custom">Other amount</label>
+        <input id="custom" type="number" min="1" step="1" placeholder="Your amount">
+        <p class="lede" id="give-line" style="margin:18px 0">$5 each month — a first gift — every bit moves the path.</p>
+        <a class="btn btn-gold" id="give-go" href="#">Continue</a>
+        <p class="tiny" style="color:var(--muted);margin-top:16px">Test mode. Card <b>4242 4242 4242 4242</b>, any future date, any CVC. One-time gifts can type any amount on Stripe. Monthly uses $5 / $10 / $25 / $50 / $100. Custom monthly falls back to $25. Live links replace these when you flip Stripe to live.</p>
+      </div>
+      <div>
+        <p class="eyebrow">How it helps</p>
+        <h2>Where the money goes.</h2>
+        <div class="weeks" style="margin-top:24px">
+          <div class="week"><b>01</b><div>Reach men outside our zip code — ads, the table films, and the site staying up.</div></div>
+          <div class="week"><b>02</b><div>Keep Daily free so a man can start on a Tuesday without buying the path.</div></div>
+          <div class="week"><b>03</b><div>Help a table or church get started before they can buy seats.</div></div>
+          <div class="week"><b>04</b><div>Shop still sells training and the book. This is how we take the same work farther.</div></div>
+        </div>
+        <p style="margin-top:24px;color:var(--muted)">Questions: <a href="mailto:hello@walksteadfast.com">hello@walksteadfast.com</a>. How we handle a name and an email is on <a href="privacy.html">Privacy</a>.</p>
+      </div>
+    </div>
+  </section>
+  <script src="checkout.js"></script>
+  <script src="site.js"></script>
+  <script>
+    const amounts = [5, 10, 25, 50, 100];
+    const hints = {
+      5: "a first gift — every bit moves the path",
+      10: "helps put Daily in front of another man",
+      25: "helps put the weeks in front of another man",
+      50: "helps a table start before they can buy seats",
+      100: "keeps Daily free for a stretch of Tuesdays"
+    };
+    let amount = 5;
+    let cadence = "monthly";
+    const amts = document.getElementById("amts");
+    amounts.forEach(n => {
+      const b = document.createElement("button");
+      b.type = "button";
+      b.className = "amt" + (n === 5 ? " on" : "");
+      b.textContent = "$" + n;
+      b.onclick = () => {
+        amount = n;
+        document.getElementById("custom").value = "";
+        document.querySelectorAll(".amt").forEach(x => x.classList.remove("on"));
+        b.classList.add("on");
+        paint();
+      };
+      amts.appendChild(b);
+    });
+    document.querySelectorAll(".cadence button").forEach(btn => {
+      btn.onclick = () => {
+        cadence = btn.dataset.cadence;
+        document.querySelectorAll(".cadence button").forEach(x => x.classList.toggle("on", x === btn));
+        paint();
+      };
+    });
+    const custom = document.getElementById("custom");
+    custom.addEventListener("input", () => {
+      document.querySelectorAll(".amt").forEach(x => x.classList.remove("on"));
+      paint();
+    });
+    const params = new URLSearchParams(location.search);
+    if (params.get("cadence") === "monthly") {
+      cadence = "monthly";
+      document.querySelectorAll(".cadence button").forEach(x => x.classList.toggle("on", x.dataset.cadence === "monthly"));
+    }
+    const pre = parseInt(params.get("amount"), 10);
+    if (pre > 0) {
+      amount = pre;
+      if (!amounts.includes(pre)) custom.value = String(pre);
+      else document.querySelectorAll(".amt").forEach(x => x.classList.toggle("on", x.textContent === "$" + pre));
+    }
+    function resolved() {
+      const c = parseInt(custom.value, 10);
+      return c > 0 ? c : amount;
+    }
+    function paint() {
+      const n = resolved();
+      const hint = hints[n] || "helps spread the path";
+      document.getElementById("give-line").textContent =
+        (cadence === "monthly" ? "$" + n + " each month" : "$" + n + " once") + " — " + hint + ".";
+      document.getElementById("give-go").textContent =
+        cadence === "monthly" ? "Give $" + n + " monthly" : "Give $" + n + " once";
+    }
+    document.getElementById("give-go").addEventListener("click", e => {
+      e.preventDefault();
+      const n = resolved();
+      const c = window.STEADFAST_CHECKOUT || {};
+      let url = c.giveOnce;
+      if (cadence === "monthly") url = (c.giveMonthly && c.giveMonthly[n]) || c.giveMonthly[5];
+      if (!url) return;
+      location.href = url;
+    });
+    paint();
+  </script>
+</body>
+</html>
