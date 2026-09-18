@@ -1,0 +1,72 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        { "key": "X-Content-Type-Options", "value": "nosniff" },
+        { "key": "X-Frame-Options", "value": "DENY" },
+        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" },
+        { "key": "X-DNS-Prefetch-Control", "value": "on" },
+        { "key": "Strict-Transport-Security", "value": "max-age=31536000; includeSubDomains; preload" },
+        { "key": "Permissions-Policy", "value": "camera=(), microphone=(), geolocation=()" }
+      ]
+    },
+    {
+      "source": "/img/(.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=60, must-revalidate" }
+      ]
+    },
+    {
+      "source": "/styles.css",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=60, must-revalidate" }
+      ]
+    },
+    {
+      "source": "/site.js",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=60, must-revalidate" }
+      ]
+    },
+    {
+      "source": "/app/daily.json",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }
+      ]
+    },
+    {
+      "source": "/(.*).html",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }
+      ]
+    },
+    {
+      "source": "/",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }
+      ]
+    }
+  ],
+  "redirects": [
+    { "source": "/index", "destination": "/", "permanent": true },
+    { "source": "/home", "destination": "/", "permanent": true },
+    { "source": "/course", "destination": "/training", "permanent": true },
+    { "source": "/courses", "destination": "/training", "permanent": true },
+    { "source": "/path", "destination": "/program", "permanent": true },
+    { "source": "/kit", "destination": "/group-kit", "permanent": true },
+    { "source": "/buy", "destination": "/start", "permanent": true },
+    { "source": "/store", "destination": "/shop", "permanent": true },
+    { "source": "/devotional", "destination": "/daily", "permanent": true },
+    { "source": "/devotion", "destination": "/daily", "permanent": true },
+    { "source": "/account", "destination": "/login", "permanent": true },
+    { "source": "/members", "destination": "/login", "permanent": true },
+    { "source": "/donate", "destination": "/give", "permanent": true },
+    { "source": "/support", "destination": "/give", "permanent": true },
+    { "source": "/podcast", "destination": "/listen", "permanent": true },
+    { "source": "/audio", "destination": "/listen", "permanent": true }
+  ]
+}
