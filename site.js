@@ -188,6 +188,11 @@ function applyLinks(cfg) {
       nav.appendChild(a);
     });
   });
+  document.querySelectorAll("[data-social]").forEach((el) => {
+    const id = el.getAttribute("data-social");
+    const match = (cfg.socials || []).find((s) => s.id === id);
+    if (match && match.href) el.setAttribute("href", match.href);
+  });
   const host = location.hostname;
   const onHub = host === "walksteadfast.com" || host === "www.walksteadfast.com";
   if (!onHub) return;
