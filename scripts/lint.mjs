@@ -76,7 +76,9 @@ const landing = {
   book: "https://walksteadfast.com/book",
   ebook: "https://walksteadfast.com/book",
   show: "https://walksteadfast.com/listen",
-  about: "https://walksteadfast.com/about"
+  about: "https://walksteadfast.com/about",
+  contact: "https://walksteadfast.com/contact",
+  home: "https://walksteadfast.com/"
 };
 for (const [key, href] of Object.entries(landing)) {
   if (!links.ctas || links.ctas[key] !== href) fail.push("cta " + key + " drifted");

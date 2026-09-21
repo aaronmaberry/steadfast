@@ -188,6 +188,24 @@ function applyLinks(cfg) {
       nav.appendChild(a);
     });
   });
+  const landings = [
+    ["home", "Home", "index.html"],
+    ["book", "Book", "book.html"],
+    ["training", "Training", "training.html"],
+    ["show", "Show", "listen.html"],
+    ["about", "About", "about.html"],
+    ["contact", "Contact", "contact.html"]
+  ];
+  document.querySelectorAll("[data-landing-links]").forEach((nav) => {
+    nav.replaceChildren();
+    landings.forEach((row) => {
+      const a = document.createElement("a");
+      a.setAttribute("data-cta", row[0]);
+      a.href = row[2];
+      a.textContent = row[1];
+      nav.appendChild(a);
+    });
+  });
   document.querySelectorAll("[data-social-links]").forEach((nav) => {
     nav.replaceChildren();
     if (cfg.hub) {
