@@ -134,7 +134,7 @@
       const n = resolved();
       const c = window.STEADFAST_CHECKOUT || {};
       let url = c.giveOnce;
-      if (cadence === "monthly") url = (c.giveMonthly && c.giveMonthly[n]) || c.giveMonthly[5];
+      if (cadence === "monthly") url = (c.giveMonthly && (c.giveMonthly[n] || c.giveMonthly[25])) || "";
       if (!url) return;
       location.href = url;
     });

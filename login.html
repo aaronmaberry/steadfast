@@ -56,7 +56,7 @@
   <script src="auth.js"></script>
   <script>
     const q = new URLSearchParams(location.search);
-    const next = q.get("next") || "program.html";
+    const next = safeNext(q.get("next"));
     if (SMAuth.session()) location.replace(next);
     document.getElementById("gate").addEventListener("submit", (e) => {
       e.preventDefault();
@@ -70,6 +70,14 @@
       }
       location.href = next;
     });
+    function safeNext(raw) {
+      const fallback = "program.html";
+      if (!raw) return fallback;
+      let value = raw;
+      try { value = decodeURIComponent(raw); } catch (e) { return fallback; }
+      if (!/^[a-z0-9-]+\.html(?:#[A-Za-z0-9-]+)?$/.test(value)) return fallback;
+      return value;
+    }
   </script>
 </body>
 </html>

@@ -87,7 +87,10 @@ function paintDevotion(root, d) {
   root.querySelectorAll("[data-devotion-silent-title]").forEach((el) => { el.textContent = d.silentTitle || d.title; });
   if (silentLine) silentLine.textContent = d.silentLine || "";
   if (d.imageURL) {
-    root.querySelectorAll("[data-devotion-img]").forEach((el) => { el.src = d.imageURL; });
+    root.querySelectorAll("[data-devotion-img]").forEach((el) => {
+      el.src = d.imageURL;
+      if (!el.getAttribute("alt")) el.alt = d.silentTitle || d.title || "Daily walk";
+    });
   }
   function fill(sel, text) {
     const box = root.querySelector(sel);
@@ -473,7 +476,14 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const toggle = document.querySelector(".nav-toggle");
   const links = document.querySelector(".nav-links");
-  if (toggle && links) toggle.addEventListener("click", () => links.classList.toggle("open"));
+  if (toggle && links) {
+    toggle.setAttribute("aria-expanded", "false");
+    toggle.addEventListener("click", () => {
+      const open = links.classList.toggle("open");
+      toggle.setAttribute("aria-expanded", open ? "true" : "false");
+      toggle.setAttribute("aria-label", open ? "Close menu" : "Open menu");
+    });
+  }
 
   document.querySelectorAll("main section, .rail-wrap, .hero-copy").forEach((el, i) => {
     el.classList.add("reveal");
@@ -524,6 +534,12 @@ document.addEventListener("DOMContentLoaded", () => {
     const q = field.value.toLowerCase();
     list.querySelectorAll("a").forEach((a) => {
       a.style.display = a.textContent.toLowerCase().includes(q) ? "" : "none";
+    });
+  });
+
+  document.querySelectorAll("a[href='#']").forEach((el) => {
+    el.addEventListener("click", (e) => {
+      if (el.getAttribute("href") === "#") e.preventDefault();
     });
   });
 
