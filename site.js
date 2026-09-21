@@ -194,8 +194,39 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
   let sheetScrollY = 0;
+  let sheetOpener = null;
+  document.querySelectorAll(".sheet").forEach((sheet) => {
+    document.documentElement.appendChild(sheet);
+  });
+  function fitSheet(sheet) {
+    const vv = window.visualViewport;
+    if (!vv) {
+      sheet.style.top = "";
+      sheet.style.left = "";
+      sheet.style.width = "";
+      sheet.style.height = "";
+      sheet.style.right = "";
+      sheet.style.bottom = "";
+      return;
+    }
+    sheet.style.top = vv.offsetTop + "px";
+    sheet.style.left = vv.offsetLeft + "px";
+    sheet.style.width = vv.width + "px";
+    sheet.style.height = vv.height + "px";
+    sheet.style.right = "auto";
+    sheet.style.bottom = "auto";
+  }
+  function onViewport() {
+    document.querySelectorAll(".sheet").forEach((sheet) => {
+      if (!sheet.hidden) fitSheet(sheet);
+    });
+  }
+  if (window.visualViewport) {
+    visualViewport.addEventListener("resize", onViewport);
+    visualViewport.addEventListener("scroll", onViewport);
+  }
   function lockPage() {
-    sheetScrollY = window.scrollY || 0;
+    sheetScrollY = window.scrollY || document.documentElement.scrollTop || 0;
     document.body.classList.add("sheet-open");
     document.body.style.top = "-" + sheetScrollY + "px";
     document.body.style.position = "fixed";
@@ -207,95 +238,183 @@ document.addEventListener("DOMContentLoaded", () => {
     document.body.style.position = "";
     document.body.style.top = "";
     document.body.style.width = "";
+    const root = document.documentElement;
+    const prev = root.style.scrollBehavior;
+    root.style.scrollBehavior = "auto";
     window.scrollTo(0, sheetScrollY);
+    root.style.scrollBehavior = prev;
   }
-  function closeSheets() {
+  function closeSheets(opts) {
     document.querySelectorAll(".sheet").forEach((el) => {
       el.hidden = true;
+      el.style.top = "";
+      el.style.left = "";
+      el.style.width = "";
+      el.style.height = "";
+      el.style.right = "";
+      el.style.bottom = "";
       const card = el.querySelector(".sheet-card");
       if (card) {
+        card._closeToken = null;
         card.style.transform = "";
         card.style.transition = "";
       }
     });
     unlockPage();
+    if (!opts || !opts.keepFocus) {
+      if (sheetOpener && typeof sheetOpener.focus === "function") {
+        sheetOpener.focus({ preventScroll: true });
+      }
+      sheetOpener = null;
+    }
   }
   document.querySelectorAll("[data-open-sheet]").forEach((btn) => {
     btn.addEventListener("click", () => {
       const id = "sheet-" + btn.getAttribute("data-open-sheet");
       const sheet = document.getElementById(id);
       if (!sheet) return;
-      closeSheets();
+      closeSheets({ keepFocus: true });
+      sheetOpener = btn;
       sheet.hidden = false;
       lockPage();
-      sheet.querySelector(".sheet-card")?.scrollTo(0, 0);
+      fitSheet(sheet);
+      const scroller = sheet.querySelector(".sheet-body");
+      if (scroller) {
+        scroller.scrollTop = 0;
+        scroller.style.touchAction = "none";
+      }
+      const closeBtn = sheet.querySelector("[data-close-sheet]");
+      closeBtn?.focus({ preventScroll: true });
     });
   });
   document.querySelectorAll("[data-close-sheet]").forEach((btn) => {
-    btn.addEventListener("click", closeSheets);
+    btn.addEventListener("click", () => closeSheets());
   });
   document.querySelectorAll(".sheet").forEach((sheet) => {
     const card = sheet.querySelector(".sheet-card");
-    sheet.addEventListener("click", (e) => { if (e.target === sheet) closeSheets(); });
-    if (!card) return;
-    let startY = 0, lastY = 0, lastT = 0, dragging = false, decided = false, dismissDrag = false;
+    const scroller = sheet.querySelector(".sheet-body") || card;
+    const handle = sheet.querySelector(".sheet-handle");
+    let suppressClick = false;
+    sheet.addEventListener("click", (e) => {
+      if (suppressClick) {
+        suppressClick = false;
+        return;
+      }
+      if (e.target === sheet) closeSheets();
+    });
+    sheet.addEventListener("keydown", (e) => {
+      if (e.key !== "Tab" || sheet.hidden) return;
+      const focusable = [...sheet.querySelectorAll("button, a[href], input, textarea, select")].filter((el) => !el.disabled);
+      if (!focusable.length) return;
+      const first = focusable[0];
+      const last = focusable[focusable.length - 1];
+      if (e.shiftKey && document.activeElement === first) {
+        e.preventDefault();
+        last.focus();
+      } else if (!e.shiftKey && document.activeElement === last) {
+        e.preventDefault();
+        first.focus();
+      }
+    });
+    if (!card || !scroller) return;
+    let drag = null;
+    function atTop() {
+      return scroller.scrollTop <= 1;
+    }
+    function syncTouchAction() {
+      if (drag) return;
+      scroller.style.touchAction = atTop() ? "none" : "pan-y";
+    }
+    scroller.addEventListener("scroll", syncTouchAction, { passive: true });
+    syncTouchAction();
     function resetCard() {
       card.style.transition = "transform .22s ease";
       card.style.transform = "translateY(0)";
+      drag = null;
+      syncTouchAction();
     }
-    function onStart(y) {
-      startY = lastY = y;
-      lastT = performance.now();
-      dragging = true;
-      decided = false;
-      dismissDrag = false;
+    function onPointerDown(e) {
+      if (drag) return;
+      if (e.pointerType === "mouse" && e.button !== 0) return;
+      if (e.target.closest("[data-close-sheet], a, input, textarea, select, label")) return;
+      const onHandle = !!(handle && (e.target === handle || handle.contains(e.target)));
+      drag = {
+        id: e.pointerId,
+        y0: e.clientY,
+        y: e.clientY,
+        t: performance.now(),
+        vel: 0,
+        mode: null,
+        handle: onHandle,
+        top: atTop(),
+        scroll0: scroller.scrollTop
+      };
       card.style.transition = "none";
+      if (drag.handle || drag.top) scroller.style.touchAction = "none";
     }
-    function onMove(y, ev) {
-      if (!dragging) return;
-      const dy = y - startY;
-      const atTop = card.scrollTop <= 1;
-      if (!decided) {
+    function onPointerMove(e) {
+      if (!drag || e.pointerId !== drag.id) return;
+      const y = e.clientY;
+      const now = performance.now();
+      const dt = Math.max(1, now - drag.t);
+      drag.vel = (y - drag.y) / dt;
+      drag.y = y;
+      drag.t = now;
+      const dy = y - drag.y0;
+      if (!drag.mode) {
         if (Math.abs(dy) < 8) return;
-        decided = true;
-        dismissDrag = atTop && dy > 0;
+        drag.mode = (drag.handle || drag.top) && dy > 0 ? "dismiss" : "content";
+        if (drag.mode === "dismiss") {
+          try { card.setPointerCapture(e.pointerId); } catch (err) {}
+        }
       }
-      if (!dismissDrag) return;
-      if (ev && ev.cancelable) ev.preventDefault();
-      lastY = y;
-      lastT = performance.now();
-      card.style.transform = "translateY(" + Math.max(0, dy) + "px)";
+      if (drag.mode === "dismiss") {
+        if (e.cancelable) e.preventDefault();
+        card.style.transform = "translateY(" + Math.max(0, dy) + "px)";
+        return;
+      }
+      if (drag.handle || drag.top) {
+        if (e.cancelable) e.preventDefault();
+        scroller.scrollTop = Math.max(0, drag.scroll0 - dy);
+      }
     }
-    function onEnd(y) {
-      if (!dragging) return;
-      dragging = false;
-      const dy = y - startY;
-      const dt = Math.max(16, performance.now() - lastT);
-      const vel = (y - lastY) / dt;
-      if (dismissDrag && (dy > 88 || vel > 0.65)) {
+    function onPointerEnd(e) {
+      if (!drag || (e && e.pointerId != null && e.pointerId !== drag.id)) return;
+      const dy = drag.y - drag.y0;
+      const closing = drag.mode === "dismiss" && (dy > 96 || (dy > 40 && drag.vel > 0.55));
+      if (Math.abs(dy) > 8) suppressClick = true;
+      drag = null;
+      syncTouchAction();
+      if (closing) {
         card.style.transition = "transform .2s ease";
         card.style.transform = "translateY(110%)";
-        setTimeout(closeSheets, 180);
+        const token = {};
+        card._closeToken = token;
+        window.setTimeout(() => {
+          if (card._closeToken !== token) return;
+          closeSheets();
+        }, 180);
       } else {
+        card._closeToken = null;
         resetCard();
       }
-      dismissDrag = false;
     }
-    sheet.addEventListener("touchstart", (e) => {
-      const t = e.changedTouches[0];
-      if (t) onStart(t.clientY);
-    }, { passive: true });
-    sheet.addEventListener("touchmove", (e) => {
-      const t = e.changedTouches[0];
-      if (t) onMove(t.clientY, e);
+    card.addEventListener("pointerdown", onPointerDown);
+    card.addEventListener("pointermove", onPointerMove);
+    card.addEventListener("pointerup", onPointerEnd);
+    card.addEventListener("pointercancel", onPointerEnd);
+    card.addEventListener("touchmove", (e) => {
+      if (!drag) return;
+      const own = drag.mode === "dismiss" || ((drag.handle || drag.top) && drag.mode !== "content");
+      if (own && e.cancelable) e.preventDefault();
     }, { passive: false });
-    sheet.addEventListener("touchend", (e) => {
-      const t = e.changedTouches[0];
-      if (t) onEnd(t.clientY);
+    scroller.addEventListener("touchstart", () => {
+      if (!drag && atTop()) scroller.style.touchAction = "none";
     }, { passive: true });
-    sheet.addEventListener("touchcancel", () => { dragging = false; resetCard(); });
   });
-  document.addEventListener("keydown", (e) => { if (e.key === "Escape") closeSheets(); });
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") closeSheets();
+  });
 
   const toggle = document.querySelector(".nav-toggle");
   const links = document.querySelector(".nav-links");

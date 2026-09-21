@@ -237,26 +237,30 @@
     </div>
     <div class="wrap tiny">© <span id="y"></span> Steadfast Men</div>
   </footer>
-  <div class="sheet" id="sheet-silent" hidden>
+  <div class="sheet" id="sheet-silent" hidden role="dialog" aria-modal="true" aria-labelledby="silent-sheet-title">
     <div class="sheet-card">
       <div class="sheet-handle" aria-hidden="true"></div>
-      <button class="sheet-x" type="button" data-close-sheet>✕</button>
-      <p class="k">Silent touch</p>
-      <h2 data-devotion-silent-title></h2>
-      <div data-devotion-silent></div>
-      <p class="k" style="margin-top:28px">Reflection</p>
-      <p data-devotion-reflection style="font-size:22px;line-height:1.4;color:var(--text)"></p>
+      <button class="sheet-x" type="button" data-close-sheet aria-label="Close">✕</button>
+      <div class="sheet-body">
+        <p class="k">Silent touch</p>
+        <h2 id="silent-sheet-title" data-devotion-silent-title></h2>
+        <div data-devotion-silent></div>
+        <p class="k" style="margin-top:28px">Reflection</p>
+        <p data-devotion-reflection style="font-size:22px;line-height:1.4;color:var(--text)"></p>
+      </div>
     </div>
   </div>
-  <div class="sheet" id="sheet-challenge" hidden>
+  <div class="sheet" id="sheet-challenge" hidden role="dialog" aria-modal="true" aria-labelledby="challenge-sheet-title">
     <div class="sheet-card">
       <div class="sheet-handle" aria-hidden="true"></div>
-      <button class="sheet-x" type="button" data-close-sheet>✕</button>
-      <p class="k">The table · Wes &amp; Jonathan</p>
-      <h2 data-devotion-title></h2>
-      <div data-devotion-challenge></div>
-      <p class="k" style="margin-top:28px">Guided prayer</p>
-      <div data-devotion-prayer></div>
+      <button class="sheet-x" type="button" data-close-sheet aria-label="Close">✕</button>
+      <div class="sheet-body">
+        <p class="k">The table · Wes &amp; Jonathan</p>
+        <h2 id="challenge-sheet-title" data-devotion-title></h2>
+        <div data-devotion-challenge></div>
+        <p class="k" style="margin-top:28px">Guided prayer</p>
+        <div data-devotion-prayer></div>
+      </div>
     </div>
   </div>
   <script src="site.js"></script>

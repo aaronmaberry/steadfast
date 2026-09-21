@@ -1129,9 +1129,10 @@ body.sheet-open {
   background: rgba(5,6,10,.72);
   backdrop-filter: blur(10px);
   display: flex;
-  align-items: flex-end;
+  align-items: center;
   justify-content: center;
-  padding: 12px 12px calc(12px + env(safe-area-inset-bottom, 0px));
+  padding: 20px 16px;
+  padding-bottom: max(20px, env(safe-area-inset-bottom, 0px));
   overflow: hidden;
   overscroll-behavior: none;
   touch-action: none;
@@ -1142,14 +1143,24 @@ body.sheet-open {
   background: #12141c;
   border: 1px solid var(--line);
   border-radius: 24px 24px 16px 16px;
-  padding: 18px 22px 36px;
+  padding: 18px 22px 28px;
   position: relative;
-  max-height: min(88vh, 920px);
+  max-height: min(84vh, 920px);
+  max-height: min(84dvh, 920px);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  touch-action: none;
+  will-change: transform;
+}
+.sheet-body {
   overflow-y: auto;
   -webkit-overflow-scrolling: touch;
   overscroll-behavior: contain;
   touch-action: pan-y;
-  will-change: transform;
+  min-height: 0;
+  max-height: calc(min(84vh, 920px) - 88px);
+  max-height: calc(min(84dvh, 920px) - 88px);
 }
 .sheet-handle {
   width: 42px;
@@ -1157,12 +1168,25 @@ body.sheet-open {
   border-radius: 99px;
   background: rgba(197, 208, 234, .35);
   margin: 2px auto 14px;
+  flex: 0 0 auto;
+  touch-action: none;
+  position: relative;
+  z-index: 2;
+}
+.sheet-handle::after {
+  content: "";
+  position: absolute;
+  left: -28px;
+  right: -28px;
+  top: -16px;
+  bottom: -10px;
 }
 .sheet-card h2 { font-size: 32px; margin: 8px 0 18px; letter-spacing: -.03em; }
 .sheet-x {
   position: absolute;
   top: 16px;
   right: 16px;
+  z-index: 3;
   width: 36px;
   height: 36px;
   border-radius: 50%;
