@@ -52,8 +52,18 @@ const expectedSocials = [
 ];
 const gotSocials = (links.socials || []).map((s) => s.href);
 if (gotSocials.join("|") !== expectedSocials.join("|")) fail.push("links.json socials drifted");
-for (const url of expectedSocials) {
-  if (!index.includes(url)) fail.push("index.html missing " + url);
+const liveUrls = ["https://walksteadfast.com", ...expectedSocials];
+for (const path of files.filter((p) => p.endsWith(".html"))) {
+  const text = readFileSync(path, "utf8");
+  const rel = path.slice(root.length);
+  if (!text.includes("data-social-links")) fail.push(rel + " has no shared live-link list");
+  for (const url of liveUrls) {
+    if (!text.includes(url)) fail.push(rel + " missing " + url);
+  }
+}
+if (!index.includes("data-social-links")) fail.push("index.html companion list is not bound to links.json");
+if (!readFileSync(join(root, "about.html"), "utf8").includes("data-social-links")) {
+  fail.push("about.html has no shared live-link list");
 }
 for (const url of ["img/logo-lockup.png", "img/mark.png", "https://www.walksteadfast.com/img/og-banner.jpg"]) {
   if (!index.includes(url)) fail.push("index.html missing " + url);
@@ -61,6 +71,16 @@ for (const url of ["img/logo-lockup.png", "img/mark.png", "https://www.walkstead
 if (!index.includes("data-social-dock")) fail.push("index.html social dock is not bound to links.json");
 const htmlFiles = files.filter((p) => p.endsWith(".html")).map((p) => readFileSync(p, "utf8")).join("\n");
 if (/linkedin\.com|reddit\.com/i.test(htmlFiles + JSON.stringify(links))) fail.push("parked profile linked");
+const landing = {
+  training: "https://walksteadfast.com/training",
+  book: "https://walksteadfast.com/book",
+  ebook: "https://walksteadfast.com/book",
+  show: "https://walksteadfast.com/listen",
+  about: "https://walksteadfast.com/about"
+};
+for (const [key, href] of Object.entries(landing)) {
+  if (!links.ctas || links.ctas[key] !== href) fail.push("cta " + key + " drifted");
+}
 for (const [key, href] of Object.entries(links.ctas || {})) {
   const path = new URL(href).pathname.replace(/\/$/, "") || "/";
   if (!href.startsWith("https://walksteadfast.com")) fail.push("cta " + key + " is not on the hub");

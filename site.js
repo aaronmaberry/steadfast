@@ -188,6 +188,23 @@ function applyLinks(cfg) {
       nav.appendChild(a);
     });
   });
+  document.querySelectorAll("[data-social-links]").forEach((nav) => {
+    nav.replaceChildren();
+    if (cfg.hub) {
+      const hub = document.createElement("a");
+      hub.href = cfg.hub;
+      hub.textContent = "Hub";
+      nav.appendChild(hub);
+    }
+    (cfg.socials || []).forEach((s) => {
+      const a = document.createElement("a");
+      a.href = s.href;
+      a.textContent = s.label || s.id;
+      a.rel = "noopener";
+      a.target = "_blank";
+      nav.appendChild(a);
+    });
+  });
   document.querySelectorAll("[data-social]").forEach((el) => {
     const id = el.getAttribute("data-social");
     const match = (cfg.socials || []).find((s) => s.id === id);

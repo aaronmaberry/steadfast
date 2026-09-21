@@ -14,6 +14,7 @@
   ],
   "ctas": {
     "training": "https://walksteadfast.com/training",
+    "book": "https://walksteadfast.com/book",
     "ebook": "https://walksteadfast.com/book",
     "shop": "https://walksteadfast.com/shop",
     "start": "https://walksteadfast.com/start",
@@ -22,6 +23,7 @@
     "groups": "https://walksteadfast.com/groups",
     "give": "https://walksteadfast.com/give",
     "about": "https://walksteadfast.com/about",
+    "show": "https://walksteadfast.com/listen",
     "home": "https://walksteadfast.com/"
   }
 }

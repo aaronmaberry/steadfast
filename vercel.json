@@ -75,6 +75,7 @@
     { "source": "/members", "destination": "/login", "permanent": true },
     { "source": "/donate", "destination": "/give", "permanent": true },
     { "source": "/support", "destination": "/give", "permanent": true },
+    { "source": "/show", "destination": "/listen", "permanent": true },
     { "source": "/podcast", "destination": "/listen", "permanent": true },
     { "source": "/audio", "destination": "/listen", "permanent": true }
   ]
