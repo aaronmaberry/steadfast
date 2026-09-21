@@ -5,6 +5,7 @@
   --surface-2: #18181f;
   --text: #f4f4f5;
   --muted: #a1a1aa;
+  --daily-mute: #c8c8d0;
   --faint: #71717a;
   --line: rgba(255, 255, 255, 0.08);
   --line-strong: rgba(255, 255, 255, 0.14);
@@ -553,7 +554,7 @@ section { padding: 112px 0; position: relative; }
 }
 .daily-home .verse-ref {
   margin: 8px 0 0;
-  color: var(--muted);
+  color: var(--daily-mute);
   font: 500 12px/1.2 Geist, sans-serif;
 }
 .daily-home .acts {
@@ -566,7 +567,7 @@ section { padding: 112px 0; position: relative; }
   background: none;
   border: 0;
   padding: 0;
-  color: var(--muted);
+  color: var(--daily-mute);
   font: 500 12px/1 Geist, sans-serif;
   cursor: pointer;
 }
@@ -580,10 +581,10 @@ section { padding: 112px 0; position: relative; }
   font-size: 22px;
   font-family: var(--serif);
 }
-.daily-cell small { color: var(--muted); font-size: 15px; line-height: 1.45; }
-.tile-fill {
+.daily-home .daily-cell small { color: var(--daily-mute); font-size: 15px; line-height: 1.45; }
+.daily-home .tile-fill {
   margin: 12px 0 0;
-  color: var(--muted);
+  color: var(--daily-mute);
   font-size: 15px;
   line-height: 1.5;
 }
