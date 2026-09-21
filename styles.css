@@ -1194,6 +1194,13 @@ body.sheet-open {
   top: -16px;
   bottom: -10px;
 }
+/* Sheets are moved onto <html> in site.js, outside body, so they must set their own text color. */
+.sheet,
+.sheet-card { color: var(--text); }
+.sheet-card h1,
+.sheet-card h2,
+.sheet-card h3 { color: var(--text); }
+.sheet .k { color: var(--accent); }
 .sheet-card h2 { font-size: 32px; margin: 8px 0 18px; letter-spacing: -.03em; }
 .sheet-x {
   position: absolute;
