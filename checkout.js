@@ -1,4 +1,6 @@
+/* Unarmed. Test payment links stay in the file for Aaron. Public pages must not send a man to them. */
 window.STEADFAST_CHECKOUT = {
+  armed: false,
   mode: "test",
   training: "https://buy.stripe.com/test_28EaEQ8AI10F5BCgJtdnW00",
   ebook: "https://buy.stripe.com/test_8x2bIUeZ67p36FGgJtdnW01",
@@ -12,8 +14,6 @@ window.STEADFAST_CHECKOUT = {
     100: "https://donate.stripe.com/test_8x28wI6sAdNr7JK3WHdnW08"
   }
 };
-window.steadfastPay = function (sku) {
-  const c = window.STEADFAST_CHECKOUT || {};
-  const url = c[sku];
-  if (url) location.href = url;
+window.steadfastPay = function () {
+  return false;
 };

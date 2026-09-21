@@ -1,0 +1,8 @@
+{
+  "name": "steadfast",
+  "private": true,
+  "scripts": {
+    "lint": "node scripts/lint.mjs",
+    "build": "node scripts/build.mjs"
+  }
+}
