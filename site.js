@@ -100,7 +100,7 @@ function paintDevotion(root, d) {
       const p = document.createElement("p");
       p.textContent = part;
       p.style.margin = "0 0 14px";
-      p.style.color = "var(--muted)";
+      p.style.color = "var(--daily-mute)";
       box.appendChild(p);
     });
   }
@@ -114,14 +114,14 @@ function paintDevotion(root, d) {
     const first = String(d.carryBody || "").split(/\n\n+/)[0].trim();
     tease.textContent = first
       ? first.slice(0, 180) + (first.length > 180 ? "…" : "")
-      : "Table talk on the act for today, then a guided prayer. Open the tile for the whole thing.";
+      : "The act for today, then a guided prayer. Open the tile for the whole thing.";
   }
   const st = root.querySelector("[data-devotion-silent-tease]");
   if (st) {
     const first = String(d.silentBody || d.body || "").split(/\n\n+/)[0].trim();
     st.textContent = first
       ? first.slice(0, 180) + (first.length > 180 ? "…" : "")
-      : "The full walk is behind this tile. Tap to read it.";
+      : "The passage, put in your house, then a reflection. Tap to read it.";
   }
 }
 
@@ -242,11 +242,15 @@ document.addEventListener("DOMContentLoaded", () => {
     share.addEventListener("click", async () => {
       const url = new URL("daily.html", location.href).href;
       if (navigator.share) {
-        try { await navigator.share({ title: "Steadfast Daily Walk", url }); } catch (e) {}
+        try {
+          await navigator.share({ title: "Steadfast Daily Walk", url });
+          share.classList.add("on");
+        } catch (e) {}
       } else {
         try {
           await navigator.clipboard.writeText(url);
           share.textContent = "Copied";
+          share.classList.add("on");
         } catch (e) {}
       }
     });
