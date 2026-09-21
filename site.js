@@ -1,62 +1,62 @@
 const devotionals = [
   {
     title: "Stand still before you stride",
-    verse: "'Be watchful, stand firm in the faith, act like men, be strong. Let all that you do be done in love.', 1 Corinthians 16:13-14",
-    body: "A steadfast man does not confuse motion with obedience. Before the meeting, the commute, the argument you already rehearsed, stand. Watch. Then walk."
+    verse: "“Be watchful, stand firm in the faith, act like men, be strong. Let all that you do be done in love.” — 1 Corinthians 16:13–14",
+    body: "A steadfast man does not confuse motion with obedience. Before the meeting, the commute, the argument you already rehearsed — stand. Watch. Then walk."
   },
   {
     title: "Reject the quiet drift",
-    verse: "'Therefore we must pay much closer attention to what we have heard, lest we drift away from it.', Hebrews 2:1",
+    verse: "“Therefore we must pay much closer attention to what we have heard, lest we drift away from it.” — Hebrews 2:1",
     body: "Most men do not fall in a crash. They ease off the oars. Today, name one place you have gone passive and put your hand back on the work."
   },
   {
     title: "Carry what is yours",
-    verse: "'But if anyone does not provide for his relatives, and especially for members of his household, he has denied the faith.', 1 Timothy 5:8",
+    verse: "“But if anyone does not provide for his relatives, and especially for members of his household, he has denied the faith.” — 1 Timothy 5:8",
     body: "Responsibility is not a vibe. It is a name on a bill, a child who needs a father in the room, a word you said you would keep. Pick it up."
   },
   {
     title: "Lead from the front of the table",
-    verse: "'Be strong and courageous. Do not be frightened, and do not be dismayed, for the Lord your God is with you wherever you go.', Joshua 1:9",
+    verse: "“Be strong and courageous. Do not be frightened, and do not be dismayed, for the Lord your God is with you wherever you go.” — Joshua 1:9",
     body: "Courage is rarely a battlefield. It is the first apology. The first prayer at dinner. The first no that protects your house."
   },
   {
     title: "Work for a better country",
-    verse: "'For he was looking forward to the city that has foundations, whose designer and builder is God.', Hebrews 11:10",
+    verse: "“For he was looking forward to the city that has foundations, whose designer and builder is God.” — Hebrews 11:10",
     body: "If the only reward you are building toward is comfort, you will fold when comfort is threatened. Lift your eyes. The greater reward holds when payday does not."
   },
   {
     title: "A soft answer is not a soft man",
-    verse: "'A gentle answer turns away wrath, but a harsh word stirs up anger.', Proverbs 15:1",
+    verse: "“A gentle answer turns away wrath, but a harsh word stirs up anger.” — Proverbs 15:1",
     body: "Steadfast is not loud. Strength that cannot be quiet is just ungoverned heat. Practice one gentle sentence in the hardest room of your day."
   },
   {
     title: "Finish the small obedience",
-    verse: "'His master said to him, 'Well done, good and faithful servant.'', Matthew 25:21",
-    body: "You do not become a steadfast man by intending a better decade. You become one by completing this morning's assignment. Close the loop."
+    verse: "“His master said to him, ‘Well done, good and faithful servant.’” — Matthew 25:21",
+    body: "You do not become a steadfast man by intending a better decade. You become one by completing this morning’s assignment. Close the loop."
   },
   {
     title: "Put your house in order",
-    verse: "'Set your house in order, for you shall die; you shall not recover.', Isaiah 38:1",
+    verse: "“Set your house in order, for you shall die; you shall not recover.” — Isaiah 38:1",
     body: "Mortality makes a man honest. What would your son inherit tonight besides unfinished sentences? Write one thing down and finish it."
   },
   {
     title: "Love is a decision with a spine",
-    verse: "'Husbands, love your wives, as Christ loved the church and gave himself up for her.', Ephesians 5:25",
+    verse: "“Husbands, love your wives, as Christ loved the church and gave himself up for her.” — Ephesians 5:25",
     body: "Affection is easy when she is easy. Covenant shows up when the room is cold. Give yourself up in one concrete way before noon."
   },
   {
     title: "Do not despise the small start",
-    verse: "'For whoever has despised the day of small things shall rejoice.', Zechariah 4:10",
+    verse: "“For whoever has despised the day of small things shall rejoice.” — Zechariah 4:10",
     body: "Twenty-four weeks looks long until you have done week one. Open the passage. Do the act. Tomorrow can have tomorrow."
   },
   {
     title: "Watch your mouth in your own house",
-    verse: "'Let no corrupting talk come out of your mouths, but only such as is good for building up.', Ephesians 4:29",
+    verse: "“Let no corrupting talk come out of your mouths, but only such as is good for building up.” — Ephesians 4:29",
     body: "The men you are raising will speak like the man they heard at dinner. Bless or rot. There is no third use of the tongue."
   },
   {
     title: "Work as if the Lord is the board",
-    verse: "'Whatever you do, work heartily, as for the Lord and not for men.', Colossians 3:23",
+    verse: "“Whatever you do, work heartily, as for the Lord and not for men.” — Colossians 3:23",
     body: "Half-done work is passivity in a collar. Finish the job in front of you as worship, not as a performance for a manager."
   }
 ];
@@ -73,8 +73,8 @@ function paintDevotion(root, d) {
   if (kicker) kicker.textContent = date.toLocaleDateString("en-US", { weekday: "long", month: "long", day: "numeric" });
   root.querySelectorAll("[data-devotion-title]").forEach((el) => { el.textContent = d.carryTitle || d.title; });
   if (verse) {
-    let plain = String(d.verse || "").replace(/['']/g, '"').trim();
-    plain = plain.replace(/^"+|"+$/g, "").split(", ")[0].replace(/\s*\([^)]*NIV\)\s*$/, "").trim();
+    let plain = String(d.verse || "").replace(/[“”]/g, '"').trim();
+    plain = plain.replace(/^"+|"+$/g, "").split(" — ")[0].replace(/\s*\([^)]*NIV\)\s*$/, "").trim();
     const ref = String(d.verseRef || "").replace(/\s*NIV\s*$/i, "").trim();
     verse.textContent = plain;
     const n = plain.length;
@@ -110,14 +110,14 @@ function paintDevotion(root, d) {
   if (tease) {
     const first = String(d.carryBody || "").split(/\n\n+/)[0].trim();
     tease.textContent = first
-      ? first.slice(0, 180) + (first.length > 180 ? "..." : "")
+      ? first.slice(0, 180) + (first.length > 180 ? "…" : "")
       : "Table talk on the act for today, then a guided prayer. Open the tile for the whole thing.";
   }
   const st = root.querySelector("[data-devotion-silent-tease]");
   if (st) {
     const first = String(d.silentBody || d.body || "").split(/\n\n+/)[0].trim();
     st.textContent = first
-      ? first.slice(0, 180) + (first.length > 180 ? "..." : "")
+      ? first.slice(0, 180) + (first.length > 180 ? "…" : "")
       : "The full walk is behind this tile. Tap to read it.";
   }
 }
@@ -164,88 +164,7 @@ function renderAllDevotions() {
     });
 }
 
-const SOCIAL_ICON = {
-  youtube: '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M23.5 6.2a3 3 0 0 0-2.1-2.2C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.4A3 3 0 0 0 .5 6.2 31.5 31.5 0 0 0 0 12a31.5 31.5 0 0 0 .5 5.8 3 3 0 0 0 2.1 2.2c1.9.4 9.4.4 9.4.4s7.5 0 9.4-.4a3 3 0 0 0 2.1-2.2A31.5 31.5 0 0 0 24 12a31.5 31.5 0 0 0-.5-5.8zM9.8 15.6V8.4L15.8 12z"/></svg>',
-  instagram: '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M7 2h10a5 5 0 0 1 5 5v10a5 5 0 0 1-5 5H7a5 5 0 0 1-5-5V7a5 5 0 0 1 5-5zm10 2H7a3 3 0 0 0-3 3v10a3 3 0 0 0 3 3h10a3 3 0 0 0 3-3V7a3 3 0 0 0-3-3zm-5 3.5A4.5 4.5 0 1 1 7.5 12 4.5 4.5 0 0 1 12 7.5zm0 2A2.5 2.5 0 1 0 14.5 12 2.5 2.5 0 0 0 12 9.5zM17.8 6.2a1.1 1.1 0 1 1-1.1 1.1 1.1 1.1 0 0 1 1.1-1.1z"/></svg>',
-  x: '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M18.9 2H22l-6.8 7.8L23 22h-7.2l-5-6.6L5.2 22H2l7.3-8.4L1 2h7.4l4.6 6.1zm-1.3 18h2L6.5 3.9H4.3z"/></svg>',
-  facebook: '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M14 9h3V6h-3c-2.2 0-4 1.8-4 4v2H8v3h2v7h3v-7h2.6l.4-3H13v-2c0-.6.4-1 1-1z"/></svg>',
-  tiktok: '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M14.2 3c.4 2.6 1.8 4.3 4.3 4.6v2.6c-1.5 0-2.9-.5-4.2-1.4v6.6A6.4 6.4 0 1 1 8.8 9v2.7a3.8 3.8 0 1 0 2.7 3.6V3z"/></svg>'
-};
-
-function applyLinks(cfg) {
-  if (!cfg) return;
-  document.querySelectorAll("[data-social-dock]").forEach((nav) => {
-    nav.replaceChildren();
-    (cfg.socials || []).forEach((s) => {
-      const a = document.createElement("a");
-      a.className = "soc";
-      a.href = s.href;
-      a.rel = "noopener";
-      a.target = "_blank";
-      a.setAttribute("aria-label", s.label);
-      a.title = s.label;
-      a.innerHTML = SOCIAL_ICON[s.id] || "";
-      nav.appendChild(a);
-    });
-  });
-  const landings = [
-    ["home", "Home", "index.html"],
-    ["book", "Book", "book.html"],
-    ["training", "Training", "training.html"],
-    ["show", "Show", "listen.html"],
-    ["about", "About", "about.html"],
-    ["contact", "Contact", "contact.html"]
-  ];
-  document.querySelectorAll("[data-landing-links]").forEach((nav) => {
-    nav.replaceChildren();
-    landings.forEach((row) => {
-      const a = document.createElement("a");
-      a.setAttribute("data-cta", row[0]);
-      a.href = row[2];
-      a.textContent = row[1];
-      nav.appendChild(a);
-    });
-  });
-  document.querySelectorAll("[data-social-links]").forEach((nav) => {
-    nav.replaceChildren();
-    if (cfg.hub) {
-      const hub = document.createElement("a");
-      hub.href = cfg.hub;
-      hub.textContent = "Hub";
-      nav.appendChild(hub);
-    }
-    (cfg.socials || []).forEach((s) => {
-      const a = document.createElement("a");
-      a.href = s.href;
-      a.textContent = s.label || s.id;
-      a.rel = "noopener";
-      a.target = "_blank";
-      nav.appendChild(a);
-    });
-  });
-  document.querySelectorAll("[data-social]").forEach((el) => {
-    const id = el.getAttribute("data-social");
-    const match = (cfg.socials || []).find((s) => s.id === id);
-    if (match && match.href) el.setAttribute("href", match.href);
-  });
-  const host = location.hostname;
-  const onHub = host === "walksteadfast.com" || host === "www.walksteadfast.com";
-  if (!onHub) return;
-  document.querySelectorAll("[data-cta]").forEach((el) => {
-    const href = cfg.ctas && cfg.ctas[el.getAttribute("data-cta")];
-    if (href) el.setAttribute("href", href);
-  });
-}
-
-function renderLinks() {
-  fetch("app/links.json", { cache: "no-store" })
-    .then((r) => (r.ok ? r.json() : Promise.reject()))
-    .then(applyLinks)
-    .catch(() => {});
-}
-
 document.addEventListener("DOMContentLoaded", () => {
-  renderLinks();
   renderAllDevotions();
   const here = document.getElementById("was-here");
   if (here) {
@@ -380,21 +299,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const toggle = document.querySelector(".nav-toggle");
   const links = document.querySelector(".nav-links");
-  if (toggle && links) {
-    toggle.setAttribute("aria-expanded", "false");
-    toggle.addEventListener("click", () => {
-      const open = links.classList.toggle("open");
-      toggle.setAttribute("aria-expanded", open ? "true" : "false");
-      toggle.setAttribute("aria-label", open ? "Close menu" : "Open menu");
-    });
-    links.querySelectorAll("a").forEach((a) => {
-      a.addEventListener("click", () => {
-        links.classList.remove("open");
-        toggle.setAttribute("aria-expanded", "false");
-        toggle.setAttribute("aria-label", "Open menu");
-      });
-    });
-  }
+  if (toggle && links) toggle.addEventListener("click", () => links.classList.toggle("open"));
 
   document.querySelectorAll("main section, .rail-wrap, .hero-copy").forEach((el, i) => {
     el.classList.add("reveal");
@@ -417,7 +322,7 @@ document.addEventListener("DOMContentLoaded", () => {
   ];
   const cmd = document.createElement("div");
   cmd.className = "cmd";
-  cmd.innerHTML = '<div class="cmd-box"><input placeholder="Go to..." aria-label="Jump"><div data-cmd-list></div></div>';
+  cmd.innerHTML = '<div class="cmd-box"><input placeholder="Go to…" aria-label="Jump"><div data-cmd-list></div></div>';
   document.body.appendChild(cmd);
   const list = cmd.querySelector("[data-cmd-list]");
   const field = cmd.querySelector("input");
@@ -448,17 +353,31 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   });
 
+  document.querySelectorAll("[data-store]").forEach((el) => {
+    if (!el.getAttribute("href") || el.getAttribute("href") === "#") {
+      el.addEventListener("click", (e) => {
+        e.preventDefault();
+        alert("Paste the live store URL in the slot under this button when Apple or Google issues it.");
+      });
+    }
+  });
+
+  document.querySelectorAll("[data-social]").forEach((el) => {
+    if (!el.getAttribute("href") || el.getAttribute("href") === "#") {
+      el.addEventListener("click", (e) => {
+        e.preventDefault();
+        el.classList.add("awaiting");
+        const label = el.getAttribute("aria-label") || "this channel";
+        alert("Drop your " + label + " URL here when the channel is live. The button is already wired.");
+      });
+    }
+  });
+
   const form = document.querySelector("[data-start-form]");
   if (form) {
     form.addEventListener("submit", (e) => {
       e.preventDefault();
-      const data = new FormData(form);
-      const name = data.get("name") || "";
-      const offer = data.get("offer") || "the path";
-      const email = data.get("email") || "";
-      const body = "Name: " + name + "\nEmail: " + email + "\nProduct: " + offer;
-      form.innerHTML = "<p class='lede'>Received. This form does not charge a card. Your mail app should open to hello@walksteadfast.com with the same note.</p>";
-      location.href = "mailto:hello@walksteadfast.com?subject=" + encodeURIComponent("Steadfast Men, " + offer) + "&body=" + encodeURIComponent(body);
+      form.innerHTML = "<p class='lede'>Received. When Stripe is connected, this becomes checkout. For now we have your name and the path you chose.</p>";
     });
   }
 

@@ -3,20 +3,19 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Begin, Steadfast Men</title>
+  <title>Begin — Steadfast Men</title>
   <meta name="description" content="Training $79. Ebook $14. Bundle $89. Paperback on request. Daily walk free. Groups for churches.">
   <link rel="canonical" href="https://www.walksteadfast.com/start">
-  <link rel="icon" href="img/mark.png" type="image/png">
-  <link rel="apple-touch-icon" href="img/mark.png">
+  <link rel="icon" href="img/logo-lockup.jpg">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400;1,500&family=Libre+Franklin:ital,wght@0,400;0,500;0,600;1,400&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,500;1,600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header class="nav">
     <div class="wrap nav-inner">
-      <a class="brand" href="index.html"><img src="img/logo-lockup.png" alt="Steadfast Men"></a>
+      <a class="brand" href="index.html"><img src="img/logo-lockup.jpg" alt="Steadfast Men"></a>
       <button class="nav-toggle" aria-label="Open menu">☰</button>
             <ul class="nav-links">
         <li><a href="training.html">Training</a></li>
@@ -33,18 +32,18 @@
     <div class="wrap">
       <p class="eyebrow">Begin</p>
       <h1>Choose the product. Then walk.</h1>
-      <p>Pick the work. The form below does not charge a card. We write back from hello@walksteadfast.com.</p>
+      <p>Every paid door hits this page until Stripe (or Kajabi, Teachable, Gumroad) is live. Swap the button hrefs. Do not leave a man without a next step.</p>
     </div>
   </div>
 
   <section>
     <div class="wrap shop">
       <article>
-        <img src="img/road.jpg" alt="Steadfast Men">
+        <img src="img/road.jpg" alt="">
         <div class="card-body">
           <h3>Training</h3>
           <p class="price">$79</p>
-          <a class="btn btn-gold" href="#form" data-pick="training">Training, $79</a>
+          <a class="btn btn-ink" href="https://buy.stripe.com/test_28EaEQ8AI10F5BCgJtdnW00">Buy training — test</a>
         </div>
       </article>
       <article>
@@ -52,15 +51,15 @@
         <div class="card-body">
           <h3>Ebook</h3>
           <p class="price">$14</p>
-          <a class="btn btn-gold" href="#form" data-pick="ebook">Ebook, $14</a>
+          <a class="btn btn-line" href="https://buy.stripe.com/test_8x2bIUeZ67p36FGgJtdnW01">Buy ebook — test</a>
         </div>
       </article>
       <article>
-        <img src="img/cloth-wh.jpg" alt="Steadfast Men">
+        <img src="img/cloth-wh.jpg" alt="">
         <div class="card-body">
           <h3>Bundle</h3>
           <p class="price">$89</p>
-          <a class="btn btn-line" href="start.html?offer=bundle">Continue to the bundle</a>
+          <a class="btn btn-line" href="https://buy.stripe.com/test_14A14g8AI8t79RSfFpdnW02">Buy bundle — test</a>
         </div>
       </article>
       <article>
@@ -68,23 +67,29 @@
         <div class="card-body">
           <h3>Paperback</h3>
           <p class="price">Request</p>
-          <a class="btn btn-line" href="#form" data-pick="paperback">Request print</a>
+          <a class="btn btn-line" href="#form" data-pick="paperback">Select print</a>
+          <!-- SLOT amazon-kdp -->
+          <p class="slot">Later: paste Amazon / printer URL.</p>
         </div>
       </article>
       <article>
-        <img src="img/mug-wh.jpg" alt="Steadfast Men">
+        <img src="img/mug-wh.jpg" alt="">
         <div class="card-body">
           <h3>Daily walk</h3>
           <p class="price">Free</p>
           <a class="btn btn-line" href="daily.html">Open today</a>
+          <!-- SLOT devotion-cms -->
+          <p class="slot">Later: paste Substack / list / CMS.</p>
         </div>
       </article>
       <article>
-        <img src="img/chapel.jpg" alt="Steadfast Men">
+        <img src="img/chapel.jpg" alt="">
         <div class="card-body">
           <h3>Groups</h3>
           <p class="price">Ask</p>
-          <a class="btn btn-line" href="groups.html">Groups</a>
+          <a class="btn btn-line" href="groups.html">Churches &amp; crews</a>
+          <!-- SLOT group-kit -->
+          <p class="slot">Later: paste leader guide and group price.</p>
         </div>
       </article>
     </div>
@@ -111,35 +116,18 @@
         <input id="name" name="name" required>
         <label for="email">Email</label>
         <input id="email" name="email" type="email" required>
-        <button class="btn btn-gold" type="submit">Send the note</button>
-        <p class="tiny" style="color:var(--muted)">No card is charged. Your mail app opens to hello@walksteadfast.com.</p>
+        <!-- SLOT: form action becomes Stripe or Formspree -->
+        <button class="btn btn-ink" type="submit">Continue</button>
+        <p class="tiny" style="color:var(--muted)">No charge on this preview. Wire payment and this is checkout.</p>
       </form>
       <div>
-        <p class="eyebrow">The show</p>
-        <h2>YouTube is live.</h2>
-        <p class="lede" style="margin:12px 0 20px">The weekly show is on YouTube. Instagram, X, Facebook, and TikTok are live. Reddit and LinkedIn stay off until they are.</p>
-        <a class="btn btn-ghost" data-social="youtube" href="https://youtube.com/@steadfastwalk" rel="noopener">Open YouTube</a>
+        <p class="eyebrow">Coming — leave the URLs</p>
+        <h2>The table.</h2>
+        <p class="lede" style="margin:12px 0 20px">YouTube, Shorts, Reels, Spotify, Apple Podcasts. Hidden until you paste a real href.</p>
+        <p class="slot" style="margin-top:16px">Replace each href="#" with the live channel. Until then the click tells you the slot is wired.</p>
       </div>
     </div>
   </section>
-    <footer>
-    <nav class="live-links landing-links" data-landing-links aria-label="Landings">
-      <a data-cta="home" href="index.html">Home</a>
-      <a data-cta="book" href="book.html">Book</a>
-      <a data-cta="training" href="training.html">Training</a>
-      <a data-cta="show" href="listen.html">Show</a>
-      <a data-cta="about" href="about.html">About</a>
-      <a data-cta="contact" href="contact.html">Contact</a>
-    </nav>
-    <nav class="live-links" data-social-links aria-label="Live profiles">
-      <a href="https://walksteadfast.com">Hub</a>
-      <a href="https://youtube.com/@steadfastwalk" rel="noopener">YouTube</a>
-      <a href="https://instagram.com/steadfastwalk" rel="noopener">Instagram</a>
-      <a href="https://x.com/steadfastwalk" rel="noopener">X</a>
-      <a href="https://facebook.com/steadfastwalk" rel="noopener">Facebook</a>
-      <a href="https://tiktok.com/@steadfastwalk" rel="noopener">TikTok</a>
-    </nav>
-  </footer>
   <script src="site.js"></script>
   <script>
     const sel = document.getElementById("offer");

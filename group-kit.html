@@ -3,28 +3,27 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Group kit, Steadfast Men</title>
+  <title>Group kit — Steadfast Men</title>
   <meta name="description" content="Leader scripts for the 24-week path, plus bulk hardcover, paperback, and printable workbooks.">
   <meta name="robots" content="noindex">
   <link rel="canonical" href="https://www.walksteadfast.com/group-kit">
-  <link rel="icon" href="img/mark.png" type="image/png">
-  <link rel="apple-touch-icon" href="img/mark.png">
+  <link rel="icon" href="img/logo-lockup.jpg">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400;1,500&family=Libre+Franklin:ital,wght@0,400;0,500;0,600;1,400&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,500;1,600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header class="nav">
     <div class="wrap nav-inner">
-      <a class="brand" href="index.html"><img src="img/logo-lockup.png" alt="Steadfast Men"></a>
+      <a class="brand" href="index.html"><img src="img/logo-lockup.jpg" alt="Steadfast Men"></a>
       <button class="nav-toggle" aria-label="Open menu">☰</button>
       <ul class="nav-links">
         <li><a href="program.html">Path</a></li>
         <li><a href="group-kit.html" aria-current="page">Group kit</a></li>
         <li><a href="groups.html">Groups</a></li>
         <li><a href="give.html">Support</a></li>
-        <li><a href="login.html">Login</a></li>
+        <li><a href="login.html" id="logout">Sign out</a></li>
         <li><a class="nav-cta" href="start.html">Begin</a></li>
       </ul>
     </div>
@@ -34,7 +33,7 @@
     <div class="wrap">
       <p class="eyebrow">Churches · tables · crews</p>
       <h1>Scripts. Seats. Paper.</h1>
-      <p>If a pastor or table leader will deliver the week in his own voice, the scripts live here. Bulk hardcover, paperback, and the full 24-week printable workbook are the paper that goes in a man's hand, discounted when you buy for a room, not a nightstand.</p>
+      <p>If a pastor or table leader will deliver the week in his own voice, the scripts live here. Bulk hardcover, paperback, and the full 24-week printable workbook are the paper that goes in a man’s hand — discounted when you buy for a room, not a nightstand.</p>
     </div>
   </div>
 
@@ -42,17 +41,25 @@
     <div class="wrap">
       <p class="eyebrow">Curriculum scripts</p>
       <h2 style="margin:8px 0 16px">Same 24 weeks. His voice up front.</h2>
-      <p class="lede" style="margin-bottom:28px">Scripts are not posted yet. The week titles below are the charge. A room still runs from Groups.</p>
+      <p class="lede" style="margin-bottom:28px">Download the full talk-track pack, or take one week. The workbook still runs discussion after he sits down.</p>
       <div class="lib-row" style="margin-bottom:28px">
         <article class="lib-card">
           <p class="eyebrow">All 24</p>
           <h3>Full script pack</h3>
           <p class="lede">One file. Every lecture track.</p>
+          <div class="file-row">
+            <a class="btn btn-gold" href="#" data-file="scripts-all">Download all scripts</a>
+          </div>
+          <input type="file" accept=".pdf,.zip,.docx" aria-label="Full scripts" style="margin-top:12px">
         </article>
         <article class="lib-card">
           <p class="eyebrow">Pages</p>
           <h3>Full workbook printout</h3>
           <p class="lede">24 weeks, print-ready PDF for every man in the room.</p>
+          <div class="file-row">
+            <a class="btn btn-ghost" href="#" data-file="workbook-all">Download workbook</a>
+          </div>
+          <input type="file" accept=".pdf" aria-label="Full workbook" style="margin-top:12px">
         </article>
         <article class="lib-card">
           <p class="eyebrow">How</p>
@@ -126,33 +133,16 @@
           <option value="hardcover">Bulk hardcover</option>
           <option value="paperback">Bulk paperback</option>
           <option value="workbook">Printed workbooks</option>
-          <option value="mix">Mix, we will reply</option>
+          <option value="mix">Mix — we will reply</option>
         </select>
         <button class="btn btn-gold" type="submit">Ask for the kit</button>
       </form>
     </div>
   </section>
-    <footer>
-    <nav class="live-links landing-links" data-landing-links aria-label="Landings">
-      <a data-cta="home" href="index.html">Home</a>
-      <a data-cta="book" href="book.html">Book</a>
-      <a data-cta="training" href="training.html">Training</a>
-      <a data-cta="show" href="listen.html">Show</a>
-      <a data-cta="about" href="about.html">About</a>
-      <a data-cta="contact" href="contact.html">Contact</a>
-    </nav>
-    <nav class="live-links" data-social-links aria-label="Live profiles">
-      <a href="https://walksteadfast.com">Hub</a>
-      <a href="https://youtube.com/@steadfastwalk" rel="noopener">YouTube</a>
-      <a href="https://instagram.com/steadfastwalk" rel="noopener">Instagram</a>
-      <a href="https://x.com/steadfastwalk" rel="noopener">X</a>
-      <a href="https://facebook.com/steadfastwalk" rel="noopener">Facebook</a>
-      <a href="https://tiktok.com/@steadfastwalk" rel="noopener">TikTok</a>
-    </nav>
-  </footer>
   <script src="site.js"></script>
   <script src="auth.js"></script>
-    <script>
+  <script>SMAuth.require("group-kit.html");</script>
+  <script>
     const weeks = [
       ["01","Name the drift in your own house."],
       ["02","Stop waiting for someone else to captain the room."],
@@ -187,7 +177,11 @@
       el.innerHTML =
         '<div><div class="n">Week ' + n + '</div></div>' +
         '<div><h3>' + title + '</h3>' +
-        '<p class="lede">Script not posted yet. The week title is the charge. Workbook pages are not a file on this site yet.</p></div>';
+        '<p class="lede">Talk track for the man delivering this week. Workbook pages still live on the path.</p>' +
+        '<div class="file-row">' +
+          '<a class="btn btn-ghost" href="#" data-script="' + n + '">Download script ' + n + '</a>' +
+          '<label class="btn btn-line">Upload script ' + n + '<input type="file" accept=".pdf,.docx" hidden></label>' +
+        '</div></div>';
       board.appendChild(el);
     });
     document.querySelectorAll("[data-file], [data-script]").forEach(a => {

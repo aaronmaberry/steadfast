@@ -1,8 +1,5 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "framework": null,
-  "buildCommand": "",
-  "installCommand": "",
   "cleanUrls": true,
   "trailingSlash": false,
   "headers": [
@@ -33,12 +30,6 @@
       "source": "/site.js",
       "headers": [
         { "key": "Cache-Control", "value": "public, max-age=60, must-revalidate" }
-      ]
-    },
-    {
-      "source": "/app/links.json",
-      "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }
       ]
     },
     {
@@ -75,7 +66,6 @@
     { "source": "/members", "destination": "/login", "permanent": true },
     { "source": "/donate", "destination": "/give", "permanent": true },
     { "source": "/support", "destination": "/give", "permanent": true },
-    { "source": "/show", "destination": "/listen", "permanent": true },
     { "source": "/podcast", "destination": "/listen", "permanent": true },
     { "source": "/audio", "destination": "/listen", "permanent": true }
   ]
