@@ -3,6 +3,6 @@
   "private": true,
   "scripts": {
     "lint": "node scripts/lint.mjs",
-    "build": "node scripts/build.mjs"
+    "check": "node scripts/build.mjs"
   }
 }
