@@ -212,12 +212,12 @@ function renderAllDevotions() {
     .then((feed) => {
       const d = pickDevotion(feed.items) || fallbackDevotion();
       roots.forEach((root) => paintDevotion(root, d));
-      if (document.getElementById("sheet-silent")) paintDevotion(document.body, d);
+      if (document.getElementById("sheet-silent")) paintDevotion(document.documentElement, d);
     })
     .catch(() => {
       const d = fallbackDevotion();
       roots.forEach((root) => paintDevotion(root, d));
-      if (document.getElementById("sheet-silent")) paintDevotion(document.body, d);
+      if (document.getElementById("sheet-silent")) paintDevotion(document.documentElement, d);
     });
 }
 
