@@ -147,6 +147,60 @@ function renderDevotion(root) {
   paintDevotion(root, fallbackDevotion());
 }
 
+const LIVE_SOCIALS = [
+  { id: "youtube", label: "YouTube", href: "https://youtube.com/@steadfastwalk" },
+  { id: "instagram", label: "Instagram", href: "https://instagram.com/steadfastwalk" },
+  { id: "x", label: "X", href: "https://x.com/steadfastwalk" },
+  { id: "facebook", label: "Facebook", href: "https://facebook.com/steadfastwalk" },
+  { id: "tiktok", label: "TikTok", href: "https://tiktok.com/@steadfastwalk" }
+];
+
+function applyLinks(cfg) {
+  const socials = (cfg && cfg.socials && cfg.socials.length) ? cfg.socials : LIVE_SOCIALS;
+  const hub = (cfg && cfg.hub) || "https://walksteadfast.com";
+  document.querySelectorAll("[data-social]").forEach((el) => {
+    const match = socials.find((s) => s.id === el.getAttribute("data-social"));
+    if (!match || !match.href) return;
+    el.href = match.href;
+    el.target = "_blank";
+    el.rel = "noopener noreferrer";
+  });
+  document.querySelectorAll("[data-social-links]").forEach((nav) => {
+    const items = [{ label: "Hub", href: hub, external: false }].concat(
+      socials.map((s) => ({ label: s.label, href: s.href, external: true }))
+    );
+    let links = [...nav.querySelectorAll("a")];
+    if (links.length !== items.length) {
+      nav.replaceChildren();
+      items.forEach((item) => {
+        const a = document.createElement("a");
+        a.textContent = item.label;
+        nav.appendChild(a);
+      });
+      links = [...nav.querySelectorAll("a")];
+    }
+    items.forEach((item, i) => {
+      links[i].href = item.href;
+      links[i].textContent = item.label;
+      if (item.external) {
+        links[i].target = "_blank";
+        links[i].rel = "noopener noreferrer";
+      } else {
+        links[i].removeAttribute("target");
+        links[i].removeAttribute("rel");
+      }
+    });
+  });
+}
+
+function renderLinks() {
+  applyLinks(null);
+  fetch("app/links.json", { cache: "no-store" })
+    .then((r) => (r.ok ? r.json() : Promise.reject()))
+    .then(applyLinks)
+    .catch(() => {});
+}
+
 function renderAllDevotions() {
   const roots = document.querySelectorAll("[data-devotion]");
   if (!roots.length) return;
@@ -165,6 +219,7 @@ function renderAllDevotions() {
 }
 
 document.addEventListener("DOMContentLoaded", () => {
+  renderLinks();
   renderAllDevotions();
   const here = document.getElementById("was-here");
   if (here) {

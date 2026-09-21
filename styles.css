@@ -260,6 +260,18 @@ h3 { font-size: 26px; letter-spacing: -0.02em; }
 @media (max-width: 420px) {
   .social-dock { max-width: 100%; }
 }
+.live-profiles {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 14px;
+  margin-top: 16px;
+}
+.live-profiles a {
+  color: var(--text);
+  text-decoration: none;
+  font-size: 13px;
+}
+.live-profiles a:hover { color: var(--accent); }
 
 .hero.hero-film {
   display: block;
