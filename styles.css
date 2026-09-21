@@ -1,3 +1,48 @@
+/* Geist and Geist Mono. Official woff2 from vercel/geist-font @ 10dc765 (OFL-1.1), same origin.
+   Weights already used: Geist 300, 400, 500, 600 and Geist Mono 400, 500. */
+@font-face {
+  font-family: "Geist";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("fonts/Geist-Light.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Geist";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("fonts/Geist-Regular.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Geist";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("fonts/Geist-Medium.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Geist";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("fonts/Geist-SemiBold.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Geist Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("fonts/GeistMono-Regular.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Geist Mono";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("fonts/GeistMono-Medium.woff2") format("woff2");
+}
+
 :root {
   --bg: #07070a;
   --bg-2: #0c0c10;
