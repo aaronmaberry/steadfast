@@ -214,6 +214,26 @@ h3 { font-size: 26px; letter-spacing: -0.02em; }
 }
 .social-row a:hover { border-color: var(--accent); background: rgba(139,156,255,.08); }
 
+.socials-band {
+  padding: 48px 0 56px;
+  border-top: 1px solid var(--line);
+}
+.socials-slim {
+  position: relative;
+  display: block;
+  min-height: 88px;
+}
+.socials-slim .eyebrow {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  margin: 0;
+  color: var(--accent);
+  font-size: 13px;
+  letter-spacing: .14em;
+  z-index: 1;
+}
 .social-dock {
   display: flex;
   align-items: center;
@@ -269,6 +289,20 @@ h3 { font-size: 26px; letter-spacing: -0.02em; }
   border-radius: 10px;
 }
 .social-dock.mini .soc svg { width: 20px; height: 20px; }
+@media (max-width: 800px) {
+  .socials-slim {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 16px;
+    min-height: 0;
+  }
+  .socials-slim .eyebrow {
+    position: static;
+    transform: none;
+    align-self: flex-start;
+  }
+}
 @media (max-width: 420px) {
   .social-dock { max-width: 100%; }
 }
