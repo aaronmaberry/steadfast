@@ -126,7 +126,8 @@
     }
     function resolved() {
       const c = parseInt(custom.value, 10);
-      return c > 0 ? c : amount;
+      const n = c > 0 ? c : amount;
+      return cadence === "monthly" && !amounts.includes(n) ? 25 : n;
     }
     function paint() {
       const n = resolved();
