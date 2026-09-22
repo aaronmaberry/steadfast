@@ -1,14 +1,13 @@
-/* TEST GATE ONLY. Visible in page source. Replace with Stripe Customer Portal. */
+/* Client-side gate only. Never put credentials here: this file is public. Stays closed until real member auth replaces it. */
 (function () {
   const KEY = "sm-auth";
-  const ACCOUNTS = {
-    "admin@walksteadfast.com": { pass: "SteadfastTable26", role: "admin" },
-    "member@walksteadfast.com": { pass: "WalkThePath26", role: "member" }
-  };
+  const ACCOUNTS = {};
 
   window.SMAuth = {
     session() {
-      try { return JSON.parse(localStorage.getItem(KEY) || "null"); } catch { return null; }
+      let sess = null;
+      try { sess = JSON.parse(localStorage.getItem(KEY) || "null"); } catch { return null; }
+      return sess && Object.prototype.hasOwnProperty.call(ACCOUNTS, sess.email) ? sess : null;
     },
     login(email, password) {
       const row = ACCOUNTS[(email || "").trim().toLowerCase()];
@@ -36,4 +35,3 @@
     location.href = "login.html";
   });
 })();
-
