@@ -1239,9 +1239,15 @@ body.sheet-open {
   top: -16px;
   bottom: -10px;
 }
-/* Sheets are moved onto <html> in site.js, outside body, so they must set their own text color. */
+/* Sheets are moved onto <html> in site.js, outside body, so they must set their own text color and type. */
 .sheet,
 .sheet-card { color: var(--text); }
+.sheet {
+  font-family: var(--sans);
+  font-size: 16px;
+  line-height: 1.55;
+  letter-spacing: -0.014em;
+}
 .sheet-card h1,
 .sheet-card h2,
 .sheet-card h3 { color: var(--text); }

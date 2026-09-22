@@ -137,7 +137,8 @@ function chicagoDateKey() {
 function pickDevotion(items) {
   if (!items || !items.length) return null;
   const key = chicagoDateKey();
-  return items.find((i) => i.date === key) || items.find((i) => i.date <= key) || items[items.length - 1];
+  const past = items.filter((i) => i.date && i.date <= key).sort((a, b) => (a.date < b.date ? -1 : 1));
+  return past[past.length - 1] || items[items.length - 1];
 }
 
 function fallbackDevotion() {
