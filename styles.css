@@ -272,23 +272,6 @@ h3 { font-size: 26px; letter-spacing: -0.02em; }
   border-color: var(--line-strong);
   background: rgba(255,255,255,.04);
 }
-.social-dock.mini {
-  margin-top: 16px;
-  margin-left: 0;
-  max-width: none;
-  width: auto;
-  justify-content: flex-start;
-  gap: 8px;
-}
-.social-dock.mini .soc {
-  flex: 0 0 44px;
-  width: 44px;
-  max-width: 44px;
-  height: 44px;
-  aspect-ratio: auto;
-  border-radius: 10px;
-}
-.social-dock.mini .soc svg { width: 20px; height: 20px; }
 @media (max-width: 800px) {
   .socials-slim {
     display: flex;
