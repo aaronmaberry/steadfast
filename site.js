@@ -227,7 +227,7 @@ document.addEventListener("DOMContentLoaded", () => {
   renderAllDevotions();
   const here = document.getElementById("was-here");
   if (here) {
-    const key = "steadfast-walk-" + new Date().toISOString().slice(0, 10);
+    const key = "steadfast-walk-" + chicagoDateKey();
     if (localStorage.getItem(key)) {
       here.classList.add("on");
       here.textContent = "Marked";
