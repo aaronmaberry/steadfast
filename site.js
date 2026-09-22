@@ -161,39 +161,12 @@ const LIVE_SOCIALS = [
 
 function applyLinks(cfg) {
   const socials = (cfg && cfg.socials && cfg.socials.length) ? cfg.socials : LIVE_SOCIALS;
-  const hub = (cfg && cfg.hub) || "https://walksteadfast.com";
   document.querySelectorAll("[data-social]").forEach((el) => {
     const match = socials.find((s) => s.id === el.getAttribute("data-social"));
     if (!match || !match.href) return;
     el.href = match.href;
     el.target = "_blank";
     el.rel = "noopener noreferrer";
-  });
-  document.querySelectorAll("[data-social-links]").forEach((nav) => {
-    const items = [{ label: "Hub", href: hub, external: false }].concat(
-      socials.map((s) => ({ label: s.label, href: s.href, external: true }))
-    );
-    let links = [...nav.querySelectorAll("a")];
-    if (links.length !== items.length) {
-      nav.replaceChildren();
-      items.forEach((item) => {
-        const a = document.createElement("a");
-        a.textContent = item.label;
-        nav.appendChild(a);
-      });
-      links = [...nav.querySelectorAll("a")];
-    }
-    items.forEach((item, i) => {
-      links[i].href = item.href;
-      links[i].textContent = item.label;
-      if (item.external) {
-        links[i].target = "_blank";
-        links[i].rel = "noopener noreferrer";
-      } else {
-        links[i].removeAttribute("target");
-        links[i].removeAttribute("rel");
-      }
-    });
   });
 }
 
@@ -225,6 +198,8 @@ function renderAllDevotions() {
 document.addEventListener("DOMContentLoaded", () => {
   renderLinks();
   renderAllDevotions();
+  const year = document.getElementById("y");
+  if (year) year.textContent = new Date().getFullYear();
   const here = document.getElementById("was-here");
   if (here) {
     const key = "steadfast-walk-" + chicagoDateKey();
