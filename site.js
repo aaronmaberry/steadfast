@@ -227,7 +227,7 @@ document.addEventListener("DOMContentLoaded", () => {
   renderAllDevotions();
   const here = document.getElementById("was-here");
   if (here) {
-    const key = "steadfast-walk-" + new Date().toISOString().slice(0, 10);
+    const key = "steadfast-walk-" + chicagoDateKey();
     if (localStorage.getItem(key)) {
       here.classList.add("on");
       here.textContent = "Marked";
@@ -568,25 +568,36 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 
-  const form = document.querySelector("[data-start-form]");
-  if (form) {
-    form.addEventListener("submit", (e) => {
-      e.preventDefault();
-      form.innerHTML = "<p class='lede'>Received. When Stripe is connected, this becomes checkout. For now we have your name and the path you chose.</p>";
-    });
+  function mailForm(form, to, subject) {
+    const data = Object.fromEntries(new FormData(form).entries());
+    const body = Object.entries(data).map(([k, v]) => k + ": " + v).join("\n");
+    const href = "mailto:" + to
+      + "?subject=" + encodeURIComponent(subject)
+      + "&body=" + encodeURIComponent(body);
+    form.innerHTML = "<p class='lede'>Your mail app should open to " + to + ". If it does not, write that address and send the same note.</p>";
+    location.href = href;
   }
 
+  const HELLO = "hello@walksteadfast.com";
   const INQUIRE = "groups@walksteadfast.com";
+  const GROUP_OFFERS = ["group", "group-kit", "bulk-hardcover", "bulk-paperback", "bulk-workbook"];
+  const START_SUBJECTS = { group: "Table inquiry", "group-kit": "Group kit inquiry" };
+  document.querySelectorAll("[data-start-form]").forEach((form) => {
+    form.addEventListener("submit", (e) => {
+      e.preventDefault();
+      const field = form.elements.offer;
+      const offer = field ? field.value : "";
+      const subject = field && field.tagName === "SELECT"
+        ? "Begin: " + field.selectedOptions[0].textContent
+        : (START_SUBJECTS[offer] || "Begin");
+      mailForm(form, GROUP_OFFERS.includes(offer) ? INQUIRE : HELLO, subject);
+    });
+  });
+
   document.querySelectorAll("[data-inquire-form]").forEach((form) => {
     form.addEventListener("submit", (e) => {
       e.preventDefault();
-      const data = Object.fromEntries(new FormData(form).entries());
-      const body = Object.entries(data).map(([k, v]) => k + ": " + v).join("\n");
-      const href = "mailto:" + INQUIRE
-        + "?subject=" + encodeURIComponent("Group delivery inquiry")
-        + "&body=" + encodeURIComponent(body);
-      form.innerHTML = "<p class='lede'>Your mail app should open to " + INQUIRE + ". If it does not, write that address and send the same note.</p>";
-      location.href = href;
+      mailForm(form, INQUIRE, "Group delivery inquiry");
     });
   });
 });
