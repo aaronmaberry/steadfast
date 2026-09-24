@@ -5,16 +5,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="msvalidate.01" content="5EF812E178EE9B774C4B3CBCF20D2446" />
   <title>Begin — Steadfast Men</title>
-  <meta name="description" content="Training $79, ebook $14, bundle $89. Paperback on request. Daily walk is free. Groups for churches. This page lists the offers. It does not charge you.">
+  <meta name="description" content="Training $79, ebook $14, bundle $89. Those three open checkout. Paperback on request. Daily walk is free. Groups for churches.">
   <link rel="canonical" href="https://www.walksteadfast.com/start">
   <meta property="og:title" content="Begin — Steadfast Men">
-  <meta property="og:description" content="Training $79, ebook $14, bundle $89. Paperback on request. Daily walk is free. Groups for churches. This page lists the offers. It does not charge you.">
+  <meta property="og:description" content="Training $79, ebook $14, bundle $89. Those three open checkout. Paperback on request. Daily walk is free. Groups for churches.">
   <meta property="og:url" content="https://www.walksteadfast.com/start">
   <meta property="og:type" content="website">
   <meta property="og:image" content="https://www.walksteadfast.com/img/hero-studio.jpg">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Begin — Steadfast Men">
-  <meta name="twitter:description" content="Training $79, ebook $14, bundle $89. Paperback on request. Daily walk is free. Groups for churches. This page lists the offers. It does not charge you.">
+  <meta name="twitter:description" content="Training $79, ebook $14, bundle $89. Those three open checkout. Paperback on request. Daily walk is free. Groups for churches.">
   <meta name="twitter:image" content="https://www.walksteadfast.com/img/hero-studio.jpg">
   <link rel="icon" href="img/logo-lockup.jpg">
   <link rel="stylesheet" href="styles.css">
@@ -39,7 +39,7 @@
     <div class="wrap">
       <p class="eyebrow">Begin</p>
       <h1>Choose the product. Then walk.</h1>
-      <p>Every paid door hits this page until Stripe (or Kajabi, Teachable, Gumroad) is live. Swap the button hrefs. Do not leave a man without a next step.</p>
+      <p>Training ($79), the ebook ($14), and the bundle ($89) open checkout. Print, audio, merch, and groups still use the form.</p>
     </div>
   </div>
 
@@ -50,7 +50,7 @@
         <div class="card-body">
           <h3>Training</h3>
           <p class="price">$79</p>
-          <a class="btn btn-ink" href="https://buy.stripe.com/test_28EaEQ8AI10F5BCgJtdnW00">Buy training — test</a>
+          <a class="btn btn-ink" href="#checkout" data-pay="training">Buy training</a>
         </div>
       </article>
       <article>
@@ -58,7 +58,7 @@
         <div class="card-body">
           <h3>Ebook</h3>
           <p class="price">$14</p>
-          <a class="btn btn-line" href="https://buy.stripe.com/test_8x2bIUeZ67p36FGgJtdnW01">Buy ebook — test</a>
+          <a class="btn btn-line" href="#checkout" data-pay="ebook">Buy ebook</a>
         </div>
       </article>
       <article>
@@ -66,7 +66,7 @@
         <div class="card-body">
           <h3>Bundle</h3>
           <p class="price">$89</p>
-          <a class="btn btn-line" href="https://buy.stripe.com/test_14A14g8AI8t79RSfFpdnW02">Buy bundle — test</a>
+          <a class="btn btn-line" href="#checkout" data-pay="bundle">Buy bundle</a>
         </div>
       </article>
       <article>
@@ -130,7 +130,7 @@
         <input id="email" name="email" type="email" required>
         <!-- SLOT: form action becomes Stripe or Formspree -->
         <button class="btn btn-ink" type="submit">Continue</button>
-        <p class="tiny" style="color:var(--muted)">No charge on this preview. Wire payment and this is checkout.</p>
+        <p class="tiny" style="color:var(--muted)">Training, the ebook, and the bundle open Stripe checkout. Other products on this form email hello@walksteadfast.com and do not charge you.</p>
       </form>
       <div>
         <p class="eyebrow">Find the house</p>
@@ -199,6 +199,7 @@
     </div>
     <div class="wrap tiny">© <span id="y">2026</span> Steadfast Men</div>
   </footer>
+  <script src="checkout.js"></script>
   <script src="site.js"></script>
   <script>
     const sel = document.getElementById("offer");
