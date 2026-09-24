@@ -33,6 +33,12 @@
       ]
     },
     {
+      "source": "/checkout.js",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=60, must-revalidate" }
+      ]
+    },
+    {
       "source": "/app/daily.json",
       "headers": [
         { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }
