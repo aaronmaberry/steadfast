@@ -95,7 +95,7 @@
       form.addEventListener("submit", function (e) {
         if (!PRODUCTS[offer.value]) return;
         e.preventDefault();
-        e.stopPropagation();
+        e.stopImmediatePropagation();
         if (!window.steadfastPay(offer.value)) {
           var btn = form.querySelector("[type=submit]");
           if (btn) btn.textContent = "Checkout not configured";
