@@ -1,13 +1,18 @@
 (function () {
   var PRODUCT_URL = /^https:\/\/buy\.stripe\.com\/[A-Za-z0-9_-]+$/;
   var PRODUCTS = { ebook: true, training: true, bundle: true };
+  var TEST_LINKS = {
+    training: "https://buy.stripe.com/test_28EaEQ8AI10F5BCgJtdnW00",
+    ebook: "https://buy.stripe.com/test_8x2bIUeZ67p36FGgJtdnW01",
+    bundle: "https://buy.stripe.com/test_14A14g8AI8t79RSfFpdnW02"
+  };
 
   window.STEADFAST_CHECKOUT = {
     mode: "test",
     prices: { ebook: 14, training: 79, bundle: 89 },
-    training: "https://buy.stripe.com/test_28EaEQ8AI10F5BCgJtdnW00",
-    ebook: "https://buy.stripe.com/test_8x2bIUeZ67p36FGgJtdnW01",
-    bundle: "https://buy.stripe.com/test_14A14g8AI8t79RSfFpdnW02",
+    training: TEST_LINKS.training,
+    ebook: TEST_LINKS.ebook,
+    bundle: TEST_LINKS.bundle,
     giveOnce: "https://donate.stripe.com/test_28E00c8AIbFj8NOdxhdnW03",
     giveMonthly: {
       5: "https://donate.stripe.com/test_bJe00c04c10Fe88eBldnW05",
@@ -106,16 +111,14 @@
 
   function applyRemote(cfg) {
     if (!cfg || typeof cfg !== "object") return;
-    ["ebook", "training", "bundle"].forEach(function (sku) {
-      if (isProductUrl(cfg[sku])) window.STEADFAST_CHECKOUT[sku] = cfg[sku];
+    var skus = ["ebook", "training", "bundle"];
+    var useLive = cfg.mode === "live" && skus.every(function (sku) {
+      return isProductUrl(cfg[sku]);
     });
-    var links = ["ebook", "training", "bundle"].map(function (sku) {
-      return window.STEADFAST_CHECKOUT[sku];
+    skus.forEach(function (sku) {
+      window.STEADFAST_CHECKOUT[sku] = useLive ? cfg[sku] : TEST_LINKS[sku];
     });
-    var allLive = links.every(function (url) {
-      return isProductUrl(url) && url.indexOf("/test_") === -1;
-    });
-    window.STEADFAST_CHECKOUT.mode = allLive ? "live" : "test";
+    window.STEADFAST_CHECKOUT.mode = useLive ? "live" : "test";
     paint();
   }
 

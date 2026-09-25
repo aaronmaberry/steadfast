@@ -21,9 +21,9 @@ Give / donate buttons stay on the test donate Payment Links in `checkout.js`. Th
 
 `checkout.js` is the only client source for the three product URLs. Buttons use `data-pay="ebook"`, `data-pay="training"`, or `data-pay="bundle"`. `window.steadfastPay(sku)` sends the browser to that URL.
 
-On load, the script fetches `GET /api/checkout-config` (`api/checkout-config.js`). A valid `https://buy.stripe.com/…` value replaces that SKU. Anything else is ignored.
+On load, the script fetches `GET /api/checkout-config` (`api/checkout-config.js`). It replaces the ebook, training, and bundle URLs only when that response has `mode` `"live"` and all three fields are valid `https://buy.stripe.com/…` URLs. It writes all three together. If `mode` is anything other than `"live"`, the script keeps the test Payment Links checked in with `checkout.js`. One SKU in the response never overrides the others.
 
-When a live env var is unset, the button keeps the Stripe **test** Payment Link checked in with `checkout.js`. `mode` stays `"test"` until all three overrides are live links (a live link has no `/test_` in the path). Button labels stay normal buy copy in either mode.
+`mode` is `"live"` only when `STRIPE_CHECKOUT_LIVE` is exactly `true` and all three Payment Link variables are valid `https://buy.stripe.com/…` URLs. Otherwise the endpoint returns `mode` `"test"`, empty URL fields, and `staged`. `staged` is `true` when all three links are present and valid. The URLs themselves are left out of that response. Button labels stay normal buy copy in either mode.
 
 If a SKU has no usable URL, the control reads **Checkout not configured** and does not navigate.
 
@@ -37,11 +37,12 @@ Set these on Vercel project **walksteadfast**: Project → Settings → Environm
 
 | Name | Required now | Value |
 | --- | --- | --- |
-| `STRIPE_PAYMENT_LINK_EBOOK` | When going live | Payment Link URL for the $14 ebook |
-| `STRIPE_PAYMENT_LINK_TRAINING` | When going live | Payment Link URL for the $79 training |
-| `STRIPE_PAYMENT_LINK_BUNDLE` | When going live | Payment Link URL for the $89 bundle |
+| `STRIPE_CHECKOUT_LIVE` | To serve live checkout | Exactly `true`. Any other value, or unset, keeps `mode` at `"test"` and hides the three URLs. |
+| `STRIPE_PAYMENT_LINK_EBOOK` | When staging or going live | Payment Link URL for the $14 ebook |
+| `STRIPE_PAYMENT_LINK_TRAINING` | When staging or going live | Payment Link URL for the $79 training |
+| `STRIPE_PAYMENT_LINK_BUNDLE` | When staging or going live | Payment Link URL for the $89 bundle |
 
-Paste the bare Payment Link only, for example `https://buy.stripe.com/abc123`. No query string. Test-mode links are accepted and keep `mode` at `"test"`.
+Paste the bare Payment Link only, for example `https://buy.stripe.com/abc123`. No query string. Storing the three links does not turn checkout on. They are returned only when `STRIPE_CHECKOUT_LIVE` is exactly `true`.
 
 Not used by this wiring:
 
@@ -51,13 +52,26 @@ Not used by this wiring:
 | `NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY` | Unused. Named by Jarvis for a Next.js-style client. This site has no Stripe.js and does not publish a key. |
 | `STRIPE_WEBHOOK_SECRET` | Unused. Reserve this name if a webhook is added later. Do not commit it. |
 
+## Turn live checkout on and off
+
+`GET /api/checkout-config` returns `mode` `"live"` and the three URLs only when both of these are true:
+
+1. `STRIPE_CHECKOUT_LIVE` is exactly `true`
+2. `STRIPE_PAYMENT_LINK_EBOOK`, `STRIPE_PAYMENT_LINK_TRAINING`, and `STRIPE_PAYMENT_LINK_BUNDLE` are all valid `https://buy.stripe.com/…` URLs
+
+**Flip on:** set `STRIPE_CHECKOUT_LIVE=true` in Vercel Production (project `walksteadfast`) and redeploy.
+
+**Rollback:** unset `STRIPE_CHECKOUT_LIVE` or set it to `false`, then redeploy. Buy buttons go back to the test Payment Links in `checkout.js`. The endpoint returns `mode` `"test"` and empty URL fields. If the three link variables are still valid, `staged` is `true` and the URLs stay hidden.
+
+**Harder stop:** remove `STRIPE_PAYMENT_LINK_EBOOK`, `STRIPE_PAYMENT_LINK_TRAINING`, and `STRIPE_PAYMENT_LINK_BUNDLE`, then redeploy. `staged` becomes `false`.
+
 ## Still pending — Aaron / Jarvis
 
-Live Payment Link URLs are not in the repo. Create them in the Stripe Dashboard for **Steadfast Men, LLC** at the locked prices, then set the three `STRIPE_PAYMENT_LINK_*` variables on project `walksteadfast` and redeploy.
+Live Payment Link URLs are not in the repo. Create them in the Stripe Dashboard for **Steadfast Men, LLC** at the locked prices, then set the three `STRIPE_PAYMENT_LINK_*` variables on project `walksteadfast`. Checkout stays off until `STRIPE_CHECKOUT_LIVE=true` is set in Vercel Production and the project is redeployed.
 
 Also still open, only if you change approach later:
 
 - Live `STRIPE_SECRET_KEY`, and a publishable key, if you replace Payment Links with Checkout Sessions
 - `STRIPE_WEBHOOK_SECRET`, if you add a webhook
 
-Until those live Payment Link URLs are set, buy buttons use the test Payment Links and `mode` stays `"test"`.
+Until `STRIPE_CHECKOUT_LIVE` is exactly `true` in Production and all three links are valid, buy buttons use the test Payment Links and `mode` stays `"test"`.
