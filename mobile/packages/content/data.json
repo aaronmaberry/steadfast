@@ -1,0 +1,289 @@
+{
+  "SITE_URL": "https://walksteadfast.com",
+  "brand": {
+    "name": "Steadfast Men",
+    "subtitle": "The way of Godly Men",
+    "author": "Wes Hart",
+    "authorCaps": "WES HART",
+    "siteUrl": "https://walksteadfast.com",
+    "emails": {
+      "hello": "hello@walksteadfast.com",
+      "support": "support@walksteadfast.com",
+      "orders": "orders@walksteadfast.com",
+      "privacy": "privacy@walksteadfast.com"
+    },
+    "domain": "walksteadfast.com",
+    "domainNote": "Host is live.",
+    "notice": "Texas",
+    "creed": "A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.",
+    "lockup": "STEADFAST MEN",
+    "steadfast": "STEADFAST",
+    "men": "MEN"
+  },
+  "creed": "A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.",
+  "emails": {
+    "hello": "hello@walksteadfast.com",
+    "support": "support@walksteadfast.com",
+    "orders": "orders@walksteadfast.com",
+    "privacy": "privacy@walksteadfast.com"
+  },
+  "palette": {
+    "navy": "#0B1F38",
+    "gold": "#E3C572",
+    "bone": "#E6DDCC",
+    "hair": "#484E46"
+  },
+  "fourMarks": [
+    {
+      "key": "passivity",
+      "title": "Rejects passivity"
+    },
+    {
+      "key": "responsibility",
+      "title": "Accepts responsibility"
+    },
+    {
+      "key": "courage",
+      "title": "Leads courageously"
+    },
+    {
+      "key": "reward",
+      "title": "Expects the greater reward, God's reward"
+    }
+  ],
+  "nav": [
+    {
+      "href": "/",
+      "label": "Home"
+    },
+    {
+      "href": "/training",
+      "label": "Training"
+    },
+    {
+      "href": "/ebook",
+      "label": "Ebook"
+    },
+    {
+      "href": "/bundle",
+      "label": "Bundle"
+    },
+    {
+      "href": "/daily",
+      "label": "Daily"
+    },
+    {
+      "href": "/donate",
+      "label": "Donate"
+    },
+    {
+      "href": "/shop",
+      "label": "Shop"
+    },
+    {
+      "href": "/apps",
+      "label": "Apps"
+    }
+  ],
+  "footer": {
+    "note": "Internal scratch. Origin is source of truth. walksteadfast.com is live.",
+    "draftLabel": "DRAFT",
+    "privacyHref": "/privacy",
+    "termsHref": "/terms",
+    "refundsHref": "/refunds"
+  },
+  "hero": {
+    "line": "You picked this up for a reason. Sit down.",
+    "kicker": "THE FOUR MARKS"
+  },
+  "products": {
+    "training": {
+      "title": "Training",
+      "blurb": "Twenty-four sessions. Checkout is not open. Price is not on this page yet.",
+      "cta": "Start the training",
+      "href": "/training"
+    },
+    "ebook": {
+      "title": "The ebook",
+      "blurb": "Steadfast Men. The way of Godly Men. Wes Hart. Checkout is not open. Price is not on this page yet.",
+      "cta": "Get the ebook",
+      "href": "/ebook"
+    },
+    "bundle": {
+      "title": "Bundle",
+      "blurb": "Training plus the ebook. Checkout is not open. Price is not on this page yet.",
+      "cta": "Get the bundle",
+      "href": "/bundle"
+    }
+  },
+  "slots": [
+    {
+      "href": "/shop",
+      "label": "Shop"
+    },
+    {
+      "href": "/paperback",
+      "label": "Paperback"
+    },
+    {
+      "href": "/audiobook",
+      "label": "Audiobook"
+    },
+    {
+      "href": "/youtube",
+      "label": "YouTube"
+    },
+    {
+      "href": "/downloads",
+      "label": "Downloads"
+    }
+  ],
+  "sessions": [
+    {
+      "num": "01",
+      "title": "Introduction"
+    },
+    {
+      "num": "02",
+      "title": "You are not crazy"
+    },
+    {
+      "num": "03",
+      "title": "The four marks"
+    }
+  ],
+  "laterDays": [
+    {
+      "label": "Day 2"
+    },
+    {
+      "label": "Day 3"
+    },
+    {
+      "label": "Day 4"
+    },
+    {
+      "label": "Day 5"
+    },
+    {
+      "label": "Day 6"
+    },
+    {
+      "label": "Day 7"
+    }
+  ],
+  "mobile": {
+    "tabs": [
+      {
+        "key": "home",
+        "label": "Home"
+      },
+      {
+        "key": "daily",
+        "label": "Daily"
+      },
+      {
+        "key": "training",
+        "label": "Training"
+      },
+      {
+        "key": "store",
+        "label": "Store"
+      }
+    ],
+    "openStore": "Open the store"
+  },
+  "legalBanner": "DRAFT. Texas. No street address. Not legal advice. Do not publish.",
+  "watchCopy": {
+    "title": "Watch",
+    "body": "Video will live here. Nothing to play yet."
+  },
+  "downloadsCopy": {
+    "title": "Downloads",
+    "body": "Sheets and worksheets will live here."
+  },
+  "appsCopy": {
+    "title": "Apps",
+    "body": "Free iOS and Android. No in-app purchase. The app sends you to this site to buy training and the ebook.",
+    "storeCta": "Open the store"
+  },
+  "day1": {
+    "day": 1,
+    "kicker": "DAY 1",
+    "title": "Sit down",
+    "heading": "Sit down",
+    "scriptureRef": "",
+    "scripture": "",
+    "body": [
+      "You picked this up for a reason. Not the wedding. Not the promotion. A quiet Tuesday.",
+      "Here is the line we carry: a real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.",
+      "Sit with it today. Do not wait for a feeling. Read it once out loud."
+    ],
+    "step": "Sit with the creed once today. Do not wait for a feeling."
+  },
+  "pages": {
+    "home": {
+      "kicker": "Wes Hart",
+      "title": "Steadfast Men",
+      "subtitle": "The way of Godly Men"
+    },
+    "training": {
+      "title": "Training"
+    },
+    "book": {
+      "title": "The book",
+      "authorLine": "Wes Hart"
+    },
+    "devotionals": {
+      "title": "Devotionals",
+      "intro": "Day 1 is a sample. The rest will live here."
+    },
+    "watch": {
+      "title": "Watch",
+      "body": "Video will live here. Nothing to play yet."
+    },
+    "downloads": {
+      "title": "Downloads",
+      "body": "Sheets and worksheets will live here."
+    },
+    "apps": {
+      "title": "Apps",
+      "body": "Free iOS and Android. No in-app purchase."
+    },
+    "privacy": {
+      "title": "Privacy",
+      "draft": true,
+      "body": [
+        "DRAFT. Internal only. Not legal advice. Not a finished policy.",
+        "Working site: walksteadfast.com (live).",
+        "We do not collect payment on this scratch site. Checkout is not open.",
+        "If mail is used later, contact hello@walksteadfast.com or support@walksteadfast.com.",
+        "Governing place: Texas. No street address is published.",
+        "Apps are free and do not sell in-app purchases. They may open this website."
+      ]
+    },
+    "terms": {
+      "title": "Terms",
+      "draft": true,
+      "body": [
+        "DRAFT. Internal only. Not legal advice. Not a finished agreement.",
+        "Working site: walksteadfast.com (live).",
+        "Nothing is for sale on this scratch build. No charge will be taken.",
+        "Training and the ebook are the intended paid items later. Paperback, audio, video, and downloads are placeholders until they exist.",
+        "The iOS and Android apps are free. No in-app purchase.",
+        "Questions: hello@walksteadfast.com, support@walksteadfast.com, orders@walksteadfast.com.",
+        "Governing law: Texas. No street address is published."
+      ]
+    }
+  },
+  "secondary": [
+    {
+      "href": "/daily",
+      "label": "Daily"
+    },
+    {
+      "href": "/donate",
+      "label": "Donate"
+    }
+  ]
+}
