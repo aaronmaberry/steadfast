@@ -125,6 +125,9 @@ test("screens do not render prices or Stripe purchase links", function () {
   });
   const store = fs.readFileSync(path.join(appDir, "screens/StoreScreen.js"), "utf8");
   assert.equal(store.indexOf("No in-app purchase.") !== -1, true);
+  const appsCopy = require("../../packages/content/data.json").appsCopy;
+  assert.equal(appsCopy.body.indexOf("to buy") === -1, true);
+  assert.equal(appsCopy.body, "Free iOS and Android. No in-app purchase.");
   const app = fs.readFileSync(path.join(appDir, "App.js"), "utf8");
   assert.equal(app.indexOf("purchasesAllowed") !== -1, true);
   assert.equal(app.indexOf("canOpenExternalUrl") !== -1, true);
