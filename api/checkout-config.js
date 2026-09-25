@@ -7,8 +7,26 @@ function paymentLink(name) {
   return PRODUCT_URL.test(url) ? url : "";
 }
 
-function isLive(url) {
-  return PRODUCT_URL.test(url) && url.indexOf("/test_") === -1;
+function checkoutPayload() {
+  var ebook = paymentLink("STRIPE_PAYMENT_LINK_EBOOK");
+  var training = paymentLink("STRIPE_PAYMENT_LINK_TRAINING");
+  var bundle = paymentLink("STRIPE_PAYMENT_LINK_BUNDLE");
+  var staged = !!(ebook && training && bundle);
+  if (process.env.STRIPE_CHECKOUT_LIVE === "true" && staged) {
+    return {
+      mode: "live",
+      ebook: ebook,
+      training: training,
+      bundle: bundle
+    };
+  }
+  return {
+    mode: "test",
+    ebook: "",
+    training: "",
+    bundle: "",
+    staged: staged
+  };
 }
 
 module.exports = function handler(req, res) {
@@ -20,16 +38,7 @@ module.exports = function handler(req, res) {
     return;
   }
 
-  var ebook = paymentLink("STRIPE_PAYMENT_LINK_EBOOK");
-  var training = paymentLink("STRIPE_PAYMENT_LINK_TRAINING");
-  var bundle = paymentLink("STRIPE_PAYMENT_LINK_BUNDLE");
-  var mode = isLive(ebook) && isLive(training) && isLive(bundle) ? "live" : "test";
-  var body = JSON.stringify({
-    mode: mode,
-    ebook: ebook,
-    training: training,
-    bundle: bundle
-  });
+  var body = JSON.stringify(checkoutPayload());
 
   res.statusCode = 200;
   res.setHeader("Content-Type", "application/json; charset=utf-8");
