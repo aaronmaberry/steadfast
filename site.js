@@ -5,19 +5,19 @@ const devotionals = [
     body: "A steadfast man does not confuse motion with obedience. Before the meeting, the commute, the argument you already rehearsed — stand. Watch. Then walk."
   },
   {
-    title: "Reject the quiet drift",
+    title: "Stop the quiet drift",
     verse: "“Therefore we must pay much closer attention to what we have heard, lest we drift away from it.” — Hebrews 2:1",
     body: "Most men do not fall in a crash. They ease off the oars. Today, name one place you have gone passive and put your hand back on the work."
   },
   {
     title: "Carry what is yours",
     verse: "“But if anyone does not provide for his relatives, and especially for members of his household, he has denied the faith.” — 1 Timothy 5:8",
-    body: "Responsibility is not a vibe. It is a name on a bill, a child who needs a father in the room, a word you said you would keep. Pick it up."
+    body: "The weight looks like a name on a bill, a child who needs a father in the room, a word you said you would keep. Pick it up."
   },
   {
-    title: "Lead from the front of the table",
+    title: "Go first at the table",
     verse: "“Be strong and courageous. Do not be frightened, and do not be dismayed, for the Lord your God is with you wherever you go.” — Joshua 1:9",
-    body: "Courage is rarely a battlefield. It is the first apology. The first prayer at dinner. The first no that protects your house."
+    body: "Going first rarely happens on a battlefield. It is the first apology. The first prayer at dinner. The first no that protects your house."
   },
   {
     title: "Work for a better country",
@@ -57,7 +57,7 @@ const devotionals = [
   {
     title: "Work as if the Lord is the board",
     verse: "“Whatever you do, work heartily, as for the Lord and not for men.” — Colossians 3:23",
-    body: "Half-done work is passivity in a collar. Finish the job in front of you as worship, not as a performance for a manager."
+    body: "Half-done work is waiting that still draws a paycheck. Finish the job in front of you for the Lord, whether a manager notices or not."
   }
 ];
 
