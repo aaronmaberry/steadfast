@@ -3,4 +3,5 @@ Allow: /
 Disallow: /t
 Disallow: /t-table
 Disallow: /t-doors
+Disallow: /promote
 Sitemap: https://www.walksteadfast.com/sitemap.xml

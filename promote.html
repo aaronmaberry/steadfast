@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>For promoters — Steadfast Men</title>
+  <meta name="description" content="A code for the men you already speak to. They get 10% off. You keep a share.">
+  <meta name="robots" content="noindex, nofollow">
+  <link rel="icon" href="img/logo-lockup.jpg">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="quiet.css">
+</head>
+<body>
+<header class="nav">
+    <div class="wrap nav-inner">
+      <a class="brand" href="index.html"><img src="img/logo-lockup.jpg" alt="Steadfast Men"></a>
+      <button class="nav-toggle" aria-label="Open menu">☰</button>
+      <ul class="nav-links">
+        <li><a href="training.html">Training</a></li>
+        <li><a href="shop.html">Shop</a></li>
+        <li><a href="book.html">Book</a></li>
+        <li><a href="index.html#daily-walk">Daily</a></li>
+        <li><a href="give.html">Support</a></li>
+        <li><a href="login.html">Login</a></li>
+        <li><a class="nav-cta" href="start.html">Begin</a></li>
+      </ul>
+    </div>
+  </header>
+  <div class="page-hero page-hero-tight">
+    <div class="wrap">
+      <p class="eyebrow">For the man who already has a room</p>
+      <h1>Give them 10% off. Keep a share.</h1>
+      <p>This page is for pastors, table leaders, and men with an audience. Not the sample we send a husband.</p>
+    </div>
+  </div>
+  <section>
+    <div class="wrap quiet-col">
+      <div class="quiet-read">
+        <p>You already talk to men. If Steadfast is the same work, send them with your code. They pay 10% less. You earn 25% of the ebook, 20% of training and the bundle. If you run a table of 3–7 and we approve it, 30% on training and the bundle.</p>
+        <p>Print is not in yet. Support gifts are never commissioned. A church license stays a quote to groups@, not a code. You do not earn on your own buy.</p>
+      </div>
+      <p class="eyebrow" style="margin-top:28px">Pick the code you will say</p>
+      <form class="quiet-form" id="pro-form">
+        <label for="pn">Name</label>
+        <input id="pn" name="name" required>
+        <label for="pe">Email</label>
+        <input id="pe" name="email" type="email" required>
+        <label for="pw">Church, channel, or table</label>
+        <input id="pw" name="where" required>
+        <label for="pc">Code</label>
+        <input id="pc" name="code" maxlength="12" placeholder="TABLE10" required>
+        <button class="btn btn-gold" type="submit">Reserve this code</button>
+        <p class="quiet-note" id="pro-ok" hidden>Held. The discount starts when live checkout is on. We email you before you should publish the code.</p>
+      </form>
+      <div class="quiet-next">
+        <a href="affiliates.html">
+          <p class="eyebrow">Public</p>
+          <h3>Affiliate page</h3>
+          <p>Same offer, on the site footer.</p>
+        </a>
+        <a href="t.html">
+          <p class="eyebrow">Sample</p>
+          <h3>What a man sees</h3>
+          <p>Chapter one and week one. Send this, not the pitch.</p>
+        </a>
+      </div>
+    </div>
+  </section>
+  <footer>
+    <div class="wrap foot-grid mega">
+      <div>
+        <p class="brand-name" style="margin-bottom:14px">Steadfast</p>
+        <p>The way of Godly Men.</p>
+      </div>
+      <div>
+        <p class="eyebrow">Product</p>
+        <a href="training.html">Training</a>
+        <a href="book.html">Book</a>
+        <a href="shop.html">Shop</a>
+        <a href="daily.html">Daily</a>
+        <a href="index.html#apps">Apps</a>
+      </div>
+      <div>
+        <p class="eyebrow">House</p>
+        <a href="about.html">The men</a>
+        <a href="marks.html">Four marks</a>
+        <a href="groups.html">Groups</a>
+        <a href="affiliates.html">Affiliate</a>
+        <a href="merch.html">Merch</a>
+      </div>
+      <div>
+        <p class="eyebrow">Begin</p>
+        <a href="shop.html">Shop</a>
+        <a href="training.html">Training</a>
+        <a href="book.html">Book</a>
+      </div>
+      <div>
+        <p class="eyebrow">Legal</p>
+        <a href="give.html">Give once or monthly</a>
+        <a href="privacy.html">Privacy</a>
+        <a href="terms.html">Terms</a>
+        <a href="mailto:hello@walksteadfast.com">Contact</a>
+      </div>
+    </div>
+    <div class="wrap tiny">© <span id="y">2026</span> Steadfast Men</div>
+  </footer>
+  <script src="site.js"></script>
+  <script>
+    document.getElementById("y") && (document.getElementById("y").textContent = new Date().getFullYear());
+    document.getElementById("pro-form").addEventListener("submit", function (e) {
+      e.preventDefault();
+      var code = (document.getElementById("pc").value || "").toUpperCase().replace(/[^A-Z0-9]/g, "");
+      if (code.length < 4) { document.getElementById("pc").setCustomValidity("Four letters or numbers"); document.getElementById("pc").reportValidity(); return; }
+      document.getElementById("pc").value = code;
+      var name = document.getElementById("pn").value, email = document.getElementById("pe").value, where = document.getElementById("pw").value;
+      document.getElementById("pro-ok").hidden = false;
+      this.querySelectorAll("input, button").forEach(function (el) { el.disabled = true; });
+      var subject = encodeURIComponent("Promoter code hold · " + code);
+      var body = encodeURIComponent("Name: " + name + "\nEmail: " + email + "\nWhere: " + where + "\nCode: " + code);
+      window.location.href = "mailto:groups@walksteadfast.com?subject=" + subject + "&body=" + body;
+    });
+  </script>
+</body>
+</html>
