@@ -15,12 +15,12 @@
     "domain": "walksteadfast.com",
     "domainNote": "Host is live.",
     "notice": "Texas",
-    "creed": "A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.",
+    "creed": "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.",
     "lockup": "STEADFAST MEN",
     "steadfast": "STEADFAST",
     "men": "MEN"
   },
-  "creed": "A real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.",
+  "creed": "A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.",
   "emails": {
     "hello": "hello@walksteadfast.com",
     "support": "support@walksteadfast.com",
@@ -35,20 +35,20 @@
   },
   "fourMarks": [
     {
-      "key": "passivity",
-      "title": "Rejects passivity"
+      "key": "stop-waiting",
+      "title": "Stop Waiting"
     },
     {
-      "key": "responsibility",
-      "title": "Accepts responsibility"
+      "key": "pick-up-the-weight",
+      "title": "Pick Up the Weight"
     },
     {
-      "key": "courage",
-      "title": "Leads courageously"
+      "key": "go-first",
+      "title": "Go First"
     },
     {
-      "key": "reward",
-      "title": "Expects the greater reward, God's reward"
+      "key": "work-for-gods-pay",
+      "title": "Work for God's Pay"
     }
   ],
   "nav": [
@@ -216,7 +216,8 @@
     "scripture": "",
     "body": [
       "You picked this up for a reason. Not the wedding. Not the promotion. A quiet Tuesday.",
-      "Here is the line we carry: a real man rejects passivity, accepts responsibility, leads courageously, and expects the greater reward, God's reward.",
+      "Here is the line we carry. A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.",
+      "God's pay is a Father's inheritance, not wages.",
       "Sit with it today. Do not wait for a feeling. Read it once out loud."
     ],
     "step": "Sit with the creed once today. Do not wait for a feeling."
