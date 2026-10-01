@@ -15,6 +15,18 @@
       ]
     },
     {
+      "source": "/t",
+      "headers": [{ "key": "X-Robots-Tag", "value": "noindex, nofollow" }]
+    },
+    {
+      "source": "/t-table",
+      "headers": [{ "key": "X-Robots-Tag", "value": "noindex, nofollow" }]
+    },
+    {
+      "source": "/t-doors",
+      "headers": [{ "key": "X-Robots-Tag", "value": "noindex, nofollow" }]
+    },
+    {
       "source": "/img/(.*)",
       "headers": [
         { "key": "Cache-Control", "value": "public, max-age=60, must-revalidate" }
