@@ -43,7 +43,8 @@
           <p>Print is not in the program yet. Support gifts are never commissioned. A table or campus license stays a quote, not a code. You do not earn on your own purchase.</p>
           <p>We hold the commission 30 days for refunds, then pay once a month once you are over $50. Over $600 in a year we need a W-9 before we pay. This is not a charity and not a tax receipt.</p>
         </div>
-        <p class="eyebrow" style="margin-top:28px">Reserve a code</p>
+        <p class="eyebrow" style="margin-top:28px">Create your code</p>
+        <p class="lede">Type the tag you will say. Letters and numbers. Four to twelve. This is yours.</p>
         <form class="quiet-form" id="aff-form">
           <label for="an">Name</label>
           <input id="an" name="name" required>
@@ -52,9 +53,10 @@
           <label for="aw">Where you will tell men</label>
           <input id="aw" name="where" placeholder="Church, YouTube, table, list" required>
           <label for="ac">Your code</label>
-          <input id="ac" name="code" maxlength="12" placeholder="WES10" required autocomplete="off">
-          <button class="btn btn-gold" type="submit">Reserve this code</button>
-          <p class="quiet-note" id="aff-ok" hidden>Reserved. Checkout is still in test, so the code starts working when live payments are on. We will email you.</p>
+          <input id="ac" name="code" maxlength="12" placeholder="WES10" required autocomplete="off" style="font-size:22px;letter-spacing:.08em;text-transform:uppercase">
+          <p class="code-tag" id="aff-tag" aria-live="polite">YOUR CODE · ----</p>
+          <button class="btn btn-gold" type="submit">Create my code</button>
+          <p class="quiet-note" id="aff-ok" hidden></p>
         </form>
       </div>
       <div>
@@ -109,11 +111,19 @@
   <script src="site.js"></script>
   <script>
     document.getElementById("y") && (document.getElementById("y").textContent = new Date().getFullYear());
+    var tag = document.getElementById("aff-tag");
+    document.getElementById("ac").addEventListener("input", function () {
+      var code = this.value.toUpperCase().replace(/[^A-Z0-9]/g, "").slice(0, 12);
+      this.value = code;
+      tag.textContent = "YOUR CODE · " + (code || "----");
+    });
     document.getElementById("aff-form").addEventListener("submit", function (e) {
       e.preventDefault();
       var code = (document.getElementById("ac").value || "").toUpperCase().replace(/[^A-Z0-9]/g, "");
       if (code.length < 4) { document.getElementById("ac").setCustomValidity("Four letters or numbers"); document.getElementById("ac").reportValidity(); return; }
+      document.getElementById("ac").setCustomValidity("");
       document.getElementById("ac").value = code;
+      tag.textContent = "YOUR CODE · " + code;
       var name = document.getElementById("an").value;
       var email = document.getElementById("ae").value;
       var where = document.getElementById("aw").value;
@@ -123,9 +133,11 @@
         list.push({ at: new Date().toISOString(), name: name, email: email, where: where, code: code });
         localStorage.setItem(key, JSON.stringify(list));
       } catch (err) {}
-      document.getElementById("aff-ok").hidden = false;
+      var ok = document.getElementById("aff-ok");
+      ok.hidden = false;
+      ok.textContent = "Created " + code + ". Copy that tag. It takes 10% off when live checkout is on. We have the hold at groups@.";
       this.querySelectorAll("input, button").forEach(function (el) { el.disabled = true; });
-      var subject = encodeURIComponent("Affiliate code hold · " + code);
+      var subject = encodeURIComponent("Affiliate code created · " + code);
       var body = encodeURIComponent("Name: " + name + "\nEmail: " + email + "\nWhere: " + where + "\nCode: " + code);
       window.location.href = "mailto:groups@walksteadfast.com?subject=" + subject + "&body=" + body;
     });

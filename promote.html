@@ -39,7 +39,8 @@
         <p>You already talk to men. If Steadfast is the same work, send them with your code. They pay 10% less. You earn 25% of the ebook, 20% of training and the bundle. If you run a table of 3–7 and we approve it, 30% on training and the bundle.</p>
         <p>Print is not in yet. Support gifts are never commissioned. A church license stays a quote to groups@, not a code. You do not earn on your own buy.</p>
       </div>
-      <p class="eyebrow" style="margin-top:28px">Pick the code you will say</p>
+      <p class="eyebrow" style="margin-top:28px">Create your code</p>
+      <p class="lede">Type the tag you will say out loud.</p>
       <form class="quiet-form" id="pro-form">
         <label for="pn">Name</label>
         <input id="pn" name="name" required>
@@ -47,10 +48,11 @@
         <input id="pe" name="email" type="email" required>
         <label for="pw">Church, channel, or table</label>
         <input id="pw" name="where" required>
-        <label for="pc">Code</label>
-        <input id="pc" name="code" maxlength="12" placeholder="TABLE10" required>
-        <button class="btn btn-gold" type="submit">Reserve this code</button>
-        <p class="quiet-note" id="pro-ok" hidden>Held. The discount starts when live checkout is on. We email you before you should publish the code.</p>
+        <label for="pc">Your code</label>
+        <input id="pc" name="code" maxlength="12" placeholder="TABLE10" required style="font-size:22px;letter-spacing:.08em;text-transform:uppercase">
+        <p class="code-tag" id="pro-tag">YOUR CODE · ----</p>
+        <button class="btn btn-gold" type="submit">Create my code</button>
+        <p class="quiet-note" id="pro-ok" hidden></p>
       </form>
       <div class="quiet-next">
         <a href="affiliates.html">
@@ -107,15 +109,25 @@
   <script src="site.js"></script>
   <script>
     document.getElementById("y") && (document.getElementById("y").textContent = new Date().getFullYear());
+    var tag = document.getElementById("pro-tag");
+    document.getElementById("pc").addEventListener("input", function () {
+      var code = this.value.toUpperCase().replace(/[^A-Z0-9]/g, "").slice(0, 12);
+      this.value = code;
+      tag.textContent = "YOUR CODE · " + (code || "----");
+    });
     document.getElementById("pro-form").addEventListener("submit", function (e) {
       e.preventDefault();
       var code = (document.getElementById("pc").value || "").toUpperCase().replace(/[^A-Z0-9]/g, "");
       if (code.length < 4) { document.getElementById("pc").setCustomValidity("Four letters or numbers"); document.getElementById("pc").reportValidity(); return; }
+      document.getElementById("pc").setCustomValidity("");
       document.getElementById("pc").value = code;
+      tag.textContent = "YOUR CODE · " + code;
       var name = document.getElementById("pn").value, email = document.getElementById("pe").value, where = document.getElementById("pw").value;
-      document.getElementById("pro-ok").hidden = false;
+      var ok = document.getElementById("pro-ok");
+      ok.hidden = false;
+      ok.textContent = "Created " + code + ". Copy that tag. It takes 10% off when live checkout is on.";
       this.querySelectorAll("input, button").forEach(function (el) { el.disabled = true; });
-      var subject = encodeURIComponent("Promoter code hold · " + code);
+      var subject = encodeURIComponent("Promoter code created · " + code);
       var body = encodeURIComponent("Name: " + name + "\nEmail: " + email + "\nWhere: " + where + "\nCode: " + code);
       window.location.href = "mailto:groups@walksteadfast.com?subject=" + subject + "&body=" + body;
     });

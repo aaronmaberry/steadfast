@@ -41,4 +41,14 @@
 .quiet-next h3 { font-size: 20px; margin-bottom: 6px; }
 .quiet-next p { color: var(--muted); font-size: 14px; }
 @media (max-width: 700px) { .quiet-next { grid-template-columns: 1fr; } }
-.quiet-note { font-family: var(--mono); font-size: 12px; color: var(--faint); }
+.code-tag {
+  display: inline-block;
+  margin: 8px 0 4px;
+  padding: 10px 14px;
+  border: 1px solid var(--accent);
+  border-radius: 8px;
+  color: var(--text);
+  font-family: var(--mono);
+  letter-spacing: .12em;
+  font-size: 14px;
+}
