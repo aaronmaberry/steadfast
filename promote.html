@@ -39,8 +39,8 @@
         <p>You already talk to men. If Steadfast is the same work, send them with your code. They pay 10% less. You earn 25% of the ebook, 20% of training and the bundle. If you run a table of 3–7 and we approve it, 30% on training and the bundle.</p>
         <p>Print is not in yet. Support gifts are never commissioned. A church license stays a quote to groups@, not a code. You do not earn on your own buy.</p>
       </div>
-      <p class="eyebrow" style="margin-top:28px">Create your code</p>
-      <p class="lede">Type the tag you will say out loud.</p>
+      <p class="eyebrow" style="margin-top:28px">Create your own code</p>
+      <p class="lede">You name it. Any word you want. Your church, your last name, your table. Not a code we hand you.</p>
       <form class="quiet-form" id="pro-form">
         <label for="pn">Name</label>
         <input id="pn" name="name" required>
@@ -48,8 +48,9 @@
         <input id="pe" name="email" type="email" required>
         <label for="pw">Church, channel, or table</label>
         <input id="pw" name="where" required>
-        <label for="pc">Your code</label>
-        <input id="pc" name="code" maxlength="12" placeholder="TABLE10" required style="font-size:22px;letter-spacing:.08em;text-transform:uppercase">
+        <label for="pc">Type the code you want</label>
+        <input id="pc" name="code" maxlength="12" placeholder="Type any name, like HALE10" required style="font-size:22px;letter-spacing:.08em;text-transform:uppercase">
+        <p class="quiet-note">Letters and numbers. Four to twelve. Example: HALE10, TABLE7, MENWED. Skip Steadfast, Go First, and Four Marks. Those are the house.</p>
         <p class="code-tag" id="pro-tag">YOUR CODE · ----</p>
         <button class="btn btn-gold" type="submit">Create my code</button>
         <p class="quiet-note" id="pro-ok" hidden></p>
@@ -118,7 +119,8 @@
     document.getElementById("pro-form").addEventListener("submit", function (e) {
       e.preventDefault();
       var code = (document.getElementById("pc").value || "").toUpperCase().replace(/[^A-Z0-9]/g, "");
-      if (code.length < 4) { document.getElementById("pc").setCustomValidity("Four letters or numbers"); document.getElementById("pc").reportValidity(); return; }
+      if (code.length < 4) { document.getElementById("pc").setCustomValidity("Four letters or numbers. Any name you want."); document.getElementById("pc").reportValidity(); return; }
+      if (/^(STEADFAST|GOFIRST|FOURMARKS)$/.test(code)) { document.getElementById("pc").setCustomValidity("That name is the house. Pick your own."); document.getElementById("pc").reportValidity(); return; }
       document.getElementById("pc").setCustomValidity("");
       document.getElementById("pc").value = code;
       tag.textContent = "YOUR CODE · " + code;

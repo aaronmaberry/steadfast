@@ -43,8 +43,8 @@
           <p>Print is not in the program yet. Support gifts are never commissioned. A table or campus license stays a quote, not a code. You do not earn on your own purchase.</p>
           <p>We hold the commission 30 days for refunds, then pay once a month once you are over $50. Over $600 in a year we need a W-9 before we pay. This is not a charity and not a tax receipt.</p>
         </div>
-        <p class="eyebrow" style="margin-top:28px">Create your code</p>
-        <p class="lede">Type the tag you will say. Letters and numbers. Four to twelve. This is yours.</p>
+        <p class="eyebrow" style="margin-top:28px">Create your own code</p>
+        <p class="lede">You name it. Any word you want. Your church, your last name, your table. Not a code we hand you.</p>
         <form class="quiet-form" id="aff-form">
           <label for="an">Name</label>
           <input id="an" name="name" required>
@@ -52,8 +52,9 @@
           <input id="ae" name="email" type="email" required>
           <label for="aw">Where you will tell men</label>
           <input id="aw" name="where" placeholder="Church, YouTube, table, list" required>
-          <label for="ac">Your code</label>
-          <input id="ac" name="code" maxlength="12" placeholder="WES10" required autocomplete="off" style="font-size:22px;letter-spacing:.08em;text-transform:uppercase">
+          <label for="ac">Type the code you want</label>
+          <input id="ac" name="code" maxlength="12" placeholder="Type any name, like HALE10" required autocomplete="off" style="font-size:22px;letter-spacing:.08em;text-transform:uppercase">
+          <p class="quiet-note">Letters and numbers. Four to twelve. Example: HALE10, TABLE7, MENWED. Skip Steadfast, Go First, and Four Marks. Those are the house.</p>
           <p class="code-tag" id="aff-tag" aria-live="polite">YOUR CODE · ----</p>
           <button class="btn btn-gold" type="submit">Create my code</button>
           <p class="quiet-note" id="aff-ok" hidden></p>
@@ -120,7 +121,8 @@
     document.getElementById("aff-form").addEventListener("submit", function (e) {
       e.preventDefault();
       var code = (document.getElementById("ac").value || "").toUpperCase().replace(/[^A-Z0-9]/g, "");
-      if (code.length < 4) { document.getElementById("ac").setCustomValidity("Four letters or numbers"); document.getElementById("ac").reportValidity(); return; }
+      if (code.length < 4) { document.getElementById("ac").setCustomValidity("Four letters or numbers. Any name you want."); document.getElementById("ac").reportValidity(); return; }
+      if (/^(STEADFAST|GOFIRST|FOURMARKS)$/.test(code)) { document.getElementById("ac").setCustomValidity("That name is the house. Pick your own."); document.getElementById("ac").reportValidity(); return; }
       document.getElementById("ac").setCustomValidity("");
       document.getElementById("ac").value = code;
       tag.textContent = "YOUR CODE · " + code;
