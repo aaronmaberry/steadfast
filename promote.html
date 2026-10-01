@@ -120,7 +120,7 @@
       e.preventDefault();
       var code = (document.getElementById("pc").value || "").toUpperCase().replace(/[^A-Z0-9]/g, "");
       if (code.length < 4) { document.getElementById("pc").setCustomValidity("Four letters or numbers. Any name you want."); document.getElementById("pc").reportValidity(); return; }
-      if (/^(STEADFAST|GOFIRST|FOURMARKS)$/.test(code)) { document.getElementById("pc").setCustomValidity("That name is the house. Pick your own."); document.getElementById("pc").reportValidity(); return; }
+      if (/STEADFAST|GOFIRST|FOURMARKS/.test(code)) { document.getElementById("pc").setCustomValidity("That name is the house. Pick your own."); document.getElementById("pc").reportValidity(); return; }
       document.getElementById("pc").setCustomValidity("");
       document.getElementById("pc").value = code;
       tag.textContent = "YOUR CODE · " + code;
