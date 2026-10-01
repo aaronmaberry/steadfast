@@ -420,13 +420,22 @@ section { padding: 112px 0; position: relative; }
   border-radius: 14px; border: 1px solid var(--line);
 }
 
-.marks { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; }
+.marks {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+  align-items: stretch;
+  grid-auto-rows: 1fr;
+}
 .mark {
   background: var(--surface);
   border: 1px solid var(--line);
-  padding: 28px 24px 32px;
-  min-height: 240px;
+  padding: 16px 16px 18px;
+  min-height: 0;
+  height: 100%;
   border-radius: 14px;
+  display: flex;
+  flex-direction: column;
   transition: transform .35s var(--ease), border-color .35s var(--ease), box-shadow .35s var(--ease);
 }
 .mark:hover {
@@ -436,7 +445,7 @@ section { padding: 112px 0; position: relative; }
 }
 .mark b {
   display: block; font-family: var(--mono); font-size: 12px; font-weight: 500;
-  color: var(--accent); margin-bottom: 18px; letter-spacing: 0.08em;
+  color: var(--accent); margin-bottom: 10px; letter-spacing: 0.08em;
 }
 .mark h3 { margin-bottom: 10px; font-size: 24px; }
 .mark p { color: var(--muted); font-size: 14px; line-height: 1.55; }
@@ -447,6 +456,7 @@ section { padding: 112px 0; position: relative; }
   color: #c4c4cc;
   font-style: italic;
 }
+.mark .mark-verse { margin-top: auto; padding-top: 12px; }
 .mark-verse cite {
   display: block;
   margin-top: 8px;
@@ -693,21 +703,26 @@ input:focus, select:focus, textarea:focus, .btn:focus-visible, a:focus-visible {
 .path-grid {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 14px;
+  gap: 8px;
+  align-items: stretch;
+  grid-auto-rows: 1fr;
 }
 .path-grid article {
   background: var(--surface);
   border: 1px solid var(--line);
   border-radius: 14px;
-  padding: 22px 20px 24px;
+  padding: 14px 14px 16px;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
 }
-.path-grid h3 { margin: 8px 0 16px; font-size: 22px; }
-.path-list { list-style: none; }
+.path-grid h3 { margin: 6px 0 10px; font-size: 22px; }
+.path-list { list-style: none; margin-top: auto; }
 .path-list li {
   display: grid;
   grid-template-columns: 28px 1fr;
   gap: 10px;
-  padding: 10px 0;
+  padding: 7px 0;
   border-top: 1px solid var(--line);
   font-size: 14px;
   line-height: 1.45;
@@ -1044,12 +1059,26 @@ input:focus, select:focus, textarea:focus, .btn:focus-visible, a:focus-visible {
   border: 1px solid var(--line); border-radius: 999px; padding: 6px 12px;
 }
 .subnav a.on, .subnav a:hover { color: var(--text); border-color: var(--text); }
-.mark-jump { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin-bottom: 28px; }
+.mark-jump {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+  margin-bottom: 8px;
+  align-items: stretch;
+  grid-auto-rows: 1fr;
+}
 .mark-jump a {
-  display: block; text-decoration: none; color: inherit;
-  border: 1px solid var(--line); border-radius: 14px; padding: 16px;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  text-decoration: none;
+  color: inherit;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 10px 12px;
   background: rgba(18,18,24,.35);
 }
+.mark-jump a h3 { margin-top: auto; }
 .mark-jump a:hover { border-color: var(--text); }
 .bulk-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
 
@@ -1116,7 +1145,8 @@ input:focus, select:focus, textarea:focus, .btn:focus-visible, a:focus-visible {
     border-bottom: 1px solid var(--line);
   }
   .nav-links.open { display: flex; }
-  .mark, .person img, .split img { height: auto; min-height: 280px; }
+  .person img, .split img { height: auto; min-height: 280px; }
+  .mark { min-height: 0; }
   .sticky-cta { left: 16px; right: 16px; text-align: center; }
   .look figure { height: 220px; }
   section { padding: 72px 0; }
@@ -1236,4 +1266,37 @@ body.sheet-open {
   background: transparent;
   color: var(--text);
   cursor: pointer;
+}
+
+/* Four-marks blocks only: pull in the section that holds the tiles
+   and the sections that sit directly above and below it. */
+.rail-wrap:has(+ section .marks) { padding: 22px 0 24px; }
+section:has(.marks),
+section:has(.marks) + section,
+section:has(.path-grid),
+section:has(.path-grid) + section,
+section.train-band:has(+ section .path-grid),
+section:has(.mark-jump),
+section:has(.mark-jump) + section,
+section:has(+ section .mark-jump) {
+  padding-top: 72px;
+  padding-bottom: 72px;
+}
+section:has(.marks) > .wrap > h2 { margin-bottom: 22px !important; }
+section:has(.path-grid) > .wrap > .lede { margin-bottom: 20px !important; }
+section:has(.mark-jump) > .wrap > h2 { margin-bottom: 14px !important; }
+
+@media (max-width: 900px) {
+  .rail-wrap:has(+ section .marks) { padding: 16px 0 18px; }
+  section:has(.marks),
+  section:has(.marks) + section,
+  section:has(.path-grid),
+  section:has(.path-grid) + section,
+  section.train-band:has(+ section .path-grid),
+  section:has(.mark-jump),
+  section:has(.mark-jump) + section,
+  section:has(+ section .mark-jump) {
+    padding-top: 48px;
+    padding-bottom: 48px;
+  }
 }
