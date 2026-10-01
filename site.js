@@ -22,7 +22,7 @@ const devotionals = [
   {
     title: "Work for a better country",
     verse: "“For he was looking forward to the city that has foundations, whose designer and builder is God.” — Hebrews 11:10",
-    body: "If the only reward you are building toward is comfort, you will fold when comfort is threatened. Lift your eyes. The greater reward holds when payday does not."
+    body: "If the only reward you are building toward is comfort, you will fold when comfort is threatened. Lift your eyes. God’s pay holds when payday does not."
   },
   {
     title: "A soft answer is not a soft man",
