@@ -52,3 +52,9 @@
   letter-spacing: .12em;
   font-size: 14px;
 }
+.code-rules {
+  font-size: 11px;
+  color: #8a8a93;
+  line-height: 1.4;
+  margin-top: 6px;
+}
