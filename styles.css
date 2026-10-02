@@ -106,15 +106,16 @@ a { color: inherit; }
 .wrap { width: min(var(--wrap), calc(100% - 48px)); margin: 0 auto; }
 .give-split .wrap {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr;
+  justify-items: center;
   gap: 32px;
   align-items: center;
 }
 .give-split .end-copy {
-  grid-column: 2;
+  grid-column: 1;
   text-align: center;
-  margin: 0;
-  max-width: none;
+  margin: 0 auto;
+  max-width: 40rem;
   width: 100%;
 }
 .give-split .end-copy h2,
@@ -808,7 +809,23 @@ input:focus, select:focus, textarea:focus, .btn:focus-visible, a:focus-visible {
 .deliver article p { max-width: 34ch; }
 
 .give-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 64px; align-items: start; }
-.cadence { display: flex; gap: 8px; margin-bottom: 16px; }
+.cadence { display: flex; justify-content: center; gap: 8px; margin-bottom: 16px; }
+.give-label-options {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 48px;
+  margin-top: 36px;
+}
+.give-label-options article { text-align: center; }
+.give-label-options .cadence { flex-wrap: wrap; }
+.give-label-options .btn { margin-top: 8px; }
+@media (min-width: 900px) {
+  .give-label-options {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 28px;
+    align-items: start;
+  }
+}
 .cadence button, .amt {
   background: transparent;
   border: 1px solid var(--line);
