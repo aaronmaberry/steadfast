@@ -58,4 +58,4 @@ The apostrophe in God’s and room’s is the typographic apostrophe already use
 
 ## Reader behavior (site)
 
-Opening a track opens a full-screen reading view. A share link is `https://www.walksteadfast.com/daily?day=YYYY-MM-DD`. A hash of `#day=YYYY-MM-DD` also opens that day. Like and the private note are per device until a backend adapter is attached in `daily-engage.js`. There is no public comment thread.
+Opening a track opens a full-screen reading view. A share link is `https://www.walksteadfast.com/daily?day=YYYY-MM-DD`. A hash of `#day=YYYY-MM-DD` also opens that day. Like and comments go through the adapter in `daily-engage.js`. This preview stores both on the device. The comment sheet is the public shape: a list with name, relative time, and text, an empty state, a name field and a text field, and a Report control on each comment. The copy says public comments are coming soon. No backend is attached.

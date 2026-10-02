@@ -44,7 +44,7 @@ test("day parser accepts a query param or a hash", function () {
   assert.equal(engage.parseDailyDay("", "#nope"), null);
 });
 
-test("local like and private note stay on the device store, per date", async function () {
+test("local like and comments stay on the device store, per date", async function () {
   const storage = engage.memoryStorage();
   const adapter = engage.createStorageAdapter(storage);
   engage.setAdapter(adapter);
@@ -53,15 +53,48 @@ test("local like and private note stay on the device store, per date", async fun
   assert.equal(await engage.setLike("2026-10-03", false), false);
   assert.equal(await engage.getLike("2026-10-02"), true);
   assert.equal(await engage.getLike("2026-10-03"), false);
-  assert.equal(await engage.setNote("2026-10-02", "Kept this on my phone."), "Kept this on my phone.");
-  assert.equal(await engage.getNote("2026-10-02"), "Kept this on my phone.");
-  assert.equal(await engage.getNote("2026-10-03"), "");
-  assert.equal(await engage.setNote("2026-10-02", ""), "");
-  assert.equal(await engage.getNote("2026-10-02"), "");
+  assert.deepEqual(await engage.getComments("2026-10-02"), []);
+  await engage.setDisplayName("  Aaron  ");
+  assert.equal(await engage.getDisplayName(), "Aaron");
+  const saved = await engage.addComment("2026-10-02", {
+    name: "Aaron",
+    text: "The row is still mine."
+  });
+  assert.equal(saved.name, "Aaron");
+  assert.equal(saved.text, "The row is still mine.");
+  assert.equal(saved.reported, false);
+  assert.equal(typeof saved.id, "string");
+  assert.equal(typeof saved.createdAt, "number");
+  const list = await engage.getComments("2026-10-02");
+  assert.equal(list.length, 1);
+  assert.equal(list[0].text, "The row is still mine.");
+  assert.deepEqual(await engage.getComments("2026-10-03"), []);
+  const reported = await engage.reportComment("2026-10-02", saved.id);
+  assert.equal(reported.reported, true);
+  assert.equal((await engage.getComments("2026-10-02"))[0].reported, true);
+  assert.equal(await engage.reportComment("2026-10-02", "missing"), null);
+  await assert.rejects(function () {
+    return engage.addComment("2026-10-02", { name: "  ", text: "Hello" });
+  });
+  await assert.rejects(function () {
+    return engage.addComment("2026-10-02", { name: "Aaron", text: "   " });
+  });
   const rawLikes = JSON.parse(storage.getItem("steadfast.daily.likes"));
   assert.equal(rawLikes["2026-10-02"], true);
   assert.equal(Object.hasOwn(rawLikes, "2026-10-03"), false);
+  const rawComments = JSON.parse(storage.getItem("steadfast.daily.comments"));
+  assert.equal(rawComments["2026-10-02"][0].name, "Aaron");
   engage.setAdapter(null);
+});
+
+test("relative time uses short labels", function () {
+  const now = Date.UTC(2026, 9, 2, 15, 0, 0);
+  assert.equal(engage.formatRelativeTime(now - 20 * 1000, now), "just now");
+  assert.equal(engage.formatRelativeTime(now - 5 * 60 * 1000, now), "5m ago");
+  assert.equal(engage.formatRelativeTime(now - 2 * 60 * 60 * 1000, now), "2h ago");
+  assert.equal(engage.formatRelativeTime(now - 3 * 24 * 60 * 60 * 1000, now), "3d ago");
+  assert.equal(engage.formatRelativeTime(now - 14 * 24 * 60 * 60 * 1000, now), "2w ago");
+  assert.equal(engage.formatRelativeTime(Date.UTC(2026, 7, 12, 12, 0, 0), now), "Aug 12");
 });
 
 test("October 2 through 6 keep their verses and the longer section lengths", function () {

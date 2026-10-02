@@ -185,11 +185,6 @@
     api.getLike(date).then(function (on) {
       if (state.date === date) paintLike(on);
     }).catch(function () {});
-    api.getNote(date).then(function (note) {
-      if (state.date !== date) return;
-      var button = reader.querySelector("[data-reader-comment]");
-      button.setAttribute("aria-expanded", note ? "true" : "false");
-    }).catch(function () {});
   }
 
   function render(item, date) {
@@ -222,31 +217,103 @@
     if (!noteLayer || noteLayer.hidden) return;
     noteLayer.hidden = true;
     var comment = reader.querySelector("[data-reader-comment]");
-    if (comment) comment.focus({ preventScroll: true });
+    if (comment) {
+      comment.setAttribute("aria-expanded", "false");
+      comment.focus({ preventScroll: true });
+    }
   }
 
-  function persistNote() {
+  function renderComments(list) {
+    var box = reader.querySelector("[data-comment-list]");
+    var empty = reader.querySelector("[data-comment-empty]");
     var api = engage();
-    if (!api || !state.date) return Promise.resolve("");
-    var value = reader.querySelector("[data-reader-note]").value;
-    return api.setNote(state.date, value).then(function (saved) {
-      reader.querySelector("[data-note-status]").textContent = "Saved on this device.";
-      reader.querySelector("[data-reader-comment]").setAttribute("aria-expanded", saved ? "true" : "false");
-      return saved;
+    box.replaceChildren();
+    var items = list || [];
+    empty.hidden = items.length > 0;
+    items.forEach(function (comment) {
+      var article = document.createElement("article");
+      article.className = "comment";
+      article.setAttribute("role", "listitem");
+      var meta = document.createElement("div");
+      meta.className = "comment-meta";
+      var name = document.createElement("span");
+      name.className = "comment-name";
+      name.textContent = comment.name;
+      var time = document.createElement("time");
+      time.dateTime = new Date(comment.createdAt).toISOString();
+      time.textContent = api ? api.formatRelativeTime(comment.createdAt, Date.now()) : "";
+      meta.appendChild(name);
+      meta.appendChild(time);
+      var body = document.createElement("p");
+      body.className = "comment-text";
+      body.textContent = comment.text;
+      var report = document.createElement("button");
+      report.type = "button";
+      report.className = "comment-report";
+      report.setAttribute("data-comment-report", comment.id);
+      if (comment.reported) {
+        report.textContent = "Reported";
+        report.disabled = true;
+      } else {
+        report.textContent = "Report";
+      }
+      article.appendChild(meta);
+      article.appendChild(body);
+      article.appendChild(report);
+      box.appendChild(article);
     });
+  }
+
+  function postComment(event) {
+    if (event) event.preventDefault();
+    var api = engage();
+    var status = reader.querySelector("[data-note-status]");
+    if (!api || !state.date) return;
+    var name = reader.querySelector("[data-comment-name]").value;
+    var text = reader.querySelector("[data-comment-text]").value;
+    if (!String(name).trim() || !String(text).trim()) {
+      status.textContent = "Add your name and a comment.";
+      return;
+    }
+    api.setDisplayName(name).then(function () {
+      return api.addComment(state.date, { name: name, text: text });
+    }).then(function () {
+      return api.getComments(state.date);
+    }).then(function (list) {
+      if (state.date) renderComments(list);
+      reader.querySelector("[data-comment-text]").value = "";
+      status.textContent = "Saved on this device.";
+    }).catch(function () {
+      status.textContent = "Could not save that comment.";
+    });
+  }
+
+  function reportComment(id) {
+    var api = engage();
+    if (!api || !state.date || !id) return;
+    api.reportComment(state.date, id).then(function (saved) {
+      if (!saved) return;
+      return api.getComments(state.date);
+    }).then(function (list) {
+      if (!list) return;
+      renderComments(list);
+      reader.querySelector("[data-note-status]").textContent = "Report saved on this device.";
+    }).catch(function () {});
   }
 
   function openNote() {
     var api = engage();
     if (!api || !state.date) return;
     noteLayer.hidden = false;
+    reader.querySelector("[data-reader-comment]").setAttribute("aria-expanded", "true");
     reader.querySelector("[data-note-status]").textContent = "";
-    api.getNote(state.date).then(function (note) {
-      var field = reader.querySelector("[data-reader-note]");
-      field.value = note || "";
-      field.focus();
+    Promise.all([api.getComments(state.date), api.getDisplayName()]).then(function (result) {
+      renderComments(result[0]);
+      var nameField = reader.querySelector("[data-comment-name]");
+      if (!nameField.value) nameField.value = result[1] || "";
+      (nameField.value ? reader.querySelector("[data-comment-text]") : nameField).focus();
     }).catch(function () {
-      reader.querySelector("[data-reader-note]").focus();
+      reader.querySelector("[data-comment-name]").focus();
     });
   }
 
@@ -279,7 +346,6 @@
   function close() {
     if (!reader || reader.hidden) return;
     if (!noteLayer.hidden) {
-      persistNote();
       closeNote();
       return;
     }
@@ -353,21 +419,30 @@
       '<div data-reader-body></div>',
       '<div class="reader-actions" data-reader-actions>',
       '<button type="button" data-reader-like aria-pressed="false"><span data-heart></span><span>Like</span></button>',
-      '<button type="button" data-reader-comment aria-haspopup="dialog" aria-controls="reader-note" aria-expanded="false"><span>' + iconComment() + '</span><span>Comment</span></button>',
+      '<button type="button" data-reader-comment aria-haspopup="dialog" aria-controls="reader-comments" aria-expanded="false"><span>' + iconComment() + '</span><span>Comment</span></button>',
       '<button type="button" data-reader-share-row><span>' + iconShare() + '</span><span>Share</span></button>',
       "</div>",
       "</article>",
       "</div>",
       '<div class="note-layer" data-reader-note-layer hidden>',
-      '<div class="note-sheet" id="reader-note" role="dialog" aria-modal="true" aria-labelledby="reader-note-title">',
-      '<h2 id="reader-note-title">Private note</h2>',
-      '<p class="note-help">This stays on your device. It is saved in this browser only, and nobody else can read it.</p>',
-      '<textarea data-reader-note aria-label="Private note"></textarea>',
+      '<div class="note-sheet" id="reader-comments" role="dialog" aria-modal="true" aria-labelledby="reader-note-title">',
+      '<div class="comment-head">',
+      '<h2 id="reader-note-title">Comments</h2>',
+      '<button type="button" class="comment-dismiss" data-note-close aria-label="Close comments">',
+      '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>',
+      "</button>",
+      "</div>",
+      '<p class="note-help">Public comments are coming soon. For now, comments stay on this device.</p>',
+      '<div class="comment-list" data-comment-list role="list"></div>',
+      '<p class="comment-empty" data-comment-empty>No comments yet.</p>',
+      '<form class="comment-composer" data-comment-form>',
+      '<label class="comment-label">Name<input type="text" name="name" data-comment-name maxlength="40" autocomplete="nickname" enterkeyhint="next"></label>',
+      '<label class="comment-label">Comment<textarea name="text" data-comment-text maxlength="500" rows="3" enterkeyhint="send"></textarea></label>',
       '<p class="note-status" data-note-status role="status"></p>',
       '<div class="note-actions">',
-      '<button type="button" data-note-save>Save</button>',
-      '<button type="button" data-note-close>Close</button>',
+      '<button type="submit" data-note-save>Post</button>',
       "</div>",
+      "</form>",
       "</div>",
       "</div>"
     ].join("");
@@ -394,12 +469,15 @@
       api.setLike(state.date, next).then(function (on) { paintLike(on); }).catch(function () {});
     });
     reader.querySelector("[data-reader-comment]").addEventListener("click", openNote);
-    reader.querySelector("[data-note-save]").addEventListener("click", function () { persistNote(); });
-    reader.querySelector("[data-note-close]").addEventListener("click", function () {
-      persistNote().then(function () { closeNote(); });
+    reader.querySelector("[data-comment-form]").addEventListener("submit", postComment);
+    reader.querySelector("[data-comment-list]").addEventListener("click", function (event) {
+      var button = event.target.closest("[data-comment-report]");
+      if (!button || button.disabled) return;
+      reportComment(button.getAttribute("data-comment-report"));
     });
+    reader.querySelector("[data-note-close]").addEventListener("click", closeNote);
     noteLayer.addEventListener("click", function (event) {
-      if (event.target === noteLayer) persistNote().then(function () { closeNote(); });
+      if (event.target === noteLayer) closeNote();
     });
     document.addEventListener("keydown", onKeydown, true);
     window.addEventListener("popstate", function () {
