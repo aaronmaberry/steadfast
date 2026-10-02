@@ -10,6 +10,13 @@ const AVG_SILENT = 202;
 const AVG_CHALLENGE = 105;
 const AVG_PRAYER = 44;
 const DATES = ["2026-10-02", "2026-10-03", "2026-10-04", "2026-10-05", "2026-10-06"];
+const QUESTIONS = {
+  "2026-10-02": "What good are you most tempted to drop today?",
+  "2026-10-03": "What has been living in you this week that your house has had to carry?",
+  "2026-10-04": "What keeps you from staying long enough for one person to find you?",
+  "2026-10-05": "Which have you been skipping: justice, mercy, or a humble walk?",
+  "2026-10-06": "Who will you ask today where you are dull?"
+};
 const VERSES = {
   "2026-10-02": ["Galatians 6:9", "Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up."],
   "2026-10-03": ["Proverbs 4:23", "Above all else, guard your heart, for everything you do flows from it."],
@@ -105,6 +112,12 @@ test("October 2 through 6 keep their verses and the longer section lengths", fun
     assert.equal(item.verseRef, VERSES[date][0]);
     assert.equal(item.verse, VERSES[date][1]);
     assert.equal(item.body, item.carryBody);
+    assert.equal(item.discussionQuestion, QUESTIONS[date]);
+    assert.equal(Object.hasOwn(item, "comments"), false);
+    const question = item.discussionQuestion;
+    assert.equal(/[—–]| - /.test(question), false, date + " question dash");
+    assert.equal(/not just/i.test(question), false);
+    assert.equal(/\breal man\b/i.test(question), false);
     const silent = words(item.silentBody);
     const challenge = words(item.carryBody);
     const prayer = words(item.prayer);
