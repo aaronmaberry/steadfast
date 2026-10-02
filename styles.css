@@ -1320,26 +1320,32 @@ body.reader-open::before { opacity: 0; }
 .reader-close,
 .reader-share-bubble {
   position: fixed;
-  z-index: 3;
-  top: calc(12px + env(safe-area-inset-top, 0px));
+  z-index: 4;
+  top: calc(env(safe-area-inset-top, 0px) + 10px);
   width: 44px;
   height: 44px;
   display: grid;
   place-items: center;
   padding: 0;
   cursor: pointer;
-  color: #f4f4f5;
-}
-.reader-close {
-  left: calc(12px + env(safe-area-inset-left, 0px));
-  background: transparent;
+  color: #fff;
   border: 0;
-}
-.reader-share-bubble {
-  right: calc(12px + env(safe-area-inset-right, 0px));
   border-radius: 50%;
-  border: 1px solid rgba(255, 255, 255, 0.14);
-  background: #121218;
+  background: rgba(60, 60, 64, 0.75);
+  -webkit-backdrop-filter: blur(16px);
+  backdrop-filter: blur(16px);
+}
+.reader-close { left: calc(env(safe-area-inset-left, 0px) + 16px); }
+.reader-share-bubble { right: calc(env(safe-area-inset-right, 0px) + 16px); }
+.reader-scrim {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 3;
+  height: calc(90px + env(safe-area-inset-top, 0px));
+  pointer-events: none;
+  background: linear-gradient(to bottom, #07070a 0%, rgba(7, 7, 10, 0.82) 46%, rgba(7, 7, 10, 0) 100%);
 }
 .reader-scroll {
   height: 100%;
@@ -1349,64 +1355,36 @@ body.reader-open::before { opacity: 0; }
   overscroll-behavior: contain;
   touch-action: pan-y;
   scroll-behavior: auto;
-  padding: calc(72px + env(safe-area-inset-top, 0px)) calc(22px + env(safe-area-inset-right, 0px)) calc(48px + env(safe-area-inset-bottom, 0px)) calc(22px + env(safe-area-inset-left, 0px));
+  padding: calc(78px + env(safe-area-inset-top, 0px)) calc(22px + env(safe-area-inset-right, 0px)) calc(48px + env(safe-area-inset-bottom, 0px)) calc(22px + env(safe-area-inset-left, 0px));
 }
 .reader-measure {
   width: 100%;
-  max-width: 34em;
+  max-width: 36em;
   margin: 0 auto;
   font-family: Geist, sans-serif;
-  font-size: 18px;
-  line-height: 1.75;
-  color: #f4f4f5;
-}
-.reader h1,
-.reader h2,
-.reader h3 {
-  font-family: Geist, sans-serif;
-  font-weight: 500;
-  letter-spacing: -0.03em;
-  line-height: 1.3;
-  color: #f4f4f5;
-}
-.reader h1 {
-  font-size: 1.85rem;
-  margin: 0.2rem 0 1.15rem;
-}
-.reader h3 {
-  font-size: 1.35rem;
-  margin: 0 0 0.85rem;
-}
-.reader .reader-kicker,
-.reader .reader-k,
-.reader h2.reader-k {
-  font-family: "Geist Mono", ui-monospace, monospace;
-  font-size: 12px;
-  font-weight: 500;
-  letter-spacing: 0.08em;
-  line-height: 1.4;
-  text-transform: uppercase;
-  color: #8b9cff;
-}
-.reader .reader-kicker { margin: 0 0 0.85rem; }
-.reader .reader-k,
-.reader h2.reader-k { margin: 2.4rem 0 0.75rem; }
-.reader-measure p { margin: 0 0 1.05em; color: #f4f4f5; }
-.reader-measure p.reader-verse {
-  font-size: 1.35rem;
+  font-size: 17px;
   line-height: 1.55;
-  margin: 0 0 0.35rem;
   color: #f4f4f5;
+  text-align: left;
 }
-.reader-measure p.reader-ref {
-  margin: 0 0 0.4rem;
-  color: #a1a1aa;
-  font-family: "Geist Mono", ui-monospace, monospace;
-  font-size: 12px;
-  letter-spacing: 0.02em;
-  line-height: 1.4;
+.reader-sr {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
 }
-.reader-reflection { font-size: 1.15rem; line-height: 1.6; }
+.reader-measure p {
+  margin: 0 0 1.4em;
+  color: #f4f4f5;
+  font-size: 17px;
+  line-height: 1.55;
+  font-weight: 400;
+}
 .reader-actions {
   display: flex;
   justify-content: space-between;

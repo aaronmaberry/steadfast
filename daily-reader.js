@@ -25,12 +25,6 @@
     return null;
   }
 
-  function formatDate(date) {
-    var parsed = new Date(date + "T12:00:00");
-    if (isNaN(parsed.getTime())) return date || "";
-    return parsed.toLocaleDateString("en-US", { weekday: "long", month: "long", day: "numeric" });
-  }
-
   function plainVerse(verse) {
     return String(verse || "")
       .replace(/[“”]/g, '"')
@@ -41,8 +35,7 @@
       .trim();
   }
 
-  function fillParagraphs(el, text) {
-    el.replaceChildren();
+  function appendParagraphs(el, text) {
     String(text || "").split(/\n\n+/).forEach(function (part) {
       var trimmed = part.trim();
       if (!trimmed) return;
@@ -53,7 +46,7 @@
   }
 
   function iconShare() {
-    return '<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M12 4.5v9M8.5 8 12 4.5 15.5 8M6 13.5v4.2A1.8 1.8 0 0 0 7.8 19.5h8.4a1.8 1.8 0 0 0 1.8-1.8v-4.2" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+    return '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M12 3.2v8.6M8.7 6.4 12 3.2l3.3 3.2" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><path d="M8 10.2H7.1A1.8 1.8 0 0 0 5.3 12v6.2A1.8 1.8 0 0 0 7.1 20h9.8a1.8 1.8 0 0 0 1.8-1.8V12a1.8 1.8 0 0 0-1.8-1.8H16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>';
   }
 
   function iconHeart(filled) {
@@ -175,7 +168,7 @@
       scroller.scrollTop = 0;
       return;
     }
-    var top = target.getBoundingClientRect().top - scroller.getBoundingClientRect().top + scroller.scrollTop - 8;
+    var top = target.getBoundingClientRect().top - scroller.getBoundingClientRect().top + scroller.scrollTop - 88;
     scroller.scrollTop = Math.max(0, top);
   }
 
@@ -202,23 +195,25 @@
   function render(item, date) {
     state.date = date;
     state.item = item;
-    reader.querySelector("[data-reader-kicker]").textContent = formatDate(date);
     var title = reader.querySelector("#reader-title");
     var body = reader.querySelector("[data-reader-body]");
+    body.replaceChildren();
+    body.hidden = false;
     if (!item) {
       title.textContent = "This day is not in the walk yet.";
-      body.hidden = true;
+      appendParagraphs(body, "This day is not in the walk yet.");
     } else {
-      body.hidden = false;
       title.textContent = item.silentTitle || item.title || "Daily walk";
-      reader.querySelector("[data-reader-verse]").textContent = plainVerse(item.verse);
+      appendParagraphs(body, plainVerse(item.verse));
       var ref = String(item.verseRef || "").replace(/\s*NIV\s*$/i, "").trim();
-      reader.querySelector("[data-reader-ref]").textContent = ref ? ref + " NIV" : "";
-      fillParagraphs(reader.querySelector("[data-reader-silent]"), item.silentBody || item.body || "");
-      reader.querySelector("[data-reader-carry-title]").textContent = item.carryTitle || item.title || "";
-      fillParagraphs(reader.querySelector("[data-reader-challenge]"), item.carryBody || item.body || "");
-      reader.querySelector("[data-reader-reflection]").textContent = item.reflection || "";
-      fillParagraphs(reader.querySelector("[data-reader-prayer]"), item.prayer || "");
+      if (ref) appendParagraphs(body, ref + " NIV");
+      appendParagraphs(body, item.silentBody || item.body || "");
+      var challenge = document.createElement("div");
+      challenge.id = "reader-challenge";
+      appendParagraphs(challenge, item.carryBody || item.body || "");
+      body.appendChild(challenge);
+      appendParagraphs(body, item.reflection || "");
+      appendParagraphs(body, item.prayer || "");
     }
     refreshEngage(date);
   }
@@ -351,23 +346,11 @@
       '<button class="reader-share-bubble" type="button" data-reader-share aria-label="Share">',
       iconShare(),
       "</button>",
+      '<div class="reader-scrim" aria-hidden="true"></div>',
       '<div class="reader-scroll">',
       '<article class="reader-measure">',
-      '<p class="reader-kicker" data-reader-kicker></p>',
-      '<h1 id="reader-title"></h1>',
-      '<div data-reader-body>',
-      '<p class="reader-verse" data-reader-verse></p>',
-      '<p class="reader-ref" data-reader-ref></p>',
-      '<p class="reader-k">Silent touch</p>',
-      '<div data-reader-silent></div>',
-      '<h2 id="reader-challenge" class="reader-k">Today\'s challenge</h2>',
-      '<h3 data-reader-carry-title></h3>',
-      '<div data-reader-challenge></div>',
-      '<p class="reader-k">Reflection</p>',
-      '<p class="reader-reflection" data-reader-reflection></p>',
-      '<p class="reader-k">Guided prayer</p>',
-      '<div data-reader-prayer></div>',
-      "</div>",
+      '<h1 id="reader-title" class="reader-sr"></h1>',
+      '<div data-reader-body></div>',
       '<div class="reader-actions" data-reader-actions>',
       '<button type="button" data-reader-like aria-pressed="false"><span data-heart></span><span>Like</span></button>',
       '<button type="button" data-reader-comment aria-haspopup="dialog" aria-controls="reader-note" aria-expanded="false"><span>' + iconComment() + '</span><span>Comment</span></button>',
