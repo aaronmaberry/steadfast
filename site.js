@@ -187,12 +187,20 @@ function renderAllDevotions() {
       const d = pickDevotion(feed.items) || fallbackDevotion();
       roots.forEach((root) => paintDevotion(root, d));
       if (document.getElementById("sheet-silent")) paintDevotion(document.documentElement, d);
+      publishDaily(feed.items || [], d);
     })
     .catch(() => {
       const d = fallbackDevotion();
       roots.forEach((root) => paintDevotion(root, d));
       if (document.getElementById("sheet-silent")) paintDevotion(document.documentElement, d);
+      publishDaily([], d);
     });
+}
+
+function publishDaily(items, current) {
+  document.dispatchEvent(new CustomEvent("steadfast:daily", {
+    detail: { items: items, current: current }
+  }));
 }
 
 document.addEventListener("DOMContentLoaded", () => {
@@ -214,21 +222,9 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
   const share = document.getElementById("share-walk");
-  if (share) {
-    share.addEventListener("click", async () => {
-      const url = new URL("daily.html", location.href).href;
-      if (navigator.share) {
-        try {
-          await navigator.share({ title: "Steadfast Daily Walk", url });
-          share.classList.add("on");
-        } catch (e) {}
-      } else {
-        try {
-          await navigator.clipboard.writeText(url);
-          share.textContent = "Copied";
-          share.classList.add("on");
-        } catch (e) {}
-      }
+  if (share && !(window.DailyReader && share.dataset.readerBound)) {
+    share.addEventListener("click", () => {
+      if (window.DailyReader) window.DailyReader.shareCurrent();
     });
   }
   let sheetScrollY = 0;
