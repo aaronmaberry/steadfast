@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { Platform, Pressable, ScrollView, Share, StyleSheet, Text, TextInput, View } from 'react-native';
+import { Dimensions, Platform, Pressable, ScrollView, Share, StyleSheet, Text, TextInput, View } from 'react-native';
 import engage from '../lib/dailyEngage';
 import { hydrateEngage } from '../lib/deviceStorage';
 import { readingBlocks } from '../lib/dailyFeed';
@@ -191,7 +191,7 @@ export default function DailyReader({ item, onClose }) {
       {sheet ? (
         <View style={styles.sheetLayer}>
           <Pressable style={styles.sheetBackdrop} onPress={function () { setSheet(false); }} accessibilityLabel="Close comments" />
-          <View testID="comment-sheet" style={styles.sheet}>
+          <View testID="comment-sheet" style={[styles.sheet, { maxHeight: Math.round(Dimensions.get('window').height * 0.86) }]}>
             <View style={styles.sheetHead}>
               <Text style={styles.sheetTitle}>Comments</Text>
               <Pressable accessibilityRole="button" accessibilityLabel="Close comments" onPress={function () { setSheet(false); }} style={styles.dismiss}>
@@ -317,7 +317,6 @@ const styles = StyleSheet.create({
   sheetLayer: { position: 'absolute', top: 0, right: 0, bottom: 0, left: 0, justifyContent: 'flex-end' },
   sheetBackdrop: { position: 'absolute', top: 0, right: 0, bottom: 0, left: 0, backgroundColor: 'rgba(0,0,0,0.55)' },
   sheet: {
-    maxHeight: '78%',
     backgroundColor: SHEET,
     borderTopLeftRadius: 18,
     borderTopRightRadius: 18,
@@ -331,7 +330,7 @@ const styles = StyleSheet.create({
   sheetTitle: { color: TEXT, fontSize: 20, fontWeight: '500' },
   dismiss: { width: 44, height: 44, alignItems: 'center', justifyContent: 'center' },
   help: { color: MUTED, fontSize: 14, lineHeight: 20, marginBottom: 12 },
-  commentList: { flexGrow: 0, marginBottom: 8 },
+  commentList: { flexGrow: 0, maxHeight: 220, marginBottom: 8 },
   pinned: { paddingBottom: 12 },
   userComment: { paddingVertical: 12, borderTopWidth: 1, borderTopColor: 'rgba(255,255,255,0.08)' },
   meta: { flexDirection: 'row', alignItems: 'center', gap: 8 },
