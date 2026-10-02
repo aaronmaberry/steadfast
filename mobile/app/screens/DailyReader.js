@@ -47,6 +47,7 @@ function ActionIcon({ kind, on }) {
 export default function DailyReader({ item, onClose }) {
   const blocks = readingBlocks(item);
   const question = item && String(item.discussionQuestion || '').trim();
+  const teamReflection = item && String(item.teamReflection || '').trim();
   const [liked, setLiked] = useState(false);
   const [comments, setComments] = useState([]);
   const [sheet, setSheet] = useState(false);
@@ -199,16 +200,17 @@ export default function DailyReader({ item, onClose }) {
               </Pressable>
             </View>
             <Text style={styles.help}>Public comments are coming soon. For now, comments stay on this device.</Text>
-            <ScrollView style={styles.commentList}>
-              {question ? (
-                <View testID="discussion-question" style={styles.pinned}>
-                  <View style={styles.meta}>
-                    <Text style={styles.commentName}>Steadfast Team</Text>
-                    <Text style={styles.badge}>Team</Text>
-                  </View>
-                  <Text style={styles.commentText}>{question}</Text>
+            {(question || teamReflection) ? (
+              <View testID="discussion-question" style={styles.teamPost}>
+                <View style={styles.meta}>
+                  <Text style={styles.teamName}>Steadfast</Text>
+                  <Text style={styles.badge}>Team</Text>
                 </View>
-              ) : null}
+                {question ? <Text style={styles.teamQuestion}>{question}</Text> : null}
+                {teamReflection ? <Text style={styles.teamReflection}>{teamReflection}</Text> : null}
+              </View>
+            ) : null}
+            <ScrollView style={styles.commentList}>
               {comments.length === 0 ? (
                 <Text testID="comment-empty" style={styles.empty}>Be the first to comment.</Text>
               ) : comments.map(function (comment) {
@@ -330,8 +332,23 @@ const styles = StyleSheet.create({
   sheetTitle: { color: TEXT, fontSize: 20, fontWeight: '500' },
   dismiss: { width: 44, height: 44, alignItems: 'center', justifyContent: 'center' },
   help: { color: MUTED, fontSize: 14, lineHeight: 20, marginBottom: 12 },
-  commentList: { flexGrow: 0, maxHeight: 220, marginBottom: 8 },
-  pinned: { paddingBottom: 12 },
+  commentList: { flexGrow: 0, maxHeight: 140, marginBottom: 8 },
+  teamPost: {
+    marginBottom: 12,
+    paddingTop: 12,
+    paddingRight: 12,
+    paddingBottom: 12,
+    paddingLeft: 14,
+    borderRadius: 12,
+    borderWidth: 1,
+    borderColor: 'rgba(139,156,255,0.35)',
+    borderLeftWidth: 3,
+    borderLeftColor: ACCENT,
+    backgroundColor: BG,
+  },
+  teamName: { color: TEXT, fontSize: 14, fontWeight: '600' },
+  teamQuestion: { color: TEXT, fontSize: 16, lineHeight: 22, fontWeight: '600', marginTop: 8 },
+  teamReflection: { color: TEXT, fontSize: 15, lineHeight: 22, marginTop: 8 },
   userComment: { paddingVertical: 12, borderTopWidth: 1, borderTopColor: 'rgba(255,255,255,0.08)' },
   meta: { flexDirection: 'row', alignItems: 'center', gap: 8 },
   commentName: { color: TEXT, fontSize: 14, fontWeight: '600' },
