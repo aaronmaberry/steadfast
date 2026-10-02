@@ -1307,6 +1307,7 @@ body.reader-open {
   width: 100%;
   overflow: hidden;
 }
+body.reader-open::before { opacity: 0; }
 .reader {
   position: fixed;
   inset: 0;
@@ -1352,7 +1353,7 @@ body.reader-open {
 }
 .reader-measure {
   width: 100%;
-  max-width: min(36em, 68ch);
+  max-width: 34em;
   margin: 0 auto;
   font-family: Geist, sans-serif;
   font-size: 18px;
