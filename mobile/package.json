@@ -10,7 +10,7 @@
     "start": "npm run start --workspace=mobile",
     "ios": "npm run ios --workspace=mobile",
     "android": "npm run android --workspace=mobile",
-    "test": "node --test app/lib/purchasePolicy.test.js"
+    "test": "node --test app/lib/purchasePolicy.test.js app/lib/dailyFeed.test.js app/lib/dailyEngage.test.js"
   },
   "engines": {
     "node": ">=20"
