@@ -11,7 +11,6 @@
     toastTimer: 0
   };
   var reader;
-  var noteLayer;
   var toast;
 
   function engage() {
@@ -51,10 +50,6 @@
 
   function iconHeart(filled) {
     return '<svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M12.1 19.3s-6.4-3.9-6.4-8.2A3.6 3.6 0 0 1 12 8.2a3.6 3.6 0 0 1 6.3 2.9c0 4.3-6.2 8.2-6.2 8.2z" fill="' + (filled ? "currentColor" : "none") + '" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></svg>';
-  }
-
-  function iconComment() {
-    return '<svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M6 6.5h12a2 2 0 0 1 2 2v6.2a2 2 0 0 1-2 2H11l-4.2 3v-3H6a2 2 0 0 1-2-2V8.5a2 2 0 0 1 2-2z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></svg>';
   }
 
   function showToast(message) {
@@ -213,146 +208,6 @@
     refreshEngage(date);
   }
 
-  function closeNote() {
-    if (!noteLayer || noteLayer.hidden) return;
-    noteLayer.hidden = true;
-    var comment = reader.querySelector("[data-reader-comment]");
-    if (comment) {
-      comment.setAttribute("aria-expanded", "false");
-      comment.focus({ preventScroll: true });
-    }
-  }
-
-  function renderTeamPost() {
-    var slot = reader.querySelector("[data-team-post]");
-    var question = state.item && String(state.item.discussionQuestion || "").trim();
-    var reflection = state.item && String(state.item.teamReflection || "").trim();
-    slot.replaceChildren();
-    if (!question && !reflection) {
-      slot.hidden = true;
-      return;
-    }
-    slot.hidden = false;
-    var meta = document.createElement("div");
-    meta.className = "comment-meta";
-    var name = document.createElement("span");
-    name.className = "comment-name";
-    name.textContent = "Steadfast";
-    var badge = document.createElement("span");
-    badge.className = "team-badge";
-    badge.textContent = "Team";
-    meta.appendChild(name);
-    meta.appendChild(badge);
-    slot.appendChild(meta);
-    if (question) {
-      var ask = document.createElement("p");
-      ask.className = "team-question";
-      ask.textContent = question;
-      slot.appendChild(ask);
-    }
-    if (reflection) {
-      var note = document.createElement("p");
-      note.className = "team-reflection";
-      note.textContent = reflection;
-      slot.appendChild(note);
-    }
-  }
-
-  function renderComments(list) {
-    var box = reader.querySelector("[data-comment-list]");
-    var empty = reader.querySelector("[data-comment-empty]");
-    var api = engage();
-    renderTeamPost();
-    box.replaceChildren();
-    var items = list || [];
-    empty.hidden = items.length > 0;
-    items.forEach(function (comment) {
-      var article = document.createElement("article");
-      article.className = "comment";
-      article.setAttribute("role", "listitem");
-      var meta = document.createElement("div");
-      meta.className = "comment-meta";
-      var name = document.createElement("span");
-      name.className = "comment-name";
-      name.textContent = comment.name;
-      var time = document.createElement("time");
-      time.dateTime = new Date(comment.createdAt).toISOString();
-      time.textContent = api ? api.formatRelativeTime(comment.createdAt, Date.now()) : "";
-      meta.appendChild(name);
-      meta.appendChild(time);
-      var body = document.createElement("p");
-      body.className = "comment-text";
-      body.textContent = comment.text;
-      var report = document.createElement("button");
-      report.type = "button";
-      report.className = "comment-report";
-      report.setAttribute("data-comment-report", comment.id);
-      if (comment.reported) {
-        report.textContent = "Reported";
-        report.disabled = true;
-      } else {
-        report.textContent = "Report";
-      }
-      article.appendChild(meta);
-      article.appendChild(body);
-      article.appendChild(report);
-      box.appendChild(article);
-    });
-  }
-
-  function postComment(event) {
-    if (event) event.preventDefault();
-    var api = engage();
-    var status = reader.querySelector("[data-note-status]");
-    if (!api || !state.date) return;
-    var name = reader.querySelector("[data-comment-name]").value;
-    var text = reader.querySelector("[data-comment-text]").value;
-    if (!String(name).trim() || !String(text).trim()) {
-      status.textContent = "Add your name and a comment.";
-      return;
-    }
-    api.setDisplayName(name).then(function () {
-      return api.addComment(state.date, { name: name, text: text });
-    }).then(function () {
-      return api.getComments(state.date);
-    }).then(function (list) {
-      if (state.date) renderComments(list);
-      reader.querySelector("[data-comment-text]").value = "";
-      status.textContent = "Saved on this device.";
-    }).catch(function () {
-      status.textContent = "Could not save that comment.";
-    });
-  }
-
-  function reportComment(id) {
-    var api = engage();
-    if (!api || !state.date || !id) return;
-    api.reportComment(state.date, id).then(function (saved) {
-      if (!saved) return;
-      return api.getComments(state.date);
-    }).then(function (list) {
-      if (!list) return;
-      renderComments(list);
-      reader.querySelector("[data-note-status]").textContent = "Report saved on this device.";
-    }).catch(function () {});
-  }
-
-  function openNote() {
-    var api = engage();
-    if (!api || !state.date) return;
-    noteLayer.hidden = false;
-    reader.querySelector("[data-reader-comment]").setAttribute("aria-expanded", "true");
-    reader.querySelector("[data-note-status]").textContent = "";
-    Promise.all([api.getComments(state.date), api.getDisplayName()]).then(function (result) {
-      renderComments(result[0]);
-      var nameField = reader.querySelector("[data-comment-name]");
-      if (!nameField.value) nameField.value = result[1] || "";
-      (nameField.value ? reader.querySelector("[data-comment-text]") : nameField).focus();
-    }).catch(function () {
-      reader.querySelector("[data-comment-name]").focus();
-    });
-  }
-
   function open(date, opts) {
     opts = opts || {};
     if (!state.items.length && opts.history !== "load") {
@@ -381,10 +236,6 @@
 
   function close() {
     if (!reader || reader.hidden) return;
-    if (!noteLayer.hidden) {
-      closeNote();
-      return;
-    }
     reader.hidden = true;
     unlockBackground();
     var opener = state.opener;
@@ -413,7 +264,7 @@
       return;
     }
     if (event.key !== "Tab") return;
-    var root = noteLayer.hidden ? reader : noteLayer.querySelector(".note-sheet");
+    var root = reader;
     var items = focusables(root);
     if (!items.length) {
       event.preventDefault();
@@ -455,36 +306,12 @@
       '<div data-reader-body></div>',
       '<div class="reader-actions" data-reader-actions>',
       '<button type="button" data-reader-like aria-pressed="false"><span data-heart></span><span>Like</span></button>',
-      '<button type="button" data-reader-comment aria-haspopup="dialog" aria-controls="reader-comments" aria-expanded="false"><span>' + iconComment() + '</span><span>Comment</span></button>',
       '<button type="button" data-reader-share-row><span>' + iconShare() + '</span><span>Share</span></button>',
       "</div>",
       "</article>",
-      "</div>",
-      '<div class="note-layer" data-reader-note-layer hidden>',
-      '<div class="note-sheet" id="reader-comments" role="dialog" aria-modal="true" aria-labelledby="reader-note-title">',
-      '<div class="comment-head">',
-      '<h2 id="reader-note-title">Comments</h2>',
-      '<button type="button" class="comment-dismiss" data-note-close aria-label="Close comments">',
-      '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>',
-      "</button>",
-      "</div>",
-      '<p class="note-help">Public comments are coming soon. For now, comments stay on this device.</p>',
-      '<article class="team-post" data-team-post hidden></article>',
-      '<div class="comment-list" data-comment-list role="list"></div>',
-      '<p class="comment-empty" data-comment-empty>Be the first to comment.</p>',
-      '<form class="comment-composer" data-comment-form>',
-      '<label class="comment-label">Name<input type="text" name="name" data-comment-name maxlength="40" autocomplete="nickname" enterkeyhint="next"></label>',
-      '<label class="comment-label">Comment<textarea name="text" data-comment-text maxlength="500" rows="3" enterkeyhint="send"></textarea></label>',
-      '<p class="note-status" data-note-status role="status"></p>',
-      '<div class="note-actions">',
-      '<button type="submit" data-note-save>Post</button>',
-      "</div>",
-      "</form>",
-      "</div>",
       "</div>"
     ].join("");
     document.documentElement.appendChild(reader);
-    noteLayer = reader.querySelector("[data-reader-note-layer]");
     reader.querySelector("[data-heart]").innerHTML = iconHeart(false);
     toast = document.createElement("p");
     toast.className = "reader-toast";
@@ -505,17 +332,6 @@
       var next = reader.querySelector("[data-reader-like]").getAttribute("aria-pressed") !== "true";
       api.setLike(state.date, next).then(function (on) { paintLike(on); }).catch(function () {});
     });
-    reader.querySelector("[data-reader-comment]").addEventListener("click", openNote);
-    reader.querySelector("[data-comment-form]").addEventListener("submit", postComment);
-    reader.querySelector("[data-comment-list]").addEventListener("click", function (event) {
-      var button = event.target.closest("[data-comment-report]");
-      if (!button || button.disabled) return;
-      reportComment(button.getAttribute("data-comment-report"));
-    });
-    reader.querySelector("[data-note-close]").addEventListener("click", closeNote);
-    noteLayer.addEventListener("click", function (event) {
-      if (event.target === noteLayer) closeNote();
-    });
     document.addEventListener("keydown", onKeydown, true);
     window.addEventListener("popstate", function () {
       if (state.suppressPop) {
@@ -527,7 +343,6 @@
       var day = api ? api.parseDailyDay(location.search, location.hash) : null;
       if (day) open(day, { history: "pop" });
       else if (!reader.hidden) {
-        closeNote();
         reader.hidden = true;
         unlockBackground();
       }

@@ -58,11 +58,4 @@ The apostrophe in God’s and room’s is the typographic apostrophe already use
 
 ## Reader behavior (site)
 
-Opening a track opens a full-screen reading view. A share link is `https://www.walksteadfast.com/daily?day=YYYY-MM-DD`. A hash of `#day=YYYY-MM-DD` also opens that day. Like and comments go through the adapter in `daily-engage.js`. This preview stores both on the device. The comment sheet is the public shape: a list with name, relative time, and text, an empty state, a name field and a text field, and a Report control on each user comment. The copy says public comments are coming soon. No backend is attached.
-
-Every new daily item includes two fields for the pinned team post:
-
-- `discussionQuestion`: one plain question tied to that day's topic.
-- `teamReflection`: a short reflection of 2 to 4 sentences, in the same voice as the rest of the copy.
-
-The reader pins both above the comment list. The account name is exactly `Steadfast`, with a small Team badge. The post is official copy from the feed. It is not stored as a reader comment, and it has no Report control. When nobody has commented, the empty state says "Be the first to comment." Do not seed sample comments.
+Opening a track opens a full-screen reading view. A share link is `https://www.walksteadfast.com/daily?day=YYYY-MM-DD`. A hash of `#day=YYYY-MM-DD` also opens that day. Like goes through the adapter in `daily-engage.js` and stays on the device. There is no comment feature, no discussion question, and no team post. Share uses the browser share sheet when it is available, and otherwise copies the link.
