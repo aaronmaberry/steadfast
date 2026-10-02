@@ -1432,7 +1432,7 @@ body.reader-open::before { opacity: 0; }
   display: flex;
   flex-direction: column;
   width: min(32rem, 100%);
-  max-height: min(78vh, 640px);
+  max-height: min(92vh, 780px);
   overflow: hidden;
   background: #121218;
   color: #f4f4f5;
@@ -1476,7 +1476,7 @@ body.reader-open::before { opacity: 0; }
 }
 .note-status:empty { margin: 0; }
 .comment-list {
-  min-height: 0;
+  max-height: 180px;
   overflow: auto;
 }
 .comment-empty {
@@ -1486,11 +1486,32 @@ body.reader-open::before { opacity: 0; }
   line-height: 1.5;
 }
 .comment-empty[hidden] { display: none !important; }
+.team-post {
+  margin: 0 0 14px;
+  padding: 12px 12px 12px 14px;
+  border-radius: 12px;
+  border: 1px solid rgba(139, 156, 255, 0.35);
+  border-left: 3px solid #8b9cff;
+  background: #07070a;
+}
+.team-post[hidden] { display: none !important; }
+.team-question {
+  margin: 8px 0 0;
+  color: #f4f4f5;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.45;
+}
+.team-reflection {
+  margin: 8px 0 0;
+  color: #f4f4f5;
+  font-size: 15px;
+  line-height: 1.5;
+}
 .comment {
   padding: 12px 0;
   border-top: 1px solid rgba(255, 255, 255, 0.08);
 }
-.comment-pinned { border-top: 0; padding-top: 0; }
 .team-badge {
   display: inline-block;
   padding: 1px 6px;

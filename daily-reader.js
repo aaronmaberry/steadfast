@@ -223,37 +223,47 @@
     }
   }
 
-  function renderPinnedQuestion() {
+  function renderTeamPost() {
+    var slot = reader.querySelector("[data-team-post]");
     var question = state.item && String(state.item.discussionQuestion || "").trim();
-    if (!question) return null;
-    var pinned = document.createElement("article");
-    pinned.className = "comment comment-pinned";
-    pinned.setAttribute("role", "listitem");
+    var reflection = state.item && String(state.item.teamReflection || "").trim();
+    slot.replaceChildren();
+    if (!question && !reflection) {
+      slot.hidden = true;
+      return;
+    }
+    slot.hidden = false;
     var meta = document.createElement("div");
     meta.className = "comment-meta";
     var name = document.createElement("span");
     name.className = "comment-name";
-    name.textContent = "Steadfast Team";
+    name.textContent = "Steadfast";
     var badge = document.createElement("span");
     badge.className = "team-badge";
     badge.textContent = "Team";
     meta.appendChild(name);
     meta.appendChild(badge);
-    var body = document.createElement("p");
-    body.className = "comment-text";
-    body.textContent = question;
-    pinned.appendChild(meta);
-    pinned.appendChild(body);
-    return pinned;
+    slot.appendChild(meta);
+    if (question) {
+      var ask = document.createElement("p");
+      ask.className = "team-question";
+      ask.textContent = question;
+      slot.appendChild(ask);
+    }
+    if (reflection) {
+      var note = document.createElement("p");
+      note.className = "team-reflection";
+      note.textContent = reflection;
+      slot.appendChild(note);
+    }
   }
 
   function renderComments(list) {
     var box = reader.querySelector("[data-comment-list]");
     var empty = reader.querySelector("[data-comment-empty]");
     var api = engage();
+    renderTeamPost();
     box.replaceChildren();
-    var pinned = renderPinnedQuestion();
-    if (pinned) box.appendChild(pinned);
     var items = list || [];
     empty.hidden = items.length > 0;
     items.forEach(function (comment) {
@@ -459,6 +469,7 @@
       "</button>",
       "</div>",
       '<p class="note-help">Public comments are coming soon. For now, comments stay on this device.</p>',
+      '<article class="team-post" data-team-post hidden></article>',
       '<div class="comment-list" data-comment-list role="list"></div>',
       '<p class="comment-empty" data-comment-empty>Be the first to comment.</p>',
       '<form class="comment-composer" data-comment-form>',

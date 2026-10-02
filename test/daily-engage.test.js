@@ -17,6 +17,17 @@ const QUESTIONS = {
   "2026-10-05": "Which have you been skipping: justice, mercy, or a humble walk?",
   "2026-10-06": "Who will you ask today where you are dull?"
 };
+const REFLECTIONS = {
+  "2026-10-02": "The quiet field is not a verdict on the work. Name the small good you are most tempted to drop, and do it once more before dark. The harvest date belongs to God. You keep the next faithful step.",
+  "2026-10-03": "What lives in you walks out the door with you, and the people in your house meet it first. Name one thing that has been taking space this week, in words plain enough that you cannot decorate them. Ask the Lord to take it, and close the door you have been leaving open.",
+  "2026-10-04": "You cannot spur a brother you never stay long enough to find. Take your seat today, and stay ten minutes after the gathering ends. Tell one person, by name, one specific good you have seen in him.",
+  "2026-10-05": "God has already shown what is good, and a longer list will not hide the part you skip. Name that one out loud before you decorate it. Do one concrete act of it before dark, where the people who live with you can see it.",
+  "2026-10-06": "A brother who is only allowed to encourage you will not put an edge on you. Ask one man where you are dull, and let him finish the whole answer. Say thank you before you say anything else."
+};
+
+function sentences(value) {
+  return String(value || "").split(/(?<=[.!?])\s+/).map(function (part) { return part.trim(); }).filter(Boolean);
+}
 const VERSES = {
   "2026-10-02": ["Galatians 6:9", "Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up."],
   "2026-10-03": ["Proverbs 4:23", "Above all else, guard your heart, for everything you do flows from it."],
@@ -113,11 +124,14 @@ test("October 2 through 6 keep their verses and the longer section lengths", fun
     assert.equal(item.verse, VERSES[date][1]);
     assert.equal(item.body, item.carryBody);
     assert.equal(item.discussionQuestion, QUESTIONS[date]);
+    assert.equal(item.teamReflection, REFLECTIONS[date]);
+    const reflectionSentences = sentences(item.teamReflection);
+    assert.ok(reflectionSentences.length >= 2 && reflectionSentences.length <= 4, date + " sentences " + reflectionSentences.length);
     assert.equal(Object.hasOwn(item, "comments"), false);
-    const question = item.discussionQuestion;
-    assert.equal(/[—–]| - /.test(question), false, date + " question dash");
-    assert.equal(/not just/i.test(question), false);
-    assert.equal(/\breal man\b/i.test(question), false);
+    const teamCopy = item.discussionQuestion + "\n" + item.teamReflection;
+    assert.equal(/[—–]| - /.test(teamCopy), false, date + " team dash");
+    assert.equal(/not just/i.test(teamCopy), false);
+    assert.equal(/\breal man\b/i.test(teamCopy), false);
     const silent = words(item.silentBody);
     const challenge = words(item.carryBody);
     const prayer = words(item.prayer);
