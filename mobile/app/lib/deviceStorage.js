@@ -1,7 +1,7 @@
 const AsyncStorage = require("@react-native-async-storage/async-storage").default;
 const engage = require("./dailyEngage");
 
-const KEYS = ["steadfast.daily.likes", "steadfast.daily.comments", "steadfast.daily.name"];
+const KEYS = ["steadfast.daily.likes"];
 const cache = Object.create(null);
 let hydrated = false;
 let pending = null;

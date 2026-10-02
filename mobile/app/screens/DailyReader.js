@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { Dimensions, Platform, Pressable, ScrollView, Share, StyleSheet, Text, TextInput, View } from 'react-native';
+import { Platform, Pressable, ScrollView, Share, StyleSheet, Text, View } from 'react-native';
 import engage from '../lib/dailyEngage';
 import { hydrateEngage } from '../lib/deviceStorage';
 import { readingBlocks } from '../lib/dailyFeed';
@@ -38,22 +38,12 @@ function ActionIcon({ kind, on }) {
   if (kind === 'like') {
     return <Text style={[styles.glyph, { color }]}>{on ? '♥' : '♡'}</Text>;
   }
-  if (kind === 'comment') {
-    return <View style={[styles.bubble, { borderColor: color }]} />;
-  }
   return <Text style={[styles.glyph, { color }]}>↑</Text>;
 }
 
 export default function DailyReader({ item, onClose }) {
   const blocks = readingBlocks(item);
-  const question = item && String(item.discussionQuestion || '').trim();
-  const teamReflection = item && String(item.teamReflection || '').trim();
   const [liked, setLiked] = useState(false);
-  const [comments, setComments] = useState([]);
-  const [sheet, setSheet] = useState(false);
-  const [name, setName] = useState('');
-  const [text, setText] = useState('');
-  const [status, setStatus] = useState('');
   const [toast, setToast] = useState('');
   const [ready, setReady] = useState(false);
   const inset = topInset();
@@ -62,15 +52,9 @@ export default function DailyReader({ item, onClose }) {
     let live = true;
     hydrateEngage().then(function () {
       if (!live || !item) return;
-      return Promise.all([
-        engage.getLike(item.date),
-        engage.getComments(item.date),
-        engage.getDisplayName(),
-      ]).then(function (result) {
+      return engage.getLike(item.date).then(function (value) {
         if (!live) return;
-        setLiked(result[0]);
-        setComments(result[1]);
-        setName(result[2] || '');
+        setLiked(value);
         setReady(true);
       });
     }).catch(function () {
@@ -89,12 +73,11 @@ export default function DailyReader({ item, onClose }) {
     if (Platform.OS !== 'web' || typeof document === 'undefined') return undefined;
     function onKey(event) {
       if (event.key !== 'Escape') return;
-      if (sheet) setSheet(false);
-      else if (onClose) onClose();
+      if (onClose) onClose();
     }
     document.addEventListener('keydown', onKey);
     return function () { document.removeEventListener('keydown', onKey); };
-  }, [sheet, onClose]);
+  }, [onClose]);
 
   async function toggleLike() {
     if (!ready || !item) return;
@@ -120,26 +103,6 @@ export default function DailyReader({ item, onClose }) {
     }
   }
 
-  async function postComment() {
-    if (!item) return;
-    if (!String(name).trim() || !String(text).trim()) {
-      setStatus('Add your name and a comment.');
-      return;
-    }
-    await engage.setDisplayName(name);
-    await engage.addComment(item.date, { name: name, text: text });
-    setComments(await engage.getComments(item.date));
-    setText('');
-    setStatus('Saved on this device.');
-  }
-
-  async function report(id) {
-    if (!item) return;
-    await engage.reportComment(item.date, id);
-    setComments(await engage.getComments(item.date));
-    setStatus('Report saved on this device.');
-  }
-
   return (
     <View style={styles.reader}>
       <ScrollView
@@ -154,10 +117,6 @@ export default function DailyReader({ item, onClose }) {
           <Pressable testID="reader-like" accessibilityRole="button" accessibilityState={{ selected: liked }} onPress={toggleLike} style={styles.action}>
             <ActionIcon kind="like" on={liked} />
             <Text style={[styles.actionLabel, liked && styles.actionOn]}>Like</Text>
-          </Pressable>
-          <Pressable testID="reader-comment" accessibilityRole="button" onPress={function () { setStatus(''); setSheet(true); }} style={styles.action}>
-            <ActionIcon kind="comment" />
-            <Text style={styles.actionLabel}>Comment</Text>
           </Pressable>
           <Pressable testID="reader-share-row" accessibilityRole="button" onPress={onShare} style={styles.action}>
             <ActionIcon kind="share" />
@@ -189,76 +148,6 @@ export default function DailyReader({ item, onClose }) {
       >
         <ShareIcon />
       </Pressable>
-      {sheet ? (
-        <View style={styles.sheetLayer}>
-          <Pressable style={styles.sheetBackdrop} onPress={function () { setSheet(false); }} accessibilityLabel="Close comments" />
-          <View testID="comment-sheet" style={[styles.sheet, { maxHeight: Math.round(Dimensions.get('window').height * 0.86) }]}>
-            <View style={styles.sheetHead}>
-              <Text style={styles.sheetTitle}>Comments</Text>
-              <Pressable accessibilityRole="button" accessibilityLabel="Close comments" onPress={function () { setSheet(false); }} style={styles.dismiss}>
-                <CloseIcon />
-              </Pressable>
-            </View>
-            <Text style={styles.help}>Public comments are coming soon. For now, comments stay on this device.</Text>
-            {(question || teamReflection) ? (
-              <View testID="discussion-question" style={styles.teamPost}>
-                <View style={styles.meta}>
-                  <Text style={styles.teamName}>Steadfast</Text>
-                  <Text style={styles.badge}>Team</Text>
-                </View>
-                {question ? <Text style={styles.teamQuestion}>{question}</Text> : null}
-                {teamReflection ? <Text style={styles.teamReflection}>{teamReflection}</Text> : null}
-              </View>
-            ) : null}
-            <ScrollView style={styles.commentList}>
-              {comments.length === 0 ? (
-                <Text testID="comment-empty" style={styles.empty}>Be the first to comment.</Text>
-              ) : comments.map(function (comment) {
-                const when = engage.formatRelativeTime(comment.createdAt, Date.now());
-                return (
-                  <View key={comment.id} style={styles.userComment}>
-                    <View style={styles.meta}>
-                      <Text style={styles.commentName}>{comment.name}</Text>
-                      <Text style={styles.when}>{when}</Text>
-                    </View>
-                    <Text style={styles.commentText}>{comment.text}</Text>
-                    <Pressable
-                      accessibilityRole="button"
-                      accessibilityLabel="Report"
-                      disabled={comment.reported}
-                      onPress={function () { report(comment.id); }}
-                    >
-                      <Text style={styles.report}>{comment.reported ? 'Reported' : 'Report'}</Text>
-                    </Pressable>
-                  </View>
-                );
-              })}
-            </ScrollView>
-            <Text style={styles.fieldLabel}>Name</Text>
-            <TextInput
-              testID="comment-name"
-              value={name}
-              onChangeText={setName}
-              maxLength={40}
-              autoComplete="nickname"
-              style={styles.input}
-            />
-            <Text style={styles.fieldLabel}>Comment</Text>
-            <TextInput
-              testID="comment-text"
-              value={text}
-              onChangeText={setText}
-              maxLength={500}
-              multiline
-              style={[styles.input, styles.area]}
-            />
-            {status ? <Text style={styles.status}>{status}</Text> : null}
-            <Pressable testID="comment-post" accessibilityRole="button" onPress={postComment} style={styles.post}>
-              <Text style={styles.postText}>Post</Text>
-            </Pressable>
-          </View>
-        </View>
-      ) : null}
       {toast ? <Text style={styles.toast}>{toast}</Text> : null}
     </View>
   );
@@ -281,7 +170,6 @@ const styles = StyleSheet.create({
   actionLabel: { color: MUTED, fontSize: 15, fontWeight: '500' },
   actionOn: { color: ACCENT },
   glyph: { fontSize: 18, color: MUTED },
-  bubble: { width: 18, height: 14, borderWidth: 1.6, borderRadius: 3 },
   scrim: { position: 'absolute', top: 0, left: 0, right: 0 },
   scrimBand: { flex: 1 },
   round: {
@@ -316,82 +204,6 @@ const styles = StyleSheet.create({
     borderTopWidth: 0,
     borderColor: '#fff',
   },
-  sheetLayer: { position: 'absolute', top: 0, right: 0, bottom: 0, left: 0, justifyContent: 'flex-end' },
-  sheetBackdrop: { position: 'absolute', top: 0, right: 0, bottom: 0, left: 0, backgroundColor: 'rgba(0,0,0,0.55)' },
-  sheet: {
-    backgroundColor: SHEET,
-    borderTopLeftRadius: 18,
-    borderTopRightRadius: 18,
-    borderWidth: 1,
-    borderColor: 'rgba(255,255,255,0.1)',
-    paddingHorizontal: 18,
-    paddingTop: 12,
-    paddingBottom: 16,
-  },
-  sheetHead: { flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between' },
-  sheetTitle: { color: TEXT, fontSize: 20, fontWeight: '500' },
-  dismiss: { width: 44, height: 44, alignItems: 'center', justifyContent: 'center' },
-  help: { color: MUTED, fontSize: 14, lineHeight: 20, marginBottom: 12 },
-  commentList: { flexGrow: 0, maxHeight: 140, marginBottom: 8 },
-  teamPost: {
-    marginBottom: 12,
-    paddingTop: 12,
-    paddingRight: 12,
-    paddingBottom: 12,
-    paddingLeft: 14,
-    borderRadius: 12,
-    borderWidth: 1,
-    borderColor: 'rgba(139,156,255,0.35)',
-    borderLeftWidth: 3,
-    borderLeftColor: ACCENT,
-    backgroundColor: BG,
-  },
-  teamName: { color: TEXT, fontSize: 14, fontWeight: '600' },
-  teamQuestion: { color: TEXT, fontSize: 16, lineHeight: 22, fontWeight: '600', marginTop: 8 },
-  teamReflection: { color: TEXT, fontSize: 15, lineHeight: 22, marginTop: 8 },
-  userComment: { paddingVertical: 12, borderTopWidth: 1, borderTopColor: 'rgba(255,255,255,0.08)' },
-  meta: { flexDirection: 'row', alignItems: 'center', gap: 8 },
-  commentName: { color: TEXT, fontSize: 14, fontWeight: '600' },
-  badge: {
-    color: BG,
-    backgroundColor: ACCENT,
-    overflow: 'hidden',
-    borderRadius: 999,
-    paddingHorizontal: 6,
-    paddingVertical: 1,
-    fontSize: 11,
-    fontWeight: '600',
-  },
-  when: { color: MUTED, fontSize: 13 },
-  commentText: { color: TEXT, fontSize: 15, lineHeight: 22, marginTop: 4 },
-  empty: { color: MUTED, fontSize: 15, marginBottom: 8 },
-  report: { color: MUTED, fontSize: 13, textDecorationLine: 'underline', marginTop: 6 },
-  fieldLabel: { color: MUTED, fontSize: 13, marginTop: 8 },
-  input: {
-    marginTop: 6,
-    borderWidth: 1,
-    borderColor: 'rgba(255,255,255,0.12)',
-    borderRadius: 12,
-    backgroundColor: BG,
-    color: TEXT,
-    fontSize: 16,
-    paddingHorizontal: 12,
-    paddingVertical: 10,
-    minHeight: 44,
-  },
-  area: { minHeight: 88, textAlignVertical: 'top' },
-  status: { color: MUTED, fontSize: 14, marginTop: 8 },
-  post: {
-    marginTop: 12,
-    alignSelf: 'flex-start',
-    backgroundColor: ACCENT,
-    borderRadius: 999,
-    minHeight: 44,
-    paddingHorizontal: 16,
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-  postText: { color: BG, fontSize: 15, fontWeight: '500' },
   toast: {
     position: 'absolute',
     bottom: 24,
