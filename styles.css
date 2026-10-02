@@ -124,6 +124,12 @@ a { color: inherit; }
   margin-left: auto;
   margin-right: auto;
 }
+.give-actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
 @media (max-width: 800px) {
   .give-split .wrap { grid-template-columns: 1fr; }
   .give-split .end-copy { grid-column: 1; }
@@ -809,22 +815,19 @@ input:focus, select:focus, textarea:focus, .btn:focus-visible, a:focus-visible {
 .deliver article p { max-width: 34ch; }
 
 .give-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 64px; align-items: start; }
-.cadence { display: flex; justify-content: center; gap: 8px; margin-bottom: 16px; }
-.give-label-options {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 48px;
-  margin-top: 36px;
+.cadence { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-bottom: 16px; }
+#give-go {
+  flex-direction: column;
+  gap: 2px;
+  line-height: 1.15;
+  padding-top: 8px;
+  padding-bottom: 8px;
 }
-.give-label-options article { text-align: center; }
-.give-label-options .cadence { flex-wrap: wrap; }
-.give-label-options .btn { margin-top: 8px; }
-@media (min-width: 900px) {
-  .give-label-options {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 28px;
-    align-items: start;
-  }
+#give-go [data-give-amt] {
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0;
+  opacity: 0.7;
 }
 .cadence button, .amt {
   background: transparent;
