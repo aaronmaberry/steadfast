@@ -817,7 +817,11 @@ input:focus, select:focus, textarea:focus, .btn:focus-visible, a:focus-visible {
 .give-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 64px; align-items: start; }
 .cadence { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-bottom: 16px; }
 #give-go {
+  display: flex;
   flex-direction: column;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
   gap: 2px;
   line-height: 1.15;
   padding-top: 8px;
