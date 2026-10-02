@@ -40,31 +40,31 @@
     <div class="wrap">
       <p class="eyebrow">Support</p>
       <h1>Help us expand the mission and make steadfast men.</h1>
-      <p>Help us put this path in front of more men who need it — husbands and fathers who have not found the table yet. Training and the book stay in Shop. What you send here expands the reach: the films, Daily, and rooms we can open next.</p>
+      <p>Help us put this path in front of more men who need it, including husbands and fathers who have not found the table yet. Training and the book stay in Shop. What you send here expands the reach: the films, Daily, and rooms we can open next.</p>
     </div>
   </div>
 
   <section>
     <div class="wrap give-grid">
       <div>
-        <p class="eyebrow">Contribute</p>
+        <p class="eyebrow">Give</p>
         <h2 style="margin:8px 0 20px">Once, or every month.</h2>
         <div class="cadence" role="tablist">
-          <button type="button" data-cadence="once">One time</button>
-          <button type="button" class="on" data-cadence="monthly">Monthly</button>
+          <button type="button" data-cadence="once">Give a one-time gift</button>
+          <button type="button" class="on" data-cadence="monthly">Back a man monthly</button>
         </div>
         <div class="amtgrid" id="amts"></div>
         <label for="custom">Other amount</label>
         <input id="custom" type="number" min="1" step="1" placeholder="Your amount">
-        <p class="lede" id="give-line" style="margin:18px 0">$5 each month — a first gift — every bit moves the path.</p>
-        <a class="btn btn-gold" id="give-go" href="#">Continue</a>
+        <p class="lede" id="give-line" style="margin:18px 0">$5 each month. A first gift, and every bit moves the path.</p>
+        <a class="btn btn-gold" id="give-go" href="#"><span data-give-label>Back a man monthly</span><span data-give-amt>$5</span></a>
         <p class="tiny" style="color:var(--muted);margin-top:16px">Test mode. Card <b>4242 4242 4242 4242</b>, any future date, any CVC. One-time gifts can type any amount on Stripe. Monthly uses $5 / $10 / $25 / $50 / $100. Custom monthly falls back to $25. Live links replace these when you flip Stripe to live.</p>
       </div>
       <div>
         <p class="eyebrow">How it helps</p>
         <h2>Where the money goes.</h2>
         <div class="weeks" style="margin-top:24px">
-          <div class="week"><b>01</b><div>Reach men outside our zip code — ads, the table films, and the site staying up.</div></div>
+          <div class="week"><b>01</b><div>Reach men outside our zip code with ads, the table films, and the site staying up.</div></div>
           <div class="week"><b>02</b><div>Keep Daily free so a man can start on a Tuesday without buying the path.</div></div>
           <div class="week"><b>03</b><div>Help a table or church get started before they can buy seats.</div></div>
           <div class="week"><b>04</b><div>Shop still sells training and the book. This is how we take the same work farther.</div></div>
@@ -126,7 +126,7 @@
       </div>
       <div>
         <p class="eyebrow">Legal</p>
-        <a href="give.html">Give once or monthly</a>
+        <a href="give.html">Give</a>
         <a href="privacy.html">Privacy</a>
         <a href="terms.html">Terms</a>
         <a href="mailto:hello@walksteadfast.com">Contact</a>
@@ -139,7 +139,7 @@
   <script>
     const amounts = [5, 10, 25, 50, 100];
     const hints = {
-      5: "a first gift — every bit moves the path",
+      5: "a first gift, and every bit moves the path",
       10: "helps put Daily in front of another man",
       25: "helps put the weeks in front of another man",
       50: "helps a table start before they can buy seats",
@@ -175,9 +175,10 @@
       paint();
     });
     const params = new URLSearchParams(location.search);
-    if (params.get("cadence") === "monthly") {
-      cadence = "monthly";
-      document.querySelectorAll(".cadence button").forEach(x => x.classList.toggle("on", x.dataset.cadence === "monthly"));
+    const mode = params.get("mode") || params.get("cadence");
+    if (mode === "once" || mode === "monthly") {
+      cadence = mode;
+      document.querySelectorAll(".cadence button").forEach(x => x.classList.toggle("on", x.dataset.cadence === cadence));
     }
     const pre = parseInt(params.get("amount"), 10);
     if (pre > 0) {
@@ -193,10 +194,12 @@
     function paint() {
       const n = resolved();
       const hint = hints[n] || "helps spread the path";
+      const hintText = hint.charAt(0).toUpperCase() + hint.slice(1);
       document.getElementById("give-line").textContent =
-        (cadence === "monthly" ? "$" + n + " each month" : "$" + n + " once") + " — " + hint + ".";
-      document.getElementById("give-go").textContent =
-        cadence === "monthly" ? "Give $" + n + " monthly" : "Give $" + n + " once";
+        (cadence === "monthly" ? "$" + n + " each month" : "$" + n + " once") + ". " + hintText + ".";
+      document.querySelector("[data-give-label]").textContent =
+        cadence === "monthly" ? "Back a man monthly" : "Give a one-time gift";
+      document.querySelector("[data-give-amt]").textContent = "$" + n;
     }
     document.getElementById("give-go").addEventListener("click", e => {
       e.preventDefault();

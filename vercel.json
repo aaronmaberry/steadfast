@@ -49,6 +49,18 @@
       ]
     },
     {
+      "source": "/daily-engage.js",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=60, must-revalidate" }
+      ]
+    },
+    {
+      "source": "/daily-reader.js",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=60, must-revalidate" }
+      ]
+    },
+    {
       "source": "/checkout.js",
       "headers": [
         { "key": "Cache-Control", "value": "public, max-age=60, must-revalidate" }

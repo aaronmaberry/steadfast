@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <meta name="msvalidate.01" content="5EF812E178EE9B774C4B3CBCF20D2446" />
   <title>Steadfast Men</title>
   <meta name="description" content="A 24-week path for Christian men. Stop waiting. Pick up the weight. Go first. Work for God’s pay.">
@@ -78,7 +78,7 @@
               <button type="button" id="share-walk">Share</button>
             </div>
           </article>
-          <button type="button" class="daily-cell daily-row" data-open-sheet="silent">
+          <button type="button" class="daily-cell daily-row" data-open-reader="silent">
             <div>
               <p class="k">Silent touch · written</p>
               <b data-devotion-silent-title>Stand before you stride</b>
@@ -87,7 +87,7 @@
             </div>
             <img class="thumb" data-devotion-img src="img/daily/watch.jpg" alt="">
           </button>
-          <button type="button" class="daily-cell daily-row" data-open-sheet="challenge">
+          <button type="button" class="daily-cell daily-row" data-open-reader="challenge">
             <div>
               <p class="k">Today’s challenge</p>
               <b data-devotion-title>Watch first</b>
@@ -105,8 +105,11 @@
         <div class="end-copy">
           <p class="eyebrow">Support the mission</p>
           <h2>The path is not free to make.</h2>
-          <p class="lede" style="margin:16px 0 24px">Help us expand the mission and make steadfast men — more tables, more men who need this content.</p>
-          <a class="btn btn-ghost" href="give.html">Give once or monthly</a>
+          <p class="lede" style="margin:16px 0 24px">Help us expand the mission and make steadfast men, with more tables and more men who need this content.</p>
+          <div class="give-actions">
+            <a class="btn btn-gold" href="give.html?mode=monthly">Back a man monthly</a>
+            <a class="btn btn-ghost" href="give.html?mode=once">Give a one-time gift</a>
+          </div>
         </div>
       </div>
     </section>
@@ -231,7 +234,7 @@
       </div>
       <div>
         <p class="eyebrow">Legal</p>
-        <a href="give.html">Give once or monthly</a>
+        <a href="give.html">Give</a>
         <a href="privacy.html">Privacy</a>
         <a href="terms.html">Terms</a>
         <a href="mailto:hello@walksteadfast.com">Contact</a>
@@ -265,6 +268,8 @@
       </div>
     </div>
   </div>
+  <script src="daily-engage.js"></script>
+  <script src="daily-reader.js"></script>
   <script src="site.js"></script>
 </body>
 </html>
