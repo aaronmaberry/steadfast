@@ -447,7 +447,7 @@ section { padding: 112px 0; position: relative; }
   display: block; font-family: var(--mono); font-size: 12px; font-weight: 500;
   color: var(--accent); margin-bottom: 10px; letter-spacing: 0.08em;
 }
-.mark h3 { margin-bottom: 10px; font-size: 24px; }
+.mark h3 { margin-bottom: 10px; font-size: 26px; }
 .mark p { color: var(--muted); font-size: 14px; line-height: 1.55; }
 .mark-verse {
   margin-top: 16px;
