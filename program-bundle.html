@@ -295,12 +295,12 @@
       const name = document.getElementById("mark-name");
       if (!board) return;
       const current = marks.find(mark => mark.weeks.some(([n]) => !store.get("watched-" + n, false) && !store.get("act-" + n, false))) || marks[marks.length - 1];
-      if (name) name.textContent = current === marks[marks.length - 1] && current.weeks.every(([n]) => store.get("watched-" + n, false) || store.get("act-" + n, false)) ? "Path complete" : current.label;
+      if (name) name.innerHTML = '<a href="#' + current.id + '">' + (current === marks[marks.length - 1] && current.weeks.every(([n]) => store.get("watched-" + n, false) || store.get("act-" + n, false)) ? "Path complete" : current.label) + '</a>';
       board.innerHTML = "";
       current.weeks.forEach(([n, title]) => {
         const row = document.createElement("div");
         row.className = "agenda-line" + ((store.get("watched-" + n, false) || store.get("act-" + n, false)) ? " on" : "");
-        row.innerHTML = "<b>" + n + "</b><span>" + title + "</span><i></i>";
+        row.innerHTML = '<b>' + n + '</b><span><a href="#week-' + n + '">' + title + '</a></span><i></i>';
         board.appendChild(row);
       });
       document.querySelectorAll(".path-list a").forEach(a => {
