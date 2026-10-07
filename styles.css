@@ -1463,3 +1463,14 @@ section:has(.mark-jump) > .wrap > h2 { margin-bottom: 14px !important; }
     padding-bottom: 24px;
   }
 }
+
+body.groups .page-hero-tight { padding: 88px 0 64px; }
+body.groups section { padding: 104px 0; }
+body.groups section.train-band { padding: 120px 0; }
+body.groups section.socials-band { padding: 88px 0 96px; }
+@media (max-width: 900px) {
+  body.groups .page-hero-tight { padding: 72px 0 48px; }
+  body.groups section { padding: 72px 0; }
+  body.groups section.train-band { padding: 80px 0; }
+  body.groups section.socials-band { padding: 64px 0 72px; }
+}
