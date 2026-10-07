@@ -488,9 +488,8 @@ document.addEventListener("DOMContentLoaded", () => {
     ["Login", "login.html"],
     ["Listen", "listen.html"],
     ["Path", "program.html"],
-    ["Group kit", "group-kit.html"],
     ["Merch", "merch.html"],
-    ["Groups", "groups.html"],
+    ["Group inquiry", "group-inquiry.html"],
     ["Begin", "start.html"]
   ];
   const cmd = document.createElement("div");
