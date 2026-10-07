@@ -71,14 +71,15 @@
       border-radius:18px; padding:18px 16px 14px; margin-bottom:12px;
     }
     .k { font-size:11px; letter-spacing:.08em; text-transform:uppercase; color:var(--accent); margin-bottom:6px; }
-    .hear { display:grid; grid-template-columns:repeat(3,1fr); gap:8px; margin:0 0 18px; }
+    .hear { display:grid; grid-template-columns:repeat(2,1fr); gap:8px; margin:0 0 18px; }
     .hear a {
       display:flex; flex-direction:column; align-items:center; gap:8px;
       padding:16px 8px; border:1px solid var(--line); border-radius:16px;
       background:rgba(18,18,24,.62); color:var(--text); text-decoration:none;
     }
     .hear svg { width:22px; height:22px; }
-    .hear b { font-size:12px; font-weight:500; letter-spacing:-.01em; }
+    .offer-pic { width:100%; height:180px; object-fit:cover; border-radius:16px; margin:4px 0 14px; border:1px solid var(--line); }
+    .price { font-size:22px; margin:0 0 8px; }
     .vcard .verse-block { flex:1; }
     .vcard .verse { font-size:20px; line-height:1.42; }
     .vcard .verse-ref { margin-top:10px; color:var(--muted); font:500 12px/1 Geist,sans-serif; }
@@ -270,13 +271,9 @@
             <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 2a10 10 0 1 0 .01 20.01A10 10 0 0 0 12 2zm0 3.2a6.8 6.8 0 0 1 6.8 6.8 6.8 6.8 0 0 1-3.2 5.8v-2.2a4.6 4.6 0 1 0-7.2 0v2.2A6.8 6.8 0 0 1 5.2 12 6.8 6.8 0 0 1 12 5.2zm-1.1 9.2a1.1 1.1 0 1 1 2.2 0V19a1.1 1.1 0 0 1-2.2 0z"/></svg>
             <b>Podcast</b>
           </a>
-          <a href="#" onclick="go('library');return false">
-            <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M6 3h9l5 5v13a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1zm8 1.5V9h4.5M8 13h8M8 17h6"/></svg>
-            <b>Lessons</b>
-          </a>
         </div>
         <h3 class="sec">On the table</h3>
-        <div class="sku" onclick="go('library');scrollSku('train')">
+        <div class="sku" onclick="go('training')">
           <div>
             <div class="k">Training</div>
             <b>Twenty-four lessons</b>
@@ -284,7 +281,7 @@
           </div>
           <img class="thumb" alt="" src="img/road.jpg">
         </div>
-        <div class="sku" onclick="go('library');scrollSku('book')">
+        <div class="sku" onclick="go('book')">
           <div>
             <div class="k">Book</div>
             <b>Hardcover &amp; paperback</b>
@@ -292,7 +289,7 @@
           </div>
           <img class="thumb" alt="" src="img/book-pair.jpg">
         </div>
-        <div class="sku" onclick="go('library')">
+        <div class="sku" onclick="go('ebook')">
           <div>
             <div class="k">Ebook</div>
             <b>Ebook</b>
@@ -302,15 +299,31 @@
         </div>
       </div>
 
+      <div class="screen" id="tab-training" hidden>
+        <img class="offer-pic" src="img/road.jpg" alt="">
+        <p class="k">Path</p>
+        <h2 style="font-size:26px;margin:0 0 6px">24-lesson training</h2>
+        <p class="price">$79</p>
+        <p style="color:var(--muted);margin-bottom:14px">Twenty-four lessons. One act, at your pace. Lectures, digital pages, and the ebook. The print book, the workbook, and the audiobook are sold on their own.</p>
+        <button class="pill flow" type="button">Purchase the training</button>
+      </div>
+
       <div class="screen" id="tab-book" hidden>
+        <img class="offer-pic" src="img/book-pair.jpg" alt="">
+        <p class="k">Print</p>
         <h2 style="font-size:26px;margin:0 0 6px">The book</h2>
-        <p style="color:var(--muted);margin-bottom:14px">Hardcover and paperback. Ebook tonight. Audio for the truck.</p>
-        <div class="list">
-          <div class="row"><b>Hardcover</b><span>Print</span></div>
-          <div class="row"><b>Paperback</b><span>Print</span></div>
-          <div class="row"><b>Ebook · $14</b><span>File by email</span></div>
-          <div class="row"><b>Audiobook · $18</b><span>File by email</span></div>
-        </div>
+        <p style="color:var(--muted);margin-bottom:14px">A copy for the table. Hardcover or paperback.</p>
+        <button class="pill flow" type="button">Purchase the hardcover</button>
+        <button class="pill flow" type="button" style="margin-top:10px;background:transparent;border:1px solid var(--line);color:var(--text)">Purchase the paperback</button>
+      </div>
+
+      <div class="screen" id="tab-ebook" hidden>
+        <img class="offer-pic" src="img/ebook-wh.jpg" alt="">
+        <p class="k">Read tonight</p>
+        <h2 style="font-size:26px;margin:0 0 6px">Ebook</h2>
+        <p class="price">$14</p>
+        <p style="color:var(--muted);margin-bottom:14px">Read it before you buy the path. Bought alone, the file lands on the receipt email.</p>
+        <button class="pill flow" type="button">Purchase the ebook</button>
       </div>
 
       <div class="screen" id="tab-login" hidden>
