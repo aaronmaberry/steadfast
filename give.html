@@ -54,9 +54,9 @@
           <button type="button" class="on" data-cadence="monthly">Monthly</button>
         </div>
         <div class="amtgrid" id="amts"></div>
-        <label for="custom">Other amount</label>
-        <input id="custom" type="number" min="1" step="1" placeholder="Your amount">
-        <p class="lede" id="give-line" style="margin:18px 0">$5 each month — a first gift — every bit moves the path.</p>
+        <label for="custom">Choose your own amount</label>
+        <input id="custom" type="number" min="1" step="1" placeholder="Type an amount">
+        <p class="lede" id="give-line" style="margin:18px 0">$2 each month — a first gift — every bit moves the path.</p>
         <a class="btn btn-gold" id="give-go" href="#">Continue</a>
       </div>
       <div>
@@ -145,35 +145,42 @@
   <script src="checkout.js"></script>
   <script src="site.js"></script>
   <script>
-    const amounts = [5, 10, 25, 50, 100];
+    const sets = { monthly: [2, 5, 10, 25, 50], once: [5, 10, 25, 50] };
     const hints = {
-      5: "a first gift — every bit moves the path",
-      10: "helps put Daily in front of another man",
-      25: "helps put the weeks in front of another man",
-      50: "helps a table start before they can buy seats",
-      100: "keeps Daily free for a stretch of Tuesdays"
+      2: "a first gift — every bit moves the path",
+      5: "helps put Daily in front of another man",
+      10: "helps keep the table films going",
+      25: "helps put the lessons in front of another man",
+      50: "helps a table start before they can buy seats"
     };
-    let amount = 5;
+    let amount = 2;
     let cadence = "monthly";
     const amts = document.getElementById("amts");
-    amounts.forEach(n => {
-      const b = document.createElement("button");
-      b.type = "button";
-      b.className = "amt" + (n === 5 ? " on" : "");
-      b.textContent = "$" + n;
-      b.onclick = () => {
-        amount = n;
-        document.getElementById("custom").value = "";
-        document.querySelectorAll(".amt").forEach(x => x.classList.remove("on"));
-        b.classList.add("on");
-        paint();
-      };
-      amts.appendChild(b);
-    });
+    function build() {
+      amts.innerHTML = "";
+      const list = sets[cadence];
+      if (!list.includes(amount)) amount = list[0];
+      list.forEach(n => {
+        const b = document.createElement("button");
+        b.type = "button";
+        b.className = "amt" + (n === amount && !custom.value ? " on" : "");
+        b.textContent = "$" + n;
+        b.onclick = () => {
+          amount = n;
+          custom.value = "";
+          document.querySelectorAll(".amt").forEach(x => x.classList.remove("on"));
+          b.classList.add("on");
+          paint();
+        };
+        amts.appendChild(b);
+      });
+    }
     document.querySelectorAll(".cadence button").forEach(btn => {
       btn.onclick = () => {
         cadence = btn.dataset.cadence;
         document.querySelectorAll(".cadence button").forEach(x => x.classList.toggle("on", x === btn));
+        if (!custom.value) amount = sets[cadence][0];
+        build();
         paint();
       };
     });
@@ -182,6 +189,7 @@
       document.querySelectorAll(".amt").forEach(x => x.classList.remove("on"));
       paint();
     });
+    build();
     const params = new URLSearchParams(location.search);
     if (params.get("cadence") === "monthly") {
       cadence = "monthly";
@@ -190,13 +198,14 @@
     const pre = parseInt(params.get("amount"), 10);
     if (pre > 0) {
       amount = pre;
-      if (!amounts.includes(pre)) custom.value = String(pre);
+      if (!sets[cadence].includes(pre)) custom.value = String(pre);
       else document.querySelectorAll(".amt").forEach(x => x.classList.toggle("on", x.textContent === "$" + pre));
+      build();
     }
     function resolved() {
       const c = parseInt(custom.value, 10);
       const n = c > 0 ? c : amount;
-      return cadence === "monthly" && !amounts.includes(n) ? 25 : n;
+      return n;
     }
     function paint() {
       const n = resolved();
@@ -211,7 +220,7 @@
       const n = resolved();
       const c = window.STEADFAST_CHECKOUT || {};
       let url = c.giveOnce;
-      if (cadence === "monthly") url = (c.giveMonthly && (c.giveMonthly[n] || c.giveMonthly[25])) || "";
+      if (cadence === "monthly") url = (c.giveMonthly && c.giveMonthly[n]) || c.giveOnce || "";
       if (!url) return;
       location.href = url;
     });
