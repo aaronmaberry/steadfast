@@ -1101,7 +1101,19 @@ input:focus, select:focus, textarea:focus, .btn:focus-visible, a:focus-visible {
   min-height: 160px;
 }
 .lib-card h3 { margin: 6px 0 10px; font-size: 20px; }
-.week-board { display: grid; gap: 12px; }
+.week-board { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; align-items: start; }
+.mark-break { grid-column: 1 / -1; margin: 28px 0 4px; font-size: clamp(32px, 4vw, 48px); }
+.lesson-intro { grid-column: 1 / -1; }
+.week-card { max-width: none; }
+.week-card.odd { grid-column: 1; }
+.week-card.even { grid-column: 2; }
+.act-ack { margin-top: 12px; border: 1px solid var(--line); background: transparent; color: var(--text); border-radius: 999px; padding: 8px 14px; cursor: pointer; }
+.act-ack.on { border-color: #3ddc97; color: #3ddc97; }
+.act-note { margin: 8px 0 0; color: var(--muted); font-size: 13px; }
+@media (max-width: 800px) {
+  .week-board { grid-template-columns: 1fr; }
+  .week-card.odd, .week-card.even, .mark-break, .lesson-intro { grid-column: 1; }
+}
 .week-card {
   display: grid;
   grid-template-columns: 1fr;

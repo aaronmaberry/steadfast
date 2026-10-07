@@ -207,31 +207,51 @@
       ]}
     ];
     const board = document.getElementById("week-board");
+    const intro = document.createElement("article");
+    intro.className = "week-card lesson-intro";
+    intro.id = "lesson-intro";
+    intro.innerHTML =
+      '<div>' +
+        '<div class="n">Introduction</div>' +
+        '<h3>The path opens here.</h3>' +
+        '<div class="yt-tile" data-watch="00" role="button" tabindex="0" aria-label="Play the introduction">' +
+          '<img src="img/lesson-intro.jpg" alt="Wes on the stage">' +
+          '<span class="play">▶</span>' +
+        '</div>' +
+        '<p class="lede">Watch this before the first mark. Wes names the path. Then the lessons start.</p>' +
+        '<div class="file-row">' +
+          '<a class="btn btn-line" href="files/lessons/lesson-00-transcript.pdf" target="_blank" rel="noopener">Transcript</a>' +
+          '<a class="btn btn-ghost" href="files/lessons/lesson-00-page.pdf" target="_blank" rel="noopener">This lesson page</a>' +
+        '</div>' +
+      '</div>';
+    board.appendChild(intro);
     marks.forEach(mark => {
-      const head = document.createElement("div");
+      const head = document.createElement("h2");
+      head.className = "mark-break";
       head.id = mark.id;
-      head.innerHTML = '<p class="eyebrow" style="margin:18px 0 8px">' + mark.label + '</p>';
+      head.textContent = mark.label;
       board.appendChild(head);
       mark.weeks.forEach(([n, title, blurb]) => {
         const el = document.createElement("article");
-        el.className = "week-card";
+        const side = Number(n) % 2 ? "odd" : "even";
+        el.className = "week-card " + side;
         el.id = "week-" + n;
         el.innerHTML =
           '<div>' +
             '<div class="n">Lesson ' + n + '</div>' +
             '<h3>' + title + '</h3>' +
-            '<div class="yt-tile" data-watch="' + n + '" role="button" tabindex="0" aria-label="Mark lesson ' + n + ' finished">' +
-              '<img src="' + mark.thumb + '" alt="">' +
+            '<div class="yt-tile" data-watch="' + n + '" role="button" tabindex="0" aria-label="Play lesson ' + n + '">' +
+              '<img src="img/lesson-' + n + '.jpg" alt="">' +
               '<span class="play">▶</span>' +
             '</div>' +
-            '<p class="yt-meta">Lesson ' + n + ' · lecture · placeholder tile</p>' +
             '<p class="lede">' + blurb + '</p>' +
-            '<input type="url" placeholder="Paste YouTube URL when the film is locked">' +
             '<div class="file-row">' +
-              '<label class="btn btn-line">Lesson ' + n + ' pages<input type="file" accept=".pdf" hidden></label>' +
-              '<a class="btn btn-ghost" href="#" data-week="' + n + '">Download this lesson</a>' +
+              '<a class="btn btn-line" href="files/lessons/lesson-' + n + '-transcript.pdf" target="_blank" rel="noopener">Transcript</a>' +
+              '<button class="btn btn-ghost" type="button" data-audio="' + n + '">Audio</button>' +
+              '<a class="btn btn-ghost" href="files/lessons/lesson-' + n + '-page.pdf" target="_blank" rel="noopener">This lesson page</a>' +
             '</div>' +
-            '<label class="act-done"><input type="checkbox" data-act="' + n + '"> I did the act for lesson ' + n + '</label>' +
+            '<button class="act-ack" type="button" data-act="' + n + '">I did the act</button>' +
+            '<p class="act-note" id="act-note-' + n + '"></p>' +
           '</div>';
         board.appendChild(el);
       });
@@ -274,19 +294,19 @@
       const board = document.getElementById("mark-pips");
       const name = document.getElementById("mark-name");
       if (!board) return;
-      const current = marks.find(mark => mark.weeks.some(([n]) => !store.get("watched-" + n, false))) || marks[marks.length - 1];
-      if (name) name.textContent = current === marks[marks.length - 1] && current.weeks.every(([n]) => store.get("watched-" + n, false)) ? "Path complete" : current.label;
+      const current = marks.find(mark => mark.weeks.some(([n]) => !store.get("watched-" + n, false) && !store.get("act-" + n, false))) || marks[marks.length - 1];
+      if (name) name.textContent = current === marks[marks.length - 1] && current.weeks.every(([n]) => store.get("watched-" + n, false) || store.get("act-" + n, false)) ? "Path complete" : current.label;
       board.innerHTML = "";
       current.weeks.forEach(([n, title]) => {
         const row = document.createElement("div");
-        row.className = "agenda-line" + (store.get("watched-" + n, false) ? " on" : "");
+        row.className = "agenda-line" + ((store.get("watched-" + n, false) || store.get("act-" + n, false)) ? " on" : "");
         row.innerHTML = "<b>" + n + "</b><span>" + title + "</span><i></i>";
         board.appendChild(row);
       });
       document.querySelectorAll(".path-list a").forEach(a => {
         const n = (a.getAttribute("href") || "").replace("#week-", "");
         const li = a.closest("li");
-        if (li) li.classList.toggle("on", !!store.get("watched-" + n, false));
+        if (li) li.classList.toggle("on", !!(store.get("watched-" + n, false) || store.get("act-" + n, false)));
       });
     }
     document.querySelectorAll("[data-watch]").forEach(tile => {
@@ -298,17 +318,45 @@
         paintPips();
       });
     });
-
+    document.getElementById("act-now")?.addEventListener("change", e => {
+      store.set("act-now", e.target.checked);
+    });
+    if (document.getElementById("act-now")) document.getElementById("act-now").checked = store.get("act-now", false);
+    paintPips();
+      });
+    });
     document.getElementById("act-now")?.addEventListener("change", e => {
       store.set("act-now", e.target.checked);
     });
     if (document.getElementById("act-now")) document.getElementById("act-now").checked = store.get("act-now", false);
     document.querySelectorAll("[data-act]").forEach(box => {
       const n = box.getAttribute("data-act");
-      box.checked = store.get("act-" + n, false);
-      box.addEventListener("change", () => {
-        store.set("act-" + n, box.checked);
+      const note = document.getElementById("act-note-" + n);
+      function paintAct() {
+        const on = store.get("act-" + n, false);
+        box.classList.toggle("on", on);
+        box.textContent = on ? "Act marked" : "I did the act";
+        if (note) note.textContent = on ? "Marked. The bar on this lesson is lit." : "";
+      }
+      paintAct();
+      box.addEventListener("click", () => {
+        store.set("act-" + n, !store.get("act-" + n, false));
+        paintAct();
         paintPips();
+      });
+    });
+    document.querySelectorAll("[data-audio]").forEach(btn => {
+      btn.addEventListener("click", () => {
+        const n = btn.getAttribute("data-audio");
+        let player = document.getElementById("audio-" + n);
+        if (!player) {
+          player = document.createElement("audio");
+          player.id = "audio-" + n;
+          player.controls = true;
+          player.src = "files/lessons/lesson-" + n + "-transcript.pdf";
+          btn.after(player);
+        }
+        player.play().catch(() => {});
       });
     });
     paintPips();
