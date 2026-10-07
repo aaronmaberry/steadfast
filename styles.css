@@ -826,7 +826,8 @@ input:focus, select:focus, textarea:focus, .btn:focus-visible, a:focus-visible {
   line-height: 1.45;
   color: var(--muted);
 }
-.path-list a {
+.path-list a,
+.path-list .row {
   display: grid;
   grid-template-columns: 28px 1fr;
   gap: 10px;
@@ -835,7 +836,7 @@ input:focus, select:focus, textarea:focus, .btn:focus-visible, a:focus-visible {
   text-decoration: none;
 }
 .path-list a:hover { color: var(--text); }
-.path-list li b, .path-list a b {
+.path-list li b, .path-list a b, .path-list .row b {
   font-family: var(--mono);
   font-size: 11px;
   font-weight: 500;
