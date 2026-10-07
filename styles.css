@@ -1126,7 +1126,20 @@ input:focus, select:focus, textarea:focus, .btn:focus-visible, a:focus-visible {
   box-shadow: 0 10px 30px rgba(0,0,0,.45);
 }
 .yt-meta { font-family: var(--mono); font-size: 12px; color: var(--muted); margin-top: 8px; }
-.check-row .lib-card { min-height: 220px; }
+.path-top { display: grid; grid-template-columns: 1.4fr .8fr; gap: 16px; align-items: start; }
+.mark-agenda { display: grid; gap: 8px; margin-top: 14px; }
+.agenda-line { display: grid; grid-template-columns: 28px 1fr; gap: 10px; align-items: center; }
+.agenda-line b { font-family: var(--mono); font-size: 12px; color: var(--accent); }
+.agenda-line span { font-size: 14px; color: var(--text); }
+.agenda-line i { grid-column: 2; height: 4px; border-radius: 99px; background: rgba(255,255,255,.12); display: block; }
+.agenda-line.on i { background: var(--accent); }
+.agenda-line.on span { color: var(--text); }
+.print-line { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; }
+.print-line .btn { margin: 0; }
+.group-mid { display: flex; justify-content: center; margin-top: 10px; }
+@media (max-width: 900px) {
+  .path-top { grid-template-columns: 1fr; }
+}
 .count-row { display: flex; gap: 10px; margin-top: 14px; }
 .count-row label { display: flex; flex-direction: column; gap: 6px; font-size: 11px; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
 .count-row input { max-width: 88px; }
