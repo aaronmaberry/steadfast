@@ -107,15 +107,15 @@ a { color: inherit; }
 .give-photo {
   padding: 0 0 28px;
 }
-.give-photo::before {
-  content: "";
+.give-photo img {
   display: block;
   width: min(var(--wrap), calc(100% - 48px));
   height: 280px;
   margin: 0 auto;
+  object-fit: cover;
+  object-position: center;
   border-radius: 14px;
   border: 1px solid var(--line);
-  background: url("img/support-band.jpg?v=1") center / cover no-repeat;
 }
 .give-split .wrap {
   display: block;
