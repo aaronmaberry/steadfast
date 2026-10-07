@@ -1101,7 +1101,10 @@ input:focus, select:focus, textarea:focus, .btn:focus-visible, a:focus-visible {
   min-height: 160px;
 }
 .lib-card h3 { margin: 6px 0 10px; font-size: 20px; }
-.week-board { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; align-items: start; }
+.week-board { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; align-items: stretch; }
+.week-card { height: 100%; display: flex; flex-direction: column; }
+.week-card > div { display: flex; flex-direction: column; height: 100%; }
+.week-card .file-row { margin-top: auto; }
 .mark-break { grid-column: 1 / -1; margin: 28px 0 4px; font-size: clamp(32px, 4vw, 48px); }
 .lesson-intro { grid-column: 1 / -1; }
 .week-card { max-width: none; }
