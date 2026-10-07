@@ -35,6 +35,22 @@
     </div>
   </div>
 
+  <section id="count">
+    <div class="wrap">
+      <p class="eyebrow">For the leader</p>
+      <h2 style="margin:8px 0 8px">How many did the act.</h2>
+      <p class="lede" style="margin-bottom:24px">A count for the room. Not a list of names. It does not move when a man watches a lesson.</p>
+      <article class="lib-card" style="max-width:420px">
+        <p class="eyebrow">This lesson</p>
+        <h3><span id="table-have">0</span> of <span id="table-need">7</span> did it</h3>
+        <div class="file-row count-row">
+          <label>Did it<input id="table-have-in" type="number" min="0" max="40" value="0"></label>
+          <label>At the table<input id="table-need-in" type="number" min="1" max="40" value="7"></label>
+        </div>
+      </article>
+    </div>
+  </section>
+
   <section id="scripts">
     <div class="wrap">
       <p class="eyebrow">Curriculum scripts</p>
@@ -185,6 +201,15 @@
     document.querySelectorAll("[data-file], [data-script]").forEach(a => {
       a.addEventListener("click", e => { if (a.getAttribute("href") === "#") e.preventDefault(); });
     });
+    const haveIn = document.getElementById("table-have-in");
+    const needIn = document.getElementById("table-need-in");
+    function paintTable() {
+      document.getElementById("table-have").textContent = haveIn.value || "0";
+      document.getElementById("table-need").textContent = needIn.value || "7";
+    }
+    haveIn?.addEventListener("input", paintTable);
+    needIn?.addEventListener("input", paintTable);
+    paintTable();
   </script>
 </body>
 </html>
