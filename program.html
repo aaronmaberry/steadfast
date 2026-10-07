@@ -9,9 +9,9 @@
   <meta name="robots" content="noindex">
   <link rel="canonical" href="https://www.walksteadfast.com/program">
   <link rel="icon" href="img/logo-lockup.jpg">
-  <link rel="stylesheet" href="styles.css?v=237">
+  <link rel="stylesheet" href="styles.css?v=238">
 </head>
-<body>
+<body class="member">
   <header class="nav">
     <div class="wrap nav-inner">
       <a class="brand" href="index.html"><img src="img/logo-lockup.jpg" alt="Steadfast Men"></a>
@@ -51,10 +51,10 @@
           <p class="lede">Six lessons in this mark. A bar lights when you check the act. The next mark opens when these six are done.</p>
           <div class="mark-agenda" id="mark-pips"></div>
         </article>
-        <article class="lib-card" id="library">
+        <article class="lib-card plan-card" id="library">
           <p class="eyebrow">In the plan</p>
           <h3>The pages</h3>
-          <p class="lede">The digital pages for the lessons. Print is its own buy.</p>
+          <p class="lede">The lessons are open. The pages sit with them, so you can print a lesson or the whole set. A hardcover or paperback is for the table at home. A bound workbook is the same work, already printed. Group purchasing is the door for a church or a crew. The audiobook is its own buy.</p>
           <div class="file-row">
             <a class="btn btn-ghost" href="#" data-file="workbook">Download the pages</a>
           </div>
@@ -243,11 +243,17 @@
       const current = marks.find(mark => mark.weeks.some(([n]) => !store.get("act-" + n, false))) || marks[marks.length - 1];
       if (name) name.textContent = current.label;
       board.innerHTML = "";
-      current.weeks.forEach(([n, title]) => {
-        const row = document.createElement("div");
-        row.className = "agenda-line" + (store.get("act-" + n, false) ? " on" : "");
-        row.innerHTML = "<b>" + n + "</b><span>" + title + "</span><i></i>";
-        board.appendChild(row);
+      marks.forEach(mark => {
+        const head = document.createElement("p");
+        head.className = "eyebrow";
+        head.textContent = mark.label;
+        board.appendChild(head);
+        mark.weeks.forEach(([n, title]) => {
+          const row = document.createElement("div");
+          row.className = "agenda-line" + (store.get("act-" + n, false) ? " on" : "");
+          row.innerHTML = "<b>" + n + "</b><span>" + title + "</span><i></i>";
+          board.appendChild(row);
+        });
       });
     }
     document.getElementById("act-now")?.addEventListener("change", e => {
