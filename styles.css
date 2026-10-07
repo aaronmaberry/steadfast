@@ -493,18 +493,8 @@ section { padding: 112px 0; position: relative; }
 .shop { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
 .store-grid { grid-template-columns: repeat(2, 1fr); }
 .listen-row {
-  display: grid;
-  grid-template-columns: 1.1fr 1fr;
-  gap: 36px;
-  align-items: center;
   margin-top: 48px;
-}
-.listen-row img {
-  width: 100%;
-  aspect-ratio: 4 / 3;
-  object-fit: cover;
-  border-radius: 14px;
-  border: 1px solid var(--line);
+  max-width: 720px;
 }
 .listen-row .actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 22px; }
 .listen-row .btn { display: inline-flex; align-items: center; gap: 8px; }
