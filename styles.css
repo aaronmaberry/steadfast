@@ -446,6 +446,7 @@ h3 { font-size: 26px; letter-spacing: -0.02em; }
 @media (max-width: 800px) {
   .listen-doors, .listen-split { grid-template-columns: 1fr; }
 }
+.marks-home { padding-bottom: 56px; }
 .apps-home { padding-top: 56px; }
 .band-navy {
   background:
