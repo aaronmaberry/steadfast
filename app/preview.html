@@ -112,7 +112,15 @@
     .offer-screen h2 { font-size:22px; margin:0 0 4px; }
     .offer-screen p { margin-bottom:10px; }
     .offer-screen .pill { margin-top:auto; }
-    .sku, .rowcard { min-width:0; }
+    .shelf { display:grid; grid-template-columns:1fr 1fr; gap:10px; }
+    .shelf button {
+      display:flex; flex-direction:column; gap:8px; padding:0 0 12px; text-align:left;
+      background:rgba(18,18,24,.62); border:1px solid var(--line); border-radius:16px;
+      color:var(--text); cursor:pointer; overflow:hidden;
+    }
+    .shelf img { width:100%; height:92px; object-fit:cover; }
+    .shelf b, .shelf small { display:block; padding:0 10px; }
+    .shelf small { color:var(--muted); font-size:12px; margin-top:2px; }
     .thumb.round { border-radius:50%; width:64px; height:64px; justify-self:end; }
     .price { color:var(--accent); font-weight:500; }
     .buy { display:flex; gap:8px; margin-top:8px; flex-wrap:wrap; }
@@ -375,29 +383,13 @@
         <p class="k">The shelf</p>
         <h2 style="font-size:26px;margin:0 0 6px">Library</h2>
         <p style="color:var(--muted);margin-bottom:14px">Choose a walk. The price sits on the page you open.</p>
-        <div class="sku" onclick="go('training')">
-          <div><div class="k">Path</div><b>Training</b><small>Twenty-four lessons. One act.</small></div>
-          <img class="thumb" alt="" src="img/road.jpg">
-        </div>
-        <div class="sku" onclick="go('book')">
-          <div><div class="k">Print</div><b>The book</b><small>Hardcover or paperback.</small></div>
-          <img class="thumb" alt="" src="img/book-pair.jpg">
-        </div>
-        <div class="sku" onclick="go('ebook')">
-          <div><div class="k">Read tonight</div><b>Ebook</b><small>The file goes to the receipt.</small></div>
-          <img class="thumb" alt="" src="img/ebook-wh.jpg">
-        </div>
-        <div class="sku" onclick="go('audio')">
-          <div><div class="k">Listen</div><b>Audiobook</b><small>Hear it on the way to work.</small></div>
-          <img class="thumb" alt="" src="img/audio-wh.jpg">
-        </div>
-        <div class="sku" onclick="go('merch')">
-          <div><div class="k">Wear</div><b>Merch</b><small>Hat, shirt, mug, journal.</small></div>
-          <img class="thumb" alt="" src="img/merch-kit-wh.jpg">
-        </div>
-        <div class="sku" onclick="go('groups')">
-          <div><div class="k">Rooms</div><b>Groups</b><small>A table or a church.</small></div>
-          <img class="thumb" alt="" src="img/chapel.jpg">
+        <div class="shelf">
+          <button type="button" onclick="go('training')"><img src="img/road.jpg" alt=""><b>Training</b><small>Twenty-four lessons</small></button>
+          <button type="button" onclick="go('book')"><img src="img/book-pair.jpg" alt=""><b>The book</b><small>Hardcover or paperback</small></button>
+          <button type="button" onclick="go('ebook')"><img src="img/ebook-wh.jpg" alt=""><b>Ebook</b><small>Read it tonight</small></button>
+          <button type="button" onclick="go('audio')"><img src="img/audio-wh.jpg" alt=""><b>Audiobook</b><small>On the way to work</small></button>
+          <button type="button" onclick="go('merch')"><img src="img/merch-kit-wh.jpg" alt=""><b>Merch</b><small>Hat, shirt, mug</small></button>
+          <button type="button" onclick="go('groups')"><img src="img/chapel.jpg" alt=""><b>Groups</b><small>A table or a church</small></button>
         </div>
       </div>
 
