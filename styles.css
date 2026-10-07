@@ -493,7 +493,7 @@ section { padding: 112px 0; position: relative; }
 .shop { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
 .store-grid { grid-template-columns: repeat(2, 1fr); }
 .listen-row {
-  margin-top: 48px;
+  margin-top: 96px;
   max-width: 720px;
 }
 .listen-row .actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 22px; }
