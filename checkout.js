@@ -1,18 +1,20 @@
 (function () {
   var PRODUCT_URL = /^https:\/\/buy\.stripe\.com\/[A-Za-z0-9_-]+$/;
-  var PRODUCTS = { ebook: true, training: true, bundle: true };
+  var PRODUCTS = { ebook: true, training: true, bundle: true, audio: true };
   var TEST_LINKS = {
     training: "https://buy.stripe.com/test_28EaEQ8AI10F5BCgJtdnW00",
     ebook: "https://buy.stripe.com/test_8x2bIUeZ67p36FGgJtdnW01",
-    bundle: "https://buy.stripe.com/test_14A14g8AI8t79RSfFpdnW02"
+    bundle: "https://buy.stripe.com/test_14A14g8AI8t79RSfFpdnW02",
+    audio: "https://buy.stripe.com/test_28E00cbMUgZDe8878TdnW09"
   };
 
   window.STEADFAST_CHECKOUT = {
     mode: "test",
-    prices: { ebook: 14, training: 79, bundle: 89 },
+    prices: { ebook: 14, training: 79, bundle: 89, audio: 18 },
     training: TEST_LINKS.training,
     ebook: TEST_LINKS.ebook,
     bundle: TEST_LINKS.bundle,
+    audio: TEST_LINKS.audio,
     giveOnce: "https://donate.stripe.com/test_28E00c8AIbFj8NOdxhdnW03",
     giveMonthly: {
       5: "https://donate.stripe.com/test_bJe00c04c10Fe88eBldnW05",
