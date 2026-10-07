@@ -741,7 +741,25 @@ input:focus, select:focus, textarea:focus, .btn:focus-visible, a:focus-visible {
 }
 .page-hero p { max-width: 34em; color: var(--muted); margin-top: 16px; }
 .page-hero-tight { padding: 56px 0 14px; }
-.marks-list { padding-top: 18px; padding-bottom: 72px; }
+.mark-plate { position: relative; overflow: hidden; min-height: 280px; }
+.mark-plate .wash {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: right center;
+  opacity: .28;
+  pointer-events: none;
+}
+.mark-plate::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, var(--bg) 0%, rgba(7,7,10,.82) 42%, rgba(7,7,10,.35) 100%);
+  pointer-events: none;
+}
+.mark-plate > *:not(.wash) { position: relative; z-index: 1; }
 
 .path-grid {
   display: grid;
