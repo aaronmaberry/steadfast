@@ -1483,12 +1483,15 @@ body.groups section.socials-band { padding: 88px 0 96px; }
 body.member .nav-links { flex: 1; justify-content: flex-end; }
 body.member .nav-links .nav-end { margin-left: 18px; }
 
-body.train .page-hero-tight { padding-bottom: 36px; }
-body.train #inside { margin-top: 80px; background: #07070a; }
+body.train .page-hero-tight { padding: 72px 0 40px; }
+body.train section,
+body.train section.train-band,
+body.train section.socials-band,
+body.train #inside,
 body.train section:has(.faq) {
-  margin: 40px 0 80px;
-  padding: 28px 0 72px;
-  background: #07070a;
+  margin: 0;
+  padding: 40px 0;
+  background: transparent;
 }
 
 body.inquiry #bulk { padding-bottom: 28px; }
