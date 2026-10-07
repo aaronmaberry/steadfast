@@ -741,29 +741,26 @@ input:focus, select:focus, textarea:focus, .btn:focus-visible, a:focus-visible {
 }
 .page-hero p { max-width: 34em; color: var(--muted); margin-top: 16px; }
 .page-hero-tight { padding: 56px 0 14px; }
-.mark-plate { position: relative; overflow: hidden; border-radius: 14px; }
+.mark-plate {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(180px, 34%);
+  gap: 28px;
+  align-items: center;
+}
 .mark-plate .wash {
-  position: absolute;
-  top: 0;
-  right: 0;
-  width: 46%;
-  height: 100%;
+  width: 100%;
+  height: 180px;
   object-fit: cover;
   object-position: center;
-  opacity: .34;
-  pointer-events: none;
+  border-radius: 12px;
+  opacity: .72;
 }
-.mark-plate::after {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background: linear-gradient(90deg, var(--bg) 0%, var(--bg) 42%, rgba(7,7,10,.55) 68%, rgba(7,7,10,.2) 100%);
-  pointer-events: none;
-}
-.mark-plate > *:not(.wash) { position: relative; z-index: 1; max-width: 52%; }
+.mark-plate h2 { font-size: clamp(32px, 4vw, 48px); }
+.mark-plate .lede,
+.mark-plate .mark-verse { max-width: 40em; }
 @media (max-width: 800px) {
-  .mark-plate .wash { width: 38%; opacity: .22; }
-  .mark-plate > *:not(.wash) { max-width: 70%; }
+  .mark-plate { grid-template-columns: 1fr; }
+  .mark-plate .wash { height: 160px; opacity: .6; }
 }
 
 .path-grid {
