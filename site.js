@@ -454,6 +454,15 @@ document.addEventListener("DOMContentLoaded", () => {
     if (e.key === "Escape") closeSheets();
   });
 
+  document.querySelectorAll("header.nav").forEach(function (bar) {
+    bar.style.position = "fixed";
+    bar.style.top = "0";
+    bar.style.left = "0";
+    bar.style.right = "0";
+    bar.style.width = "100%";
+    bar.style.zIndex = "75";
+  });
+  if (!document.body.style.paddingTop) document.body.style.paddingTop = "76px";
   const toggle = document.querySelector(".nav-toggle");
   const links = document.querySelector(".nav-links");
   if (toggle && links) {

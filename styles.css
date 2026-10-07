@@ -182,14 +182,13 @@ h3 { font-size: 26px; letter-spacing: -0.02em; }
 .skip:focus { left: 12px; }
 
 .nav {
-  position: fixed;
+  position: fixed !important;
   top: 0;
   left: 0;
   right: 0;
-  z-index: 40;
-  background: rgba(7, 7, 10, 0.72);
-  backdrop-filter: saturate(160%) blur(18px);
-  -webkit-backdrop-filter: saturate(160%) blur(18px);
+  width: 100%;
+  z-index: 75;
+  background: rgba(7, 7, 10, 0.92);
   border-bottom: 1px solid var(--line);
 }
 .nav-inner {
