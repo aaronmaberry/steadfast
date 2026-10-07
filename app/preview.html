@@ -212,11 +212,11 @@
     <div class="phone">
       <div class="status"><span>9:41</span><span></span><span>■■■</span></div>
       <div class="topbar">
-        <a class="brand" href="#"><img src="img/logo-lockup.jpg" alt="Steadfast Men"></a>
+        <a class="brand" href="#" onclick="go('daily');return false"><img src="img/logo-lockup.jpg" alt="Steadfast Men"></a>
         <div class="top-links">
           <button type="button" onclick="go('daily')">Daily</button>
-          <button type="button" onclick="window.open('https://www.walksteadfast.com/book','_blank')">Book</button>
-          <button type="button" onclick="window.open('https://www.walksteadfast.com/login','_blank')">Login</button>
+          <button type="button" onclick="go('book')">Book</button>
+          <button type="button" onclick="go('login')">Login</button>
           <button class="gold" type="button" onclick="openGive()">Support</button>
         </div>
       </div>
@@ -289,6 +289,25 @@
           </div>
           <img class="thumb" alt="" src="img/ebook-wh.jpg">
         </div>
+      </div>
+
+      <div class="screen" id="tab-book" hidden>
+        <h2 style="font-size:26px;margin:0 0 6px">The book</h2>
+        <p style="color:var(--muted);margin-bottom:14px">Hardcover and paperback. Ebook tonight. Audio for the truck.</p>
+        <div class="list">
+          <a href="https://www.walksteadfast.com/book" target="_blank">Hardcover <span>Purchase</span></a>
+          <a href="https://www.walksteadfast.com/book" target="_blank">Paperback <span>Purchase</span></a>
+          <a href="https://www.walksteadfast.com/shop#ebook" target="_blank">Ebook · $14 <span>Purchase the ebook</span></a>
+          <a href="https://www.walksteadfast.com/shop#audio" target="_blank">Audiobook · $18 <span>Purchase the audiobook</span></a>
+        </div>
+      </div>
+
+      <div class="screen" id="tab-login" hidden>
+        <h2 style="font-size:26px;margin:0 0 6px">Login</h2>
+        <p style="color:var(--muted);margin-bottom:14px">Sign in if you bought the 24 lessons. An ebook or audiobook on its own does not use this door. Those files go to the email on the receipt. The daily walk is free.</p>
+        <label class="k" for="login-email">Email</label>
+        <input id="login-email" type="email" placeholder="Email" style="width:100%;margin:8px 0 14px;background:var(--surf);border:1px solid var(--line);color:var(--text);border-radius:12px;padding:12px 14px;font:500 16px Geist,sans-serif">
+        <button class="pill flow" type="button" onclick="go('library')">Sign in</button>
       </div>
 
       <div class="screen" id="tab-library" hidden>
@@ -466,8 +485,12 @@
         <div class="article">
           <div class="k">Support</div>
           <h2 style="font-size:28px;margin:8px 0 10px">Help us expand the mission and make steadfast men.</h2>
-          <p style="color:var(--muted)">Monthly starts at $5. $2, $10, $25, and $50 are there too. One time is $5, $10, $25, $50. Choose your own amount on the site.</p>
-          <a class="pill flow" href="https://www.walksteadfast.com/give?cadence=monthly&amount=5" target="_blank" rel="noopener">Give on the site</a>
+          <p style="color:var(--muted)">Help us put this path in front of more men who need it — husbands and fathers who have not found the table yet. Training and the book stay in Shop. What you send here expands the reach: the films, Daily, and rooms we can open next.</p>
+          <p class="k" style="margin-top:18px">Once, or every month.</p>
+          <p style="color:var(--muted)">Monthly opens on $5. $2, $10, $25, and $50 are there. One time is $5, $10, $25, $50. Choose your own amount on the site.</p>
+          <p class="k" style="margin-top:18px">Where the money goes.</p>
+          <p style="color:var(--muted)">Reach men outside our zip code. Keep Daily free. Help a table start before they can buy seats. Shop still sells training and the book.</p>
+          <a class="pill flow" href="https://www.walksteadfast.com/give?cadence=monthly&amount=5" target="_blank" rel="noopener">Give $5 monthly</a>
         </div>
       </div>
 
@@ -902,6 +925,8 @@
       closeOv();
       document.querySelectorAll(".screen").forEach(s => s.hidden = s.id !== "tab-" + name);
       document.querySelectorAll(".tabs button").forEach(b => b.classList.toggle("on", b.dataset.tab === name));
+      const phone = document.querySelector(".phone");
+      if (phone) phone.scrollTop = 0;
     }
     document.querySelectorAll(".tabs button").forEach(b => b.onclick = () => go(b.dataset.tab));
     function closeOv(){ document.querySelectorAll(".overlay").forEach(o => o.classList.remove("on")); }
