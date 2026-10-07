@@ -179,7 +179,7 @@
       btn.onclick = () => {
         cadence = btn.dataset.cadence;
         document.querySelectorAll(".cadence button").forEach(x => x.classList.toggle("on", x === btn));
-        if (!custom.value) amount = sets[cadence][0];
+        if (!custom.value) amount = cadence === "monthly" ? 5 : sets[cadence][0];
         build();
         paint();
       };
