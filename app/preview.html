@@ -919,8 +919,8 @@
       closeOv();
       document.querySelectorAll(".screen").forEach(s => s.hidden = s.id !== "tab-" + name);
       document.querySelectorAll(".tabs button").forEach(b => b.classList.toggle("on", b.dataset.tab === name));
-      const phone = document.querySelector(".phone");
-      if (phone) phone.scrollTop = 0;
+      const screen = document.getElementById("tab-" + name);
+      if (screen) screen.scrollTop = 0;
     }
     document.querySelectorAll(".tabs button").forEach(b => b.onclick = () => go(b.dataset.tab));
     function closeOv(){ document.querySelectorAll(".overlay").forEach(o => o.classList.remove("on")); }
