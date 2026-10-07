@@ -1252,7 +1252,17 @@ input:focus, select:focus, textarea:focus, .btn:focus-visible, a:focus-visible {
 
 @media (max-width: 600px) {
   .rail { grid-template-columns: 1fr; }
-  .rail img { height: 200px; }
+  .rail img,
+  .product-card img,
+  .card img,
+  .shop article img,
+  .look img {
+    height: auto;
+    aspect-ratio: 16 / 10;
+    object-fit: contain;
+    object-position: center;
+    background: #0a0a0e;
+  }
   .hero-film .hero-art,
   .hero-art { aspect-ratio: 5 / 4; }
   .wrap { width: calc(100% - 32px); }
