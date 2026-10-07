@@ -104,26 +104,24 @@ body::before {
 img { max-width: 100%; display: block; }
 a { color: inherit; }
 .wrap { width: min(var(--wrap), calc(100% - 48px)); margin: 0 auto; }
+.give-split { padding: 28px 0 36px; }
 .give-split .wrap {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 48px;
-  align-items: center;
-}
-.give-split .end-copy {
-  grid-column: 1;
-  text-align: center;
-  margin: 0 auto;
-  max-width: 28em;
-  width: 100%;
-}
-.give-split img {
-  width: 100%;
-  height: 420px;
-  object-fit: cover;
-  object-position: center;
+  display: block;
+  min-height: 280px;
   border-radius: 14px;
   border: 1px solid var(--line);
+  background:
+    linear-gradient(90deg, rgba(7,7,10,.55), rgba(7,7,10,.28) 18%, rgba(7,7,10,.72) 50%, rgba(7,7,10,.28) 82%, rgba(7,7,10,.55)),
+    url("img/support-band.jpg?v=1") center / cover no-repeat;
+  overflow: hidden;
+}
+.give-split .end-copy {
+  grid-column: auto;
+  text-align: center;
+  margin: 0 auto;
+  max-width: 34em;
+  width: 100%;
+  padding: 54px 24px;
 }
 .give-split .end-copy h2,
 .give-split .end-copy .lede {
@@ -131,10 +129,10 @@ a { color: inherit; }
   margin-left: auto;
   margin-right: auto;
 }
+.give-split .lede { margin: 16px auto 24px; }
 @media (max-width: 800px) {
-  .give-split .wrap { grid-template-columns: 1fr; }
-  .give-split .end-copy { grid-column: 1; }
-  .give-split img { height: 240px; }
+  .give-split .wrap { min-height: 0; }
+  .give-split .end-copy { padding: 40px 18px; }
 }
 
 .eyebrow {
