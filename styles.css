@@ -426,7 +426,8 @@ h3 { font-size: 26px; letter-spacing: -0.02em; }
 }
 .btn-line:hover { border-color: var(--accent); }
 
-section { padding: 112px 0; position: relative; }
+.marks-home { padding-bottom: 56px; }
+.apps-home { padding-top: 56px; }
 .band-navy {
   background:
     radial-gradient(800px 320px at 10% 0%, rgba(91,110,245,.16), transparent 60%),
