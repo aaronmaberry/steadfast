@@ -1486,8 +1486,8 @@ body.member .nav-links .nav-end { margin-left: 18px; }
 body.train .page-hero-tight { padding-bottom: 36px; }
 body.train #inside { margin-top: 80px; background: #07070a; }
 body.train section:has(.faq) {
-  margin: 80px 0;
-  padding: 56px 0 72px;
+  margin: 40px 0 80px;
+  padding: 28px 0 72px;
   background: #07070a;
 }
 
