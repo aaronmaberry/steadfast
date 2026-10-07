@@ -740,8 +740,8 @@ input:focus, select:focus, textarea:focus, .btn:focus-visible, a:focus-visible {
   border-bottom: 1px solid var(--line);
 }
 .page-hero p { max-width: 34em; color: var(--muted); margin-top: 16px; }
-.page-hero-tight { padding: 56px 0 28px; }
-.marks-list { padding-top: 36px; padding-bottom: 72px; }
+.page-hero-tight { padding: 56px 0 14px; }
+.marks-list { padding-top: 18px; padding-bottom: 72px; }
 
 .path-grid {
   display: grid;
