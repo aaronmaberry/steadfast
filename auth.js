@@ -1,7 +1,9 @@
-/* Client-side gate only. Never put credentials here: this file is public. Stays closed until real member auth replaces it. */
+/* Temp door only. This file is public. Replace before real member sales. */
 (function () {
   const KEY = "sm-auth";
-  const ACCOUNTS = {};
+  const ACCOUNTS = {
+    "member@walksteadfast.com": { pass: "steadfast-temp", role: "member" }
+  };
 
   window.SMAuth = {
     session() {
