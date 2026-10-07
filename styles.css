@@ -812,22 +812,30 @@ input:focus, select:focus, textarea:focus, .btn:focus-visible, a:focus-visible {
 .path-grid h3 { margin: 6px 0 10px; font-size: 22px; }
 .path-list { list-style: none; margin-top: auto; }
 .path-list li {
-  display: grid;
-  grid-template-columns: 28px 1fr;
-  gap: 10px;
-  padding: 7px 0;
+  display: block;
+  padding: 0;
   border-top: 1px solid var(--line);
   font-size: 14px;
   line-height: 1.45;
   color: var(--muted);
 }
-.path-list li b {
+.path-list a {
+  display: grid;
+  grid-template-columns: 28px 1fr;
+  gap: 10px;
+  padding: 7px 0;
+  color: inherit;
+  text-decoration: none;
+}
+.path-list a:hover { color: var(--text); }
+.path-list li b, .path-list a b {
   font-family: var(--mono);
   font-size: 11px;
   font-weight: 500;
   color: var(--accent);
   padding-top: 2px;
 }
+.week-card { scroll-margin-top: 96px; }
 .train-strip {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
