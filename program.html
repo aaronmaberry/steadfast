@@ -44,38 +44,39 @@
 
   <section id="table">
     <div class="wrap">
-      <p class="eyebrow">The table · no scoreboard</p>
-      <h2 style="margin:8px 0 24px">One brother. One act. A count.</h2>
-      <div class="lib-row">
+      <p class="eyebrow">Your check-in</p>
+      <h2 style="margin:8px 0 8px">One brother. One act.</h2>
+      <p class="lede" style="margin-bottom:24px">Name one man who will ask if you did it. Mark the act for yourself. If you sit at a table, count how many did it. No names on that count.</p>
+      <div class="lib-row check-row">
         <article class="lib-card">
-          <p class="eyebrow">This mark</p>
+          <p class="eyebrow">Where you are</p>
           <h3 id="mark-name">Stop Waiting</h3>
-          <p class="lede">Six lessons. The pips are for you. Nobody else sees them.</p>
+          <p class="lede">Six lessons in this mark. The bars are yours alone.</p>
           <div class="pips" id="mark-pips"></div>
         </article>
         <article class="lib-card">
-          <p class="eyebrow">The pair</p>
-          <h3>Name one brother</h3>
-          <p class="lede">He holds the six lessons with you. Halfway through you ask: did you do the act?</p>
-          <input id="pair-name" placeholder="His name stays on this device" style="margin-top:12px">
+          <p class="eyebrow">Your brother</p>
+          <h3>Who asks you</h3>
+          <p class="lede">One man. He asks halfway through: did you do the act?</p>
+          <input id="pair-name" placeholder="His first name" style="margin-top:12px">
           <div class="file-row">
-            <button class="btn btn-ghost" type="button" id="pair-ping">Ping him</button>
+            <button class="btn btn-ghost" type="button" id="pair-ping">Ask him</button>
           </div>
-          <p class="tiny" id="pair-note" style="color:var(--muted);margin-top:10px">The table only hears done. Not his name.</p>
+          <p class="tiny" id="pair-note" style="color:var(--muted);margin-top:10px">His name stays on this device.</p>
         </article>
         <article class="lib-card">
-          <p class="eyebrow">The act</p>
-          <h3>Did you do it?</h3>
-          <p class="lede">Private. No streak that punishes a sick child.</p>
-          <label class="act-done"><input type="checkbox" id="act-now"> I did this lesson’s act</label>
+          <p class="eyebrow">This lesson</p>
+          <h3>Did you do the act?</h3>
+          <p class="lede">For you. Miss a lesson and pick it up when you can.</p>
+          <label class="act-done"><input type="checkbox" id="act-now"> I did the act</label>
         </article>
         <article class="lib-card">
-          <p class="eyebrow">Table score</p>
-          <h3><span id="table-have">0</span> of <span id="table-need">7</span></h3>
-          <p class="lede">How many of us did the act. Not who. Shame stays off the stage.</p>
-          <div class="file-row">
-            <input id="table-have-in" type="number" min="0" max="40" value="0" style="max-width:90px">
-            <input id="table-need-in" type="number" min="1" max="40" value="7" style="max-width:90px">
+          <p class="eyebrow">The table</p>
+          <h3><span id="table-have">0</span> of <span id="table-need">7</span> did it</h3>
+          <p class="lede">A count only. Not a list of names.</p>
+          <div class="file-row count-row">
+            <label>Did it<input id="table-have-in" type="number" min="0" max="40" value="0"></label>
+            <label>At the table<input id="table-need-in" type="number" min="1" max="40" value="7"></label>
           </div>
         </article>
       </div>

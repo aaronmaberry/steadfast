@@ -1126,7 +1126,10 @@ input:focus, select:focus, textarea:focus, .btn:focus-visible, a:focus-visible {
   box-shadow: 0 10px 30px rgba(0,0,0,.45);
 }
 .yt-meta { font-family: var(--mono); font-size: 12px; color: var(--muted); margin-top: 8px; }
-.pips { display: flex; gap: 6px; margin-top: 10px; flex-wrap: wrap; }
+.check-row .lib-card { min-height: 220px; }
+.count-row { display: flex; gap: 10px; margin-top: 14px; }
+.count-row label { display: flex; flex-direction: column; gap: 6px; font-size: 11px; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
+.count-row input { max-width: 88px; }
 .pips i { width: 22px; height: 6px; border-radius: 99px; background: rgba(255,255,255,.12); display: block; }
 .pips i.on { background: var(--accent); }
 .act-done { display: flex; align-items: center; gap: 8px; margin-top: 12px; color: var(--muted); font-size: 14px; }
