@@ -478,6 +478,7 @@ section { padding: 112px 0; position: relative; }
 
 .shop { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
 .store-grid { grid-template-columns: repeat(2, 1fr); }
+.store-grid .btn svg { margin-right: 8px; flex: 0 0 auto; }
 .shop article {
   background: var(--surface);
   border: 1px solid var(--line);
