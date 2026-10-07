@@ -74,25 +74,58 @@
 
   <section id="agenda">
     <div class="wrap">
-      <p class="eyebrow">Agenda</p>
-      <h2 style="margin:8px 0 24px">Four marks. Six lessons each.</h2>
-      <div class="mark-jump">
-        <a href="#mark-1">
-          <p class="eyebrow">01–06</p>
+      <p class="eyebrow">The agenda</p>
+      <h2 style="margin:8px 0 12px">Twenty-four lessons. Named.</h2>
+      <p class="lede" style="margin-bottom:20px">The whole path. The card above stays on the mark you are in.</p>
+      <div class="path-grid">
+        <article>
+          <p class="eyebrow">Lessons 01–06</p>
           <h3>Stop Waiting</h3>
-        </a>
-        <a href="#mark-2">
-          <p class="eyebrow">07–12</p>
+          <ol class="path-list">
+            <li><b>01</b> Name the drift in your own house.</li>
+            <li><b>02</b> Stop waiting for someone else to captain the room.</li>
+            <li><b>03</b> Put the phone down at the table.</li>
+            <li><b>04</b> Tell the truth about the quiet sins.</li>
+            <li><b>05</b> Show up to church as a man, not a guest.</li>
+            <li><b>06</b> Close the first mark.</li>
+          </ol>
+        </article>
+        <article>
+          <p class="eyebrow">Lessons 07–12</p>
           <h3>Pick Up the Weight</h3>
-        </a>
-        <a href="#mark-3">
-          <p class="eyebrow">13–18</p>
+          <ol class="path-list">
+            <li><b>07</b> Write what is yours.</li>
+            <li><b>08</b> Provide without theater.</li>
+            <li><b>09</b> Confess what you have left half-done.</li>
+            <li><b>10</b> Carry the calendar of your house.</li>
+            <li><b>11</b> Make a plan a boy can see.</li>
+            <li><b>12</b> Close the second mark.</li>
+          </ol>
+        </article>
+        <article>
+          <p class="eyebrow">Lessons 13–18</p>
           <h3>Go First</h3>
-        </a>
-        <a href="#mark-4">
-          <p class="eyebrow">19–24</p>
+          <ol class="path-list">
+            <li><b>13</b> Go first in the hard conversation.</li>
+            <li><b>14</b> Pray out loud where your people can hear it.</li>
+            <li><b>15</b> Protect what you will not joke about.</li>
+            <li><b>16</b> Discipline without rage.</li>
+            <li><b>17</b> Say no when it costs you the easy room.</li>
+            <li><b>18</b> Close the third mark.</li>
+          </ol>
+        </article>
+        <article>
+          <p class="eyebrow">Lessons 19–24</p>
           <h3>Work for God’s Pay</h3>
-        </a>
+          <ol class="path-list">
+            <li><b>19</b> Lift your eyes past payday.</li>
+            <li><b>20</b> Work as worship, not as a brand.</li>
+            <li><b>21</b> Stay when leaving would be simpler.</li>
+            <li><b>22</b> Bless your son with a future, not a mood.</li>
+            <li><b>23</b> Hold the better city in view.</li>
+            <li><b>24</b> Finish. Begin again as a different man.</li>
+          </ol>
+        </article>
       </div>
     </div>
   </section>
@@ -244,17 +277,11 @@
       const current = marks.find(mark => mark.weeks.some(([n]) => !store.get("act-" + n, false))) || marks[marks.length - 1];
       if (name) name.textContent = current.label;
       board.innerHTML = "";
-      marks.forEach(mark => {
-        const head = document.createElement("p");
-        head.className = "eyebrow";
-        head.textContent = mark.label;
-        board.appendChild(head);
-        mark.weeks.forEach(([n, title]) => {
-          const row = document.createElement("div");
-          row.className = "agenda-line" + (store.get("act-" + n, false) ? " on" : "");
-          row.innerHTML = "<b>" + n + "</b><span>" + title + "</span><i></i>";
-          board.appendChild(row);
-        });
+      current.weeks.forEach(([n, title]) => {
+        const row = document.createElement("div");
+        row.className = "agenda-line" + (store.get("act-" + n, false) ? " on" : "");
+        row.innerHTML = "<b>" + n + "</b><span>" + title + "</span><i></i>";
+        board.appendChild(row);
       });
     }
     document.getElementById("act-now")?.addEventListener("change", e => {
