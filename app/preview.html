@@ -48,7 +48,7 @@
       text-decoration:none; cursor:pointer; white-space:nowrap;
     }
     .top-links .gold { border-color:transparent; background:var(--accent2); }
-    .screen { height:calc(100% - 44px - 54px - 72px); overflow:auto; padding:4px 16px 20px; }
+    .screen { height:calc(100% - 44px - 54px - 72px); overflow:auto; overflow-x:hidden; padding:4px 16px 20px; }
     img.wash {
       position:absolute; left:-16px; right:-16px; top:-12px; width:calc(100% + 32px);
       height:340px; object-fit:cover; object-position:center top;
@@ -226,7 +226,6 @@
       <div class="topbar">
         <a class="brand" href="#" onclick="go('daily');return false"><img src="img/logo-lockup.jpg" alt="Steadfast Men"></a>
         <div class="top-links">
-          <button type="button" onclick="go('daily')">Daily</button>
           <button type="button" onclick="go('book')">Book</button>
           <button class="gold" type="button" onclick="openGive()">Support</button>
         </div>
@@ -526,7 +525,7 @@
         <button class="on" data-tab="daily" type="button"><b>✦</b>Daily</button>
         <button data-tab="library" type="button"><b>▣</b>Library</button>
         <button data-tab="socials" type="button"><b>◎</b>Socials</button>
-        <button data-tab="profile" type="button"><b>●</b>Profile</button>
+        <button data-tab="login" type="button"><b>●</b>Login</button>
       </nav>
     </div>
   </div>
