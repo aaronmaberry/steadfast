@@ -1481,3 +1481,9 @@ body.groups section.socials-band { padding: 88px 0 96px; }
 
 body.member .nav-links { flex: 1; justify-content: flex-end; }
 body.member .nav-links .nav-end { margin-left: 18px; }
+
+body.train section:has(.faq) {
+  margin: 96px 0;
+  padding: 48px 0 64px;
+  background: var(--bg);
+}
