@@ -104,7 +104,19 @@ body::before {
 img { max-width: 100%; display: block; }
 a { color: inherit; }
 .wrap { width: min(var(--wrap), calc(100% - 48px)); margin: 0 auto; }
-.give-split { padding: 28px 0 36px; }
+.give-photo {
+  padding: 0 0 28px;
+}
+.give-photo::before {
+  content: "";
+  display: block;
+  width: min(var(--wrap), calc(100% - 48px));
+  height: 280px;
+  margin: 0 auto;
+  border-radius: 14px;
+  border: 1px solid var(--line);
+  background: url("img/support-band.jpg?v=1") center / cover no-repeat;
+}
 .give-split .wrap {
   display: block;
   min-height: 280px;
