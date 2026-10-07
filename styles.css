@@ -1231,7 +1231,9 @@ body.member section { padding: 28px 0; }
 }
 .mark-jump a h3 { margin-top: auto; }
 .mark-jump a:hover { border-color: var(--text); }
-.bulk-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
+.bulk-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; align-items: stretch; }
+.bulk-grid .lib-card { display: flex; flex-direction: column; height: 100%; }
+.bulk-grid .lib-card .btn { margin-top: auto; align-self: flex-start; }
 
 @media (max-width: 900px) {
   .shop-grid { grid-template-columns: 1fr; }

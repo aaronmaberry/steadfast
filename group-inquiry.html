@@ -9,7 +9,7 @@
   <meta name="robots" content="noindex, nofollow">
   <link rel="canonical" href="https://www.walksteadfast.com/group-inquiry">
   <link rel="icon" href="img/logo-lockup.jpg">
-  <link rel="stylesheet" href="styles.css?v=236">
+  <link rel="stylesheet" href="styles.css?v=242">
 </head>
 <body>
   <header class="nav">
@@ -36,6 +36,38 @@
     </div>
   </div>
 
+
+  <section id="bulk">
+    <div class="wrap">
+      <p class="eyebrow">Bulk paper</p>
+      <h2 style="margin:8px 0 16px">A room pays less per copy.</h2>
+      <p class="lede" style="margin-bottom:28px">Personal hardcover stays in Shop. This door is for a table or a ministry: 8+ copies. Final case prices land when print is live. Ask now so we size the run.</p>
+      <div class="bulk-grid">
+        <article class="lib-card">
+          <p class="eyebrow">Hardcover</p>
+          <h3>Case of the book</h3>
+          <p class="lede">Navy cloth. Gold lockup. Discount vs single Shop price when you take a case (start at 8).</p>
+          <p class="price" style="margin:12px 0">Ask · 8+ copies</p>
+          <a class="btn btn-ink" href="#inquire" data-paper="hardcover">Request hardcover case</a>
+        </article>
+        <article class="lib-card">
+          <p class="eyebrow">Paperback</p>
+          <h3>Case of paperbacks</h3>
+          <p class="lede">Same text. Lighter in the truck. Same 8+ floor.</p>
+          <p class="price" style="margin:12px 0">Ask · 8+ copies</p>
+          <a class="btn btn-ink" href="#inquire" data-paper="paperback">Request paperback case</a>
+        </article>
+        <article class="lib-card">
+          <p class="eyebrow">Workbook</p>
+          <h3>Printed 24-lesson workbooks</h3>
+          <p class="lede">One book per man in the room. Or print the workbook PDF on your copier.</p>
+          <p class="price" style="margin:12px 0">Ask · 8+ copies</p>
+          <a class="btn btn-ink" href="#inquire" data-paper="workbook">Request printed workbooks</a>
+        </article>
+      </div>
+    </div>
+  </section>
+
   <section id="inquire">
     <div class="wrap" style="max-width:640px">
       <p class="lede" style="margin:0 0 28px">Scripts and films stay licensed to a named table or church. They are not sold, posted, or reprinted as someone else’s series. The ask goes to groups@walksteadfast.com.</p>
@@ -49,6 +81,14 @@
         <input id="iq-church" name="church">
         <label for="iq-seats">About how many men</label>
         <input id="iq-seats" name="seats" type="number" min="3" placeholder="8">
+        <label for="iq-paper">Paper you want</label>
+        <select id="iq-paper" name="paper">
+          <option value="none">No paper yet</option>
+          <option value="hardcover">Bulk hardcover</option>
+          <option value="paperback">Bulk paperback</option>
+          <option value="workbook">Printed workbooks</option>
+          <option value="mix">Mix — we will reply</option>
+        </select>
         <label for="iq-need">What you need</label>
         <select id="iq-need" name="need">
           <option value="pricing">Pricing for the room</option>
@@ -103,5 +143,20 @@
     <div class="wrap tiny">© <span id="y">2026</span> Steadfast Men</div>
   </footer>
   <script src="site.js?v=236"></script>
+  <script>
+    function setPaper(value) {
+      var paper = document.getElementById("iq-paper");
+      if (paper && value) paper.value = value;
+    }
+    document.querySelectorAll("[data-paper]").forEach(function (a) {
+      a.addEventListener("click", function () { setPaper(a.getAttribute("data-paper")); });
+    });
+    var asked = new URLSearchParams(location.search).get("paper");
+    if (asked) {
+      setPaper(asked);
+      document.getElementById("inquire") && document.getElementById("inquire").scrollIntoView();
+    }
+  </script>
+
 </body>
 </html>
