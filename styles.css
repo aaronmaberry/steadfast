@@ -1153,6 +1153,8 @@ input:focus, select:focus, textarea:focus, .btn:focus-visible, a:focus-visible {
 .print-line { display: flex; flex-wrap: wrap; gap: 8px; }
 .print-line .btn { margin: 0; flex: 1 1 0; text-align: center; padding: 10px 8px; }
 .group-mid { display: flex; justify-content: center; gap: 8px; margin-top: 10px; flex-wrap: wrap; }
+.file-mid { margin-top: 28px; }
+.file-mid .btn { color: #8b9cff; border-color: rgba(139,156,255,.55); }
 body.member section { padding: 28px 0; }
 @media (max-width: 900px) {
   .path-top { grid-template-columns: 1fr; }
