@@ -760,7 +760,11 @@ input:focus, select:focus, textarea:focus, .btn:focus-visible, a:focus-visible {
   background: linear-gradient(90deg, var(--bg) 0%, var(--bg) 42%, rgba(7,7,10,.55) 68%, rgba(7,7,10,.2) 100%);
   pointer-events: none;
 }
-.mark-plate > *:not(.wash) { position: relative; z-index: 1; }
+.mark-plate > *:not(.wash) { position: relative; z-index: 1; max-width: 52%; }
+@media (max-width: 800px) {
+  .mark-plate .wash { width: 38%; opacity: .22; }
+  .mark-plate > *:not(.wash) { max-width: 70%; }
+}
 
 .path-grid {
   display: grid;
