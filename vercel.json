@@ -107,6 +107,7 @@
     { "source": "/course", "destination": "/training", "permanent": true },
     { "source": "/courses", "destination": "/training", "permanent": true },
     { "source": "/path", "destination": "/program", "permanent": true },
+    { "source": "/groups", "destination": "/group-inquiry", "permanent": true },
     { "source": "/kit", "destination": "/group-kit", "permanent": true },
     { "source": "/buy", "destination": "/start", "permanent": true },
     { "source": "/store", "destination": "/shop", "permanent": true },
