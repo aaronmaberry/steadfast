@@ -741,22 +741,23 @@ input:focus, select:focus, textarea:focus, .btn:focus-visible, a:focus-visible {
 }
 .page-hero p { max-width: 34em; color: var(--muted); margin-top: 16px; }
 .page-hero-tight { padding: 56px 0 14px; }
-.mark-plate { position: relative; overflow: hidden; min-height: 280px; }
+.mark-plate { position: relative; overflow: hidden; border-radius: 14px; }
 .mark-plate .wash {
   position: absolute;
-  inset: 0;
-  width: 100%;
+  top: 0;
+  right: 0;
+  width: 46%;
   height: 100%;
   object-fit: cover;
-  object-position: right center;
-  opacity: .28;
+  object-position: center;
+  opacity: .34;
   pointer-events: none;
 }
 .mark-plate::after {
   content: "";
   position: absolute;
   inset: 0;
-  background: linear-gradient(90deg, var(--bg) 0%, rgba(7,7,10,.82) 42%, rgba(7,7,10,.35) 100%);
+  background: linear-gradient(90deg, var(--bg) 0%, var(--bg) 42%, rgba(7,7,10,.55) 68%, rgba(7,7,10,.2) 100%);
   pointer-events: none;
 }
 .mark-plate > *:not(.wash) { position: relative; z-index: 1; }
