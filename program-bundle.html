@@ -169,7 +169,7 @@
 
   <script src="site.js?v=236"></script>
   <script src="auth.js?v=temp1"></script>
-  <script>SMAuth.require("program.html");</script>
+  <script>SMAuth.require("program-bundle.html");</script>
   <script>
     const marks = [
       { id: "mark-1", label: "Stop Waiting", thumb: "img/mark-01.jpg", weeks: [
@@ -247,7 +247,7 @@
             '<div class="file-row">' +
               '<a class="btn btn-line" href="files/lessons/lesson-' + n + '-transcript.pdf" target="_blank" rel="noopener">Transcript</a>' +
               '<button class="btn btn-ghost" type="button" data-audio="' + n + '">Audio</button>' +
-              '<a class="btn btn-ghost" href="files/lessons/lesson-' + n + '-page.pdf" target="_blank" rel="noopener">This lesson page</a>' +
+              '<a class="btn btn-ghost" href="files/lessons/lesson-' + n + '-page.pdf" target="_blank" rel="noopener">Lesson Pages</a>' +
             '</div>' +
           '</div>';
         board.appendChild(el);
@@ -319,13 +319,6 @@
       store.set("act-now", e.target.checked);
     });
     if (document.getElementById("act-now")) document.getElementById("act-now").checked = store.get("act-now", false);
-    paintPips();
-      });
-    });
-    document.getElementById("act-now")?.addEventListener("change", e => {
-      store.set("act-now", e.target.checked);
-    });
-    if (document.getElementById("act-now")) document.getElementById("act-now").checked = store.get("act-now", false);
     document.querySelectorAll("[data-act]").forEach(box => {
       const n = box.getAttribute("data-act");
       const note = document.getElementById("act-note-" + n);
@@ -338,6 +331,7 @@
       paintAct();
       box.addEventListener("click", () => {
         store.set("act-" + n, !store.get("act-" + n, false));
+        if (store.get("act-" + n, false)) store.set("watched-" + n, true);
         paintAct();
         paintPips();
       });
@@ -345,15 +339,8 @@
     document.querySelectorAll("[data-audio]").forEach(btn => {
       btn.addEventListener("click", () => {
         const n = btn.getAttribute("data-audio");
-        let player = document.getElementById("audio-" + n);
-        if (!player) {
-          player = document.createElement("audio");
-          player.id = "audio-" + n;
-          player.controls = true;
-          player.src = "files/lessons/lesson-" + n + "-transcript.pdf";
-          btn.after(player);
-        }
-        player.play().catch(() => {});
+        const note = document.getElementById("act-note-" + n);
+        if (note) note.textContent = "The lecture audio for lesson " + n + " is not filed yet.";
       });
     });
     paintPips();
