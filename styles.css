@@ -1490,3 +1490,6 @@ body.train section:has(.faq) {
   padding: 56px 0 72px;
   background: #07070a;
 }
+
+body.inquiry #bulk { padding-bottom: 28px; }
+body.inquiry #inquire { margin-top: 120px; padding-top: 24px; background: #07070a; }
