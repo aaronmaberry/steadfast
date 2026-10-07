@@ -2,7 +2,8 @@
 (function () {
   const KEY = "sm-auth";
   const ACCOUNTS = {
-    "member@walksteadfast.com": { pass: "steadfast-temp", role: "member" }
+    "member@walksteadfast.com": { pass: "steadfast-temp", role: "member", next: "program.html" },
+    "bundle@walksteadfast.com": { pass: "steadfast-temp", role: "bundle", next: "program-bundle.html" }
   };
 
   window.SMAuth = {

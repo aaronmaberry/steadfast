@@ -128,7 +128,8 @@
         document.getElementById("gate-err").textContent = "Wrong email or password.";
         return;
       }
-      location.href = next;
+      const row = { "member@walksteadfast.com": "program.html", "bundle@walksteadfast.com": "program-bundle.html" };
+      location.href = row[ok.email] || next;
     });
     function safeNext(raw) {
       const fallback = "program.html";
