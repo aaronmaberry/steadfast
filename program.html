@@ -79,7 +79,7 @@
       <div class="path-grid">
         <article>
           <p class="eyebrow">Lessons 01–06</p>
-          <h3>Stop Waiting</h3>
+          <h3><a href="#mark-1">Stop Waiting</a></h3>
           <ol class="path-list">
             <li><a href="#week-01"><b>01</b> Name the drift in your own house.</a></li>
             <li><a href="#week-02"><b>02</b> Stop waiting for someone else to captain the room.</a></li>
@@ -91,7 +91,7 @@
         </article>
         <article>
           <p class="eyebrow">Lessons 07–12</p>
-          <h3>Pick Up the Weight</h3>
+          <h3><a href="#mark-2">Pick Up the Weight</a></h3>
           <ol class="path-list">
             <li><a href="#week-07"><b>07</b> Write what is yours.</a></li>
             <li><a href="#week-08"><b>08</b> Provide without theater.</a></li>
@@ -103,7 +103,7 @@
         </article>
         <article>
           <p class="eyebrow">Lessons 13–18</p>
-          <h3>Go First</h3>
+          <h3><a href="#mark-3">Go First</a></h3>
           <ol class="path-list">
             <li><a href="#week-13"><b>13</b> Go first in the hard conversation.</a></li>
             <li><a href="#week-14"><b>14</b> Pray out loud where your people can hear it.</a></li>
@@ -115,7 +115,7 @@
         </article>
         <article>
           <p class="eyebrow">Lessons 19–24</p>
-          <h3>Work for God’s Pay</h3>
+          <h3><a href="#mark-4">Work for God’s Pay</a></h3>
           <ol class="path-list">
             <li><a href="#week-19"><b>19</b> Lift your eyes past payday.</a></li>
             <li><a href="#week-20"><b>20</b> Work as worship, not as a brand.</a></li>
@@ -219,7 +219,7 @@
           '<div>' +
             '<div class="n">Lesson ' + n + '</div>' +
             '<h3>' + title + '</h3>' +
-            '<div class="yt-tile" role="img" aria-label="Lesson ' + n + ' lecture placeholder">' +
+            '<div class="yt-tile" data-watch="' + n + '" role="button" tabindex="0" aria-label="Mark lesson ' + n + ' finished">' +
               '<img src="' + mark.thumb + '" alt="">' +
               '<span class="play">▶</span>' +
             '</div>' +
@@ -273,16 +273,30 @@
       const board = document.getElementById("mark-pips");
       const name = document.getElementById("mark-name");
       if (!board) return;
-      const current = marks.find(mark => mark.weeks.some(([n]) => !store.get("act-" + n, false))) || marks[marks.length - 1];
-      if (name) name.textContent = current.label;
+      const current = marks.find(mark => mark.weeks.some(([n]) => !store.get("watched-" + n, false))) || marks[marks.length - 1];
+      if (name) name.textContent = current === marks[marks.length - 1] && current.weeks.every(([n]) => store.get("watched-" + n, false)) ? "Path complete" : current.label;
       board.innerHTML = "";
       current.weeks.forEach(([n, title]) => {
         const row = document.createElement("div");
-        row.className = "agenda-line" + (store.get("act-" + n, false) ? " on" : "");
+        row.className = "agenda-line" + (store.get("watched-" + n, false) ? " on" : "");
         row.innerHTML = "<b>" + n + "</b><span>" + title + "</span><i></i>";
         board.appendChild(row);
       });
+      document.querySelectorAll(".path-list a").forEach(a => {
+        const n = (a.getAttribute("href") || "").replace("#week-", "");
+        const li = a.closest("li");
+        if (li) li.classList.toggle("on", !!store.get("watched-" + n, false));
+      });
     }
+    document.querySelectorAll("[data-watch]").forEach(tile => {
+      const n = tile.getAttribute("data-watch");
+      if (store.get("watched-" + n, false)) tile.classList.add("on");
+      tile.addEventListener("click", () => {
+        store.set("watched-" + n, true);
+        tile.classList.add("on");
+        paintPips();
+      });
+    });
     document.getElementById("act-now")?.addEventListener("change", e => {
       store.set("act-now", e.target.checked);
     });
