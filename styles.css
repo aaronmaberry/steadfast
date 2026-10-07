@@ -89,6 +89,7 @@ body {
   line-height: 1.55;
   font-weight: 400;
   letter-spacing: -0.014em;
+  padding-top: 76px;
 }
 body::before {
   content: "";
@@ -181,7 +182,11 @@ h3 { font-size: 26px; letter-spacing: -0.02em; }
 .skip:focus { left: 12px; }
 
 .nav {
-  position: sticky; top: 0; z-index: 40;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 40;
   background: rgba(7, 7, 10, 0.72);
   backdrop-filter: saturate(160%) blur(18px);
   -webkit-backdrop-filter: saturate(160%) blur(18px);
