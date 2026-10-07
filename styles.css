@@ -1494,6 +1494,6 @@ body.train section:has(.faq) {
   background: transparent;
 }
 
-body.inquiry section { margin: 0; padding: 36px 0; }
-body.inquiry #bulk { padding-bottom: 8px; }
-body.inquiry #inquire { margin-top: 0; padding-top: 8px; background: transparent; }
+body.inquiry section { margin: 0; padding: 28px 0; }
+body.inquiry #bulk { padding-bottom: 0; }
+body.inquiry #inquire { margin-top: 0; padding-top: 12px; background: transparent; }
