@@ -106,7 +106,9 @@
     .tile-fill { margin:10px 0 0; color:var(--muted); font-size:14px; line-height:1.45; }
     .rowcard b, .sku b { display:block; margin:4px 0 6px; font-weight:600; letter-spacing:-.02em; font-size:17px; }
     .rowcard small, .sku small { color:var(--muted); font-size:14px; line-height:1.4; }
-    .thumb { width:88px; height:72px; border-radius:12px; object-fit:cover; background:#222; }
+    .thumb { width:88px; height:72px; border-radius:12px; object-fit:cover; background:#222; max-width:100%; }
+    .offer-pic { width:100%; max-height:148px; object-fit:cover; object-position:center; border-radius:16px; margin:4px 0 14px; border:1px solid var(--line); display:block; }
+    .sku, .rowcard { min-width:0; }
     .thumb.round { border-radius:50%; width:64px; height:64px; justify-self:end; }
     .price { color:var(--accent); font-weight:500; }
     .buy { display:flex; gap:8px; margin-top:8px; flex-wrap:wrap; }
