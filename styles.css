@@ -1497,3 +1497,17 @@ body.train section:has(.faq) {
 body.inquiry section { margin: 0; padding: 28px 0; }
 body.inquiry #bulk { padding-bottom: 0; }
 body.inquiry #inquire { margin-top: 0; padding-top: 12px; background: transparent; }
+
+@media (max-width: 700px) {
+  .give-photo { padding: 40px 0 28px; }
+  .give-photo img {
+    height: auto;
+    aspect-ratio: 2.35 / 1;
+    object-fit: cover;
+    object-position: center 42%;
+  }
+  .bulk-grid .lib-card .btn { width: 100%; text-align: center; }
+  .actions { flex-wrap: wrap; }
+  .path-list .row, .path-list a { gap: 8px; }
+  .nav-links a.nav-cta { align-self: stretch; text-align: center; }
+}
