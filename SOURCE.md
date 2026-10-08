@@ -16,3 +16,4 @@ Locked plates live in img/ and are also copied under steadfast-locked/ in the 20
 Backup folder on Drive: Steadfast backup 2026-10-07, under the Steadfast Men folder.
 
 Checkpoint 2026-10-07 15:50 America/Chicago: origin/main `63072f6`. Includes the group-inquiry page, paywall door cleanup, training agenda match, and the tighter section spacing (training stylesheet v=256, group-inquiry v=258). Live Vercel is still on an older deploy (`95301dd`, styles v=252 / v=251) because the free plan hit the daily deploy cap. The repo is the current copy.
+Locked masters 2026-10-08: img/LOCKED-wes-portrait.jpg is the Wes barn-wood frame from Imagine 35331f3f. img/LOCKED-podcast-table.jpg is the table still from Imagine fdc3fc68. Do not replace either without a new lock. Site copies: img/wes.jpg and img/hero-table.jpg.
