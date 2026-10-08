@@ -4,3 +4,9 @@ New frames only. Face matches img/LOCKED-wes-portrait.jpg. Do not pull the old h
 
 - 01-wes-stage-wide.jpg — Imagine a404dfc4. Wes, navy polo, stage wide, road on the screen. [2026-10-08]
 - 02-wes-medium.jpg — Imagine 46b7b682. Wes, navy polo, medium teaching shot, fellowship hall. [2026-10-08]
+
+- 03-wes-scripture.jpg — scripture card, Luke 16:10, Wes at the screen. [2026-10-08]
+- 04-wes-master-profile.png — master lock, three-quarter profile. [2026-10-08]
+- 05-wes-close.png — close, lockup on the screen. [2026-10-08]
+- 06-wes-close-lockup.png — close, lockup on the screen, labeled plate. [2026-10-08]
+- 07-wes-proof-strip.png — proof strip, not a clean plate. [2026-10-08]
