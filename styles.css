@@ -1520,3 +1520,29 @@ body.inquiry #inquire { margin-top: 0; padding-top: 12px; background: transparen
     var(--bg-2);
 }
 .quote-band .quote { padding: 8px 0; }
+
+/* One gap between sections on every page. Matches the homepage
+   space under the daily tiles. Quote band keeps its taller purple. */
+body section,
+body section.train-band,
+body section.socials-band,
+body section:has(.path-grid),
+body section:has(.marks),
+body section:has(.faq),
+body section:has(.mark-jump),
+body.train section,
+body.inquiry section,
+body.member section,
+body .daily-home,
+body .give-photo,
+body section:has(+ .give-photo) {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+body .quote-band { padding-top: 96px; padding-bottom: 108px; }
+body .page-hero,
+body .page-hero-tight,
+body .hero { padding-top: 72px; padding-bottom: 32px; }
+
