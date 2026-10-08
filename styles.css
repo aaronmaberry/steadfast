@@ -607,11 +607,10 @@ h3 { font-size: 26px; letter-spacing: -0.02em; }
   background: transparent;
 }
 .daily-home .eyebrow { margin-bottom: 14px; }
-.band-navy + .daily-home { margin-top: 28px; }
 .daily-box {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 20px;
+  gap: 14px;
   width: 100%;
   overflow: hidden;
 }
@@ -1512,3 +1511,12 @@ body.inquiry #inquire { margin-top: 0; padding-top: 12px; background: transparen
   .path-list .row, .path-list a { gap: 8px; }
   .nav-links a.nav-cta { align-self: stretch; text-align: center; }
 }
+
+.quote-band {
+  padding: 96px 0 108px;
+  background:
+    radial-gradient(900px 420px at 18% 55%, rgba(139,156,255,.22), transparent 62%),
+    radial-gradient(700px 280px at 80% 40%, rgba(91,110,245,.12), transparent 70%),
+    var(--bg-2);
+}
+.quote-band .quote { padding: 8px 0; }
