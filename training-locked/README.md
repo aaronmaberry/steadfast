@@ -49,3 +49,5 @@ New frames only. Face matches img/LOCKED-wes-portrait.jpg. Do not pull the old h
 - 36-wes-walk-right.mp4 — locked 2026-10-09. 8s HeyGen walk from plate 22, toward stage right. Aaron signed.
 - 37-wes-walk-left-edge.mp4 — locked 2026-10-09. 8s HeyGen walk from plate 31, left edge toward center. Aaron signed.
 - 38-wes-walk-arm-out.mp4 — locked 2026-10-09. 8s HeyGen walk from plate 25, arm drops, he walks. Aaron signed.
+
+- 39 through 68 — locked 2026-10-09. Thirty stills cut from the signed empty stage (dark floor, black curtains, one screen, no chairs). Website logo file stamped on the screen, not redrawn. Open triangle first A, normal second A, thin rule, MEN. Long-sleeve henley, sleeves pushed up. Eyes on the room. Aaron signed the set. Files named 39-wes-stage-batch.jpg through 68-wes-stage-batch.jpg.
