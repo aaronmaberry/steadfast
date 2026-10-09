@@ -30,13 +30,15 @@ Long-sleeve henley. Sleeves pushed up. Same shirt on every plate and every clip.
 
 Never short sleeves. Never a polo on new plates. Never a jacket. Plates 01–02 are older navy-polo frames. Do not use them as the current look.
 
-## Stage (signed 2026-10-09)
+## Stage (signed 2026-10-09, Aaron confirmed the plate)
 
-Empty stage Aaron signed. Dark floor. Black curtains. One screen. No chairs.
+Master plate: training-locked/69-wes-screen-lock-plate.jpg
 
-Do not invent a new room. Do not change the background. Camera angle may move. The room does not.
+This is the stage. Dark floor. Black curtains. One screen on the left of this frame. No chairs. Phone chrome is not part of the plate.
 
-Banned: audience, heads in the foreground, podium, guitar, extra screens, white type on the screen, fellowship-hall tables, round banquet tables.
+Every new still starts from this plate. Camera, pose, and his spot may change. The room does not. Do not invent a new stage.
+
+Banned: audience, heads in the foreground, podium, guitar, extra screens, white type on the screen, fellowship-hall tables, round banquet tables, chairs.
 
 Eyes on the room, not the lens. He is a man recorded on stage talking to the people in the room. He is not addressing the camera. No audience is ever visible.
 
@@ -44,7 +46,7 @@ He works the stage. New plates change his spot, his hands, and the camera. They 
 
 ## Screen and logo (stamp, do not redraw)
 
-Screen lock signed 2026-10-09 from Aaron's phone still, IMG_6681.
+Screen lock signed 2026-10-09. Aaron confirmed the full plate. The screen on that plate is the screen on every generation.
 
 File to stamp, not redraw:
 - training-locked/LOCKED-stage-screen.jpg
@@ -66,7 +68,7 @@ Imagine redraws the A's wrong. Stamp LOCKED-stage-screen.jpg onto the screen aft
 
 ## How a new still is made
 
-1. Start from a signed plate in this folder. Preferred early plate: 09-wes-turn-screen.jpg.
+1. Start from training-locked/69-wes-screen-lock-plate.jpg. That plate is the stage.
 2. Change only pose, spot on the stage, and camera. Same face, same henley, same room.
 3. Stamp LOCKED-stage-screen.jpg onto the screen after generation. Do not ask the model to draw the logo.
 4. Show Aaron the plate. Do not lock it and do not send it to video until he signs it.
@@ -119,7 +121,7 @@ training-locked/ on main.
 - 03–07 early scripture and close plates.
 - 08–34 signed 2026-10-09. 09 is the preferred turn-to-screen plate.
 - 35–38 signed walks, 8 seconds, HeyGen. 35 has a podium and a guitar. Leave them.
-- 69-wes-screen-lock-plate.jpg — locked 2026-10-09. Phone chrome removed from Aaron's signed screen still. This screen is the generation lock. Next new plate is 70.
+- 69-wes-screen-lock-plate.jpg — locked 2026-10-09. Aaron confirmed this plate. Stage master and screen master. Next new plate is 70.
 
 ## Prompt block (paste under a signed plate)
 
