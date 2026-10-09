@@ -43,3 +43,5 @@ New frames only. Face matches img/LOCKED-wes-portrait.jpg. Do not pull the old h
 - 32-wes-over-shoulder.jpg — locked 2026-10-09. Over the shoulder toward the screen, face turned to the room, long sleeves pushed up. Aaron signed.
 - 33-wes-hips.jpg — locked 2026-10-09. Both hands on hips, eyes on the room, long sleeves pushed up. Aaron signed.
 - 34-wes-walk-profile.jpg — locked 2026-10-09. Full-body profile walk, screen behind, long sleeves pushed up. Aaron signed.
+
+- 35-wes-walk-stage.mp4 — locked 2026-10-09. 8s HeyGen walk from 34. He crosses the stage. Screen stays. HeyGen added a podium and a guitar. Aaron signed anyway.
