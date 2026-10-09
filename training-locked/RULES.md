@@ -44,28 +44,31 @@ He works the stage. New plates change his spot, his hands, and the camera. They 
 
 ## Screen and logo (stamp, do not redraw)
 
-The screen is the locked website header mark. Soft on the screen.
+Screen lock signed 2026-10-09 from Aaron's phone still, IMG_6681.
 
-File to stamp, not redraw: steadfast-locked/LOCKED-logo-steadfast-men.jpg
-Also: walksteadfast/img/logo-lockup.jpg
+File to stamp, not redraw:
+- training-locked/LOCKED-stage-screen.jpg
+- steadfast-locked/LOCKED-stage-screen.jpg
+- Full plate with phone chrome removed: training-locked/69-wes-screen-lock-plate.jpg
 
-Rules of the mark:
+This is the screen on every generation. Do not swap in the header lockup. Do not redraw the letters.
 
-- Black field.
-- Letters site purple #8b9cff. Not gold. Not white.
-- First A is an open triangle with a small gap at the apex. Not a closed triangle.
+What the screen shows:
+
+- STEADFAST on the first line.
+- First A is the open triangle, same as the site mark.
 - Second A is a normal A.
 - Thin rule under the word.
-- MEN under the rule.
-- STEADFAST on the first line.
+- MEN under the rule, tracked out.
+- Letters read light on the dark screen, as in the signed still. Not gold. Not white type on a white field.
 
-Imagine redraws this wrong. Stamp the file. Do not ask the model to draw the logo.
+Imagine redraws the A's wrong. Stamp LOCKED-stage-screen.jpg onto the screen after generation. The header file LOCKED-logo-steadfast-men.jpg stays the site and book mark. It is not the stage screen.
 
 ## How a new still is made
 
 1. Start from a signed plate in this folder. Preferred early plate: 09-wes-turn-screen.jpg.
 2. Change only pose, spot on the stage, and camera. Same face, same henley, same room.
-3. Stamp the logo file onto the screen after generation.
+3. Stamp LOCKED-stage-screen.jpg onto the screen after generation. Do not ask the model to draw the logo.
 4. Show Aaron the plate. Do not lock it and do not send it to video until he signs it.
 5. Lock only after he says so. Copy into training-locked/ with the next number. Commit and push main.
 
@@ -116,10 +119,8 @@ training-locked/ on main.
 - 03–07 early scripture and close plates.
 - 08–34 signed 2026-10-09. 09 is the preferred turn-to-screen plate.
 - 35–38 signed walks, 8 seconds, HeyGen. 35 has a podium and a guitar. Leave them.
-- 39–68 signed 2026-10-09, commit b4629d1. Thirty stills from the signed empty stage. Logo file stamped. No chairs.
-
-Do not overwrite a numbered file. Next new plate is 69.
+- 69-wes-screen-lock-plate.jpg — locked 2026-10-09. Phone chrome removed from Aaron's signed screen still. This screen is the generation lock. Next new plate is 70.
 
 ## Prompt block (paste under a signed plate)
 
-Keep this exact face. Wes Hart, mid-40s, fair-olive skin, short dark brown hair with a little lift at the front, light beard and mustache kept close, brown eyes, straight nose, calm closed-mouth look. Same long-sleeve henley, sleeves pushed up. Same dark stage: dark floor, black curtains, one screen, no chairs. Eyes on the room, not the camera. No audience. No podium. Photoreal, ordinary man, not a model, not a celebrity. Do not change the background. Do not redraw the logo; the website logo file is stamped on the screen after. Negative: different man, younger, older, clean-shaven, long hair, glasses, smile-for-camera, beauty skin, plastic face, extra fingers, melted mouth, celebrity likeness, short sleeves, podium, audience, chairs.
+Keep this exact face. Wes Hart, mid-40s, fair-olive skin, short dark brown hair with a little lift at the front, light beard and mustache kept close, brown eyes, straight nose, calm closed-mouth look. Same long-sleeve henley, sleeves pushed up. Same dark stage: dark floor, black curtains, one screen, no chairs. Eyes on the room, not the camera. No audience. No podium. Photoreal, ordinary man, not a model, not a celebrity. Do not change the background. Do not redraw the logo. Stamp training-locked/LOCKED-stage-screen.jpg on the screen after. Negative: different man, younger, older, clean-shaven, long hair, glasses, smile-for-camera, beauty skin, plastic face, extra fingers, melted mouth, celebrity likeness, short sleeves, podium, audience, chairs.
