@@ -32,3 +32,14 @@ New frames only. Face matches img/LOCKED-wes-portrait.jpg. Do not pull the old h
 - 22-wes-walking.jpg — locked 2026-10-09. Wide, walking, screen to his right, looking back at the room, long sleeves pushed up. Aaron signed.
 - 23-wes-hands-clasped.jpg — locked 2026-10-09. Wide, hands clasped, eyes on the room, long sleeves pushed up. Aaron signed.
 - 24-wes-hand-on-hip.jpg — locked 2026-10-09. Wide, one hand on hip, eyes on the room, long sleeves pushed up. Aaron signed.
+
+- 25-wes-arm-out.jpg — locked 2026-10-09. Arm out, screen to his right, eyes on the room, long sleeves pushed up. Aaron signed.
+- 26-wes-hand-up.jpg — locked 2026-10-09. Hand raised, looking up toward the room, long sleeves pushed up. Aaron signed.
+- 27-wes-back-turn.jpg — locked 2026-10-09. Three-quarter back, head turned to the room, long sleeves pushed up. Aaron signed.
+- 28-wes-point-down.jpg — locked 2026-10-09. Pointing down, other hand open, long sleeves pushed up. Aaron signed.
+- 29-wes-upstage.jpg — locked 2026-10-09. Far upstage, screen huge behind him, long sleeves pushed up. Aaron signed.
+- 30-wes-front-row.jpg — locked 2026-10-09. Closer front-row angle, hand open, long sleeves pushed up. Aaron signed.
+- 31-wes-left-edge.jpg — locked 2026-10-09. Stage left edge, screen far to his right, long sleeves pushed up. Aaron signed.
+- 32-wes-over-shoulder.jpg — locked 2026-10-09. Over the shoulder toward the screen, face turned to the room, long sleeves pushed up. Aaron signed.
+- 33-wes-hips.jpg — locked 2026-10-09. Both hands on hips, eyes on the room, long sleeves pushed up. Aaron signed.
+- 34-wes-walk-profile.jpg — locked 2026-10-09. Full-body profile walk, screen behind, long sleeves pushed up. Aaron signed.
