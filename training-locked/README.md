@@ -20,3 +20,9 @@ New frames only. Face matches img/LOCKED-wes-portrait.jpg. Do not pull the old h
 - 12-wes-hands-low.jpg — locked 2026-10-09. Hands at his sides, eyes on the room, long sleeves pushed up, same stage. Aaron signed.
 - 13-wes-lean-in.jpg — locked 2026-10-09. Closer, one hand open, eyes on the room, long sleeves pushed up, same stage. Aaron signed.
 - 14-wes-both-hands.jpg — locked 2026-10-09. Both hands open, eyes on the room, long sleeves pushed up, same stage. Aaron signed.
+
+- 15-wes-stage-left.jpg — locked 2026-10-09. Stage left, open hand, screen to his right, eyes on the room, long sleeves pushed up. Aaron signed.
+- 16-wes-point.jpg — locked 2026-10-09. Stage right, pointing across the room, screen to his left, long sleeves pushed up. Aaron signed.
+- 17-wes-both-hands-up.jpg — locked 2026-10-09. Center, both hands up, explaining, screen behind, long sleeves pushed up. Aaron signed.
+- 18-wes-downstage.jpg — locked 2026-10-09. Downstage step, one hand reaching, screen smaller behind, long sleeves pushed up. Aaron signed.
+- 19-wes-cross-back.jpg — locked 2026-10-09. Far side, three-quarter back, looking across the stage, screen filling the wall, long sleeves pushed up. Aaron signed.
