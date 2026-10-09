@@ -13,3 +13,6 @@ New frames only. Face matches img/LOCKED-wes-portrait.jpg. Do not pull the old h
 
 - 08-wes-wide-open-palms.jpg — locked 2026-10-09. Wide, open palms, eyes on the room, long-sleeve henley pushed up, same stage. Aaron signed.
 - 09-wes-turn-screen.jpg — locked 2026-10-09. Turn toward the screen, long-sleeve henley pushed up, same stage. Aaron signed. Preferred plate.
+
+- 10-wes-step-in.jpg — locked 2026-10-09. One step in, open hand, eyes on the room, long sleeves pushed up, same stage. Aaron signed.
+- 11-wes-other-side.jpg — locked 2026-10-09. Camera on the other side, open hand, eyes on the room, long sleeves pushed up, same stage. Aaron signed.
