@@ -10,3 +10,6 @@ New frames only. Face matches img/LOCKED-wes-portrait.jpg. Do not pull the old h
 - 05-wes-close.png — close, lockup on the screen. [2026-10-08]
 - 06-wes-close-lockup.png — close, lockup on the screen, labeled plate. [2026-10-08]
 - 07-wes-proof-strip.png — proof strip, not a clean plate. [2026-10-08]
+
+- 08-wes-wide-open-palms.jpg — locked 2026-10-09. Wide, open palms, eyes on the room, long-sleeve henley pushed up, same stage. Aaron signed.
+- 09-wes-turn-screen.jpg — locked 2026-10-09. Turn toward the screen, long-sleeve henley pushed up, same stage. Aaron signed. Preferred plate.
