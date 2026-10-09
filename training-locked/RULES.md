@@ -28,13 +28,15 @@ Negative: different man, younger, older, clean-shaven, long hair, glasses, smile
 
 Long-sleeve henley. Sleeves pushed up. Same shirt on every plate and every clip.
 
-Never short sleeves. Never a polo on new plates. Never a jacket. Plates 01–02 are older navy-polo frames. Do not use them as the current look.
+Never short sleeves. Never a polo on new plates. Never a jacket.
 
 ## Stage (signed 2026-10-09, Aaron confirmed the plate)
 
 Master plate: training-locked/69-wes-screen-lock-plate.jpg
 
 This is the stage. Dark floor. Black curtains. One screen on the left of this frame. No chairs. Phone chrome is not part of the plate.
+
+Stills 01–34 and 39–68 were rebuilt 2026-10-09 by cutting each pose onto this plate. The room pixels are the plate. 01 is the plate itself. Do not put a generated room back in this folder.
 
 Every new still starts from this plate. Camera, pose, and his spot may change. The room does not. Do not invent a new stage.
 
