@@ -1,0 +1,19 @@
+{
+ "outfits": {
+  "charcoal-henley": "a plain charcoal-grey long-sleeve henley shirt",
+  "navy-henley": "a plain navy blue long-sleeve henley shirt",
+  "olive-henley": "a plain olive-green long-sleeve henley shirt",
+  "flannel": "a red-and-black buffalo-check flannel shirt worn open over a plain charcoal crew-neck tee, sleeves slightly rolled",
+  "quarter-zip": "a heather-grey quarter-zip pullover sweater, zip slightly open",
+  "denim": "a washed mid-blue denim button-up shirt, top button open, sleeves rolled to the forearm",
+  "crewneck": "an oatmeal cream knit crewneck sweater"
+ },
+ "angles": {
+  "cam-medium": "Medium shot, chest-up, centered, standing in the middle of the stage, looking straight into the camera lens, calm, mouth gently closed, relaxed confident expression, shoulders square. 50mm cinema lens at f2, soft key light from camera left, background softly out of focus.",
+  "cam-close": "Close-up, head and upper shoulders, standing at stage right near the dark side wall with the blank dark screen wall soft behind him on the left, camera slightly below eye level, looking directly into the lens, mouth gently closed, warm sincere expression. 85mm lens at f1.8, rim light from behind right, soft key from left, very shallow depth of field.",
+  "three-quarter": "Medium three-quarter shot from camera right, waist up, he fills most of the frame, speaking passionately to an unseen crowd off frame left, both palms open and extended toward the room, leaning slightly forward, mouth mid-word naturally. 70mm lens at f2.2, stage key light from front left.",
+  "side-close": "Close-up three-quarter profile from camera left, head and shoulders filling the frame, he looks out past camera right into the dark room with focused intensity, one hand raised near chin level in an emphatic pointing gesture partly in frame. 100mm lens at f2, hard side key light, deep shadows, background soft dark navy bokeh only.",
+  "low-angle": "Low-angle shot from just below stage-floor height looking up at him, framed from the knees up so he fills most of the frame height, turned three-quarter toward camera left, one hand extended toward the unseen room, mouth mid-word naturally. 35mm lens at f2.8, the blank dark screen wall behind him.",
+  "walk": "Medium shot from stage level, framed from mid-thigh up so he fills about two-thirds of the frame height, mid-stride walking across the stage toward camera right while turning to address the unseen room, one arm gesturing outward. 50mm lens at f2.5, a soft pool of stage light on him, the rest of the stage in deep navy darkness."
+ }
+}
