@@ -55,3 +55,17 @@ New frames only. Face matches img/LOCKED-wes-portrait.jpg. Do not pull the old h
 - 01–34 and 39–68 rebuilt 2026-10-09 on plate 69. Same stage, same screen, long-sleeve henley, sleeves pushed up, eyes on the room. Old room plates removed. Plate 69 is still the master. Walks 35–38 are the previous clips until the new walks from plate 34 land.
 
 - 35–38 rebuilt 2026-10-09 from the plate 69 stills. 8s walks. Old clips replaced. No podium in the check frames.
+
+- 70 through 81 — locked 2026-10-12, Aaron signed. 16:9 training-clip plates made with the social-bank method (master face from 69, the plate-69 clean stage with a blank dark screen, charcoal henley and black lav). They are the source for short training clip renders: HeyGen Avatar IV low-expressiveness lip-sync and image-to-video, 4–10 s each.
+  - 70-wes-cam-medium.jpg: faces the camera. NON-TALKING ONLY; excluded from talking renders.
+  - 71-wes-cam-close.jpg: faces the camera. NON-TALKING ONLY; excluded from talking renders.
+  - 72-wes-three-quarter-palms.jpg: three-quarter, palms open to the room.
+  - 73-wes-side-close.jpg: close three-quarter profile, eyes on the room.
+  - 74-wes-low-angle.jpg: low angle, hand out to the room.
+  - 75-wes-walk.jpg: medium, mid-stride, head to the room.
+  - 76-wes-point-room.jpg: leaning in, open hand to one man.
+  - 77-wes-medium-wide.jpg: knees-up, hands together, listening pause.
+  - 78-wes-hand-chest.jpg: hand on chest, speaking to the room. Passed a HeyGen talking test.
+  - 79-wes-both-hands.jpg: both hands mid-gesture, to the room.
+  - 80-wes-work-room.jpg: stage right, turning to the room.
+  - 81-wes-close-smile.jpg: close, dry half-smile to the room.

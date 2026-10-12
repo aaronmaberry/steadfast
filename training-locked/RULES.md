@@ -87,7 +87,9 @@ Pipeline locked 2026-10-05:
 
 Imagine Video 1.5 on the Grok app / grok.com/imagine is the mouth path. Aaron generates those. Jarvis does not have Imagine Video on the bot computer. Jarvis owns the shot list, the prompts, and the Descript order.
 
-HeyGen mouth is rejected. Test 766a54b213eb4f6797607ff3b25293db melted the face. Do not retry HeyGen for mouth.
+HeyGen mouth was rejected 2026-10-09 (test 766a54b213eb4f6797607ff3b25293db melted the face).
+Update 2026-10-12, Aaron's direction: HeyGen Avatar IV lip-sync at low expressiveness is allowed for SHORT clips (about 4–10 s) from plates 72–81, with Wes angled to the room. Reject any clip with an unnatural mouth, face drift, halo or glitch.
+In training, Wes NEVER talks to the camera. He faces the unseen audience, works the room and walks the stage.
 
 HeyGen image-to-video was used only for the four signed walks (35–38), 8 seconds each. Clip 35 invented a podium and a guitar. Aaron signed it anyway. Do not repeat that. No new props.
 
@@ -126,7 +128,8 @@ training-locked/ on main.
 - 03–07 early scripture and close plates.
 - 08–34 signed 2026-10-09. 09 is the preferred turn-to-screen plate.
 - 35–38 signed walks, 8 seconds, HeyGen. 35 has a podium and a guitar. Leave them.
-- 69-wes-screen-lock-plate.jpg — locked 2026-10-09. Aaron confirmed this plate. Stage master and screen master. Next new plate is 70.
+- 69-wes-screen-lock-plate.jpg — locked 2026-10-09. Aaron confirmed this plate. Stage master and screen master.
+- 70–81 — Aaron signed 2026-10-12 as training clip plates (16:9, clean plate-69 stage, blank dark screen, charcoal henley, lav). Source for short training clip renders. 70 and 71 face the camera: non-talking use only, never a talking render. See README for the list. Next new plate is 82.
 
 ## Prompt block (paste under a signed plate)
 
