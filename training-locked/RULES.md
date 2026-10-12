@@ -93,11 +93,14 @@ HeyGen image-to-video was used only for the four signed walks (35–38), 8 secon
 
 ## Voice
 
-ElevenLabs Voice Design. Wes Hart - Option C.
-Voice id: o4XQFIFZbnVGJNZmuUuK
+ElevenLabs Voice Design. Wes Hart - Option D.
+Voice id: krjoGt4x3CttlxSuoDYW
+Model: eleven_v4, one take per section (generations_count 1). Lecture post: locked/post.sh (atempo 0.93 + retime).
 
-Use this id for lecture lines and for Wes on the table show.
-Eleven v3 for YouTube and dialogue. Multilingual v2 for long chapters.
+Evidence: the approved S01-v2 recording (training-ep01/rec/S01-v2/S01-full.mp3) was made with this voice. See rec/S01-v2/STATUS-secs03-12.txt ("Voice: Wes Hart Option D krjoGt4x3CttlxSuoDYW, eleven_v4"), locked/LOCKED-LECTURE-STYLE.md, and the S02/S03 RECORD-STEPS files. All 24 session masters use Option D.
+
+Use this id for lectures, shorts, and Wes on the table show.
+Option C (o4XQFIFZbnVGJNZmuUuK) is retired. Do not use it for Wes.
 Kepler is temp only if this id is missing. No celebrity clone.
 
 ## Lecture clock
