@@ -1,1 +1,1 @@
-Aaron locked Jonathon as Option 1, site-faithful, on 2026-10-13. The face reference files are opt1-waist.jpg, opt1-profile.jpg and opt1-close.jpg. The voice is the ElevenLabs voice DUD6Dsyq6xCL5Xqppm7R. Make no changes without Aaron's sign-off.
+Aaron locked Jonathon as Option 1, site-faithful, on 2026-10-13. The face reference files are opt1-waist.jpg, opt1-profile.jpg and opt1-close.jpg. The voice is uiUeT7adTSLnHQ91QHdW ('Jonathon - Option L'), locked 2026-10-13, and it replaces DUD6Dsyq6xCL5Xqppm7R. Make no changes without Aaron's sign-off.

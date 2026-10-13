@@ -14,7 +14,7 @@ Flow: https://elevenlabs.io/app/flows/bdY0urK9oEVJ5OSnsTns
 Each option: optN-waist (waist-up, front three-quarter), optN-profile, optN-close. Same foam studio, boom mic, heather gray tee.
 
 ## Voice
-jonathon-voice-sample.mp3 (15.7 s), voice "Jonathon - Podcast" DUD6Dsyq6xCL5Xqppm7R, eleven_v4.
+Locked voice: uiUeT7adTSLnHQ91QHdW ('Jonathon - Option L'), sample jonathon-voice-LOCKED.mp3. Relaxed, crisp, neutral American accent, median pitch ~122 Hz. Replaces DUD6Dsyq6xCL5Xqppm7R ("Jonathon - Podcast"); the older sample remains as jonathon-voice-sample.mp3 for reference. See voice-options-NOTES.md for the A–L comparison.
 There's no Jonathon script in the repo (rg 'jonathon' found nothing), so I wrote the line myself around a site line (index.html: "A son should be able to copy your walk."):
 "You know what gets me? Most of us aren't failing at the big stuff. It's the little things... the phone at dinner, the promise we let slide. A son should be able to copy your walk. And that starts right here at the table, man. Not on a stage."
 
