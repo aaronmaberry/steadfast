@@ -26,7 +26,13 @@ Negative: different man, younger, older, clean-shaven, long hair, glasses, smile
 
 ## Wardrobe (never change)
 
-Long-sleeve henley. Sleeves pushed up. Same shirt on every plate and every clip.
+WARDROBE-LOCK (Aaron, 2026-10-12): training-locked/WARDROBE-LOCK.jpg is the shirt. It is cut from master plate 69.
+
+Identical in every shot and every session: plain charcoal-grey long-sleeve henley, same dark charcoal shade, soft matte slub cotton, four-button placket with the top button open, full-length sleeves down to the wrists, relaxed fit, no logo or print. Small black lav clipped on the placket between the second and third buttons. Dark jeans, black belt.
+
+Note: this file used to say "sleeves pushed up". Master 69 has the sleeves down, so the lock follows 69. Pushed-up sleeves are now a mismatch.
+
+QA every new plate and clip against WARDROBE-LOCK.jpg. Reject any change in shade (navy or blue-grey is a fail), fit, logo, sleeve length or texture. Audit 2026-10-12: plates 75 and 79 have pushed-up sleeves, so they fail the lock and are excluded from new renders.
 
 Never short sleeves. Never a polo on new plates. Never a jacket.
 
@@ -130,7 +136,15 @@ training-locked/ on main.
 - 35–38 signed walks, 8 seconds, HeyGen. 35 has a podium and a guitar. Leave them.
 - 69-wes-screen-lock-plate.jpg — locked 2026-10-09. Aaron confirmed this plate. Stage master and screen master.
 - 70–81 — Aaron signed 2026-10-12 as training clip plates (16:9, clean plate-69 stage, blank dark screen, charcoal henley, lav). Source for short training clip renders. 70 and 71 face the camera: non-talking use only, never a talking render. See README for the list. Next new plate is 82.
+- 82–115 — waist-up plate pool, 2026-10-12 (S01 proof v2). Each plate is used once, ever. Tracked in training-locked/PLATE-MANIFEST.json (used_in = session and segment). Before a render, pick only plates with empty used_in; after it, write the use. Next new plate id is in the manifest (next_id).
+
+## Plate pool rules (Aaron, 2026-10-12)
+
+1. Waist-up only. No wides, no knees-up, no full body.
+2. Lip-synced whenever his voice plays. Silent motion only under a board with no Wes on screen.
+3. Never repeat a plate or an angle across the 24 sessions. Same shoot day: same henley, same light.
+4. Eyes off the lens. Frontal plates pull HeyGen's eyes to camera, so use three-quarter and profile plates only.
 
 ## Prompt block (paste under a signed plate)
 
-Keep this exact face. Wes Hart, mid-40s, fair-olive skin, short dark brown hair with a little lift at the front, light beard and mustache kept close, brown eyes, straight nose, calm closed-mouth look. Same long-sleeve henley, sleeves pushed up. Same dark stage: dark floor, black curtains, one screen, no chairs. Eyes on the room, not the camera. No audience. No podium. Photoreal, ordinary man, not a model, not a celebrity. Do not change the background. Do not redraw the logo. Stamp training-locked/LOCKED-stage-screen.jpg on the screen after. Negative: different man, younger, older, clean-shaven, long hair, glasses, smile-for-camera, beauty skin, plastic face, extra fingers, melted mouth, celebrity likeness, short sleeves, podium, audience, chairs.
+Keep this exact face. Wes Hart, mid-40s, fair-olive skin, short dark brown hair with a little lift at the front, light beard and mustache kept close, brown eyes, straight nose, calm closed-mouth look. Same charcoal henley as WARDROBE-LOCK.jpg, sleeves down to the wrists, lav on the placket. Same dark stage: dark floor, black curtains, one screen, no chairs. Eyes on the room, not the camera. No audience. No podium. Photoreal, ordinary man, not a model, not a celebrity. Do not change the background. Do not redraw the logo. Stamp training-locked/LOCKED-stage-screen.jpg on the screen after. Negative: different man, younger, older, clean-shaven, long hair, glasses, smile-for-camera, beauty skin, plastic face, extra fingers, melted mouth, celebrity likeness, short sleeves, podium, audience, chairs.

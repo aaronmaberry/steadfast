@@ -1,0 +1,675 @@
+{
+ "about": "Unique waist-up plate pool. Never reuse a plate whose status is used or retired, in any session. Take new ids from next_id. Shoot day: charcoal henley per WARDROBE-LOCK.jpg, plate-69 stage, same light.",
+ "next_id": 116,
+ "wardrobe_lock": "training-locked/WARDROBE-LOCK.jpg",
+ "legacy": {
+  "70-81": "S01 proof v1 used 72, 73, 75, 79 and 80 (superseded, treat as used). 75 and 79 fail the wardrobe lock (sleeves pushed up), so they are excluded. 74, 76, 77, 78 and 81 pull the eyes to the lens in HeyGen, so no talking renders."
+ },
+ "rejected_generations": {
+  "A24": "two Wes figures (ghost)",
+  "A40": "second Wes in foreground (ghost)",
+  "A05": "navy shirt shade",
+  "A05old": "navy shirt; old sleeves-up prompt",
+  "A11": "navy shirt shade",
+  "A31": "navy shirt shade",
+  "A48": "navy shirt shade",
+  "A09old": "old sleeves-up prompt",
+  "A10": "STEADFAST text on screen; near-frontal",
+  "A14": "eyes near lens",
+  "A16": "eyes near lens",
+  "A18": "eyes near lens",
+  "A19": "eyes near lens",
+  "A21": "eyes near lens",
+  "A22": "eyes near lens",
+  "A28": "eyes near lens",
+  "A33": "eyes near lens",
+  "A36": "eyes near lens",
+  "A45": "eyes near lens"
+ },
+ "plates": [
+  {
+   "id": 82,
+   "file": "82-wes-wu-three-quarter-left.jpg",
+   "source_gen": "A01",
+   "pose": "three-quarter-left",
+   "framing": "waist-up",
+   "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
+   "status": "used",
+   "note": "",
+   "used_in": [
+    {
+     "session": "S01",
+     "segment": 0,
+     "t0": 0.0,
+     "t1": 5.4,
+     "use": "full",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v2"
+    }
+   ]
+  },
+  {
+   "id": 83,
+   "file": "83-wes-wu-three-quarter-left-hands-low.jpg",
+   "source_gen": "A02",
+   "pose": "three-quarter-left-hands-low",
+   "framing": "waist-up",
+   "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
+   "status": "retired",
+   "note": "Avatar IV render pulled eyes toward lens (S01 v2 seg19) - retired",
+   "used_in": []
+  },
+  {
+   "id": 84,
+   "file": "84-wes-wu-profile-left-hand-up.jpg",
+   "source_gen": "A03",
+   "pose": "profile-left-hand-up",
+   "framing": "waist-up",
+   "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
+   "status": "used",
+   "note": "",
+   "used_in": [
+    {
+     "session": "S01",
+     "segment": 10,
+     "t0": 55.6,
+     "t1": 61.6,
+     "use": "full",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v2"
+    }
+   ]
+  },
+  {
+   "id": 85,
+   "file": "85-wes-wu-close-profile-right-hand-chest.jpg",
+   "source_gen": "A04",
+   "pose": "close-profile-right-hand-chest",
+   "framing": "waist-up",
+   "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
+   "status": "used",
+   "note": "",
+   "used_in": [
+    {
+     "session": "S01",
+     "segment": 13,
+     "t0": 74.9,
+     "t1": 79.3,
+     "use": "full",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v2"
+    }
+   ]
+  },
+  {
+   "id": 86,
+   "file": "86-wes-wu-three-quarter-left-screen.jpg",
+   "source_gen": "A06",
+   "pose": "three-quarter-left-screen",
+   "framing": "waist-up",
+   "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
+   "status": "used",
+   "note": "",
+   "used_in": [
+    {
+     "session": "S01",
+     "segment": 2,
+     "t0": 9.3,
+     "t1": 14.2,
+     "use": "full",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v2"
+    }
+   ]
+  },
+  {
+   "id": 87,
+   "file": "87-wes-wu-three-quarter-right-gesture.jpg",
+   "source_gen": "A07",
+   "pose": "three-quarter-right-gesture",
+   "framing": "waist-up",
+   "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
+   "status": "used",
+   "note": "",
+   "used_in": [
+    {
+     "session": "S01",
+     "segment": 3,
+     "t0": 14.2,
+     "t1": 18.9,
+     "use": "full",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v2"
+    }
+   ]
+  },
+  {
+   "id": 88,
+   "file": "88-wes-wu-high-angle-both-hands.jpg",
+   "source_gen": "A08",
+   "pose": "high-angle-both-hands",
+   "framing": "waist-up",
+   "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
+   "status": "retired",
+   "note": "Avatar IV render pulled eyes toward lens (S01 v2 seg14) - retired",
+   "used_in": []
+  },
+  {
+   "id": 89,
+   "file": "89-wes-wu-mid-stride-right.jpg",
+   "source_gen": "A09",
+   "pose": "mid-stride-right",
+   "framing": "waist-up",
+   "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
+   "status": "available",
+   "note": "",
+   "used_in": []
+  },
+  {
+   "id": 90,
+   "file": "90-wes-wu-lean-in-left.jpg",
+   "source_gen": "A12",
+   "pose": "lean-in-left",
+   "framing": "waist-up",
+   "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
+   "status": "used",
+   "note": "",
+   "used_in": [
+    {
+     "session": "S01",
+     "segment": 8,
+     "t0": 42.3,
+     "t1": 49.4,
+     "use": "full",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v2"
+    }
+   ]
+  },
+  {
+   "id": 91,
+   "file": "91-wes-wu-three-quarter-left-hands-together.jpg",
+   "source_gen": "A13",
+   "pose": "three-quarter-left-hands-together",
+   "framing": "waist-up",
+   "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
+   "status": "used",
+   "note": "",
+   "used_in": [
+    {
+     "session": "S01",
+     "segment": 4,
+     "t0": 18.9,
+     "t1": 26.6,
+     "use": "full",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v2"
+    }
+   ]
+  },
+  {
+   "id": 92,
+   "file": "92-wes-wu-laugh-hand-neck.jpg",
+   "source_gen": "A15",
+   "pose": "laugh-hand-neck",
+   "framing": "waist-up",
+   "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
+   "status": "retired",
+   "note": "Avatar IV render swung face to lens (S01 v2 seg29) - retired",
+   "used_in": []
+  },
+  {
+   "id": 93,
+   "file": "93-wes-wu-low-angle-gesture-left-hand.jpg",
+   "source_gen": "A17",
+   "pose": "low-angle-gesture-left-hand",
+   "framing": "waist-up",
+   "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
+   "status": "used",
+   "note": "",
+   "used_in": [
+    {
+     "session": "S01",
+     "segment": 20,
+     "t0": 116.6,
+     "t1": 122.7,
+     "use": "full",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v2"
+    }
+   ]
+  },
+  {
+   "id": 94,
+   "file": "94-wes-wu-profile-right-explaining.jpg",
+   "source_gen": "A20",
+   "pose": "profile-right-explaining",
+   "framing": "waist-up",
+   "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
+   "status": "used",
+   "note": "",
+   "used_in": [
+    {
+     "session": "S01",
+     "segment": 1,
+     "t0": 5.4,
+     "t1": 9.3,
+     "use": "full",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v2"
+    }
+   ]
+  },
+  {
+   "id": 95,
+   "file": "95-wes-wu-three-quarter-right-open-palms.jpg",
+   "source_gen": "A23",
+   "pose": "three-quarter-right-open-palms",
+   "framing": "waist-up",
+   "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
+   "status": "used",
+   "note": "",
+   "used_in": [
+    {
+     "session": "S01",
+     "segment": 15,
+     "t0": 85.4,
+     "t1": 90.9,
+     "use": "full",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v2"
+    }
+   ]
+  },
+  {
+   "id": 96,
+   "file": "96-wes-wu-profile-right-still.jpg",
+   "source_gen": "A25",
+   "pose": "profile-right-still",
+   "framing": "waist-up",
+   "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
+   "status": "used",
+   "note": "",
+   "used_in": [
+    {
+     "session": "S01",
+     "segment": 5,
+     "t0": 26.6,
+     "t1": 30.9,
+     "use": "full",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v2"
+    }
+   ]
+  },
+  {
+   "id": 97,
+   "file": "97-wes-wu-hand-on-hip-right.jpg",
+   "source_gen": "A26",
+   "pose": "hand-on-hip-right",
+   "framing": "waist-up",
+   "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
+   "status": "used",
+   "note": "",
+   "used_in": [
+    {
+     "session": "S01",
+     "segment": 28,
+     "t0": 170.6,
+     "t1": 174.4,
+     "use": "full",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v2"
+    }
+   ]
+  },
+  {
+   "id": 98,
+   "file": "98-wes-wu-profile-right-smile.jpg",
+   "source_gen": "A27",
+   "pose": "profile-right-smile",
+   "framing": "waist-up",
+   "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
+   "status": "used",
+   "note": "",
+   "used_in": [
+    {
+     "session": "S01",
+     "segment": 18,
+     "t0": 103.4,
+     "t1": 108.6,
+     "use": "full",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v2"
+    }
+   ]
+  },
+  {
+   "id": 99,
+   "file": "99-wes-wu-mid-stride-right-arm-swing.jpg",
+   "source_gen": "A29",
+   "pose": "mid-stride-right-arm-swing",
+   "framing": "waist-up",
+   "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
+   "status": "used",
+   "note": "",
+   "used_in": [
+    {
+     "session": "S01",
+     "segment": 7,
+     "t0": 38.3,
+     "t1": 42.3,
+     "use": "full",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v2"
+    }
+   ]
+  },
+  {
+   "id": 100,
+   "file": "100-wes-wu-three-quarter-right-palm-out.jpg",
+   "source_gen": "A30",
+   "pose": "three-quarter-right-palm-out",
+   "framing": "waist-up",
+   "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
+   "status": "used",
+   "note": "",
+   "used_in": [
+    {
+     "session": "S01",
+     "segment": 11,
+     "t0": 61.6,
+     "t1": 66.3,
+     "use": "full",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v2"
+    }
+   ]
+  },
+  {
+   "id": 101,
+   "file": "101-wes-wu-stage-left-both-hands.jpg",
+   "source_gen": "A32",
+   "pose": "stage-left-both-hands",
+   "framing": "waist-up",
+   "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
+   "status": "used",
+   "note": "",
+   "used_in": [
+    {
+     "session": "S01",
+     "segment": 6,
+     "t0": 30.9,
+     "t1": 38.3,
+     "use": "full",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v2"
+    }
+   ]
+  },
+  {
+   "id": 102,
+   "file": "102-wes-wu-three-quarter-left-arm-out.jpg",
+   "source_gen": "A34",
+   "pose": "three-quarter-left-arm-out",
+   "framing": "waist-up",
+   "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
+   "status": "used",
+   "note": "",
+   "used_in": [
+    {
+     "session": "S01",
+     "segment": 17,
+     "t0": 95.6,
+     "t1": 103.4,
+     "use": "full",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v2"
+    }
+   ]
+  },
+  {
+   "id": 103,
+   "file": "103-wes-wu-mid-stride-left-hands-low.jpg",
+   "source_gen": "A35",
+   "pose": "mid-stride-left-hands-low",
+   "framing": "waist-up",
+   "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
+   "status": "used",
+   "note": "",
+   "used_in": [
+    {
+     "session": "S01",
+     "segment": 24,
+     "t0": 142.0,
+     "t1": 150.4,
+     "use": "split-right",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v2"
+    }
+   ]
+  },
+  {
+   "id": 104,
+   "file": "104-wes-wu-three-quarter-right-head-left.jpg",
+   "source_gen": "A37",
+   "pose": "three-quarter-right-head-left",
+   "framing": "waist-up",
+   "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
+   "status": "retired",
+   "note": "Avatar IV render put an object in his hand (S01 v2 seg22) - retired",
+   "used_in": []
+  },
+  {
+   "id": 105,
+   "file": "105-wes-wu-walk-profile-right.jpg",
+   "source_gen": "A38",
+   "pose": "walk-profile-right",
+   "framing": "waist-up",
+   "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
+   "status": "retired",
+   "note": "Avatar IV does not walk; faced lens (S01 v2 seg25 walk test) - retired",
+   "used_in": []
+  },
+  {
+   "id": 106,
+   "file": "106-wes-wu-low-angle-palm-out.jpg",
+   "source_gen": "A39",
+   "pose": "low-angle-palm-out",
+   "framing": "waist-up",
+   "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
+   "status": "used",
+   "note": "",
+   "used_in": [
+    {
+     "session": "S01",
+     "segment": 30,
+     "t0": 180.3,
+     "t1": 184.3,
+     "use": "full",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v2"
+    }
+   ]
+  },
+  {
+   "id": 107,
+   "file": "107-wes-wu-hand-on-chest.jpg",
+   "source_gen": "A41",
+   "pose": "hand-on-chest",
+   "framing": "waist-up",
+   "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
+   "status": "used",
+   "note": "",
+   "used_in": [
+    {
+     "session": "S01",
+     "segment": 9,
+     "t0": 49.4,
+     "t1": 55.6,
+     "use": "split-right",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v2"
+    }
+   ]
+  },
+  {
+   "id": 108,
+   "file": "108-wes-wu-lean-forward-both-hands.jpg",
+   "source_gen": "A42",
+   "pose": "lean-forward-both-hands",
+   "framing": "waist-up",
+   "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
+   "status": "used",
+   "note": "",
+   "used_in": [
+    {
+     "session": "S01",
+     "segment": 12,
+     "t0": 66.3,
+     "t1": 74.9,
+     "use": "full",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v2"
+    }
+   ]
+  },
+  {
+   "id": 109,
+   "file": "109-wes-wu-walk-rear-three-quarter-left.jpg",
+   "source_gen": "A43",
+   "pose": "walk-rear-three-quarter-left",
+   "framing": "waist-up",
+   "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
+   "status": "used",
+   "note": "",
+   "used_in": [
+    {
+     "session": "S01",
+     "segment": 27,
+     "t0": 164.0,
+     "t1": 170.6,
+     "use": "full",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v2"
+    }
+   ]
+  },
+  {
+   "id": 110,
+   "file": "110-wes-wu-smile-three-quarter-right.jpg",
+   "source_gen": "A44",
+   "pose": "smile-three-quarter-right",
+   "framing": "waist-up",
+   "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
+   "status": "used",
+   "note": "",
+   "used_in": [
+    {
+     "session": "S01",
+     "segment": 21,
+     "t0": 122.7,
+     "t1": 129.9,
+     "use": "split-right",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v2"
+    }
+   ]
+  },
+  {
+   "id": 111,
+   "file": "111-wes-wu-walk-profile-left.jpg",
+   "source_gen": "A46",
+   "pose": "walk-profile-left",
+   "framing": "waist-up",
+   "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
+   "status": "available",
+   "note": "",
+   "used_in": []
+  },
+  {
+   "id": 112,
+   "file": "112-wes-wu-profile-left-hand-waist.jpg",
+   "source_gen": "A47",
+   "pose": "profile-left-hand-waist",
+   "framing": "waist-up",
+   "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
+   "status": "used",
+   "note": "",
+   "used_in": [
+    {
+     "session": "S01",
+     "segment": 22,
+     "t0": 129.9,
+     "t1": 135.2,
+     "use": "full",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v2"
+    }
+   ]
+  },
+  {
+   "id": 113,
+   "file": "113-wes-wu-low-profile-left.jpg",
+   "source_gen": "A49",
+   "pose": "low-profile-left",
+   "framing": "waist-up",
+   "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
+   "status": "used",
+   "note": "",
+   "used_in": [
+    {
+     "session": "S01",
+     "segment": 14,
+     "t0": 79.3,
+     "t1": 85.4,
+     "use": "full",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v2"
+    }
+   ]
+  },
+  {
+   "id": 114,
+   "file": "114-wes-wu-high-profile-right-hand-chest.jpg",
+   "source_gen": "A50",
+   "pose": "high-profile-right-hand-chest",
+   "framing": "waist-up",
+   "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
+   "status": "used",
+   "note": "",
+   "used_in": [
+    {
+     "session": "S01",
+     "segment": 29,
+     "t0": 174.4,
+     "t1": 180.3,
+     "use": "full",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v2"
+    }
+   ]
+  },
+  {
+   "id": 115,
+   "file": "115-wes-wu-stage-left-profile-hands-together.jpg",
+   "source_gen": "A51",
+   "pose": "stage-left-profile-hands-together",
+   "framing": "waist-up",
+   "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
+   "status": "used",
+   "note": "",
+   "used_in": [
+    {
+     "session": "S01",
+     "segment": 19,
+     "t0": 108.6,
+     "t1": 116.6,
+     "use": "full",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v2"
+    }
+   ]
+  }
+ ]
+}
