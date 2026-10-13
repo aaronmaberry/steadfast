@@ -10,9 +10,8 @@ def bar(c):
     qf=F(22,500);sf=F(15,500);q='“'+QUOTE+'”';l2=URL+'   ·   @steadfastwalk   ·   '+TAG
     tw=max(d.textlength(q,font=qf),d.textlength(l2,font=sf));lw=S(220);gw=lw+S(60)+tw
     right0=W-m-S(480);gx=(m+right0)/2-gw/2;cy=y+S(55)
-    logo(c,gx+lw/2,cy,lw);d=ImageDraw.Draw(c,'RGBA');dx=gx+lw+S(30)
-    d.line((dx,y+S(25),dx,y+S(85)),fill=ACC+(140,),width=S(1))
-    d.text((dx+S(30),y+S(40)),q,font=qf,fill=TXT,anchor='lm');d.text((dx+S(30),y+S(74)),l2,font=sf,fill=MUT,anchor='lm')
+    logo(c,m+S(30)+lw/2,cy,lw);d=ImageDraw.Draw(c,'RGBA')
+    d.text((W/2,y+S(40)),q,font=qf,fill=TXT,anchor='mm');d.text((W/2,y+S(74)),l2,font=sf,fill=MUT,anchor='mm')
     ks=['yt','x','tt','ig','fb']
     for i,k in enumerate(ks):icon(d,W-m-S(460)+i*S(40),cy,k,S(30))
     subscribe(c,W-m-S(24),y+S(77),0.9,'rb');return c
