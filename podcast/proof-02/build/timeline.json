@@ -1,0 +1,69 @@
+[
+{
+"kind": "line",
+"f": "L00.mp4",
+"a": "audio/n/L00.mp3",
+"t": 0.5,
+"d": 8.829388,
+"lay": "W_hook"
+},
+{
+"kind": "line",
+"f": "L01.mp4",
+"a": "audio/n/L01.mp3",
+"t": 9.629,
+"d": 7.706122,
+"lay": "J_hook"
+},
+{
+"kind": "line",
+"f": "L02.mp4",
+"a": "audio/n/L02.mp3",
+"t": 17.636,
+"d": 3.709388,
+"lay": "W_hook"
+},
+{
+"kind": "music",
+"t": 22.044898,
+"d": 6.9
+},
+{
+"kind": "line",
+"f": "L03.mp4",
+"a": "audio/n/L03.mp3",
+"t": 28.945,
+"d": 3.082449,
+"lay": "W_intro"
+},
+{
+"kind": "line",
+"f": "L04.mp4",
+"a": "audio/n/L04.mp3",
+"t": 32.327,
+"d": 1.07102,
+"lay": "J_intro"
+},
+{
+"kind": "line",
+"f": "L05.mp4",
+"a": "audio/n/L05.mp3",
+"t": 33.698,
+"d": 21.394286,
+"lay": "W_q"
+},
+{
+"kind": "line",
+"f": "L06.mp4",
+"a": "audio/n/L06.mp3",
+"t": 55.393,
+"d": 6.922449,
+"lay": "J_sales"
+},
+{
+"kind": "music",
+"t": 62.61510200000001,
+"d": 2.0,
+"end": 64.61510200000001
+}
+]
