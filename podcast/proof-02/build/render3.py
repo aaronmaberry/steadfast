@@ -20,21 +20,21 @@ def rmask(w,h,r=36):
 nf=int(TOTAL*FPS);plan=[None]*nf
 for x in TL:
     if x['kind']=='music':
-        for i in range(int(x['t']*FPS),min(nf,int((x['t']+x['d'])*FPS))):plan[i]=('music',None,0)
+        for i in range(int(x['t']*FPS),min(nf,int((x['t']+x['d'])*FPS))):plan[i]=('music',x.get('card','music'),0)
     else:
         a=int(round(x['t']*FPS));n=int(round(x['d']*FPS))
         for i in range(a,min(nf,a+n)):plan[i]=('line',x,i-a)
 # fill gaps: hold previous line's last frame (short gaps only) else music card
 last=None
 for i in range(nf):
-    if plan[i] is None:plan[i]=('hold',last,0) if last and last[0]=='line' else ('music',None,0)
+    if plan[i] is None:plan[i]=('hold',last,0) if last and last[0]=='line' else ('music','music',0)
     else:last=plan[i]
-BASE={k:Image.open(L+k+'.png').convert('RGB') for k in set(x['lay'] for x in TL if x['kind']=='line')|{'music'}}
-OV={k:Image.open(L+k+'_o.png') for k in BASE if k!='music'}
+BASE={k:Image.open(L+k+'.png').convert('RGB') for k in set(x['lay'] for x in TL if x['kind']=='line')|{'music','end'}}
+OV={k:Image.open(L+k+'_o.png') for k in BASE if k not in ('music','end')}
 cache={};enc=subprocess.Popen(['ffmpeg','-v','error','-y','-f','rawvideo','-pix_fmt','rgb24','-s',f'{W}x{H}','-r','24','-i','-','-c:v','libx264','-crf','18','-preset','medium','-pix_fmt','yuv420p',P+'video_noaudio.mp4'],stdin=subprocess.PIPE)
 prev=None;STILL=json.load(open(P+'stills.json')) if len(sys.argv)>1 else {}
 for i,(k,x,j) in enumerate(plan):
-    if k=='music':c=BASE['music'].copy()
+    if k=='music':c=BASE[x or 'music'].copy()
     else:
         if k=='hold':x=x[1];j=None
         lay=x['lay'];b,h=meta[lay];bw,bh=b[2]-b[0],b[3]-b[1]
