@@ -953,5 +953,135 @@
       ]
     }
   ],
-  "about_v6_note": "proof-v6: plate 69 used as the canonical background for every Wes shot; no 116+ plates generated."
+  "about_v6_note": "proof-v6: plate 69 used as the canonical background for every Wes shot; no 116+ plates generated.",
+  "legacy_uses_v6": [
+    {
+      "plate": 73,
+      "segment": 0,
+      "t0": 0,
+      "t1": 6.8,
+      "render_id": "W1",
+      "proof": "s01-anim-proof-v6"
+    },
+    {
+      "plate": 80,
+      "segment": 1,
+      "t0": 6.8,
+      "t1": 13.17,
+      "render_id": "W2",
+      "proof": "s01-anim-proof-v6"
+    },
+    {
+      "plate": 72,
+      "segment": 2,
+      "t0": 13.167,
+      "t1": 22.87,
+      "render_id": "W3",
+      "proof": "s01-anim-proof-v6"
+    },
+    {
+      "plate": 73,
+      "segment": 5,
+      "t0": 50.167,
+      "t1": 55.77,
+      "render_id": "W5",
+      "proof": "s01-anim-proof-v6"
+    },
+    {
+      "plate": 80,
+      "segment": 6,
+      "t0": 55.767,
+      "t1": 64.27,
+      "render_id": "W6",
+      "proof": "s01-anim-proof-v6"
+    },
+    {
+      "plate": 72,
+      "segment": 7,
+      "t0": 64.267,
+      "t1": 72.47,
+      "render_id": "W7",
+      "proof": "s01-anim-proof-v6"
+    },
+    {
+      "plate": 80,
+      "segment": 9,
+      "t0": 85.267,
+      "t1": 87.9,
+      "render_id": "walk1",
+      "proof": "s01-anim-proof-v6"
+    },
+    {
+      "plate": 72,
+      "segment": 11,
+      "t0": 97.8,
+      "t1": 105.6,
+      "render_id": "W9",
+      "proof": "s01-anim-proof-v6"
+    },
+    {
+      "plate": 80,
+      "segment": 12,
+      "t0": 105.6,
+      "t1": 110.4,
+      "render_id": "W10",
+      "proof": "s01-anim-proof-v6"
+    },
+    {
+      "plate": 73,
+      "segment": 14,
+      "t0": 119.0,
+      "t1": 128.8,
+      "render_id": "S2",
+      "proof": "s01-anim-proof-v6"
+    },
+    {
+      "plate": 80,
+      "segment": 15,
+      "t0": 128.8,
+      "t1": 138.3,
+      "render_id": "W11",
+      "proof": "s01-anim-proof-v6"
+    },
+    {
+      "plate": 72,
+      "segment": 16,
+      "t0": 138.3,
+      "t1": 144.73,
+      "render_id": "W12",
+      "proof": "s01-anim-proof-v6"
+    },
+    {
+      "plate": 73,
+      "segment": 18,
+      "t0": 149.833,
+      "t1": 160.3,
+      "render_id": "W14",
+      "proof": "s01-anim-proof-v6"
+    },
+    {
+      "plate": 80,
+      "segment": 19,
+      "t0": 160.3,
+      "t1": 163.3,
+      "render_id": "walk2",
+      "proof": "s01-anim-proof-v6"
+    },
+    {
+      "plate": 80,
+      "segment": 20,
+      "t0": 163.3,
+      "t1": 170.83,
+      "render_id": "C1",
+      "proof": "s01-anim-proof-v6"
+    },
+    {
+      "plate": 72,
+      "segment": 22,
+      "t0": 175.5,
+      "t1": 182.97,
+      "render_id": "C3",
+      "proof": "s01-anim-proof-v6"
+    }
+  ]
 }
