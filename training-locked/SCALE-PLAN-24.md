@@ -1,4 +1,29 @@
-# 24-session scale plan (waist-up, lip-synced, never-repeat plates) - v3 target (~50% cut)
+# 24-session scale plan (waist-up, lip-synced, never-repeat plates) - v4 plan: boards ~45%
+
+## CURRENT PLAN: S01 v4 (approved by Aaron 2026-10-12: "push boards")
+Measured on the 184.3 s proof:
+- Full boards cover 82.5 s (44.8%). Splits add 14.6 s, so boards or splits are on screen 53% of the time.
+- Seconds of Wes that HeyGen has to render: 101.8 s (55%). v3 was 127 s.
+- 10 Wes clips, about 10.2 s each on average. Each 3-minute stretch has about 11 boards.
+- One walk-and-talk shot (8.4 s): image-to-video walk, then HeyGen lip-sync, then matted onto the locked plate-69 room on the box.
+- New spend for v4: 0 credits and $0. It reuses v3 renders and the walk lip-sync that was already paid for.
+
+Per 30-min session (1,800 s):
+- About 994 s of Wes on screen, about 97 unique plates.
+- At 57% yield, about 171 image gens x $0.50 = ~$85.
+- HeyGen: 994 s x 1.10 rework x ~0.35 credit/s = ~383 credits, plus ~10 for one walk = ~393.
+
+| All 24 sessions | v2 | v3 | **v4 (now)** |
+|---|---|---|---|
+| Unique plates | ~5,400 | ~3,050 | **~2,330** |
+| Image cash | ~$4,750 | ~$2,700 | **~$2,050** (-57% vs v2) |
+| HeyGen credits | ~12,000 | ~11,500 | **~9,400** incl. 24 walks (~9,150 without) (-22% vs v2) |
+
+Assumptions: plate yield stays at 57%, rework at 10%, Avatar IV at ~0.35 credit/s. If plates are prompted as pure profile or three-quarter only and yield rises to 75%, image cash falls to ~$1,550.
+
+---
+(Older v3 notes follow, kept for history.)
+
 
 ## What changed in S01 v3 (184 s proof)
 - 13 lip-synced Wes clips instead of 28. Average talking clip 9.8 s (v2: 6.0 s).

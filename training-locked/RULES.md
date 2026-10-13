@@ -76,6 +76,8 @@ Imagine redraws the A's wrong. Stamp LOCKED-stage-screen.jpg onto the screen aft
 
 
 Animated sessions (S01 v3 on): stamp before HeyGen, never after. Run tools/stamp_logo.py on the upscaled plate. It lifts the letters out of LOCKED-stage-screen.jpg (crops off Wes's face at the right edge), sizes them to the plate's screen, keeps them inside the waist-up crop, and masks them behind Wes so he stays in front. HeyGen keeps the stamped background still. Reject any clip whose screen reads as plain blue, any clip where the letters warp, and any clip with a second logo.
+Logo cut-offs (v4): the stamped letters must never end in mid-air. If the stamp lands on curtain or is cut by anything but Wes or the frame, erase it in post (static inpaint, since HeyGen keeps the background still) or reframe. Dim the stamped letters to about 78% against the screen, with a light blur, so they sit in the room's light.
+Walk shots (v4): never send a stamped plate to image-to-video, because it redraws the logo and adds podiums. Lip-sync the walk on any clean plate, matte Wes out (rembg u2net_human_seg, largest component only), and composite him onto the locked plate-69 room, with Wes 69 removed and the logo intact. Let the room drift with his movement.
 Plate sharpness: tools/upscale.py (Real-ESRGAN x4plus) to 2x, blended 68/32 with Lanczos plus light grain. Don't just ffmpeg-scale a plate.
 
 ## How a new still is made

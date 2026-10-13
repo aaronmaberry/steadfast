@@ -1,5 +1,5 @@
 {
- "about": "Unique waist-up plate pool. Never reuse a plate whose status is used or retired, in any session. Take new ids from next_id. Shoot day: charcoal henley per WARDROBE-LOCK.jpg, plate-69 stage, same light. S01 v3: plates are Real-ESRGAN x4 upscaled (blended 68/32 with Lanczos for natural texture) and have the LOCKED-stage-screen.jpg logo stamped onto the screen (letters lifted from the locked image, never redrawn, occluded behind Wes). Stamped variants live in s01-v3-stamped/.",
+ "about": "Unique waist-up plate pool. Never reuse a plate whose status is used or retired, in any session. Take new ids from next_id. Shoot day: charcoal henley per WARDROBE-LOCK.jpg, plate-69 stage, same light. S01 v3: plates are Real-ESRGAN x4 upscaled (blended 68/32 with Lanczos for natural texture) and have the LOCKED-stage-screen.jpg logo stamped onto the screen (letters lifted from the locked image, never redrawn, occluded behind Wes). Stamped variants live in s01-v3-stamped/. S01 v4: boards are ~45% of runtime. The walk shot is composited onto the locked room plate 69 (a locked master, not a pool plate).",
  "next_id": 116,
  "wardrobe_lock": "training-locked/WARDROBE-LOCK.jpg",
  "legacy": {
@@ -55,6 +55,16 @@
      "render": "heygen-avatar-iv",
      "proof": "s01-anim-proof-v3",
      "plate_variant": "s01-v3-stamped/82-stamped-wu.jpg"
+    },
+    {
+     "session": "S01",
+     "segment": 0,
+     "t0": 0,
+     "t1": 9.3,
+     "use": "full",
+     "proof": "s01-anim-proof-v4",
+     "render": "heygen-avatar-iv (v3 render reused, 0 new credits)",
+     "post": "logo letters dimmed to the room's level"
     }
    ]
   },
@@ -97,6 +107,16 @@
      "render": "heygen-avatar-iv",
      "proof": "s01-anim-proof-v3",
      "plate_variant": "s01-v3-stamped/84-stamped-wu.jpg"
+    },
+    {
+     "session": "S01",
+     "segment": 9,
+     "t0": 79.3,
+     "t1": 90.9,
+     "use": "full",
+     "proof": "s01-anim-proof-v4",
+     "render": "heygen-avatar-iv (v3 render reused, 0 new credits)",
+     "post": "logo letters dimmed to the room's level"
     }
    ]
   },
@@ -129,7 +149,7 @@
    "framing": "waist-up",
    "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
    "status": "used",
-   "note": "",
+   "note": "In v4 this was replaced by a board; stays used (v3 render).",
    "used_in": [
     {
      "session": "S01",
@@ -223,6 +243,16 @@
      "render": "heygen-avatar-iv",
      "proof": "s01-anim-proof-v3",
      "plate_variant": "s01-v3-stamped/90-stamped-wu.jpg"
+    },
+    {
+     "session": "S01",
+     "segment": 6,
+     "t0": 55.6,
+     "t1": 66.3,
+     "use": "full",
+     "proof": "s01-anim-proof-v4",
+     "render": "heygen-avatar-iv (v3 render reused, 0 new credits)",
+     "post": "logo letters dimmed to the room's level"
     }
    ]
   },
@@ -254,6 +284,16 @@
      "render": "heygen-avatar-iv",
      "proof": "s01-anim-proof-v3",
      "plate_variant": "s01-v3-stamped/91-stamped-wu.jpg"
+    },
+    {
+     "session": "S01",
+     "segment": 2,
+     "t0": 18.9,
+     "t1": 26.6,
+     "use": "full",
+     "proof": "s01-anim-proof-v4",
+     "render": "heygen-avatar-iv (v3 render reused, 0 new credits)",
+     "post": "logo letters dimmed to the room's level"
     }
    ]
   },
@@ -464,6 +504,16 @@
      "render": "heygen-avatar-iv",
      "proof": "s01-anim-proof-v3",
      "plate_variant": "s01-v3-stamped/101-stamped-wu.jpg"
+    },
+    {
+     "session": "S01",
+     "segment": 3,
+     "t0": 26.6,
+     "t1": 38.3,
+     "use": "full",
+     "proof": "s01-anim-proof-v4",
+     "render": "heygen-avatar-iv (v3 render reused, 0 new credits)",
+     "post": "logo letters dimmed to the room's level"
     }
    ]
   },
@@ -475,7 +525,7 @@
    "framing": "waist-up",
    "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
    "status": "used",
-   "note": "",
+   "note": "In v4 this was replaced by a board; stays used (v3 render).",
    "used_in": [
     {
      "session": "S01",
@@ -590,6 +640,16 @@
      "render": "heygen-avatar-iv",
      "proof": "s01-anim-proof-v3",
      "plate_variant": "s01-v3-stamped/107-stamped-wu.jpg"
+    },
+    {
+     "session": "S01",
+     "segment": 5,
+     "t0": 49.4,
+     "t1": 55.6,
+     "use": "split",
+     "proof": "s01-anim-proof-v4",
+     "render": "heygen-avatar-iv (v3 render reused, 0 new credits)",
+     "post": "logo letters dimmed to the room's level"
     }
    ]
   },
@@ -642,6 +702,16 @@
      "render": "heygen-avatar-iv",
      "proof": "s01-anim-proof-v3",
      "plate_variant": "s01-v3-stamped/109-stamped-wu.jpg"
+    },
+    {
+     "session": "S01",
+     "segment": 20,
+     "t0": 174.4,
+     "t1": 184.3,
+     "use": "full",
+     "proof": "s01-anim-proof-v4",
+     "render": "heygen-avatar-iv (v3 render reused, 0 new credits)",
+     "post": "logo letters dimmed to the room's level"
     }
    ]
   },
@@ -673,6 +743,16 @@
      "render": "heygen-avatar-iv",
      "proof": "s01-anim-proof-v3",
      "plate_variant": "s01-v3-stamped/110-stamped-wu.jpg"
+    },
+    {
+     "session": "S01",
+     "segment": 13,
+     "t0": 116.6,
+     "t1": 129.9,
+     "use": "full",
+     "proof": "s01-anim-proof-v4",
+     "render": "heygen-avatar-iv (v3 render reused, 0 new credits)",
+     "post": "logo letters dimmed to the room's level"
     }
    ]
   },
@@ -683,9 +763,19 @@
    "pose": "walk-profile-left",
    "framing": "waist-up",
    "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
-   "status": "available",
+   "status": "used",
    "note": "",
-   "used_in": []
+   "used_in": [
+    {
+     "session": "S01",
+     "segment": 16,
+     "t0": 142.0,
+     "t1": 150.4,
+     "use": "split",
+     "proof": "s01-anim-proof-v4",
+     "render": "image_to_video walk + heygen create_lipsync, matted and composited onto the locked plate-69 room (Wes and the ghost arm removed, logo intact)"
+    }
+   ]
   },
   {
    "id": 112,
@@ -695,7 +785,7 @@
    "framing": "waist-up",
    "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
    "status": "used",
-   "note": "",
+   "note": "In v4 this was replaced by a board; stays used (v3 render).",
    "used_in": [
     {
      "session": "S01",
@@ -746,6 +836,16 @@
      "render": "heygen-avatar-iv",
      "proof": "s01-anim-proof-v3",
      "plate_variant": "s01-v3-stamped/113-stamped-wu.jpg"
+    },
+    {
+     "session": "S01",
+     "segment": 11,
+     "t0": 95.6,
+     "t1": 108.6,
+     "use": "full",
+     "proof": "s01-anim-proof-v4",
+     "render": "heygen-avatar-iv (v3 render reused, 0 new credits)",
+     "post": "logo stamp erased (was cut mid-air on the curtain)"
     }
    ]
   },
