@@ -74,6 +74,10 @@ What the screen shows:
 
 Imagine redraws the A's wrong. Stamp LOCKED-stage-screen.jpg onto the screen after generation. The header file LOCKED-logo-steadfast-men.jpg stays the site and book mark. It is not the stage screen.
 
+
+Animated sessions (S01 v3 on): stamp before HeyGen, never after. Run tools/stamp_logo.py on the upscaled plate. It lifts the letters out of LOCKED-stage-screen.jpg (crops off Wes's face at the right edge), sizes them to the plate's screen, keeps them inside the waist-up crop, and masks them behind Wes so he stays in front. HeyGen keeps the stamped background still. Reject any clip whose screen reads as plain blue, any clip where the letters warp, and any clip with a second logo.
+Plate sharpness: tools/upscale.py (Real-ESRGAN x4plus) to 2x, blended 68/32 with Lanczos plus light grain. Don't just ffmpeg-scale a plate.
+
 ## How a new still is made
 
 1. Start from training-locked/69-wes-screen-lock-plate.jpg. That plate is the stage.

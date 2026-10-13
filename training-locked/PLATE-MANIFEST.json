@@ -1,5 +1,5 @@
 {
- "about": "Unique waist-up plate pool. Never reuse a plate whose status is used or retired, in any session. Take new ids from next_id. Shoot day: charcoal henley per WARDROBE-LOCK.jpg, plate-69 stage, same light.",
+ "about": "Unique waist-up plate pool. Never reuse a plate whose status is used or retired, in any session. Take new ids from next_id. Shoot day: charcoal henley per WARDROBE-LOCK.jpg, plate-69 stage, same light. S01 v3: plates are Real-ESRGAN x4 upscaled (blended 68/32 with Lanczos for natural texture) and have the LOCKED-stage-screen.jpg logo stamped onto the screen (letters lifted from the locked image, never redrawn, occluded behind Wes). Stamped variants live in s01-v3-stamped/.",
  "next_id": 116,
  "wardrobe_lock": "training-locked/WARDROBE-LOCK.jpg",
  "legacy": {
@@ -45,6 +45,16 @@
      "use": "full",
      "render": "heygen-avatar-iv",
      "proof": "s01-anim-proof-v2"
+    },
+    {
+     "session": "S01",
+     "segment": 0,
+     "t0": 0,
+     "t1": 9.3,
+     "use": "full",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v3",
+     "plate_variant": "s01-v3-stamped/82-stamped-wu.jpg"
     }
    ]
   },
@@ -77,6 +87,16 @@
      "use": "full",
      "render": "heygen-avatar-iv",
      "proof": "s01-anim-proof-v2"
+    },
+    {
+     "session": "S01",
+     "segment": 9,
+     "t0": 79.3,
+     "t1": 90.9,
+     "use": "full",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v3",
+     "plate_variant": "s01-v3-stamped/84-stamped-wu.jpg"
     }
    ]
   },
@@ -88,7 +108,7 @@
    "framing": "waist-up",
    "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
    "status": "used",
-   "note": "",
+   "note": "used only in superseded S01 v2 proof; stays burned (S01-only)",
    "used_in": [
     {
      "session": "S01",
@@ -119,6 +139,16 @@
      "use": "full",
      "render": "heygen-avatar-iv",
      "proof": "s01-anim-proof-v2"
+    },
+    {
+     "session": "S01",
+     "segment": 1,
+     "t0": 9.3,
+     "t1": 18.9,
+     "use": "full",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v3",
+     "plate_variant": "s01-v3-stamped/86-stamped-wu.jpg"
     }
    ]
   },
@@ -130,7 +160,7 @@
    "framing": "waist-up",
    "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
    "status": "used",
-   "note": "",
+   "note": "eyes drifted toward lens in S01 v2 - dropped from S01 v3; do not reuse",
    "used_in": [
     {
      "session": "S01",
@@ -183,6 +213,16 @@
      "use": "full",
      "render": "heygen-avatar-iv",
      "proof": "s01-anim-proof-v2"
+    },
+    {
+     "session": "S01",
+     "segment": 6,
+     "t0": 55.6,
+     "t1": 66.3,
+     "use": "full",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v3",
+     "plate_variant": "s01-v3-stamped/90-stamped-wu.jpg"
     }
    ]
   },
@@ -204,6 +244,16 @@
      "use": "full",
      "render": "heygen-avatar-iv",
      "proof": "s01-anim-proof-v2"
+    },
+    {
+     "session": "S01",
+     "segment": 2,
+     "t0": 18.9,
+     "t1": 26.6,
+     "use": "full",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v3",
+     "plate_variant": "s01-v3-stamped/91-stamped-wu.jpg"
     }
    ]
   },
@@ -226,7 +276,7 @@
    "framing": "waist-up",
    "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
    "status": "used",
-   "note": "",
+   "note": "eyes drifted toward lens in S01 v2 - dropped from S01 v3; do not reuse",
    "used_in": [
     {
      "session": "S01",
@@ -247,7 +297,7 @@
    "framing": "waist-up",
    "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
    "status": "used",
-   "note": "",
+   "note": "used only in superseded S01 v2 proof; stays burned (S01-only)",
    "used_in": [
     {
      "session": "S01",
@@ -268,7 +318,7 @@
    "framing": "waist-up",
    "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
    "status": "used",
-   "note": "",
+   "note": "used only in superseded S01 v2 proof; stays burned (S01-only)",
    "used_in": [
     {
      "session": "S01",
@@ -289,7 +339,7 @@
    "framing": "waist-up",
    "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
    "status": "used",
-   "note": "",
+   "note": "wide mouth shapes in S01 v2 - dropped from S01 v3; do not reuse",
    "used_in": [
     {
      "session": "S01",
@@ -310,7 +360,7 @@
    "framing": "waist-up",
    "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
    "status": "used",
-   "note": "",
+   "note": "used only in superseded S01 v2 proof; stays burned (S01-only)",
    "used_in": [
     {
      "session": "S01",
@@ -331,7 +381,7 @@
    "framing": "waist-up",
    "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
    "status": "used",
-   "note": "",
+   "note": "used only in superseded S01 v2 proof; stays burned (S01-only)",
    "used_in": [
     {
      "session": "S01",
@@ -352,7 +402,7 @@
    "framing": "waist-up",
    "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
    "status": "used",
-   "note": "",
+   "note": "pursed lip in S01 v2 - dropped from S01 v3; do not reuse",
    "used_in": [
     {
      "session": "S01",
@@ -373,7 +423,7 @@
    "framing": "waist-up",
    "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
    "status": "used",
-   "note": "",
+   "note": "eyes drifted toward lens in S01 v2 - dropped from S01 v3; do not reuse",
    "used_in": [
     {
      "session": "S01",
@@ -404,6 +454,16 @@
      "use": "full",
      "render": "heygen-avatar-iv",
      "proof": "s01-anim-proof-v2"
+    },
+    {
+     "session": "S01",
+     "segment": 3,
+     "t0": 26.6,
+     "t1": 38.3,
+     "use": "full",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v3",
+     "plate_variant": "s01-v3-stamped/101-stamped-wu.jpg"
     }
    ]
   },
@@ -425,6 +485,16 @@
      "use": "full",
      "render": "heygen-avatar-iv",
      "proof": "s01-anim-proof-v2"
+    },
+    {
+     "session": "S01",
+     "segment": 14,
+     "t0": 129.9,
+     "t1": 135.2,
+     "use": "full",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v3",
+     "plate_variant": "s01-v3-stamped/102-stamped-wu.jpg"
     }
    ]
   },
@@ -436,7 +506,7 @@
    "framing": "waist-up",
    "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
    "status": "used",
-   "note": "",
+   "note": "eyes drifted toward lens in S01 v2 - dropped from S01 v3; do not reuse",
    "used_in": [
     {
      "session": "S01",
@@ -479,7 +549,7 @@
    "framing": "waist-up",
    "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
    "status": "used",
-   "note": "",
+   "note": "used only in superseded S01 v2 proof; stays burned (S01-only)",
    "used_in": [
     {
      "session": "S01",
@@ -510,6 +580,16 @@
      "use": "split-right",
      "render": "heygen-avatar-iv",
      "proof": "s01-anim-proof-v2"
+    },
+    {
+     "session": "S01",
+     "segment": 5,
+     "t0": 49.4,
+     "t1": 55.6,
+     "use": "split",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v3",
+     "plate_variant": "s01-v3-stamped/107-stamped-wu.jpg"
     }
    ]
   },
@@ -521,7 +601,7 @@
    "framing": "waist-up",
    "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
    "status": "used",
-   "note": "",
+   "note": "eyes drifted toward lens in S01 v2 - dropped from S01 v3; do not reuse",
    "used_in": [
     {
      "session": "S01",
@@ -552,6 +632,16 @@
      "use": "full",
      "render": "heygen-avatar-iv",
      "proof": "s01-anim-proof-v2"
+    },
+    {
+     "session": "S01",
+     "segment": 20,
+     "t0": 174.4,
+     "t1": 184.3,
+     "use": "full",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v3",
+     "plate_variant": "s01-v3-stamped/109-stamped-wu.jpg"
     }
    ]
   },
@@ -573,6 +663,16 @@
      "use": "split-right",
      "render": "heygen-avatar-iv",
      "proof": "s01-anim-proof-v2"
+    },
+    {
+     "session": "S01",
+     "segment": 13,
+     "t0": 116.6,
+     "t1": 129.9,
+     "use": "split",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v3",
+     "plate_variant": "s01-v3-stamped/110-stamped-wu.jpg"
     }
    ]
   },
@@ -605,6 +705,16 @@
      "use": "full",
      "render": "heygen-avatar-iv",
      "proof": "s01-anim-proof-v2"
+    },
+    {
+     "session": "S01",
+     "segment": 19,
+     "t0": 164.0,
+     "t1": 174.4,
+     "use": "full",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v3",
+     "plate_variant": "s01-v3-stamped/112-stamped-wu.jpg"
     }
    ]
   },
@@ -626,6 +736,16 @@
      "use": "full",
      "render": "heygen-avatar-iv",
      "proof": "s01-anim-proof-v2"
+    },
+    {
+     "session": "S01",
+     "segment": 11,
+     "t0": 95.6,
+     "t1": 108.6,
+     "use": "full",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v3",
+     "plate_variant": "s01-v3-stamped/113-stamped-wu.jpg"
     }
    ]
   },
@@ -647,6 +767,16 @@
      "use": "full",
      "render": "heygen-avatar-iv",
      "proof": "s01-anim-proof-v2"
+    },
+    {
+     "session": "S01",
+     "segment": 16,
+     "t0": 142.0,
+     "t1": 150.4,
+     "use": "split",
+     "render": "heygen-avatar-iv",
+     "proof": "s01-anim-proof-v3",
+     "plate_variant": "s01-v3-stamped/114-stamped-wu.jpg"
     }
    ]
   },
@@ -658,7 +788,7 @@
    "framing": "waist-up",
    "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
    "status": "used",
-   "note": "",
+   "note": "used only in superseded S01 v2 proof; stays burned (S01-only)",
    "used_in": [
     {
      "session": "S01",
