@@ -115,7 +115,7 @@ def opt1(st):  # floating glass bubbles
         c=Image.new('RGB',(W,H),BG);board(c,(0,0,W,H),True);bug(c,m,m+S(30));subscribe(c,W-m,H-m,1,'rb')
         cam(c,(W-m-S(260),m,W-m,m+S(146)),WES,S(18));cam(c,(W-m-S(260)*2-S(16),m,W-m-S(276),m+S(146)),CO,S(18));return c
     cw,ch=(S(500),S(640)) if st=='idle' else (S(420),S(560));y=(H-ch)//2
-    cam(c,(m,y,m+cw,y+ch),WES,S(36),'WES');cam(c,(W-m-cw,y,W-m,y+ch),CO,S(36),'CO-HOST')
+    cam(c,(m,y,m+cw,y+ch),WES,S(36),'WES');cam(c,(W-m-cw,y,W-m,y+ch),CO,S(36),'JONATHON')
     bx=(m+cw+S(48),y,W-m-cw-S(48),y+ch);panel(c,bx,S(36))
     plate(c,bx) if st=='idle' else (board(c,bx),subscribe(c,(bx[0]+bx[2])/2,bx[3]-S(66),0.85,'mt'),bug(c,(bx[0]+bx[2])/2-S(90),bx[1]+S(50),180))
     return c
@@ -132,7 +132,7 @@ def opt2(st):  # edge-to-edge split, center rail
     bx=(cw+S(30),S(110),W-cw-S(30),H-S(110))
     if st=='idle':plate(c,bx)
     else:board(c,bx);logo(c,W/2,S(90),S(200));subscribe(c,W/2,H-S(110),0.9,'mt')
-    for t,x in(('WES',S(40)),('CO-HOST',W-cw+S(40))):
+    for t,x in(('WES',S(40)),('JONATHON',W-cw+S(40))):
         d=ImageDraw.Draw(c,'RGBA');spaced(d,(x,H-S(50)),t,F(16,600),TXT,0.35,'l')
     return c
 def opt3(st):  # Barstool 3-up
@@ -142,7 +142,7 @@ def opt3(st):  # Barstool 3-up
     pw=(W-2*m-2*g)//3;y0,y1=S(150),H-S(150)
     if st=='split':pw2=int(pw*1.25);pw=(W-2*m-2*g-pw2)//2
     else:pw2=pw
-    cam(c,(m,y0,m+pw,y1),WES,S(20),'WES');cam(c,(W-m-pw,y0,W-m,y1),CO,S(20),'CO-HOST')
+    cam(c,(m,y0,m+pw,y1),WES,S(20),'WES');cam(c,(W-m-pw,y0,W-m,y1),CO,S(20),'JONATHON')
     bx=(m+pw+g,y0,m+pw+g+pw2,y1);panel(c,bx,S(20),alpha=235)
     if st=='idle':plate(c,bx)
     else:board(c,bx);subscribe(c,(bx[0]+bx[2])/2,bx[3]-S(70),0.85,'mt')
@@ -160,9 +160,9 @@ def opt4(st):  # lower-third / ticker
     if st=='full':
         c=Image.new('RGB',(W,H),BG);board(c,(0,0,W,H-S(150)),True);lower();return c
     if st=='idle':
-        cw=(W-2*m-S(40))//2;cam(c,(m,m,m+cw,H-S(190)),WES,S(28),'WES');cam(c,(W-m-cw,m,W-m,H-S(190)),CO,S(28),'CO-HOST')
+        cw=(W-2*m-S(40))//2;cam(c,(m,m,m+cw,H-S(190)),WES,S(28),'WES');cam(c,(W-m-cw,m,W-m,H-S(190)),CO,S(28),'JONATHON')
     else:
-        cw=S(470);cam(c,(m,m,m+cw,H-S(190)),WES,S(28),'WES');cam(c,(W-m-cw,m,W-m,H-S(190)),CO,S(28),'CO-HOST')
+        cw=S(470);cam(c,(m,m,m+cw,H-S(190)),WES,S(28),'WES');cam(c,(W-m-cw,m,W-m,H-S(190)),CO,S(28),'JONATHON')
         bx=(m+cw+S(40),m,W-m-cw-S(40),H-S(190));panel(c,bx,S(28));board(c,bx)
     lower();return c
 def opt5(st):  # cinematic letterbox
@@ -177,7 +177,7 @@ def opt5(st):  # cinematic letterbox
     if st=='full':c=Image.new('RGB',(W,H),BG);board(c,(0,bh,W,H-bh),True);bars();return c
     ih=H-2*bh-S(80);y=bh+S(40)
     cw=S(720) if st=='idle' else S(540)
-    cam(c,(m,y,m+cw,y+ih),WES,S(16),'WES',1.0);cam(c,(W-m-cw,y,W-m,y+ih),CO,S(16),'CO-HOST',1.0)
+    cam(c,(m,y,m+cw,y+ih),WES,S(16),'WES',1.0);cam(c,(W-m-cw,y,W-m,y+ih),CO,S(16),'JONATHON',1.0)
     bx=(m+cw+S(36),y,W-m-cw-S(36),y+ih)
     if st=='idle':
         d=ImageDraw.Draw(c,'RGBA');cx=W/2;spaced(d,(cx,y+ih*0.35),'EP.',F(14,500),ACC,0.4);d.text((cx,y+ih*0.47),'01',font=F(64,300),fill=TXT,anchor='mm')
@@ -197,7 +197,7 @@ def opt6(st):  # studio desk
     if st=='full':
         c=Image.new('RGB',(W,H),BG);board(c,(0,0,W,H-S(240)),True);desk();return c
     cw,ch=(S(560),S(560)) if st=='idle' else (S(440),S(500));y=S(70)
-    cam(c,(m+S(40),y,m+S(40)+cw,y+ch),WES,cw//2 if st=='idle' else S(40),'WES',1.0);cam(c,(W-m-S(40)-cw,y,W-m-S(40),y+ch),CO,cw//2 if st=='idle' else S(40),'CO-HOST',1.0)
+    cam(c,(m+S(40),y,m+S(40)+cw,y+ch),WES,cw//2 if st=='idle' else S(40),'WES',1.0);cam(c,(W-m-S(40)-cw,y,W-m-S(40),y+ch),CO,cw//2 if st=='idle' else S(40),'JONATHON',1.0)
     if st=='split':bx=(m+S(40)+cw+S(40),y,W-m-S(80)-cw,y+ch);panel(c,bx,S(40));board(c,bx)
     else:
         d=ImageDraw.Draw(c);spaced(d,(W/2,y+ch*0.45),'LIVE FROM THE TABLE',F(15,600),ACC,0.4);d.text((W/2,y+ch*0.56),'Steadfast Men',font=F(40,400),fill=TXT,anchor='mm')
