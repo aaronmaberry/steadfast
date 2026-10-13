@@ -19,7 +19,7 @@ def full7():
     c=Image.new('RGB',(W,H),BG);board(c,(0,0,W,H-S(150)),True);return bar(c)
 def split7():
     c=background();m=S(64);cw,ch=S(420),S(560);y=(H-ch)//2-S(40)
-    cam(c,(m,y,m+cw,y+ch),WES,S(36),'WES');cam(c,(W-m-cw,y,W-m,y+ch),CO,S(36),'CO-HOST')
+    cam(c,(m,y,m+cw,y+ch),WES,S(36),'WES');cam(c,(W-m-cw,y,W-m,y+ch),CO,S(36),'JONATHON')
     bx=(m+cw+S(48),y,W-m-cw-S(48),y+ch);panel(c,bx,S(36));board(c,bx);return bar(c)
 out='/workspace/tmp-send/podcast-plates/'
 for st in('idle','split','full'):
