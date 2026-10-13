@@ -40,3 +40,6 @@ Generated 2026-10-12 with ElevenLabs Flows, gemini-3-pro-image, references = mas
 Every image passed master-face QA and the hard rules: no Bible, podium, chairs, audience, stands, overhead light rigs, ghosts, or screen text; empty hands.
 4 navy shots are reused from the approved v4 short. Re-rolled: charcoal + denim `cam-medium` (framed too wide).
 Cost: 40 generations × ~$0.50 = ~$20.10.
+
+## LOCKED 2026-10-13
+Daily format locked by Aaron (v4 look, Wes bank, Oct 13 build as reference). No new dailies until Aaron says start publishing.
