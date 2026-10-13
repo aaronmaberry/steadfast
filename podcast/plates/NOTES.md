@@ -20,3 +20,11 @@ Masters: `optN-{idle,split,full}.jpg` = 1920x1080; `4k/optN-*-3840.jpg` = 3840x2
 - Socials (index.html footer): x.com, tiktok.com/@, youtube.com/@, instagram.com, facebook.com — all /steadfastwalk. No Reddit or LinkedIn found in repo.
 - Hashtag: **none found in repo — `#WalkSteadfast` is PROPOSED.**
 - Spend: $0 (all local).
+
+## Option 7 — Hybrid (Aaron's pick)
+- Idle: Option 1 Glass Bubbles, unchanged (bubbles + center plate).
+- Split: Option 1 bubbles (420x560) + board card, with no Subscribe button or logo on the board; Option 4-style bottom branded bar added.
+- Full: Option 4 full board + bottom bar. The bar's logo, quote, and web-address group is centered in the space left of the icons and Subscribe button.
+- Social icons are now official brand marks from Simple Icons (CC0, v13; SVGs in icons/), rendered white.
+- Hashtag #WalkSteadfast is still PROPOSED (not found in the repo).
+- Files: opt7-hybrid-{idle,split,full}.jpg (1080), 4k/opt7-hybrid-*-3840.jpg, opt7-hybrid-sheet.jpg; generator comp7.py.
