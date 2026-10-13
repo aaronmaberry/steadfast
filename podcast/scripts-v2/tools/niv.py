@@ -139,8 +139,10 @@ def get(ref, refresh=False):
         "verses": verses,
         "text": " ".join(v["text"] for v in verses),
     }
-    with open(path, "w", encoding="utf-8") as f:
+    tmp = f"{path}.{os.getpid()}.tmp"
+    with open(tmp, "w", encoding="utf-8") as f:
         json.dump(d, f, ensure_ascii=False, indent=1)
+    os.replace(tmp, path)
     return d
 
 

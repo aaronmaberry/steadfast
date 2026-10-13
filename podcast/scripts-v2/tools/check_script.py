@@ -44,7 +44,7 @@ BANNED_SPOKEN = [
     (r"\bmics?\b", "production talk"), (r"before we (started|recorded|went on|hit record|got going)", "off-air reference"),
     (r"after we (stopped|recorded|wrapped)", "off-air reference"), (r"\bwardrobe\b", "production talk"),
     (r"\bcameras?\b", "production talk"), (r"\bproducers?\b", "production talk"), (r"\bstudio\b", "production talk"),
-    (r"\bshow bible\b", "production talk"), (r"\bcanon\b", "production talk"),
+    (r"\bshow bible\b", "production talk"), (r"\bcanon\b", "production talk"), (r"\bAaron\b", "production talk"),
     (r"\bepisode (one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|\d+)\b", "episode-number callback"),
     (r"\b(last|previous|other|earlier) episode\b", "episode callback"), (r"\bback in episode\b", "episode callback"),
     (r"you know the story", "inside baseball"), (r"\bas you know\b", "inside baseball"),
