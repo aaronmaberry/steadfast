@@ -28,6 +28,115 @@
  },
  "plates": [
   {
+   "id": 72,
+   "file": "72-wes-three-quarter-palms.jpg",
+   "source_gen": "v1-lock",
+   "pose": "",
+   "framing": "medium",
+   "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
+   "status": "used",
+   "note": "",
+   "used_in": [
+    {
+     "session": "S01",
+     "segment": 3,
+     "t0": 43.3,
+     "t1": 71.5,
+     "use": "full",
+     "render": "heygen-avatar-iv low",
+     "proof": "s01-anim-proof-v5",
+     "render_id": "R3"
+    },
+    {
+     "session": "S01",
+     "segment": 9,
+     "t0": 107.0,
+     "t1": 125.1,
+     "use": "split-right",
+     "render": "heygen-avatar-iv low",
+     "proof": "s01-anim-proof-v5",
+     "render_id": "R5b"
+    }
+   ]
+  },
+  {
+   "id": 73,
+   "file": "73-wes-side-close.jpg",
+   "source_gen": "v1-lock",
+   "pose": "",
+   "framing": "medium",
+   "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
+   "status": "used",
+   "note": "",
+   "used_in": [
+    {
+     "session": "S01",
+     "segment": 11,
+     "t0": 125.1,
+     "t1": 156.0,
+     "use": "full",
+     "render": "heygen-avatar-iv low",
+     "proof": "s01-anim-proof-v5",
+     "render_id": "R6",
+     "post": "logo lock (HeyGen animated the rule)"
+    }
+   ]
+  },
+  {
+   "id": 80,
+   "file": "80-wes-work-room.jpg",
+   "source_gen": "v1-lock",
+   "pose": "",
+   "framing": "medium",
+   "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
+   "status": "used",
+   "note": "",
+   "used_in": [
+    {
+     "session": "S01",
+     "segment": 0,
+     "t0": 0,
+     "t1": 12.8,
+     "use": "full",
+     "render": "heygen-avatar-iv low",
+     "proof": "s01-anim-proof-v5",
+     "render_id": "R1"
+    },
+    {
+     "session": "S01",
+     "segment": 1,
+     "t0": 12.8,
+     "t1": 22.2,
+     "use": "full",
+     "render": "heygen-avatar-iv low",
+     "proof": "s01-anim-proof-v5",
+     "render_id": "R2b"
+    }
+   ]
+  },
+  {
+   "id": 81,
+   "file": "81-wes-close-smile.jpg",
+   "source_gen": "v1-lock",
+   "pose": "",
+   "framing": "medium",
+   "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
+   "status": "retired",
+   "note": "",
+   "used_in": [
+    {
+     "session": "S01",
+     "segment": null,
+     "t0": null,
+     "t1": null,
+     "use": "rejected: faced lens",
+     "render": "heygen-avatar-iv low",
+     "proof": "s01-anim-proof-v5",
+     "render_id": "R2,R5"
+    }
+   ]
+  },
+  {
    "id": 82,
    "file": "82-wes-wu-three-quarter-left.jpg",
    "source_gen": "A01",
@@ -211,9 +320,30 @@
    "pose": "mid-stride-right",
    "framing": "waist-up",
    "wardrobe_qa": "pass vs WARDROBE-LOCK.jpg",
-   "status": "available",
+   "status": "used",
    "note": "",
-   "used_in": []
+   "used_in": [
+    {
+     "session": "S01",
+     "segment": 7,
+     "t0": 83.9,
+     "t1": 107.0,
+     "use": "walk: matted onto locked plate 69",
+     "render": "heygen-avatar-iv low",
+     "proof": "s01-anim-proof-v5",
+     "render_id": "R4b"
+    },
+    {
+     "session": "S01",
+     "segment": 14,
+     "t0": 156.0,
+     "t1": 174.4,
+     "use": "full",
+     "render": "heygen-avatar-iv low",
+     "proof": "s01-anim-proof-v5",
+     "render_id": "R7b"
+    }
+   ]
   },
   {
    "id": 90,
