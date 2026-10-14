@@ -1,0 +1,171 @@
+{
+ "assign": {
+  "W2": "S3-medcloseup",
+  "W3": "S1-wide",
+  "W5": "S4-34left",
+  "W6": "S7-gesture",
+  "W8": "S6-walk",
+  "W9": "S5-34right",
+  "W11": "S3-medcloseup",
+  "W12m": "S1-wide",
+  "W14": "S4-34left",
+  "C1": "S5-34right",
+  "C2": "S7-gesture"
+ },
+ "videos": [
+  {
+   "type": "image",
+   "title": "v9 W2",
+   "resolution": "720p",
+   "aspect_ratio": "auto",
+   "fit": "cover",
+   "image": {
+    "type": "asset_id",
+    "asset_id": "6970460ee398459591d340a8cea061f4"
+   },
+   "audio_asset_id": "cf49642304a341b7944aede4876c34fe",
+   "expressiveness": "low",
+   "motion_prompt": "Locked-off camera, no zoom, framing held exactly, background perfectly still. Calm speaker addressing a live audience off-camera, talking slowly with a calm relaxed mouth. Natural slight torso sway, gentle breathing, small slow head turns. Face and hair stay natural and unchanged. Bare hands, no jewelry."
+  },
+  {
+   "type": "image",
+   "title": "v9 W3",
+   "resolution": "720p",
+   "aspect_ratio": "auto",
+   "fit": "cover",
+   "image": {
+    "type": "asset_id",
+    "asset_id": "14a1c83b31a54b1d9a290b1601ca9b55"
+   },
+   "audio_asset_id": "14736dfc805046bc836038ceb35f500e",
+   "expressiveness": "low",
+   "motion_prompt": "Locked-off camera, no zoom, framing held exactly, background perfectly still. Calm speaker addressing a live audience off-camera, talking slowly with a calm relaxed mouth. Natural slight torso sway, gentle breathing, small slow head turns. Face and hair stay natural and unchanged. Bare hands, no jewelry. Hands relaxed at his sides, occasional very small slow hand movement."
+  },
+  {
+   "type": "image",
+   "title": "v9 W5",
+   "resolution": "720p",
+   "aspect_ratio": "auto",
+   "fit": "cover",
+   "image": {
+    "type": "asset_id",
+    "asset_id": "58c14454727b4959aa19ec0c48d644da"
+   },
+   "audio_asset_id": "feb22e7c96ba4d618c95facc88b93476",
+   "expressiveness": "low",
+   "motion_prompt": "Locked-off camera, no zoom, framing held exactly, background perfectly still. Calm speaker addressing a live audience off-camera, talking slowly with a calm relaxed mouth. Natural slight torso sway, gentle breathing, small slow head turns. Face and hair stay natural and unchanged. Bare hands, no jewelry. Hands relaxed, occasional very small slow hand movement."
+  },
+  {
+   "type": "image",
+   "title": "v9 W6",
+   "resolution": "720p",
+   "aspect_ratio": "auto",
+   "fit": "cover",
+   "image": {
+    "type": "asset_id",
+    "asset_id": "40537d7a4ae740338062a3c8badc8edb"
+   },
+   "audio_asset_id": "3adc91b432fd4b52bf1a99db07865e10",
+   "expressiveness": "low",
+   "motion_prompt": "Locked-off camera, no zoom, framing held exactly, background perfectly still. Calm speaker addressing a live audience off-camera, talking slowly with a calm relaxed mouth. Natural slight torso sway, gentle breathing, small slow head turns. Face and hair stay natural and unchanged. Bare hands, no jewelry. Slow, subtle open-hand gestures at chest height, small and unhurried."
+  },
+  {
+   "type": "image",
+   "title": "v9 W8",
+   "resolution": "720p",
+   "aspect_ratio": "auto",
+   "fit": "cover",
+   "image": {
+    "type": "asset_id",
+    "asset_id": "521e0e176caa4b94b094cbc6684c8817"
+   },
+   "audio_asset_id": "8e7827b9edfd44d0be8d76cb503a6bdd",
+   "expressiveness": "low",
+   "motion_prompt": "Locked-off camera, no zoom, framing held exactly, background perfectly still. Calm speaker addressing a live audience off-camera, talking slowly with a calm relaxed mouth. Natural slight torso sway, gentle breathing, small slow head turns. Face and hair stay natural and unchanged. Bare hands, no jewelry. He walks slowly and steadily across the stage while talking, relaxed natural gait, arms swinging slightly."
+  },
+  {
+   "type": "image",
+   "title": "v9 W9",
+   "resolution": "720p",
+   "aspect_ratio": "auto",
+   "fit": "cover",
+   "image": {
+    "type": "asset_id",
+    "asset_id": "9336cf847d6a4ccea58e210128942953"
+   },
+   "audio_asset_id": "8dd9a93f84ce45adb759495e70313a95",
+   "expressiveness": "low",
+   "motion_prompt": "Locked-off camera, no zoom, framing held exactly, background perfectly still. Calm speaker addressing a live audience off-camera, talking slowly with a calm relaxed mouth. Natural slight torso sway, gentle breathing, small slow head turns. Face and hair stay natural and unchanged. Bare hands, no jewelry."
+  },
+  {
+   "type": "image",
+   "title": "v9 W11",
+   "resolution": "720p",
+   "aspect_ratio": "auto",
+   "fit": "cover",
+   "image": {
+    "type": "asset_id",
+    "asset_id": "6970460ee398459591d340a8cea061f4"
+   },
+   "audio_asset_id": "b7a66baf8f5b4bce8f01f250557f398f",
+   "expressiveness": "low",
+   "motion_prompt": "Locked-off camera, no zoom, framing held exactly, background perfectly still. Calm speaker addressing a live audience off-camera, talking slowly with a calm relaxed mouth. Natural slight torso sway, gentle breathing, small slow head turns. Face and hair stay natural and unchanged. Bare hands, no jewelry."
+  },
+  {
+   "type": "image",
+   "title": "v9 W12m",
+   "resolution": "720p",
+   "aspect_ratio": "auto",
+   "fit": "cover",
+   "image": {
+    "type": "asset_id",
+    "asset_id": "14a1c83b31a54b1d9a290b1601ca9b55"
+   },
+   "audio_asset_id": "9da8adaf1bbb42d2bce36be893bc8055",
+   "expressiveness": "low",
+   "motion_prompt": "Locked-off camera, no zoom, framing held exactly, background perfectly still. Calm speaker addressing a live audience off-camera, talking slowly with a calm relaxed mouth. Natural slight torso sway, gentle breathing, small slow head turns. Face and hair stay natural and unchanged. Bare hands, no jewelry. Hands relaxed at his sides, occasional very small slow hand movement."
+  },
+  {
+   "type": "image",
+   "title": "v9 W14",
+   "resolution": "720p",
+   "aspect_ratio": "auto",
+   "fit": "cover",
+   "image": {
+    "type": "asset_id",
+    "asset_id": "58c14454727b4959aa19ec0c48d644da"
+   },
+   "audio_asset_id": "cce24ee1ca9145fa82b9112434bff18d",
+   "expressiveness": "low",
+   "motion_prompt": "Locked-off camera, no zoom, framing held exactly, background perfectly still. Calm speaker addressing a live audience off-camera, talking slowly with a calm relaxed mouth. Natural slight torso sway, gentle breathing, small slow head turns. Face and hair stay natural and unchanged. Bare hands, no jewelry. Hands relaxed, occasional very small slow hand movement."
+  },
+  {
+   "type": "image",
+   "title": "v9 C1",
+   "resolution": "720p",
+   "aspect_ratio": "auto",
+   "fit": "cover",
+   "image": {
+    "type": "asset_id",
+    "asset_id": "9336cf847d6a4ccea58e210128942953"
+   },
+   "audio_asset_id": "b0fb33f022cc4581a942f263ffe477ff",
+   "expressiveness": "low",
+   "motion_prompt": "Locked-off camera, no zoom, framing held exactly, background perfectly still. Calm speaker addressing a live audience off-camera, talking slowly with a calm relaxed mouth. Natural slight torso sway, gentle breathing, small slow head turns. Face and hair stay natural and unchanged. Bare hands, no jewelry."
+  },
+  {
+   "type": "image",
+   "title": "v9 C2",
+   "resolution": "720p",
+   "aspect_ratio": "auto",
+   "fit": "cover",
+   "image": {
+    "type": "asset_id",
+    "asset_id": "40537d7a4ae740338062a3c8badc8edb"
+   },
+   "audio_asset_id": "a07bf4dbd240474ca3362dadc247ccfe",
+   "expressiveness": "low",
+   "motion_prompt": "Locked-off camera, no zoom, framing held exactly, background perfectly still. Calm speaker addressing a live audience off-camera, talking slowly with a calm relaxed mouth. Natural slight torso sway, gentle breathing, small slow head turns. Face and hair stay natural and unchanged. Bare hands, no jewelry. Slow, subtle open-hand gestures at chest height, small and unhurried."
+  }
+ ]
+}
