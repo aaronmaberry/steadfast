@@ -1,0 +1,18 @@
+{
+  "name": "steadfast-mobile",
+  "private": true,
+  "version": "0.0.1",
+  "workspaces": [
+    "app",
+    "packages/*"
+  ],
+  "scripts": {
+    "start": "npm run start --workspace=mobile",
+    "ios": "npm run ios --workspace=mobile",
+    "android": "npm run android --workspace=mobile",
+    "test": "node --test app/lib/purchasePolicy.test.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

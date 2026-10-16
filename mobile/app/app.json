@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Steadfast Men",
+    "slug": "steadfast-men",
+    "version": "0.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0B1F38"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.walksteadfast.app"
+    },
+    "android": {
+      "package": "com.walksteadfast.app",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#0B1F38"
+      }
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
