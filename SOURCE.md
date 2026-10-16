@@ -1,3 +1,5 @@
+> **SUPERSEDED 2026-10-16.** Social banners are now locked to banner 09 "The walk" (logo-fixed): `aaronmaberry/steadfast` → `brand/social-banners-LOCKED/` (see `LOCKED.md`; source `studio/podcast-show/branding/banner-09-final/logo-fix/`). Older banner/cover/header references below are historical. No changes without Aaron sign-off.
+
 # Steadfast source of truth
 
 One repo. One branch. Pull before you touch a photo or a line of copy.
@@ -11,7 +13,7 @@ Grok, Jarvis, the other bots, and Cursor all read and write this repo. Do not ke
 
 Before any Steadfast edit: git pull origin main.
 After any Steadfast edit: commit and git push origin main.
-Locked plates live in img/ and are also copied under steadfast-locked/ in the 2026-10-07 Drive backup. Do not revive the 2026-09-15 night-desk banner. The social banner is img/social-banner.jpg (father and son, WALK / STEADFAST, first A triangle, second A normal).
+Locked plates live in img/ and are also copied under steadfast-locked/ in the 2026-10-07 Drive backup. Do not revive the 2026-09-15 night-desk banner. [SUPERSEDED 2026-10-16 → brand/social-banners-LOCKED/] The social banner was img/social-banner.jpg (father and son, WALK / STEADFAST, first A triangle, second A normal).
 
 Backup folder on Drive: Steadfast backup 2026-10-07, under the Steadfast Men folder.
 
