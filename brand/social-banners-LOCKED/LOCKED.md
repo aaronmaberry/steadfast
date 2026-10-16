@@ -27,3 +27,4 @@ ad7abaca92616970daf74a582e969cdc  master-2560x1440.png
 ```
 
 SUPERSEDES: `img/social-banner.jpg`, the coffee-cup / book-mug-lamp full-bleed YouTube banners, and the pre-logo-fix banner-09 cuts.
+- reddit-banner-1920x384-web.jpg: Aaron-approved (2026-10-16) JPG of the locked Reddit banner, compressed only to fit Reddit's 500 KB limit.
