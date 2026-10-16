@@ -63,7 +63,7 @@
           <p class="price">$28</p>
           <p>Wool-blend dad hat. Embroidered foundry plate. Not a cheap foam trucker.</p>
           <div class="buy-row">
-            <a class="btn btn-ink" href="start.html?offer=hat">Purchase the hat</a>
+            <a class="btn btn-ink" href="#merch" data-merch="hat" data-variant="one-size">Purchase the hat</a>
           </div>
         </div>
       </article>
@@ -74,7 +74,8 @@
           <p class="price">$32</p>
           <p>Garment-dyed. Small STEADFAST on the chest. Washes like work clothes.</p>
           <div class="buy-row">
-            <a class="btn btn-ink" href="start.html?offer=shirt">Purchase the shirt</a>
+            <select class="merch-size" data-size-for="shirt" aria-label="Shirt size"><option>S</option><option selected>M</option><option>L</option><option>XL</option><option>2XL</option></select>
+            <a class="btn btn-ink" href="#merch" data-merch="shirt" data-variant="M">Purchase the shirt</a>
           </div>
         </div>
       </article>
@@ -85,7 +86,7 @@
           <p class="price">$18</p>
           <p>Charcoal ceramic. Holds the morning coffee next to the open Bible.</p>
           <div class="buy-row">
-            <a class="btn btn-ink" href="start.html?offer=mug">Purchase the mug</a>
+            <a class="btn btn-ink" href="#merch" data-merch="mug" data-variant="11oz">Purchase the mug</a>
           </div>
         </div>
       </article>
@@ -96,7 +97,7 @@
           <p class="price">$22</p>
           <p>Stationery for the daily walk. Lined. Brass pen. No glitter verse.</p>
           <div class="buy-row">
-            <a class="btn btn-ink" href="start.html?offer=journal">Purchase the journal</a>
+            <a class="btn btn-ink" href="#merch" data-merch="journal" data-variant="standard">Purchase the journal</a>
           </div>
         </div>
       </article>
@@ -166,5 +167,24 @@
     <div class="wrap tiny">© <span id="y">2026</span> Steadfast Men</div>
   </footer>
   <script src="site.js?v=236"></script>
+<script>
+(function () {
+  document.querySelectorAll("[data-merch]").forEach(function (btn) {
+    btn.addEventListener("click", function (e) {
+      e.preventDefault();
+      var sku = btn.getAttribute("data-merch");
+      var sel = document.querySelector('[data-size-for="' + sku + '"]');
+      var variant = sel ? sel.value : btn.getAttribute("data-variant");
+      var label = btn.textContent;
+      btn.setAttribute("aria-busy", "true");
+      fetch("/api/merch-checkout", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ sku: sku, variant: variant, qty: 1 }) })
+        .then(function (r) { return r.json(); })
+        .then(function (j) { if (j && j.url) { location.href = j.url; } else { btn.textContent = "Merch checkout opens soon"; setTimeout(function () { btn.textContent = label; }, 2500); } })
+        .catch(function () { btn.textContent = label; })
+        .then(function () { btn.removeAttribute("aria-busy"); });
+    });
+  });
+})();
+</script>
 </body>
 </html>

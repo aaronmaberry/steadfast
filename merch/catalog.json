@@ -1,10 +1,75 @@
 {
-  "_note": "SKU -> Printful mapping. Fill printful_variant_id / sync_variant ids after Aaron creates the Printful 'Manual order / API' store. Prices locked to merch.html. Art: only locked files in img/ (no new logos).",
+  "_note": "SKU -> Printful mapping for store 18915785 (Steadfast Men). Sync products created 2026-10-16 as drafts (no orders). Prices locked to merch.html.",
   "currency": "usd",
   "items": {
-    "hat":     { "name": "Structured navy hat", "price_cents": 2800, "printful_product": "Yupoong 6245CM dad hat (embroidery)", "art": "img/logos/monogram-sm.jpg", "variants": { "one-size": { "printful_sync_variant_id": null } } },
-    "shirt":   { "name": "Heavy navy tee", "price_cents": 3200, "printful_product": "Comfort Colors 1717 garment-dyed tee (DTG, left chest)", "art": "img/wordmark.jpg", "variants": { "S": {"printful_sync_variant_id": null}, "M": {"printful_sync_variant_id": null}, "L": {"printful_sync_variant_id": null}, "XL": {"printful_sync_variant_id": null}, "2XL": {"printful_sync_variant_id": null} } },
-    "mug":     { "name": "Stoneware mug", "price_cents": 1800, "printful_product": "Black glossy mug 11oz", "art": "img/logo-lockup.jpg", "variants": { "11oz": { "printful_sync_variant_id": null } } },
-    "journal": { "name": "Linen journal + pen", "price_cents": 2200, "printful_product": "Hardcover bound notebook (no pen; POD cannot include brass pen - copy must change or item stays off POD)", "art": "img/logo-plate.jpg", "variants": { "standard": { "printful_sync_variant_id": null } } }
-  }
+    "hat": {
+      "name": "Structured navy hat",
+      "price_cents": 2800,
+      "printful_product": "Yupoong 6245CM Navy (catalog 206), flat embroidery, gold lockup, thread #A67843",
+      "art": "merch/print-files/lockup-gold-transparent.png",
+      "variants": {
+        "one-size": {
+          "printful_sync_variant_id": 5578112840,
+          "printful_variant_id": 7857
+        }
+      },
+      "printful_sync_product_id": 482281159
+    },
+    "shirt": {
+      "name": "Heavy navy tee",
+      "price_cents": 3200,
+      "printful_product": "Comfort Colors 1717 True Navy (catalog 586), DTG left chest, periwinkle lockup",
+      "art": "merch/print-files/lockup-periwinkle-transparent.png",
+      "variants": {
+        "S": {
+          "printful_sync_variant_id": 5578112831,
+          "printful_variant_id": 15181
+        },
+        "M": {
+          "printful_sync_variant_id": 5578112832,
+          "printful_variant_id": 15182
+        },
+        "L": {
+          "printful_sync_variant_id": 5578112833,
+          "printful_variant_id": 15183
+        },
+        "XL": {
+          "printful_sync_variant_id": 5578112834,
+          "printful_variant_id": 15184
+        },
+        "2XL": {
+          "printful_sync_variant_id": 5578112835,
+          "printful_variant_id": 15185
+        }
+      },
+      "printful_sync_product_id": 482281157
+    },
+    "mug": {
+      "name": "Stoneware mug",
+      "price_cents": 1800,
+      "printful_product": "Black Glossy Mug 11oz (catalog 300), locked plate",
+      "art": "merch/print-files/plate-full-rect.jpg",
+      "variants": {
+        "11oz": {
+          "printful_sync_variant_id": 5578112663,
+          "printful_variant_id": 9323
+        }
+      },
+      "printful_sync_product_id": 482281135
+    },
+    "journal": {
+      "name": "Linen journal + pen",
+      "price_cents": 2200,
+      "printful_product": "Hardcover Bound Notebook JournalBook Navy 5.5x8.5 (catalog 682), UV gold lockup; NO pen",
+      "art": "merch/print-files/lockup-gold-transparent.png",
+      "variants": {
+        "standard": {
+          "printful_sync_variant_id": 5578112836,
+          "printful_variant_id": 16955
+        }
+      },
+      "printful_sync_product_id": 482281158
+    }
+  },
+  "printful_store_id": 18915785
 }
