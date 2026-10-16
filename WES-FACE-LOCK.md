@@ -14,4 +14,4 @@ Negative: different man, younger, older, clean-shaven, long hair, glasses, smile
 
 ## HeyGen
 
-Photo avatar from LOCKED-wes-portrait.jpg only. Voice id krjoGt4x3CttlxSuoDYW (Wes Hart - Option D, eleven_v4; see training-locked/RULES.md). One still, one line. No walk-and-talk in the same shot. No mouth retry if the face melts. Cutaways carry the room. Jonathan never on the class tape.
+Photo avatar from LOCKED-wes-portrait.jpg only. Voice id krjoGt4x3CttlxSuoDYW (Wes Hart - Option D, eleven_v4; see training-locked/RULES.md). One still, one line. No walk-and-talk in the same shot. No mouth retry if the face melts. Cutaways carry the room. Jonathon never on the class tape.
