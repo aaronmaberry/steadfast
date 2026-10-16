@@ -9,8 +9,8 @@ Anyone picking this up (Grok, Jarvis, Cursor) follows this file. Do not invent a
 
 ## Who is on the tape
 
-- Class tape is Wes Hart only. Jonathan never appears on a lecture.
-- Public table show is separate: Wes and Jonathan at the locked oak table. Do not mix those frames into training.
+- Class tape is Wes Hart only. Jonathon never appears on a lecture.
+- Public table show is separate: Wes and Jonathon at the locked oak table. Do not mix those frames into training.
 - 24 weekly lectures. 30 minutes, cap 40.
 - Paid lectures stay unlisted on the paywall. Public YouTube is the table show, not the class tape.
 
