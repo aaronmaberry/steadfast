@@ -1,0 +1,10 @@
+{
+  "_note": "SKU -> Printful mapping. Fill printful_variant_id / sync_variant ids after Aaron creates the Printful 'Manual order / API' store. Prices locked to merch.html. Art: only locked files in img/ (no new logos).",
+  "currency": "usd",
+  "items": {
+    "hat":     { "name": "Structured navy hat", "price_cents": 2800, "printful_product": "Yupoong 6245CM dad hat (embroidery)", "art": "img/logos/monogram-sm.jpg", "variants": { "one-size": { "printful_sync_variant_id": null } } },
+    "shirt":   { "name": "Heavy navy tee", "price_cents": 3200, "printful_product": "Comfort Colors 1717 garment-dyed tee (DTG, left chest)", "art": "img/wordmark.jpg", "variants": { "S": {"printful_sync_variant_id": null}, "M": {"printful_sync_variant_id": null}, "L": {"printful_sync_variant_id": null}, "XL": {"printful_sync_variant_id": null}, "2XL": {"printful_sync_variant_id": null} } },
+    "mug":     { "name": "Stoneware mug", "price_cents": 1800, "printful_product": "Black glossy mug 11oz", "art": "img/logo-lockup.jpg", "variants": { "11oz": { "printful_sync_variant_id": null } } },
+    "journal": { "name": "Linen journal + pen", "price_cents": 2200, "printful_product": "Hardcover bound notebook (no pen; POD cannot include brass pen - copy must change or item stays off POD)", "art": "img/logo-plate.jpg", "variants": { "standard": { "printful_sync_variant_id": null } } }
+  }
+}
