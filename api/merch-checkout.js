@@ -3,7 +3,7 @@
 var catalog = require("../merch/catalog.json");
 
 var SHIP_COUNTRIES = ["US","CA","GB","IE","AU","NZ","DE","FR","NL","BE","AT","ES","IT","SE","DK","FI","NO","CH","PT","PL","JP","MX","BR"];
-// Flat rates mirroring Printful standard first-item rates (cents). Re-check printful.com/shipping before go-live.
+// Flat shipping approved by Aaron 2026-10-16: $5.95 US / $14.99 international (cents).
 var SHIP = [
   { label: "Standard (US)", cents: 595, min: 3, max: 8 },
   { label: "Standard (International)", cents: 1499, min: 5, max: 20 }
