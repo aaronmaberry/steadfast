@@ -73,8 +73,12 @@
       "label": "Daily"
     },
     {
-      "href": "/donate",
-      "label": "Donate"
+      "href": "/give?mode=monthly",
+      "label": "Back a man monthly"
+    },
+    {
+      "href": "/give?mode=once",
+      "label": "Give a one-time gift"
     },
     {
       "href": "/shop",
@@ -283,8 +287,12 @@
       "label": "Daily"
     },
     {
-      "href": "/donate",
-      "label": "Donate"
+      "href": "/give?mode=monthly",
+      "label": "Back a man monthly"
+    },
+    {
+      "href": "/give?mode=once",
+      "label": "Give a one-time gift"
     }
   ]
 }
