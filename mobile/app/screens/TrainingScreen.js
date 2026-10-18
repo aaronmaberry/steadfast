@@ -1,5 +1,7 @@
-import { ScrollView, StyleSheet, Text, View } from 'react-native';
+import { useState } from 'react';
+import { Modal, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
 import content from '@steadfast/content';
+import SessionDetail from './SessionDetail';
 
 const navy = '#0B1F38';
 const bone = '#E6DDCC';
@@ -8,22 +10,36 @@ const hair = '#484E46';
 export default function TrainingScreen() {
   const sessions = (content.sessions || []).slice(0, 3);
   const mobile = content.mobile || {};
+  const [open, setOpen] = useState(null);
   return (
-    <ScrollView style={styles.sheet} contentContainerStyle={styles.inner}>
-      <Text style={styles.kicker}>STEADFAST MEN</Text>
-      <Text style={styles.title}>Training</Text>
-      <Text style={styles.lede}>{mobile.trainingLede || 'Three sessions. Sit down.'}</Text>
-      {sessions.map((s) => (
-        <View key={s.num} style={styles.row}>
-          <Text style={styles.num}>{s.num}</Text>
-          <Text style={styles.session}>{s.title}</Text>
-        </View>
-      ))}
-    </ScrollView>
+    <View style={styles.fill}>
+      <ScrollView style={styles.sheet} contentContainerStyle={styles.inner}>
+        <Text style={styles.kicker}>STEADFAST MEN</Text>
+        <Text style={styles.title}>Training</Text>
+        <Text style={styles.lede}>{mobile.trainingLede || 'Three sessions. Sit down.'}</Text>
+        {sessions.map((s) => (
+          <Pressable
+            key={s.num}
+            testID={'session-' + s.num}
+            accessibilityRole="button"
+            accessibilityLabel={s.title}
+            onPress={function () { setOpen(s); }}
+            style={styles.row}
+          >
+            <Text style={styles.num}>{s.num}</Text>
+            <Text style={styles.session}>{s.title}</Text>
+          </Pressable>
+        ))}
+      </ScrollView>
+      <Modal visible={!!open} animationType="none" onRequestClose={function () { setOpen(null); }}>
+        {open ? <SessionDetail session={open} onClose={function () { setOpen(null); }} /> : null}
+      </Modal>
+    </View>
   );
 }
 
 const styles = StyleSheet.create({
+  fill: { flex: 1 },
   sheet: { flex: 1, backgroundColor: bone },
   inner: { paddingHorizontal: 20, paddingTop: 20, paddingBottom: 36 },
   kicker: {
