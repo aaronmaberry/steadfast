@@ -1,0 +1,27 @@
+== E022-field-notes-drift-check.md
+Spoken words: 1905 (about 12:42 at 150 wpm)
+WES: 18 lines, 1072 words (56%)
+JONATHON: 17 lines, 833 words (44%), 1 under 12 words (5.9%)
+Format: Field Notes (spoken-word window 1900-2400)
+  Jonathon short lines:
+    [10] Wednesday night he texted, "slipped. starting over." Forty minutes after.
+Hook before first sting: 33 words (about 13 s)
+Segments (start times at 150 wpm):
+  00:00  OPEN (word for word)  (127 words)
+  00:51  SEGMENT 1 · Check the box  (606 words)
+  04:53  SEGMENT 2 · From the table  (452 words)
+  07:54  SEGMENT 3 · The Word  (273 words)
+  09:43  SEGMENT 4 · Grayscale and the hallway  (382 words)
+  12:16  CLOSE (word for word)  (65 words)
+  12:42  END
+Board cues: 5
+  ok (idea) A polite excuse can hide a skipped chair.
+  ok (idea) Gray glass buys you one extra second.
+  ok (NIV exact) Matthew 6:21
+  ok (NIV exact) Proverbs 4:23
+  ok (idea) Send the ugly number. Do not subtract your way clean.
+  scripture quote ok (1 Corinthians 16:13): 'Be on your guard; stand firm in the faith; be courageous; be'
+Show notes: E022-show-notes.md
+  show notes ok checks done; 3 NIV quotes verified
+
+RESULT E022-field-notes-drift-check.md: PASS (0 fail, 0 warn)

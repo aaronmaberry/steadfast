@@ -1,0 +1,30 @@
+== E023-two-gardens.md
+Spoken words: 2802 (about 18:41 at 150 wpm)
+WES: 27 lines, 1472 words (53%)
+JONATHON: 26 lines, 1330 words (47%), 1 under 12 words (3.8%)
+Format: main (spoken-word window 2800-3200)
+  Jonathon short lines:
+    [3] And I'm Jonathon.
+Hook before first sting: 37 words (about 15 s)
+Segments (start times at 150 wpm):
+  00:00  OPEN (word for word)  (134 words)
+  00:54  SEGMENT 1 · The last out  (556 words)
+  04:36  SEGMENT 2 · The report that could wait  (563 words)
+  08:21  SEGMENT 3 · The Word  (300 words)
+  10:21  SEGMENT 4 · Pushback  (386 words)
+  12:56  SEGMENT 5 · What we're actually doing  (373 words)
+  15:25  SEGMENT 6 · This week's challenge  (427 words)
+  18:16  CLOSE (word for word)  (63 words)
+  18:41  END
+Board cues: 5
+  ok (idea) Public dirt is a better pulpit than the fence.
+  ok (idea) Useful paper can still be a tree to hide behind.
+  ok (NIV exact) Romans 5:8
+  ok (NIV exact) Isaiah 53:5
+  ok (idea) Meet the girl in the car. Do not hand her to Mom.
+  scripture quote ok (1 Corinthians 15:45): 'The first man Adam became a living being.'
+  scripture quote ok (1 Corinthians 15:45): 'the last Adam, a life-giving spirit.'
+Show notes: E023-show-notes.md
+  show notes ok checks done; 3 NIV quotes verified
+
+RESULT E023-two-gardens.md: PASS (0 fail, 0 warn)

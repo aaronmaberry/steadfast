@@ -23,7 +23,27 @@ E001 exception logged 2026-10-19 (Aaron): replace the earlier 40–45 min / 6,00
 | E005 | What a Steadfast Man Looks Like | 3,173 | 21:09 | 52 / 48 | PASS 0/0 |
 | E006 | Field Notes: Saying It Out Loud | 2,204 | 14:42 | 50 / 50 | PASS 0/0 |
 | E007 | Waiting Is Not Peace (locked pilot, copied word for word, no SLATE) | 3,138 | 20:55 | 52 / 48 | PASS 0/0 |
-| E008–E028 | in progress | — | — | — | pending |
+| E008 | Field Notes: The Thing on the Counter | 1,930 | 12:52 | 53 / 47 | PASS 0/0 |
+| E009 | The Weight With Your Name on It | 3,042 | 20:17 | 50 / 50 | PASS 0/0 |
+| E010 | Field Notes: Not Your Load | 1,900 | 12:40 | 55 / 45 | PASS 0/0 |
+| E011 | Somebody Has to Step Out Ahead | 2,800 | 18:40 | 56 / 44 | PASS 0/0 |
+| E012 | Field Notes: Valentine's, Ash Wednesday, and Going First | 1,900 | 12:40 | 58 / 42 | PASS 0/0 |
+| E013 | The Prize That's Gone by Thursday | 2,800 | 18:40 | 58 / 42 | PASS 0/0 |
+| E014 | Field Notes: What Stuck | 1,900 | 12:40 | 56 / 44 | PASS 0/0 |
+| E015 | The Part That's Mine | 2,908 | 19:23 | 59 / 41 | PASS 0/0 |
+| E016 | Field Notes: Inside Job | 1,913 | 12:45 | 52 / 48 | PASS 0/0 |
+| E017 | Skip the House, Run the Room | 2,908 | 19:23 | 50 / 50 | PASS 0/0 |
+| E018 | Field Notes: Which Shape Are You | 1,908 | 12:43 | 55 / 45 | PASS 0/0 |
+| E019 | What Your Anger Is Guarding | 2,819 | 18:48 | 59 / 41 | PASS 0/0 |
+| E020 | Field Notes: Cooling Off Without Checking Out | 1,908 | 12:43 | 58 / 42 | PASS 0/0 |
+| E021 | The Itch and the Drift | 2,800 | 18:40 | 55 / 45 | PASS 0/0 |
+| E022 | Field Notes: Drift Check | 1,905 | 12:42 | 56 / 44 | PASS 0/0 |
+| E023 | Two Gardens | 2,802 | 18:41 | 53 / 47 | PASS 0/0 |
+| E024 | Field Notes: Good Friday | 1,911 | 12:44 | 57 / 43 | PASS 0/0 |
+| E025 | The Father Who Stays | 2,826 | 18:50 | 58 / 42 | PASS 0/0 |
+| E026 | Field Notes: Easter Week Report | 1,952 | 13:01 | 57 / 43 | PASS 0/0 |
+| E027 | The Empty Chair at Your Table | 2,810 | 18:44 | 56 / 44 | PASS 0/0 |
+| E028 | Field Notes: The Chair Report | 2,097 | 13:59 | 54 / 46 | PASS 0/0 |
 | E029 | When Your Dad Is Still Alive | 2,910 | 19:24 | 52 / 48 | PASS 0/0 |
 | E030 | Field Notes: Calling Him Back | 1,906 | 12:42 | 53 / 47 | PASS 0/0 |
 | E031 | When Home Never Handed You Off | 2,805 | 18:42 | 54 / 46 | PASS 0/0 |
@@ -76,6 +96,8 @@ E001 exception logged 2026-10-19 (Aaron): replace the earlier 40–45 min / 6,00
 | E078 | Field Notes: Between Jobs | 1,911 | 12:44 | 55 / 45 | PASS 0/0 |
 | E079 | Grief at the Table | 2,862 | 19:05 | 57 / 43 | PASS 0/0 |
 | E080 | Field Notes: Grief Report | 1,950 | 13:00 | 55 / 45 | PASS 0/0 |
+
+**Tally:** 80 / 80 PASS (0 fail, 0 warn), re-checked 2026-10-19 with `check_script.py --quiet --all`.
 
 ## Continuity ledger (overrides + on-air facts)
 

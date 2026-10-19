@@ -1,0 +1,24 @@
+== E010-field-notes-not-your-load.md
+Spoken words: 1900 (about 12:40 at 150 wpm)
+WES: 25 lines, 1036 words (55%)
+JONATHON: 24 lines, 864 words (45%), 0 under 12 words (0.0%)
+Format: Field Notes (spoken-word window 1900-2400)
+Hook before first sting: 39 words (about 16 s)
+Segments (start times at 150 wpm):
+  00:00  OPEN (word for word)  (123 words)
+  00:49  SEGMENT 1 · Check the box  (499 words)
+  04:09  SEGMENT 2 · The kitchen table  (490 words)
+  07:25  SEGMENT 3 · The Word  (319 words)
+  09:32  SEGMENT 4 · The two-column list  (380 words)
+  12:04  CLOSE (word for word)  (89 words)
+  12:40  END
+Board cues: 4
+  ok (idea) Same clinic. Two tables. One counter.
+  ok (idea) Wrong pile up. Right pile down.
+  ok (NIV exact) Psalm 55:22
+  ok (idea) Write the owner. Then write the next inch.
+  scripture quote ok (1 Peter 5:7): 'Cast all your anxiety on him because he cares for you.'
+Show notes: E010-show-notes.md
+  show notes ok checks done; 2 NIV quotes verified
+
+RESULT E010-field-notes-not-your-load.md: PASS (0 fail, 0 warn)
