@@ -34,10 +34,10 @@ Christian men podcast, Field Notes, James 1:19, mentorship, Walk Steadfast
 |---|---|---|
 | 00:00 | Open | Open. |
 | 00:44 | No, thank you | No, thank you. |
-| 02:27 | The card and a rivet | The card and a rivet. |
-| 04:01 | The Word | The Word. |
-| 05:02 | From the table | From the table. |
-| 08:32 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
+| 02:37 | The card and a rivet | The card and a rivet. |
+| 04:14 | The Word | The Word. |
+| 05:11 | From the table | From the table. |
+| 08:40 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
 | 12:16 | Close | Close. |
 
 ---

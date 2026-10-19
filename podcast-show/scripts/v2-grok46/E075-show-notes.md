@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,819 spoken words, about 18:48). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (3,106 spoken words, about 20:42). Re-time them against the final edit before publishing.
 
 ---
 
@@ -34,32 +34,32 @@ Christian men podcast, aging, Proverbs 20:29, generations, Walk Steadfast
 | Time | Segment | Summary |
 |---|---|---|
 | 00:00 | Open | Open |
-| 00:51 | Three-eighths | Three-eighths |
-| 01:38 | When Theo's in school | When Theo's in school |
-| 02:33 | Hood and pot roast | Hood and pot roast |
-| 03:28 | The Word | The Word |
-| 04:40 | Challenge | Challenge |
-| 05:27 | More on the 1 | More on the 1 |
-| 06:14 | More on the 2 | More on the 2 |
-| 06:55 | More on the 3 | More on the 3 |
-| 07:29 | More on the 4 | More on the 4 |
-| 08:01 | More on the 5 | More on the 5 |
-| 08:30 | More on the 6 | More on the 6 |
-| 09:17 | More on the 7 | More on the 7 |
-| 09:59 | More on a 8 | More on a 8 |
-| 10:34 | More on a 9 | More on a 9 |
-| 11:08 | More on a 10 | More on a 10 |
-| 11:40 | More on a 11 | More on a 11 |
-| 12:29 | More on a 12 | More on a 12 |
-| 13:11 | More on a 13 | More on a 13 |
-| 13:47 | More on a 14 | More on a 14 |
-| 14:22 | More on when 15 | More on when 15 |
-| 14:53 | More on when 16 | More on when 16 |
-| 15:42 | More on when 17 | More on when 17 |
-| 16:25 | More on when 18 | More on when 18 |
-| 17:01 | More on when 19 | More on when 19 |
-| 17:34 | More on when 20 | More on when 20 |
-| 18:22 | Close | Close |
+| 00:50 | Three-eighths | Three-eighths |
+| 02:03 | When Theo's in school | When Theo's in school |
+| 03:06 | Hood and pot roast | Hood and pot roast |
+| 04:00 | The Word | The Word |
+| 05:11 | Challenge | Challenge |
+| 05:58 | More on the 1 | More on the 1 |
+| 06:50 | More on the 2 | More on the 2 |
+| 07:30 | More on the 3 | More on the 3 |
+| 08:11 | More on the 4 | More on the 4 |
+| 08:47 | More on the 5 | More on the 5 |
+| 09:25 | More on the 6 | More on the 6 |
+| 10:18 | More on the 7 | More on the 7 |
+| 10:58 | More on a 8 | More on a 8 |
+| 11:40 | More on a 9 | More on a 9 |
+| 12:12 | More on a 10 | More on a 10 |
+| 12:52 | More on a 11 | More on a 11 |
+| 13:48 | More on a 12 | More on a 12 |
+| 14:28 | More on a 13 | More on a 13 |
+| 15:10 | More on a 14 | More on a 14 |
+| 15:43 | More on when 15 | More on when 15 |
+| 16:24 | More on when 16 | More on when 16 |
+| 17:18 | More on when 17 | More on when 17 |
+| 18:00 | More on when 18 | More on when 18 |
+| 18:42 | More on when 19 | More on when 19 |
+| 19:14 | More on when 20 | More on when 20 |
+| 20:17 | Close | Close |
 
 ---
 

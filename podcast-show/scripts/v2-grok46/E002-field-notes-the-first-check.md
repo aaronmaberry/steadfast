@@ -34,7 +34,7 @@ WES: He said, "Are you dying?" And he wasn't kidding.
 
 WES: This is Walk Steadfast. I'm Wes Hart.
 
-JONATHON: And I'm Jonathon. Friday we check the box. We do not dress it up.
+JONATHON: And I'm Jonathon. Friday we check the box. We don't dress it up.
 
 WES: Tuesday we asked you for one meal with no phone, one question at the table, and one text to one man. If you tried it, or if you didn't, stay. Before we're done I'll tell you what my wife has been doing every Tuesday since August, and he will tell you what a seven-year-old said when he reached for the drawer.
 
@@ -46,7 +46,7 @@ JONATHON: And I'll tell you the night I offered to buy blackout curtains for a w
 
 WES: Let's take the next few minutes on what we actually did, because Friday is the receipt. You go second. I already told the funny part.
 
-JONATHON: You told the punch line. You did not tell the part that sat with you in the truck after.
+JONATHON: You told the punch line. You didn't tell the part that sat with you in the truck after.
 
 WES: So. The meal. Tuesday night I put the phone in the console before I walked in. I sat down at the table and I asked my wife the question. What's Tuesday like for you?
 
@@ -58,9 +58,9 @@ JONATHON: Every Tuesday? Because I thought that was a sometimes thing, the way y
 
 WES: Every Tuesday. Since August. Forty minutes each way. And after, my mother cries in the parking lot because her hip hurts and she doesn't want my wife to see.
 
-JONATHON: You didn't know the every-week part. You knew "sometimes," and "sometimes" is how a man stays comfortable.
+JONATHON: You didn't know the every-week part. Yeah, and— "sometimes" is how a man stays comfortable. You knew "sometimes."
 
-WES: I knew she took her sometimes. I did not know it was the standing plan. I did not know about the parking lot. I've been asking how her day was and hearing "fine" since August.
+WES: I knew she took her sometimes. I didn't know it was the standing plan. I didn't know about the parking lot. I've been asking how her day was and hearing "fine" since August.
 
 JONATHON: So did you listen, or did you start fixing it before she finished the sentence?
 
@@ -102,7 +102,7 @@ JONATHON: [quietly] Yeah. That's the part that isn't a punch line. That's the pa
 
 WES: Box checked on my side. Both boxes. Now you, and I want the first night, not the cleaned-up version.
 
-JONATHON: I did not check the box the first time, and I need that on the record before anybody thinks I walked in and got this right.
+JONATHON: I didn't check the box the first time, and I need that on the record before anybody thinks I walked in and got this right.
 
 WES: Good. Tell it.
 
@@ -118,7 +118,7 @@ JONATHON: I opened the drawer, and Ruby says, from the table, "Daddy, you said."
 
 WES: "Daddy, you said." That's the whole sermon.
 
-JONATHON: And it wasn't a customer. It was a dentist appointment reminder. So the box was not checked Tuesday.
+JONATHON: Yeah, and— I can still hear those three words. And it wasn't a customer. It was a dentist appointment reminder. So the box wasn't checked Tuesday.
 
 WES: So Thursday.
 
@@ -150,7 +150,7 @@ JONATHON: Twenty years. Twenty guys, and not one of them knew his wife was in th
 
 [BOARD: Second try still counts.]
 
-WES: Second try counts. Tuesday's challenge was not do it perfectly the first night. It was do it this week.
+WES: Second try counts. Tuesday's challenge wasn't do it perfectly the first night. It was do it this week.
 
 JONATHON: I'm going to need that in writing, because I will use the first miss as a reason to quit.
 
@@ -170,7 +170,7 @@ WES: Friday is just the receipt on the little thing. You don't get a new verse b
 
 JONATHON: That's annoying, and it's also the only reason I came back Thursday.
 
-WES: Look around your house this week. If the first try failed, that is not the end of the assignment. The little thing is still sitting there.
+WES: Look around your house this week. If the first try failed, that's not the end of the assignment. The little thing is still sitting there.
 
 ---
 
@@ -182,7 +182,7 @@ JONATHON: How do I start if I've never been the spiritual one? That was me. Dani
 
 WES: And you needed the tabs.
 
-JONATHON: I still use the tabs. I am not going to pretend I don't.
+JONATHON: I still use the tabs. I'm not going to pretend I don't.
 
 WES: Here's what I'd tell that man. You don't have to know a lot to start. You have to start. Nobody at your house is waiting for you to become a scholar. They're waiting for you to show up at it.
 
@@ -200,7 +200,7 @@ WES: She's a critic. She's also seven.
 
 JONATHON: Dani squeezed my hand under the table. She didn't say anything. She just squeezed. And I prayed the next night.
 
-WES: Your wife doesn't need you to be her pastor. Most wives I've sat with are not waiting for a sermon. They're waiting to not be the only one. Second piece: tell her. "I want to grow in this. I don't know how. Will you help me?"
+WES: Your wife doesn't need you to be her pastor. Most wives I've sat with aren't waiting for a sermon. They're waiting to not be the only one. Second piece: tell her. "I want to grow in this. I don't know how. Will you help me?"
 
 JONATHON: That one's hard, because it sounds like I'm admitting she's ahead of me, and I already know she is.
 

@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,805 spoken words, about 18:42). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,813 spoken words, about 18:45). Re-time them against the final edit before publishing.
 
 ---
 
@@ -38,13 +38,13 @@ Christian men podcast, leaving home, Luke 2:49, adult son and mother, enmeshment
 | Time | Segment | Summary |
 |---|---|---|
 | 00:00 | Open | The Buick. "Don't come home every weekend." The capacitor. |
-| 01:10 | The driveway and the tie | Laundry. Man of the house. "Not bad, kid." |
-| 03:57 | The capacitor | FaceTime from the dugout. Sunday call. Ruby wants to fish. |
-| 07:24 | The Word | Luke 2:49. Clear, not cruel. |
-| 09:49 | Pushback | Widows, the ten-minute house, laundry, the barn. |
-| 13:12 | The bravest thing | The truck. A goat at the Rodeo. A Saturday at the tank. |
-| 16:02 | This week's challenge | Hand one job back. Tell your wife. Say the sentence to your son. |
-| 18:04 | Close | Useful is not a handoff. |
+| 01:09 | The driveway and the tie | Laundry. Man of the house. "Not bad, kid." |
+| 04:20 | The capacitor | FaceTime from the dugout. Sunday call. Ruby wants to fish. |
+| 07:54 | The Word | Luke 2:49. Clear, not cruel. |
+| 10:13 | Pushback | Widows, the ten-minute house, laundry, the barn. |
+| 13:29 | The bravest thing | The truck. A goat at the Rodeo. A Saturday at the tank. |
+| 16:10 | This week's challenge | Hand one job back. Tell your wife. Say the sentence to your son. |
+| 18:07 | Close | Useful is not a handoff. |
 
 ---
 

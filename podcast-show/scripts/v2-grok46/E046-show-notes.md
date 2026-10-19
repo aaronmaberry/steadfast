@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (1,956 spoken words, about 13:02). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,131 spoken words, about 14:12). Re-time them against the final edit before publishing.
 
 ---
 
@@ -33,12 +33,12 @@ Christian men podcast, Field Notes, Proverbs 22:6, daughters, Walk Steadfast
 | Time | Segment | Summary |
 |---|---|---|
 | 00:00 | Open | Open. |
-| 00:43 | The stock tank | The stock tank. |
-| 02:16 | A couch and a ponytail | A couch and a ponytail. |
-| 04:11 | The Word | The Word. |
-| 05:06 | The drive-through date | The drive-through date. |
-| 08:32 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
-| 12:40 | Close | Close. |
+| 00:42 | The stock tank | The stock tank. |
+| 02:12 | A couch and a ponytail | A couch and a ponytail. |
+| 04:03 | The Word | The Word. |
+| 04:56 | The drive-through date | The drive-through date. |
+| 08:08 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
+| 13:51 | Close | Close. |
 
 ---
 

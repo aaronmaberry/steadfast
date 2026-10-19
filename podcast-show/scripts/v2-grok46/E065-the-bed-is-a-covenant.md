@@ -5,9 +5,9 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,841 (about 18:56 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,815 (about 18:46 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 48 lines (52% of words). JONATHON 47 lines (48% of words), 2 under 12 words (4.3%) |
+| Line balance | WES 49 lines (52% of words). JONATHON 48 lines (48% of words), 2 under 12 words (4.2%) |
 | Focus mark | Pick Up the Weight |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Hebrews 13:4. Board only: 1 Corinthians 6:18 |
 | Board cues | 4 |
@@ -56,7 +56,7 @@ JONATHON: It lasted till about May and then it came back to the nightstand by su
 
 WES: Install the friction before you need a feeling. Feelings will vote the phone back.
 
-JONATHON: On her shift nights I had kept a grudge against the schedule. The grudge wanted a screen. I'm saying that because the bed is not only about pictures. It's about what you do with loneliness when she is gone.
+JONATHON: On her shift nights I had kept a grudge against the schedule. The grudge wanted a screen. I'm saying that because the bed isn't only about pictures. It's about what you do with loneliness when she's gone.
 
 ---
 
@@ -64,11 +64,15 @@ JONATHON: On her shift nights I had kept a grudge against the schedule. The grud
 
 WES: My dad and Mr. Kubecka shared about a mile of barbed wire and cedar posts for forty years. No paper. Whoever saw the post down fixed it. I asked at about ten whose fence it was. He said, "It's the fence."
 
-JONATHON: That's a covenant without a contract. I want a contract so I can find the loophole. A fence does not have a loophole. A post is down or it isn't.
+JONATHON: That's a covenant without a contract. I want a contract so I can find the loophole.
 
-WES: The bed is the fence. You don't ask whose night it is. You see the post down and you fix it. A phone on a chest is a post down. A grudge in the dark is a post down.
+WES: [laughs] Of course you do. Sales guy. Find the loophole.
 
-JONATHON: I have left posts down and called it being tired. Tired is real. Tired is also how posts stay down until a four-year-old names the ranch.
+JONATHON: A fence does not have a loophole. A post is down or it isn't.
+
+WES: The bed is the fence. You don't ask whose night you're on. You see the post down and you fix it. A phone on a chest is a post down. A grudge in the dark is a post down.
+
+JONATHON: I've left posts down and called it being tired. Tired is real. Tired is also how posts stay down until a four-year-old names the ranch.
 
 WES: I was thirty-four. Late texts with a married coworker on a big project. Nothing happened. My chest jumped at a buzz. I told my wife the same night while she did the lunches. She said, "Are you telling me so I'll make you stop?" I said, "No. I'm telling you because it's your marriage too."
 
@@ -78,17 +82,17 @@ JONATHON: That's Go First with sweat on it. Most of us wait until there's a scen
 
 ## SEGMENT 3 · The older man
 
-WES: I told the older man I had breakfast with then. Not Mr. Abernathy. He asked weekly for about a year. I asked off the project. I missed a promotion. She didn't fully trust me for a while. Now at church she will say, "You remember," and it is not a weapon. It is a fence we both can see.
+WES: I told the older man I had breakfast with then. Not Mr. Abernathy. He asked weekly for about a year. I asked off the project. I missed a promotion. She didn't fully trust me for a while. Now at church she will say, "You remember," and it isn't a weapon. It's a fence we both can see.
 
 JONATHON: I want a story that ends with a promotion. This one ends with a smaller desk and a woman who can sleep. That's a better ending.
 
-WES: About eight or nine years back her body had hard years. No sleep. Hot nights. I asked once how I did. She said, "You were fine." Fine is not a compliment in that sentence. I'm asking again.
+WES: About eight or nine years back her body had hard years. No sleep. Hot nights. I asked once how I did. She said, "You were fine." Fine isn't a compliment in that sentence. I'm asking again.
 
-JONATHON: Stable does not mean good. I have never asked about the year after Theo. I asked how the baby was. I asked if she was sleeping. I did not ask how she was. That's a post I left in the grass.
+JONATHON: Stable does not mean good. I've never asked about the year after Theo. I asked how the baby was. I asked if she was sleeping. I didn't ask how she was. That's a post I left in the grass.
 
 [BOARD: Fine can mean you never asked the real one.]
 
-WES: Seven years ago when you told me your history I asked, "What do you want me to ask you, and how often?" That question still works. It is not cute. It is a fence post.
+WES: Seven years ago when you told me your history I asked, "What do you want me to ask you, and how often?" That question still works. It isn't cute. It's a fence post.
 
 JONATHON: I want you to ask Friday whether the phone stayed in the truck, and whether I told everything. Not whether I felt strong. Strong is a speech.
 
@@ -102,15 +106,15 @@ JONATHON: "Marriage should be honored by all, and the marriage bed kept pure, fo
 
 [BOARD: Nostalgia is not the same as honor.]
 
-WES: Honored by all. Not honored by the people who already like rules. All. The bed is not a private hobby. It is a public honor you keep in the dark. Pure is not a mood. Pure is a phone in a truck and a mouth that tells the truth the same night.
+WES: Honored by all. Not honored by the people who already like rules. All. The bed isn't a private hobby. It's a public honor you keep in the dark. Pure isn't a mood. Pure is a phone in a truck and a mouth that tells the truth the same night.
 
-JONATHON: "Kept pure" includes what you bring into the room in your pocket. I started at nineteen with a phone in a bed. I am thirty-seven. The furniture changed. The invitation is the same if I let it be.
+JONATHON: "Kept pure" includes what you bring into the room in your pocket. I started at nineteen with a phone in a bed. I'm thirty-seven. The furniture changed. The invitation is the same if I let it be.
 
-WES: Context in two sentences. Hebrews is telling a church how to live while they wait. Honor is not a feeling you wait to have. Honor is a charger you move while the pancakes are still on the table.
+WES: Context in two sentences. Hebrews is telling a church how to live while they wait. Honor isn't a feeling you wait to have. Honor is a charger you move while the pancakes are still on the table.
 
 [BOARD: 1 Corinthians 6:18 (NIV) · "Flee from sexual immorality. All other sins a person commits are outside the body, but whoever sins sexually, sins against their own body."]
 
-JONATHON: Flee is a verb with legs. I have tried to flee in my mind while my hand stayed on a screen. That is not fleeing. That is negotiating.
+JONATHON: Flee is a verb with legs. I've tried to flee in my mind while my hand stayed on a screen. That isn't fleeing. That's negotiating.
 
 ---
 
@@ -136,9 +140,9 @@ JONATHON: Phone in the truck every night. Wes asks Friday, and asks if I told ev
 
 ## SEGMENT 6 · The challenge
 
-WES: This week's challenge. Put the phone out of the room you sleep in. Go to bed when she goes, or name the reason out loud if you can't. Tell one man the truth about the bed this week, at the level he is allowed to hold.
+WES: This week's challenge. Put the phone out of the room you sleep in. Go to bed when she goes, or name the reason out loud if you can't. Tell one man the truth about the bed this week, at the level he's allowed to hold.
 
-JONATHON: If you're dating, put the phone out and don't pretend a screen makes you safe. If you're single, the bed you have is still a place you honor. Flee is not only for husbands. If you're divorced, honor the bed you don't share by not making a screen the new wife.
+JONATHON: If you're dating, put the phone out and don't pretend a screen makes you safe. If you're single, the bed you have is still a place you honor. Flee isn't only for husbands. If you're divorced, honor the bed you don't share by not making a screen the new wife.
 
 WES: Look around your house this week. The post is probably already down. Fix it before a four-year-old names the ranch.
 
@@ -150,11 +154,11 @@ JONATHON: And if you fail and the charger creeps back, move it again. Don't writ
 
 WES: Friction only works if it costs you. A charger in the kitchen is a suggestion. A charger in a truck in a garage is a fence. You will feel silly in socks on concrete. Silly is how posts get reset.
 
-JONATHON: I wanted a basket by the bed that felt adult. Adult was a loophole. Concrete is not a loophole. If I stand there I have to decide. That's the kindness.
+JONATHON: I wanted a basket by the bed that felt adult. Adult was a loophole. Concrete isn't a loophole. If I stand there I've got to decide. That's the kindness.
 
-WES: I have used adult as a loophole my whole life. A nicer system. A prettier box. The pretty box comes back to the nightstand. The truck does not.
+WES: I've used adult as a loophole my whole life. A nicer system. A prettier box. The pretty box comes back to the nightstand. The truck does not.
 
-JONATHON: Dani's drawer is her fence. I don't police the drawer. I police my feet. If I start managing her phone I have left the fence and become a clerk.
+JONATHON: Dani's drawer is her fence. I don't police the drawer. I police my feet. If I start managing her phone I've left the fence and become a clerk.
 
 WES: Stay on your own post. Ask her what she wants you to ask, and how often. Then do that, not a surveillance plan.
 
@@ -166,9 +170,9 @@ JONATHON: What do you want me to ask you, and how often. I'm going to ask her th
 
 WES: I want the buzz on the table, because men wait for a scene. A scene is late. A buzz in the chest is on time. If your chest jumps at a name, that's a post down. Tell her the same night. Tell a man the same week.
 
-JONATHON: I have waited for a scene so I could feel justified. Justification is a speech. A buzz is a mercy if you use your mouth.
+JONATHON: I've waited for a scene so I could feel justified. Justification is a speech. A buzz is a mercy if you use your mouth.
 
-WES: I missed a promotion. I would trade that promotion again. A smaller desk is a cheap fence compared to a woman who cannot sleep.
+WES: I missed a promotion. I would trade that promotion again. A smaller desk is a cheap fence compared to a woman who can't sleep.
 
 JONATHON: I want the ending where nobody pays. Somebody always pays. Better a desk than a bed that isn't a bed.
 
@@ -182,7 +186,7 @@ JONATHON: And if the answer is a name, don't negotiate in your head. Use your mo
 
 WES: I'm asking her again about those hot nights. Not, was I fine. How were you. What did you need that I didn't ask. I may not like the answer. That's not a reason to skip it.
 
-JONATHON: I'm asking the year after Theo. I already know I asked the wrong well. I still have to drop the bucket. If she says I never asked how she was, I will not defend the baby questions. I will write it down.
+JONATHON: I'm asking the year after Theo. I already know I asked the wrong well. I still have to drop the bucket. If she says I never asked how she was, I won't defend the baby questions. I will write it down.
 
 WES: Write it down in front of her if you have to. I'm writing this so I don't lose it. That's insight. That's not a quiz.
 
@@ -202,11 +206,11 @@ JONATHON: I use a laptop at the table and call it work. Then I bring the work to
 
 WES: We're about halfway through the thing I actually have to do, and I want you to hear this if you think honor is only about pictures. Honor is presence. A boy named the absence. Believe the boy.
 
-JONATHON: I believed him. I moved a charger. I will move it again when it creeps. Creeping is not failure if you reset the post the same day.
+JONATHON: I believed him. I moved a charger. I will move it again when it creeps. Creeping isn't failure if you reset the post the same day.
 
 WES: Reset the post the same day. Don't wait for Saturday pancakes and a sermon from a four-year-old.
 
-JONATHON: If I wait for Theo to preach, I have made my son the elder of my bed. That's too much weight for a boy. I'll be the man.
+JONATHON: If I wait for Theo to preach, I've made my son the elder of my bed. That's too much weight for a boy. I'll be the man.
 
 ---
 
@@ -218,7 +222,7 @@ JONATHON: Ruby has been taught her body belongs to her, no secrets about her bod
 
 WES: If your boy finds something on a screen, thank him and sit down. I got loud with my oldest at about ten. He didn't bring me anything for years. Loud is how you shut a well.
 
-JONATHON: I want to be the man a boy can wake at six and tell. If I'm on a phone, I have already said I'm busy. That's the sermon whether I mean it or not.
+JONATHON: I want to be the man a boy can wake at six and tell. If I'm on a phone, I've already said I'm busy. That's the sermon whether I mean it or not.
 
 WES: I've got one more minute. Phone out. Bed when she goes. One man who can ask you Friday. That's the fence. That's all I've got.
 
@@ -232,9 +236,9 @@ WES: Stay on the same night. I could have waited a week and called it wisdom. Wi
 
 JONATHON: I delay so I can write a better sentence. Better sentences are how posts stay down. Same night is an ugly sentence and a clean fence.
 
-WES: She asked if I was telling her so she'd make me stop. That's a real question. If you are dumping so she becomes the cop, you have not honored the bed. You have hired her.
+WES: She asked if I was telling her so she'd make me stop. That's a real question. If you're dumping so she becomes the cop, you have not honored the bed. You have hired her.
 
-JONATHON: I have hired Dani as a cop. Then I resented the badge. I'm trying to tell the truth because it's ours, not because I want a warden.
+JONATHON: I've hired Dani as a cop. Then I resented the badge. I'm trying to tell the truth because it's ours, not because I want a warden.
 
 WES: Tell it because it's hers too. Then call the man. Then ask off the project if that's the post. I missed a promotion. I sleep. That's the trade I will take again.
 
@@ -244,13 +248,13 @@ JONATHON: I'll take sleep. I'll take a smaller desk. I'll take a truck charger t
 
 ## SEGMENT 13 · Youth and a fountain
 
-WES: Proverbs says rejoice in the wife of your youth. I have used youth as a museum. I remember her at twenty-four and I stop studying the woman in the other chair. Rejoice is a present tense. The bed is how you keep studying.
+WES: Proverbs says rejoice in the wife of your youth. I've used youth as a museum. I remember her at twenty-four and I stop studying the woman in the other chair. Rejoice is a present tense. The bed is how you keep studying.
 
 JONATHON: I remember Dani at twenty-seven and I skip the woman who sings in a parking lot. That's not honor. That's nostalgia with a ring.
 
-WES: We're about halfway through the thing I actually have to do, and I want you to hear this if your bed has gone quiet. Quiet is not a reason to pick up a screen. Quiet is a reason to ask how she is, not how the baby was.
+WES: We're about halfway through the thing I actually have to do, and I want you to hear this if your bed has gone quiet. Quiet isn't a reason to pick up a screen. Quiet is a reason to ask how she's, not how the baby was.
 
-JONATHON: How are you. Two words I skipped for a year. I'm asking them this week. If she says better than then, I will not rush in with a plan. I will write it down.
+JONATHON: How are you. Two words I skipped for a year. I'm asking them this week. If she says better than then, I won't rush in with a plan. I will write it down.
 
 WES: Write it. Sit with it. Go to bed when she goes. If a game is on, the game will be there tomorrow. She will also be there tomorrow if you keep picking the game.
 
@@ -270,7 +274,7 @@ JONATHON: Friday you ask me whether I told everything. That's the software I act
 
 WES: I've got one more minute. Phone out. Same-night mouth. One man. A boy who does not have to preach. That's the covenant in a house.
 
-JONATHON: And if you are single, flee still has legs. Don't wait for a wedding to learn how to leave a room. Leaving a room is a skill. I learned it late. You can learn it Tuesday.
+JONATHON: And if you're single, flee still has legs. Don't wait for a wedding to learn how to leave a room. Leaving a room is a skill. I learned it late. You can learn it Tuesday.
 
 ---
 

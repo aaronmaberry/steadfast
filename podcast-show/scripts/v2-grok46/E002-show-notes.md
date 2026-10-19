@@ -40,9 +40,9 @@ Christian men podcast, Field Notes, Walk Steadfast, phone basket, Luke 16:10, fa
 |---|---|---|
 | 00:00 | Open | Wes texted his oldest. The boy said, "Are you dying?" Friday is the check. |
 | 00:54 | Check the box | PT every Tuesday since August. The parking lot. The son's call. The quiet guy at lunch. |
-| 05:00 | The second try | Ruby: "Daddy, you said." Blackout curtains. The contractor's wife. Second try counts. |
-| 08:04 | The Word | Luke 16:10. The meal and the text are the little thing. |
-| 09:04 | From the table | How do I start if I've never been the spiritual one? Eleven words. Mark at lunch. |
+| 04:59 | The second try | Ruby: "Daddy, you said." Blackout curtains. The contractor's wife. Second try counts. |
+| 08:05 | The Word | Luke 16:10. The meal and the text are the little thing. |
+| 09:05 | From the table | How do I start if I've never been the spiritual one? Eleven words. Mark at lunch. |
 | 12:32 | The phone basket | By the door. Yours first. A cord in the basket. The number that may ring. |
 | 14:08 | Close | Second try counts. Ask about her Tuesday. Tuesday is the sentence. |
 

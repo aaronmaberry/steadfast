@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (1,925 spoken words, about 12:50). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (1,901 spoken words, about 12:40). Re-time them against the final edit before publishing.
 
 ---
 
@@ -40,10 +40,10 @@ Christian men podcast, Field Notes, Walk Steadfast, Luke 16:10, season review, w
 |---|---|---|
 | 00:00 | Open | Out. Not a boat. The hidden thing stays hidden. |
 | 01:14 | The hidden thing and the will | Tacos in the truck. The nephew's text. |
-| 04:36 | What stuck | Phone jail. PT. The clicking fan. K is not an answer. |
-| 07:18 | The Word | Luke 16:10. The little thing is still the test. |
-| 09:08 | One thing to keep | The table. The fan date. The Thursday text. |
-| 12:22 | Close | Keep one little thing. Write a sentence. |
+| 04:38 | What stuck | Phone jail. PT. The clicking fan. K is not an answer. |
+| 07:19 | The Word | Luke 16:10. The little thing is still the test. |
+| 09:06 | One thing to keep | The table. The fan date. The Thursday text. |
+| 12:13 | Close | Keep one little thing. Write a sentence. |
 
 ---
 

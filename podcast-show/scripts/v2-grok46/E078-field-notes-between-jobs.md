@@ -5,9 +5,9 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 1,911 (about 12:44 at 150 wpm, before laughs and pauses) |
+| Spoken words | 1,991 (about 13:16 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 27 lines (55% of words). JONATHON 24 lines (45% of words), 2 under 12 words (8.3%) |
+| Line balance | WES 39 lines (52% of words). JONATHON 36 lines (48% of words), 2 under 12 words (5.6%) |
 | Focus mark | Stop Waiting |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Matthew 6:33. Board only: Matthew 6:34; Philippians 4:6 |
 | Board cues | 3 |
@@ -34,9 +34,9 @@ WES: Forty minutes at the kitchen table. What to cut. Who to call. How long.
 
 WES: This is Walk Steadfast. I'm Wes Hart.
 
-JONATHON: And I'm Jonathon. Friday we check the box. We do not dress it up.
+JONATHON: And I'm Jonathon. Friday we check the box. We don't dress it up.
 
-WES: Tuesday we asked you for three I am sentences and one call that is not any luck. If you tried it, stay. Before we're done I'll tell you about tomatoes, and he will tell you about a 31-year-old who made a list on a couch after the baby went down.
+WES: Tuesday we asked you for three I'm sentences and one call that isn't any luck. If you tried it, stay. Before we're done I'll tell you about tomatoes, and he will tell you about a 31-year-old who made a list on a couch after the baby went down.
 
 JONATHON: And I'll tell you the sticky note I had to cross a title off of.
 
@@ -44,9 +44,9 @@ JONATHON: And I'll tell you the sticky note I had to cross a title off of.
 
 ## SEGMENT 1 · The table
 
-WES: Let's take the next few minutes on a Sunday kitchen, because Friday is the receipt. Forty minutes. She had a plan since 2019. I had never asked. My three took three nights. I am her husband. I am a man who keeps his word, most of the time. I am my kids' dad, and my mother's son. Hers: you forgot one. Stubborn. That one's going to get you through October.
+WES: Let's take the next few minutes on a Sunday kitchen, because Friday is the receipt. Forty minutes. She had a plan since 2019. I had never asked. My three took three nights. I'm her husband. I'm a man who keeps his word, most of the time. I'm my kids' dad, and my mother's son. Hers: you forgot one. Stubborn. That one's going to get you through October.
 
-JONATHON: Stubborn as a gift. I would have heard it as a joke. She meant a keel.
+JONATHON: I would have heard it as a joke. She meant a keel.
 
 [BOARD: Six years is a long time to guess.]
 
@@ -74,7 +74,7 @@ JONATHON: "But seek first his kingdom and his righteousness, and all these thing
 
 [BOARD: Matthew 6:34 (NIV) · "Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own."]
 
-WES: First. Not after the badge. Kingdom first is a kitchen table and a library morning and tomatoes. These things are bread. They follow. They are not the name.
+WES: First. Not after the badge. Kingdom first is a kitchen table and a library morning and tomatoes. These things are bread. They follow. They aren't the name.
 
 JONATHON: I wrote regional manager and crossed it out. I'm Dani's husband. I'm Ruby and Theo's dad. I'm a man God went looking for at twenty-nine. At nine I saw my mom crying over bills. I carried we don't have enough for years. A sticky note is how I put that down.
 
@@ -84,9 +84,9 @@ WES: Context in two sentences. Jesus is talking to people who worry about food a
 
 ## SEGMENT 4 · What we're carrying
 
-WES: Last few minutes. Read the three out loud to someone who loves you. Call a man and ask how he is. If you still have the job, ask your wife the plan she has been carrying. I waited six years too long.
+WES: Last few minutes. Read the three out loud to someone who loves you. Call a man and ask how he's. If you still have the job, ask your wife the plan she has been carrying. I waited six years too long.
 
-JONATHON: I'll buy the lunch. I will not ask any luck. If I slip I will come back and ask about tomatoes, or Monday, or the thirteen-year-old.
+JONATHON: I won't ask any luck. If I slip I will come back and ask about tomatoes, or Monday, or the thirteen-year-old.
 
 [BOARD: Philippians 4:6 (NIV) · "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God."]
 
@@ -98,108 +98,168 @@ JONATHON: And if a boy asks why you aren't at work, tell a true small sentence. 
 
 ## SEGMENT 5 · More on a 1
 
-WES: Stay on a 2019 plan a minute, because a man will hear the verse and look for a war. The war is a 2019 plan. I have walked past a 2019 plan so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up a 2019 plan before you write a speech about it.
+WES: Stay on a 2019 plan a minute, because a man will hear the verse and look for a war. The war is a 2019 plan.
 
 JONATHON: I'll be real with you. I can talk about a 2019 plan for twenty minutes and still skip tomatoes not luck tonight, which is why I need a man who will ask me tomorrow whether I did tomatoes not luck. If I fail I will say I failed, not that the week got loud.
+
+WES: I've walked past a 2019 plan so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up a 2019 plan before you write a speech about it.
+
+JONATHON: Yeah — I'll do the next small thing, and I'll tell the truth about it Friday.
+
 
 ---
 
 ## SEGMENT 6 · More on a 2
 
-WES: I keep a picture of a 2019 plan in my head when I want to quit. Not a stage. a 2019 plan. If I need a prettier assignment than a 2019 plan, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like a 2019 plan, then tell one man.
+WES: I keep a picture of a 2019 plan in my head when I want to quit. Not a stage. a 2019 plan.
 
-JONATHON: I want credit for a 2019 plan and I want privacy for a gas-station bin. That's the paycheck again. I'm doing a gas-station bin without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
+JONATHON: I want credit for a 2019 plan and I want privacy for a gas-station bin.
+
+WES: If I need a prettier assignment than a 2019 plan, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like a 2019 plan, then tell one man.
+
+JONATHON: I'm doing a gas-station bin without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
+
 
 ---
 
 ## SEGMENT 7 · More on a 3
 
-WES: I almost turned a 2019 plan into a testimony before the week was over. That's how I steal a gift. I'm leaving a 2019 plan unnamed in the report so I don't get paid twice. Coming back to a 2019 plan counts. Narrating a 2019 plan does not.
+WES: I almost turned a 2019 plan into a testimony before the week was over. That's how I steal a gift.
 
-JONATHON: I keep trying to upgrade a 2019 plan into a program. She did not ask for a program. She asked for library by seven. I'm retiring the program and keeping library by seven, even if library by seven makes me feel small.
+JONATHON: I keep trying to upgrade a 2019 plan into a program. She didn't ask for a program. She asked for library by seven. I'm retiring the program and keeping library by seven, even if library by seven makes me feel small.
+
+WES: I'm leaving a 2019 plan unnamed in the report so I don't get paid twice. Coming back to a 2019 plan counts. Narrating a 2019 plan does not.
+
+JONATHON: Hold on. If I miss it I'll say I missed it. I won't hide it in a loud week.
+
 
 ---
 
 ## SEGMENT 8 · More on a 4
 
-WES: My dad would have called a 2019 plan Tuesday. I have been wanting a letter for a 2019 plan. I'm retiring the letter. I'm doing a 2019 plan tired, and I am not writing a paragraph on the way.
+WES: My dad would have called a 2019 plan Tuesday. I've been wanting a letter for a 2019 plan.
 
-JONATHON: If I hide from a 2019 plan I will call it logistics. I'm done with that name. a 2019 plan is the work. stubborn as a keel is how I prove I meant it. Ask me Friday about stubborn as a keel and I will not joke.
+JONATHON: If I hide from a 2019 plan I will call it logistics.
+
+WES: I'm retiring the letter. I'm doing a 2019 plan tired, and I'm not writing a paragraph on the way.
+
+JONATHON: I'm done with that name. a 2019 plan is the work. stubborn as a keel is how I prove I meant it. Ask me Friday about stubborn as a keel and I won't joke.
+
 
 ---
 
 ## SEGMENT 9 · More on a 5
 
-WES: If a 2019 plan feels small, that's a clue you're close. Big feelings like a conference. a 2019 plan likes a kitchen. I have skipped kitchens for conferences. I'm late. I'm still going to a 2019 plan.
+WES: If a 2019 plan feels small, that's a clue you're close. Big feelings like a conference. a 2019 plan likes a kitchen.
 
-JONATHON: Single men, a 2019 plan still belongs to you. Divorced men, crossed-out title still belongs to you. I don't get to keep these on a married shelf. I'm doing a 2019 plan and crossed-out title as a person, not as a title.
+JONATHON: Plan likes a kitchen. Single men, a 2019 plan still belongs to you. Divorced men, crossed-out title still belongs to you. I don't get to keep these on a married shelf. I'm doing a 2019 plan and crossed-out title as a person, not as a title.
+
+WES: I've skipped kitchens for conferences. I'm late. I'm still going to a 2019 plan.
+
+JONATHON: That's the one I keep walking past. Ask me Friday whether I picked it up.
+
 
 ---
 
 ## SEGMENT 10 · More on a 6
 
-WES: Stay on a 2019 plan a minute, because a man will hear the verse and look for a war. The war is a 2019 plan. I have walked past a 2019 plan so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up a 2019 plan before you write a speech about it.
+WES: Stay on a 2019 plan a minute, because a man will hear the verse and look for a war. The war is a 2019 plan.
 
 JONATHON: I'll be real with you. I can talk about a 2019 plan for twenty minutes and still skip a thirteen-year-old question tonight, which is why I need a man who will ask me tomorrow whether I did a thirteen-year-old question. If I fail I will say I failed, not that the week got loud.
+
+WES: I've walked past a 2019 plan so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up a 2019 plan before you write a speech about it.
+
+JONATHON: I'm with you. I'll take the small one tonight and I won't write a speech on the way.
+
 
 ---
 
 ## SEGMENT 11 · More on a 7
 
-WES: I keep a picture of a 2019 plan in my head when I want to quit. Not a stage. a 2019 plan. If I need a prettier assignment than a 2019 plan, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like a 2019 plan, then tell one man.
+WES: I keep a picture of a 2019 plan in my head when I want to quit. Not a stage. a 2019 plan.
 
-JONATHON: I want credit for a 2019 plan and I want privacy for couch list after baby. That's the paycheck again. I'm doing couch list after baby without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
+JONATHON: I want credit for a 2019 plan and I want privacy for couch list after baby.
+
+WES: If I need a prettier assignment than a 2019 plan, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like a 2019 plan, then tell one man.
+
+JONATHON: I'm doing couch list after baby without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
+
 
 ---
 
 ## SEGMENT 12 · More on tomatoes 8
 
-WES: I almost turned tomatoes not luck into a testimony before the week was over. That's how I steal a gift. I'm leaving tomatoes not luck unnamed in the report so I don't get paid twice. Coming back to tomatoes not luck counts. Narrating tomatoes not luck does not.
+WES: I almost turned tomatoes not luck into a testimony before the week was over. That's how I steal a gift.
 
-JONATHON: I keep trying to upgrade tomatoes not luck into a program. She did not ask for a program. She asked for a 2019 plan. I'm retiring the program and keeping a 2019 plan, even if a 2019 plan makes me feel small.
+JONATHON: I keep trying to upgrade tomatoes not luck into a program. She didn't ask for a program. She asked for a 2019 plan. I'm retiring the program and keeping a 2019 plan, even if a 2019 plan makes me feel small.
+
+WES: I'm leaving tomatoes not luck unnamed in the report so I don't get paid twice. Coming back to tomatoes not luck counts. Narrating tomatoes not luck does not.
+
+JONATHON: Yeah — I'll do the next small thing, and I'll tell the truth about it Friday.
+
 
 ---
 
 ## SEGMENT 13 · More on tomatoes 9
 
-WES: My dad would have called tomatoes not luck Tuesday. I have been wanting a letter for tomatoes not luck. I'm retiring the letter. I'm doing tomatoes not luck tired, and I am not writing a paragraph on the way.
+WES: My dad would have called tomatoes not luck Tuesday. I've been wanting a letter for tomatoes not luck.
 
-JONATHON: If I hide from tomatoes not luck I will call it logistics. I'm done with that name. tomatoes not luck is the work. a gas-station bin is how I prove I meant it. Ask me Friday about a gas-station bin and I will not joke.
+JONATHON: If I hide from tomatoes not luck I will call it logistics.
+
+WES: I'm retiring the letter. I'm doing tomatoes not luck tired, and I'm not writing a paragraph on the way.
+
+JONATHON: I'm done with that name. tomatoes not luck is the work. a gas-station bin is how I prove I meant it. Ask me Friday about a gas-station bin and I won't joke.
+
 
 ---
 
 ## SEGMENT 14 · More on tomatoes 10
 
-WES: If tomatoes not luck feels small, that's a clue you're close. Big feelings like a conference. tomatoes not luck likes a kitchen. I have skipped kitchens for conferences. I'm late. I'm still going to tomatoes not luck.
+WES: If tomatoes not luck feels small, that's a clue you're close. Big feelings like a conference. tomatoes not luck likes a kitchen.
 
-JONATHON: Single men, tomatoes not luck still belongs to you. Divorced men, library by seven still belongs to you. I don't get to keep these on a married shelf. I'm doing tomatoes not luck and library by seven as a person, not as a title.
+JONATHON: Luck likes a kitchen. Single men, tomatoes not luck still belongs to you. Divorced men, library by seven still belongs to you. I don't get to keep these on a married shelf. I'm doing tomatoes not luck and library by seven as a person, not as a title.
+
+WES: I've skipped kitchens for conferences. I'm late. I'm still going to tomatoes not luck.
+
+JONATHON: Hold on. If I miss it I'll say I missed it. I won't hide it in a loud week.
+
 
 ---
 
 ## SEGMENT 15 · More on tomatoes 11
 
-WES: Stay on tomatoes not luck a minute, because a man will hear the verse and look for a war. The war is tomatoes not luck. I have walked past tomatoes not luck so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up tomatoes not luck before you write a speech about it.
+WES: Stay on tomatoes not luck a minute, because a man will hear the verse and look for a war. The war is tomatoes not luck.
 
 JONATHON: I'll be real with you. I can talk about tomatoes not luck for twenty minutes and still skip stubborn as a keel tonight, which is why I need a man who will ask me tomorrow whether I did stubborn as a keel. If I fail I will say I failed, not that the week got loud.
+
+WES: I've walked past tomatoes not luck so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up tomatoes not luck before you write a speech about it.
+
+JONATHON: That's the one I keep walking past. Ask me Friday whether I picked it up.
+
 
 ---
 
 ## SEGMENT 16 · More on tomatoes 12
 
-WES: I keep a picture of tomatoes not luck in my head when I want to quit. Not a stage. tomatoes not luck. If I need a prettier assignment than tomatoes not luck, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like tomatoes not luck, then tell one man.
+WES: I keep a picture of tomatoes not luck in my head when I want to quit. Not a stage. tomatoes not luck.
 
-JONATHON: I want credit for tomatoes not luck and I want privacy for crossed-out title. That's the paycheck again. I'm doing crossed-out title without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
+JONATHON: I want credit for tomatoes not luck and I want privacy for crossed-out title.
+
+WES: If I need a prettier assignment than tomatoes not luck, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like tomatoes not luck, then tell one man.
+
+JONATHON: I'm doing crossed-out title without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
+
 
 ---
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. Seek first. Ask how he is. Read the three.
+WES: Here's what I want you to carry. Seek first. Ask how he's. Read the three.
 
 JONATHON: And let stubborn be a keel, not a joke.
 
 WES: Tuesday we talk about grief. Until then: one lunch, no luck.
 
-JONATHON: Then go ask how he is, and tell us how it went at walksteadfast.com, and find us everywhere at @steadfastwalk.
+JONATHON: Then go ask how he's, and tell us how it went at walksteadfast.com, and find us everywhere at @steadfastwalk.
 
 [STING 2s]

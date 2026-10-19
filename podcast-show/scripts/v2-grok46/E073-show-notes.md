@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,826 spoken words, about 18:50). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,950 spoken words, about 19:40). Re-time them against the final edit before publishing.
 
 ---
 
@@ -34,30 +34,30 @@ Christian men podcast, feelings, Psalm 42:5, anger, Walk Steadfast, Stop Waiting
 | Time | Segment | Summary |
 |---|---|---|
 | 00:00 | Open | Open |
-| 00:47 | Don't drive mad | Don't drive mad |
-| 01:50 | Left out and afraid | Left out and afraid |
-| 02:41 | Ashamed | Ashamed |
-| 03:47 | The Word | The Word |
-| 05:04 | Challenge | Challenge |
-| 06:13 | More on keys 1 | More on keys 1 |
-| 07:04 | More on keys 2 | More on keys 2 |
-| 07:49 | More on keys 3 | More on keys 3 |
-| 08:29 | More on keys 4 | More on keys 4 |
-| 09:06 | More on keys 5 | More on keys 5 |
-| 09:40 | More on keys 6 | More on keys 6 |
-| 10:32 | More on keys 7 | More on keys 7 |
-| 11:17 | More on a 8 | More on a 8 |
-| 11:54 | More on a 9 | More on a 9 |
-| 12:28 | More on a 10 | More on a 10 |
-| 13:02 | More on a 11 | More on a 11 |
-| 13:51 | More on a 12 | More on a 12 |
-| 14:34 | More on a 13 | More on a 13 |
-| 15:12 | More on a 14 | More on a 14 |
-| 15:45 | More on the 15 | More on the 15 |
-| 16:18 | More on the 16 | More on the 16 |
-| 17:07 | More on the 17 | More on the 17 |
-| 17:52 | More on the 18 | More on the 18 |
-| 18:29 | Close | Close |
+| 00:45 | Don't drive mad | Don't drive mad |
+| 01:46 | Left out and afraid | Left out and afraid |
+| 02:38 | Ashamed | Ashamed |
+| 03:42 | The Word | The Word |
+| 04:59 | Challenge | Challenge |
+| 06:05 | More on keys 1 | More on keys 1 |
+| 07:01 | More on keys 2 | More on keys 2 |
+| 07:45 | More on keys 3 | More on keys 3 |
+| 08:25 | More on keys 4 | More on keys 4 |
+| 09:00 | More on keys 5 | More on keys 5 |
+| 09:43 | More on keys 6 | More on keys 6 |
+| 10:40 | More on keys 7 | More on keys 7 |
+| 11:24 | More on a 8 | More on a 8 |
+| 12:08 | More on a 9 | More on a 9 |
+| 12:40 | More on a 10 | More on a 10 |
+| 13:22 | More on a 11 | More on a 11 |
+| 14:18 | More on a 12 | More on a 12 |
+| 15:00 | More on a 13 | More on a 13 |
+| 15:43 | More on a 14 | More on a 14 |
+| 16:15 | More on the 15 | More on the 15 |
+| 16:57 | More on the 16 | More on the 16 |
+| 17:51 | More on the 17 | More on the 17 |
+| 18:34 | More on the 18 | More on the 18 |
+| 19:19 | Close | Close |
 
 ---
 

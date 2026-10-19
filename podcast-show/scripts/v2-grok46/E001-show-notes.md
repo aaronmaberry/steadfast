@@ -2,7 +2,7 @@
 
 Walk Steadfast · launch episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (4,959 spoken words, about 33:04). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (4,968 spoken words, about 33:07). Re-time them against the final edit before publishing.
 
 ---
 
@@ -42,15 +42,15 @@ Christian men podcast, faith and masculinity, Walk Steadfast, Tuesday faith, 1 C
 |---|---|---|
 | 00:00 | Open | Wes ate supper in a recliner. Jonathon took the long way home on purpose. Who they are, and a promise: the night the daughter brought her plate. |
 | 01:12 | Who you're sitting with | Wes Hart, fifty-two, Hill Country, married twenty-seven years, three kids. The fog years. Mr. Abernathy and the mug. Why the show exists. |
-| 06:22 | The guy across the table | Jonathon Hale, thirty-six. Dani, Ruby, Theo. His dad left when he was nine. The parking lot, the text, seven years of Thursdays. |
-| 11:22 | What this is | Two men at a table. Tuesday main, Friday Field Notes. Who it's for, including the single man and the skeptic. What it is not. |
-| 15:02 | A quiet Tuesday | 1604 and the recliner. Dani's "okay." The daughter on the floor. The man you keep saying you'll be is waiting on a regular day. |
-| 19:38 | The Word | 1 Corinthians 13:11 and Luke 16:10. You put something down. Tuesday is the very little. |
-| 23:16 | Pushback | Rest versus hiding. Do the big days count? |
-| 26:11 | Who else is in the chair | The twenty-two-year-old. The man who is great at work. |
-| 28:15 | What we actually did | Phone in the console, three of five. A tractor video. Theo flooded the bathroom. |
-| 30:33 | This week's challenge | One meal, no phone. One question. Text one man. Friday is the first check. |
-| 32:33 | Close | You put something down on a Tuesday. Take the direct route home. |
+| 06:30 | The guy across the table | Jonathon Hale, thirty-six. Dani, Ruby, Theo. His dad left when he was nine. The parking lot, the text, seven years of Thursdays. |
+| 11:29 | What this is | Two men at a table. Tuesday main, Friday Field Notes. Who it's for, including the single man and the skeptic. What it is not. |
+| 15:07 | A quiet Tuesday | 1604 and the recliner. Dani's "okay." The daughter on the floor. The man you keep saying you'll be is waiting on a regular day. |
+| 19:42 | The Word | 1 Corinthians 13:11 and Luke 16:10. You put something down. Tuesday is the very little. |
+| 23:20 | Pushback | Rest versus hiding. Do the big days count? |
+| 26:15 | Who else is in the chair | The twenty-two-year-old. The man who is great at work. |
+| 28:19 | What we actually did | Phone in the console, three of five. A tractor video. Theo flooded the bathroom. |
+| 30:36 | This week's challenge | One meal, no phone. One question. Text one man. Friday is the first check. |
+| 32:37 | Close | You put something down on a Tuesday. Take the direct route home. |
 
 ---
 

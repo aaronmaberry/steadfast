@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,940 spoken words, about 19:36). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,905 spoken words, about 19:22). Re-time them against the final edit before publishing.
 
 ---
 
@@ -34,15 +34,15 @@ Christian men podcast, marriage, Proverbs 20:5, know your wife, Walk Steadfast, 
 | Time | Segment | Summary |
 |---|---|---|
 | 00:00 | Open | You'd say I like the beach. She likes mountains. |
-| 00:49 | The beach you invented | Twenty-two Rockport summers. She said so in 2004. |
-| 02:54 | The parking lot | Dani sings at H-E-B. Jonathon heard leaving. |
-| 04:59 | The well | You can't yell at a well. Drawing is a job. |
-| 06:46 | The Word | Proverbs 20:5. Deep waters. |
-| 08:06 | What else | A card in the wallet. Ask what else you didn't hear. |
-| 09:33 | The challenge | One question you don't know. Write it down. |
-| 10:28 | Two more rooms | The number, the trip, "What for?", retire the sentence. |
-| 15:18 | The walk and the sink | Dairy Queen walks. "K." The sink after lasagna. |
-| 19:08 | Close | Knowing her is a job. |
+| 00:48 | The beach you invented | Twenty-two Rockport summers. She said so in 2004. |
+| 02:52 | The parking lot | Dani sings at H-E-B. Jonathon heard leaving. |
+| 04:57 | The well | You can't yell at a well. Drawing is a job. |
+| 06:42 | The Word | Proverbs 20:5. Deep waters. |
+| 08:03 | What else | A card in the wallet. Ask what else you didn't hear. |
+| 09:29 | The challenge | One question you don't know. Write it down. |
+| 10:23 | Two more rooms | The number, the trip, "What for?", retire the sentence. |
+| 15:09 | The walk and the sink | Dairy Queen walks. "K." The sink after lasagna. |
+| 18:54 | Close | Knowing her is a job. |
 
 ---
 

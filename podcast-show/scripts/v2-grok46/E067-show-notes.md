@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,806 spoken words, about 18:42). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,801 spoken words, about 18:40). Re-time them against the final edit before publishing.
 
 ---
 
@@ -34,28 +34,28 @@ Christian men podcast, marriage, Ecclesiastes 9:9, roommates, Walk Steadfast, St
 | Time | Segment | Summary |
 |---|---|---|
 | 00:00 | Open | Open |
-| 00:46 | Who is this | Who is this |
-| 01:40 | Bored with you | Bored with you |
-| 02:34 | The ride | The ride |
-| 03:50 | The Word | The Word |
-| 04:56 | Pushback | Pushback |
-| 06:19 | The challenge | The challenge |
-| 07:13 | Mesquite | Mesquite |
-| 08:15 | Fourth night | Fourth night |
-| 09:17 | Sales lens | Sales lens |
-| 10:20 | What I like | What I like |
-| 11:23 | Pancake later | Pancake later |
-| 12:28 | The forty seconds | The forty seconds |
-| 13:10 | Hardware store | Hardware store |
-| 13:39 | Hymns by number | Hymns by number |
-| 14:12 | Relay year | Relay year |
-| 14:46 | Clearing | Clearing |
-| 15:16 | What I'm actually doing | What I'm actually doing |
-| 15:50 | Wes on the calendar | Wes on the calendar |
+| 00:45 | Who is this | Who is this |
+| 01:56 | Bored with you | Bored with you |
+| 02:50 | The ride | The ride |
+| 04:06 | The Word | The Word |
+| 05:11 | Pushback | Pushback |
+| 06:32 | The challenge | The challenge |
+| 07:26 | Mesquite | Mesquite |
+| 08:27 | Fourth night | Fourth night |
+| 09:28 | Sales lens | Sales lens |
+| 10:31 | What I like | What I like |
+| 11:33 | Pancake later | Pancake later |
+| 12:37 | The forty seconds | The forty seconds |
+| 13:17 | Hardware store | Hardware store |
+| 13:46 | Hymns by number | Hymns by number |
+| 14:18 | Relay year | Relay year |
+| 14:51 | Clearing | Clearing |
+| 15:20 | What I'm actually doing | What I'm actually doing |
+| 15:52 | Wes on the calendar | Wes on the calendar |
 | 16:20 | Quiet mile | Quiet mile |
-| 16:50 | Labor Day stretch | Labor Day stretch |
-| 17:18 | What I want you to do | What I want you to do |
-| 18:20 | Close | Close |
+| 16:49 | Labor Day stretch | Labor Day stretch |
+| 17:16 | What I want you to do | What I want you to do |
+| 18:18 | Close | Close |
 
 ---
 

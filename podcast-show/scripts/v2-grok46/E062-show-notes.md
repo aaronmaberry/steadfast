@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (1,973 spoken words, about 13:09). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (1,936 spoken words, about 12:54). Re-time them against the final edit before publishing.
 
 ---
 
@@ -35,14 +35,14 @@ Christian men podcast, marriage, Galatians 5:13, lay it down, Walk Steadfast, Fi
 |---|---|---|
 | 00:00 | Open | Open |
 | 00:49 | The door | The door |
-| 03:20 | Cattle and pancakes | Cattle and pancakes |
-| 04:53 | The Word | The Word |
-| 06:07 | Oregon and the song | Oregon and the song |
-| 08:01 | What we're carrying | What we're carrying |
-| 09:11 | The week she leaves | The week she leaves |
-| 10:27 | Telling her Wednesday | Telling her Wednesday |
-| 11:38 | The far spot | The far spot |
-| 12:46 | Close | Close |
+| 03:19 | Cattle and pancakes | Cattle and pancakes |
+| 04:50 | The Word | The Word |
+| 06:02 | Oregon and the song | Oregon and the song |
+| 07:54 | What we're carrying | What we're carrying |
+| 09:03 | The week she leaves | The week she leaves |
+| 10:16 | Telling her Wednesday | Telling her Wednesday |
+| 11:25 | The far spot | The far spot |
+| 12:32 | Close | Close |
 
 ---
 

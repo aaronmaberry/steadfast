@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,908 spoken words, about 19:23). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,881 spoken words, about 19:12). Re-time them against the final edit before publishing.
 
 ---
 
@@ -36,12 +36,12 @@ Christian men podcast, Proverbs 14:12, fatherhood, work identity, Walk Steadfast
 |---|---|---|
 | 00:00 | Open | Why do you only do the coach voice at practice? |
 | 00:55 | The coach voice | Skip the house from four feet away. |
-| 04:42 | The title | 2019. Are you mad at us? |
-| 08:02 | The crew | I'm not on your crew. Metal roof. |
-| 10:53 | The Word | Proverbs 14:12. The way that appears right. |
-| 13:13 | Pushback | Tired is not the same as leftover. |
-| 16:22 | This week's challenge | Ask which shape. One contrary hour. |
-| 18:54 | Close | Ask which one they see. |
+| 04:37 | The title | 2019. Are you mad at us? |
+| 08:00 | The crew | I'm not on your crew. Metal roof. |
+| 10:56 | The Word | Proverbs 14:12. The way that appears right. |
+| 13:11 | Pushback | Tired is not the same as leftover. |
+| 16:16 | This week's challenge | Ask which shape. One contrary hour. |
+| 18:43 | Close | Ask which one they see. |
 
 ---
 

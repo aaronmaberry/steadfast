@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (1,908 spoken words, about 12:43). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (1,904 spoken words, about 12:42). Re-time them against the final edit before publishing.
 
 ---
 
@@ -33,12 +33,12 @@ Christian men podcast, Field Notes, Memorial Day, John 15:13, Walk Steadfast
 | Time | Segment | Summary |
 |---|---|---|
 | 00:00 | Open | Open. |
-| 00:43 | Deputy and pancakes | Deputy and pancakes. |
-| 02:38 | Chris and a pencil | Chris and a pencil. |
-| 04:08 | The Word | The Word. |
-| 05:03 | Reading the names | Reading the names. |
-| 08:28 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
-| 12:21 | Close | Close. |
+| 00:42 | Deputy and pancakes | Deputy and pancakes. |
+| 02:37 | Chris and a pencil | Chris and a pencil. |
+| 04:05 | The Word | The Word. |
+| 04:58 | Reading the names | Reading the names. |
+| 08:13 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
+| 12:20 | Close | Close. |
 
 ---
 

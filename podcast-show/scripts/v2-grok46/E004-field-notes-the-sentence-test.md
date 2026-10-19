@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 1,968 (about 13:07 at 150 wpm, before laughs and pauses) |
+| Spoken words | 1,973 (about 13:09 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 30 lines (54% of words). JONATHON 26 lines (46% of words), 0 under 12 words (0.0%) |
 | Focus mark | None. Checks the sentence. |
@@ -24,7 +24,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 
 WES: So I asked my wife what sentence she thinks I actually live by.
 
-JONATHON: And I already know this is going to hurt, because you look like a man who got an answer he did not write.
+JONATHON: And I already know this is going to hurt, because you look like a man who got an answer he didn't write.
 
 WES: She didn't even pause. She said, "I'll get to it."
 
@@ -34,11 +34,11 @@ WES: She didn't even pause. She said, "I'll get to it."
 
 WES: This is Walk Steadfast. I'm Wes Hart.
 
-JONATHON: And I'm Jonathon. Friday we check the box. We do not dress it up.
+JONATHON: And I'm Jonathon. Friday we check the box. We don't dress it up.
 
 WES: Tuesday we asked you to write the sentence you've actually been living, read it to one man, and if you're married, ask your wife what she thinks it is. If you tried it, or if you didn't, stay. Before we're done I'll tell you about the gutter, and he will tell you what Dani said when he finally asked.
 
-JONATHON: And I'll tell you the text my sister's kid sent me, because it is the whole generation in four words.
+JONATHON: And I'll tell you the text my sister's kid sent me, because it's the whole generation in four words.
 
 ---
 
@@ -50,7 +50,7 @@ JONATHON: Brave. Also a little stupid, which I say with respect, because I did t
 
 WES: I said, "What do you think my sentence is? What do I actually live by?" No pause. Like she'd had it ready for years. "I'll get to it."
 
-JONATHON: Is she right? Because I need you to say whether she's right, or whether you're about to defend the deck.
+JONATHON: "I'll get to it." Yeah, and— she had it ready. Is she right? Because I need you to say whether she's right, or whether you're about to defend the deck.
 
 WES: There's a gutter on our back porch that has been hanging loose for fourteen months. Every time it rains, it pours right on the steps. She's mentioned it. I've said, "I'll get to it." There's a ceiling fan in my youngest's room that clicks. "I'll get to it." There's a phone call to my brother I've been meaning to make since Thanksgiving.
 
@@ -62,7 +62,7 @@ JONATHON: She has dates. That's not a wife guessing. That's a wife who has been 
 
 WES: The rule was don't argue, write it down. So I wrote it. Then I read it to a man. There's a retired Air Force mechanic who sits behind me at church. Eighty-one. Fixes everything. I read him the card in the parking lot. He looked at it, looked at me, and said, "What's the first thing on the list?"
 
-JONATHON: The gutter. Please tell me you did not hand an eighty-one-year-old a ladder and call that humility.
+JONATHON: The gutter. Please tell me you didn't hand an eighty-one-year-old a ladder and call that humility.
 
 WES: He said, "I'll be there Saturday at eight." He was there at seven-forty. He held the ladder. I fixed the gutter. He supervised. Heavily. Box checked. It cost me some pride, which I had extra of. The gutter is done. The fan still clicks. That's the one sitting there now.
 
@@ -150,7 +150,7 @@ JONATHON: Truck visor. I'm in the truck four hours a day. That's the right place
 
 WES: Because your phone has nine thousand notes in it and you've never read one of them twice.
 
-JONATHON: That's true. I have a note that just says "Tuesday?" and I do not know what it means, and I wrote it, so that's on me.
+JONATHON: That's true. I've got a note that just says "Tuesday?" and I don't know what it means, and I wrote it, so that's on me.
 
 WES: A card is one thing. It's in your hand. You can hand it to a man. Your phone, you'll never hand to a man. And if you don't have index cards, the back of a receipt works. Ask the lineman.
 

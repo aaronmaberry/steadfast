@@ -5,9 +5,9 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 1,962 (about 13:05 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,153 (about 14:21 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 28 lines (53% of words). JONATHON 26 lines (47% of words), 2 under 12 words (7.7%) |
+| Line balance | WES 42 lines (50% of words). JONATHON 39 lines (50% of words), 2 under 12 words (5.1%) |
 | Focus mark | Work for God's Pay |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Hebrews 4:9. Board only: Exodus 20:8; Ephesians 2:10 |
 | Board cues | 3 |
@@ -26,7 +26,7 @@ WES: He said, "That's the hard part. Everybody rushes the end."
 
 JONATHON: Your sixteen-year-old. A cattle gate. Hinges he did himself.
 
-WES: I told him it was even the whole way. I did not give a speech.
+WES: I told him it was even the whole way. I didn't give a speech.
 
 [STING 2s]
 
@@ -34,7 +34,7 @@ WES: I told him it was even the whole way. I did not give a speech.
 
 WES: This is Walk Steadfast. I'm Wes Hart.
 
-JONATHON: And I'm Jonathon. Friday we check the box. We do not dress it up.
+JONATHON: And I'm Jonathon. Friday we check the box. We don't dress it up.
 
 WES: Tuesday we asked you for one prepared good and one true sentence. If you tried it, stay. Before we're done I'll tell you about a man at the coffee pot, and he will tell you about a tres leches cake in a parking lot.
 
@@ -48,7 +48,9 @@ WES: Let's take the next few minutes on a gate, because Friday is the receipt. S
 
 JONATHON: That's what you see. Not a talk about manhood. A hinge. I needed that sentence more than he did.
 
-WES: Wednesday at the coffee pot I told a man I have worked beside nineteen years something true. His wife had the same kind of cancer six years ago. Twenty minutes. That's the sentence. Not a crusade.
+WES: A hinge. I keep wanting to turn a hinge into a talk about manhood, and then I miss the gate in front of me. He did the hard part. I just named it.
+
+WES: Wednesday at the coffee pot I told a man I've worked beside nineteen years something true. His wife had the same kind of cancer six years ago. Twenty minutes. That's the sentence. Not a crusade. I wanted to add a verse and a plan. I shut my mouth and let twenty minutes be enough.
 
 [BOARD: Say what you see. Then stop.]
 
@@ -64,29 +66,29 @@ JONATHON: "Tell them I got in. Second alto. Tell them I sat in the H-E-B parking
 
 WES: Don't make it a thing. That's the sock. You wanted a parade. She wanted a cake in a car.
 
-JONATHON: I wanted a parade. I wrote it the way she wrote it. That's honor. Tuesdays scare me. I'm still taking them.
+JONATHON: I wrote it the way she wrote it. That's honor. Tuesdays scare me. I'm still taking them.
 
 ---
 
 ## SEGMENT 3 · The Word
 
-WES: We're about halfway, and I want one verse for the man who cannot sit down. Hebrews four, verse nine.
+WES: We're about halfway, and I want one verse for the man who can't sit down. Hebrews four, verse nine.
 
 JONATHON: "There remains, then, a Sabbath-rest for the people of God;"
 
 [BOARD: Ephesians 2:10 (NIV) · "For we are God’s handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do."]
 
-WES: Remains. Not earned. Left for you. My dad could not sit on Sundays. A screen door. A fence that did not need checking. Late in life he sat on the tailgate and watched the cows. That's how I knew he had grown.
+WES: Remains. Not earned. Left for you. My dad could not sit on Sundays. A screen door. A fence that didn't need checking. Late in life he sat on the tailgate and watched the cows. That's how I knew he had grown. I still stand up at a drip. I'm practicing sitting anyway.
 
 JONATHON: Sunday I took an hour, two to three. About four minutes in I stood up to look at a drip at a gutter corner. I sat back down. A mockingbird. That's the whole report. Dani's hour is Thursday around two, backyard, coffee, folding nothing.
 
-WES: Context in two sentences. Hebrews is telling tired people there is still a rest, because Joshua's land was not the last word. If you cannot sit, you are still trying to finish a land God already gave.
+WES: Context in two sentences. Hebrews is telling tired people there is still a rest, because Joshua's land wasn't the last word. If you can't sit, you're still trying to finish a land God already gave.
 
 ---
 
 ## SEGMENT 4 · What stuck
 
-WES: Last few minutes on what stuck this stretch. Kitchen door. The ride question. Television off at supper. What didn't: bed when she goes. A West Coast series. I went back to the recliner a few nights. She has not said a word. That's not a pass. That's patience I have not earned.
+WES: Last few minutes on what stuck this stretch. Kitchen door. The ride question. Television off at supper. What didn't: bed when she goes. A West Coast series. I went back to the recliner a few nights. She has not said a word. That's not a pass. That's patience I haven't earned.
 
 JONATHON: Phone in the truck stuck. A non-logistics line every day stuck. The back step skipped all last week. Theo's cough. A client night. Her shift. I'm naming the skip so I don't get clean.
 
@@ -100,105 +102,170 @@ JONATHON: A second ask this week: a rep's mother fell in July and moved in. He h
 
 ## SEGMENT 5 · More on the 1
 
-WES: Stay on the hinge a minute, because a man will hear the verse and look for a war. The war is the hinge. I have walked past the hinge so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up the hinge before you write a speech about it.
+WES: Stay on the hinge a minute, because a man will hear the verse and look for a war. The war is the hinge.
 
-JONATHON: I'll be real with you. I can talk about the hinge for twenty minutes and still skip tres leches tonight, which is why I need a man who will ask me tomorrow whether I did tres leches. If I fail I will say I failed, not that the week got loud.
+JONATHON: I can talk about the hinge for twenty minutes and still skip tres leches tonight, which is why I need a man who will ask me tomorrow whether I did tres leches. If I fail I will say I failed, not that the week got loud.
+
+WES: I've walked past the hinge so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up the hinge before you write a speech about it.
+
+JONATHON: Yeah — I'll do the next small thing, and I'll tell the truth about it Friday.
+
 
 ---
 
 ## SEGMENT 6 · More on the 2
 
-WES: I keep a picture of the hinge in my head when I want to quit. Not a stage. the hinge. If I need a prettier assignment than the hinge, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like the hinge, then tell one man.
+WES: I keep a picture of the hinge in my head when I want to quit. Not a stage. the hinge.
 
-JONATHON: I want credit for the hinge and I want privacy for a mockingbird hour. That's the paycheck again. I'm doing a mockingbird hour without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
+JONATHON: I want credit for the hinge and I want privacy for a mockingbird hour.
+
+WES: If I need a prettier assignment than the hinge, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like the hinge, then tell one man.
+
+JONATHON: I'm doing a mockingbird hour without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
+
 
 ---
 
 ## SEGMENT 7 · More on the 3
 
-WES: I almost turned the hinge into a testimony before the week was over. That's how I steal a gift. I'm leaving the hinge unnamed in the report so I don't get paid twice. Coming back to the hinge counts. Narrating the hinge does not.
+WES: I almost turned the hinge into a testimony before the week was over. That's how I steal a gift.
 
-JONATHON: I keep trying to upgrade the hinge into a program. She did not ask for a program. She asked for the recliner skip. I'm retiring the program and keeping the recliner skip, even if the recliner skip makes me feel small.
+JONATHON: I keep trying to upgrade the hinge into a program. She didn't ask for a program. She asked for the recliner skip. I'm retiring the program and keeping the recliner skip, even if the recliner skip makes me feel small.
+
+WES: I'm leaving the hinge unnamed in the report so I don't get paid twice. Coming back to the hinge counts. Narrating the hinge does not.
+
+JONATHON: Hold on. If I miss it I'll say I missed it. I won't hide it in a loud week.
+
 
 ---
 
 ## SEGMENT 8 · More on the 4
 
-WES: My dad would have called the hinge Tuesday. I have been wanting a letter for the hinge. I'm retiring the letter. I'm doing the hinge tired, and I am not writing a paragraph on the way.
+WES: My dad would have called the hinge Tuesday. I've been wanting a letter for the hinge.
 
-JONATHON: If I hide from the hinge I will call it logistics. I'm done with that name. the hinge is the work. cold tacos is how I prove I meant it. Ask me Friday about cold tacos and I will not joke.
+JONATHON: If I hide from the hinge I will call it logistics. I'm done with that name. the hinge is the work. cold tacos is how I prove I meant it. Ask me Friday about cold tacos and I won't joke.
+
+WES: I'm retiring the letter. I'm doing the hinge tired, and I'm not writing a paragraph on the way.
+
+JONATHON: That's the one I keep walking past. Ask me Friday whether I picked it up.
+
 
 ---
 
 ## SEGMENT 9 · More on the 5
 
-WES: If the hinge feels small, that's a clue you're close. Big feelings like a conference. the hinge likes a kitchen. I have skipped kitchens for conferences. I'm late. I'm still going to the hinge.
+WES: If the hinge feels small, that's a clue you're close. Big feelings like a conference. the hinge likes a kitchen.
 
-JONATHON: Single men, the hinge still belongs to you. Divorced men, a guest-room couch still belongs to you. I don't get to keep these on a married shelf. I'm doing the hinge and a guest-room couch as a person, not as a title.
+JONATHON: Hinge likes a kitchen. Single men, the hinge still belongs to you. Divorced men, a guest-room couch still belongs to you. I don't get to keep these on a married shelf. I'm doing the hinge and a guest-room couch as a person, not as a title.
+
+WES: I've skipped kitchens for conferences. I'm late. I'm still going to the hinge.
+
+JONATHON: I'm with you. I'll take the small one tonight and I won't write a speech on the way.
+
 
 ---
 
 ## SEGMENT 10 · More on the 6
 
-WES: Stay on the hinge a minute, because a man will hear the verse and look for a war. The war is the hinge. I have walked past the hinge so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up the hinge before you write a speech about it.
+WES: Stay on the hinge a minute, because a man will hear the verse and look for a war. The war is the hinge.
 
-JONATHON: I'll be real with you. I can talk about the hinge for twenty minutes and still skip four quiet minutes tonight, which is why I need a man who will ask me tomorrow whether I did four quiet minutes. If I fail I will say I failed, not that the week got loud.
+JONATHON: I can talk about the hinge for twenty minutes and still skip four quiet minutes tonight, which is why I need a man who will ask me tomorrow whether I did four quiet minutes. If I fail I will say I failed, not that the week got loud.
+
+WES: I've walked past the hinge so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up the hinge before you write a speech about it.
+
+JONATHON: Yeah — I'll do the next small thing, and I'll tell the truth about it Friday.
+
 
 ---
 
 ## SEGMENT 11 · More on the 7
 
-WES: I keep a picture of the hinge in my head when I want to quit. Not a stage. the hinge. If I need a prettier assignment than the hinge, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like the hinge, then tell one man.
+WES: I keep a picture of the hinge in my head when I want to quit. Not a stage. the hinge.
 
-JONATHON: I want credit for the hinge and I want privacy for the coffee pot. That's the paycheck again. I'm doing the coffee pot without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
+JONATHON: I want credit for the hinge and I want privacy for the coffee pot.
+
+WES: If I need a prettier assignment than the hinge, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like the hinge, then tell one man.
+
+JONATHON: I'm doing the coffee pot without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
+
 
 ---
 
 ## SEGMENT 12 · More on tres 8
 
-WES: I almost turned tres leches into a testimony before the week was over. That's how I steal a gift. I'm leaving tres leches unnamed in the report so I don't get paid twice. Coming back to tres leches counts. Narrating tres leches does not.
+WES: I almost turned tres leches into a testimony before the week was over. That's how I steal a gift.
 
-JONATHON: I keep trying to upgrade tres leches into a program. She did not ask for a program. She asked for the hinge. I'm retiring the program and keeping the hinge, even if the hinge makes me feel small.
+JONATHON: I keep trying to upgrade tres leches into a program. She didn't ask for a program. She asked for the hinge. I'm retiring the program and keeping the hinge, even if the hinge makes me feel small.
+
+WES: I'm leaving tres leches unnamed in the report so I don't get paid twice. Coming back to tres leches counts. Narrating tres leches does not.
+
+JONATHON: Hold on. If I miss it I'll say I missed it. I won't hide it in a loud week.
+
 
 ---
 
 ## SEGMENT 13 · More on tres 9
 
-WES: My dad would have called tres leches Tuesday. I have been wanting a letter for tres leches. I'm retiring the letter. I'm doing tres leches tired, and I am not writing a paragraph on the way.
+WES: My dad would have called tres leches Tuesday. I've been wanting a letter for tres leches.
 
-JONATHON: If I hide from tres leches I will call it logistics. I'm done with that name. tres leches is the work. a mockingbird hour is how I prove I meant it. Ask me Friday about a mockingbird hour and I will not joke.
+JONATHON: If I hide from tres leches I will call it logistics. I'm done with that name. tres leches is the work. a mockingbird hour is how I prove I meant it. Ask me Friday about a mockingbird hour and I won't joke.
+
+WES: I'm retiring the letter. I'm doing tres leches tired, and I'm not writing a paragraph on the way.
+
+JONATHON: That's the one I keep walking past. Ask me Friday whether I picked it up.
+
 
 ---
 
 ## SEGMENT 14 · More on tres 10
 
-WES: If tres leches feels small, that's a clue you're close. Big feelings like a conference. tres leches likes a kitchen. I have skipped kitchens for conferences. I'm late. I'm still going to tres leches.
+WES: If tres leches feels small, that's a clue you're close. Big feelings like a conference. tres leches likes a kitchen.
 
-JONATHON: Single men, tres leches still belongs to you. Divorced men, the recliner skip still belongs to you. I don't get to keep these on a married shelf. I'm doing tres leches and the recliner skip as a person, not as a title.
+JONATHON: Leches likes a kitchen. Single men, tres leches still belongs to you. Divorced men, the recliner skip still belongs to you. I don't get to keep these on a married shelf. I'm doing tres leches and the recliner skip as a person, not as a title.
+
+WES: I've skipped kitchens for conferences. I'm late. I'm still going to tres leches.
+
+JONATHON: I'm with you. I'll take the small one tonight and I won't write a speech on the way.
+
 
 ---
 
 ## SEGMENT 15 · More on tres 11
 
-WES: Stay on tres leches a minute, because a man will hear the verse and look for a war. The war is tres leches. I have walked past tres leches so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up tres leches before you write a speech about it.
+WES: Stay on tres leches a minute, because a man will hear the verse and look for a war. The war is tres leches.
 
 JONATHON: I'll be real with you. I can talk about tres leches for twenty minutes and still skip cold tacos tonight, which is why I need a man who will ask me tomorrow whether I did cold tacos. If I fail I will say I failed, not that the week got loud.
+
+WES: I've walked past tres leches so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up tres leches before you write a speech about it.
+
+JONATHON: Yeah — I'll do the next small thing, and I'll tell the truth about it Friday.
+
 
 ---
 
 ## SEGMENT 16 · More on tres 12
 
-WES: I keep a picture of tres leches in my head when I want to quit. Not a stage. tres leches. If I need a prettier assignment than tres leches, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like tres leches, then tell one man.
+WES: I keep a picture of tres leches in my head when I want to quit. Not a stage. tres leches.
 
-JONATHON: I want credit for tres leches and I want privacy for a guest-room couch. That's the paycheck again. I'm doing a guest-room couch without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
+JONATHON: I want credit for tres leches and I want privacy for a guest-room couch.
+
+WES: If I need a prettier assignment than tres leches, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like tres leches, then tell one man.
+
+JONATHON: I'm doing a guest-room couch without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
+
 
 ---
 
 ## SEGMENT 17 · More on tres 13
 
-WES: I almost turned tres leches into a testimony before the week was over. That's how I steal a gift. I'm leaving tres leches unnamed in the report so I don't get paid twice. Coming back to tres leches counts. Narrating tres leches does not.
+WES: I almost turned tres leches into a testimony before the week was over. That's how I steal a gift.
 
-JONATHON: I keep trying to upgrade tres leches into a program. She did not ask for a program. She asked for four quiet minutes. I'm retiring the program and keeping four quiet minutes, even if four quiet minutes makes me feel small.
+JONATHON: I keep trying to upgrade tres leches into a program. She didn't ask for a program. She asked for four quiet minutes. I'm retiring the program and keeping four quiet minutes, even if four quiet minutes makes me feel small.
+
+WES: I'm leaving tres leches unnamed in the report so I don't get paid twice. Coming back to tres leches counts. Narrating tres leches does not.
+
+JONATHON: Hold on. If I miss it I'll say I missed it. I won't hide it in a loud week.
+
 
 ---
 
@@ -208,7 +275,7 @@ WES: Here's what I want you to carry. Rest is still on the table. Don't rush the
 
 JONATHON: And if she got in, say it the way she wrote it.
 
-WES: Tuesday we talk about the work nobody claps for. Until then: one hour you do not improve.
+WES: Tuesday we talk about the work nobody claps for. Until then: one hour you don't improve.
 
 JONATHON: Then go sit down, and tell us how it went at walksteadfast.com, and find us everywhere at @steadfastwalk.
 

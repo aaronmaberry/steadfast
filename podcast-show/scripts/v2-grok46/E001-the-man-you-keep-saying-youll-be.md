@@ -5,9 +5,9 @@ Walk Steadfast · launch episode · script v2 (kickoff rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 32 min at 150 wpm (launch exception: 4,500-5,250 spoken words) |
-| Spoken words | 4,959 (about 33:04 at 150 wpm, before laughs and pauses) |
+| Spoken words | 4,968 (about 33:07 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 100 lines (51% of words). JONATHON 91 lines (49% of words), 0 under 12 words (0.0%) |
+| Line balance | WES 99 lines (51% of words). JONATHON 92 lines (49% of words), 0 under 12 words (0.0%) |
 | Focus mark | Stop Waiting |
 | Scripture (NIV, verified 2026-10-19) | Spoken: 1 Corinthians 13:11; Luke 16:10. Board only: Luke 16:12; Proverbs 20:6 |
 | Board cues | 4 (none repeats spoken words) |
@@ -50,7 +50,7 @@ JONATHON: He's terrible at talking about himself, so I'm going to do Wes first, 
 
 WES: [leans back] Go ahead.
 
-JONATHON: This is Wes Hart. He's fifty-two. He lives out in the Hill Country, west of San Antonio, on a few acres, in a town he will not let me name.
+JONATHON: This is Wes Hart. He's fifty-two. He lives out in the Hill Country, west of San Antonio, on a few acres, in a town he won't let me name.
 
 WES: Correct.
 
@@ -90,11 +90,11 @@ JONATHON: I didn't know that part. You've told me the breakfast. You've never to
 
 WES: I don't tell it much. So that's who I am. A man who wasted some years and got pulled out of it by an old lineman who kept asking a question.
 
-JONATHON: So why a show at all? You could just keep doing the tables and never sit in front of anybody.
+JONATHON: The paper towel. Yeah, and— that's the part that sits with me now. So why a show at all? You could just keep doing the tables and never sit in front of anybody.
 
 WES: Because most men never get to a table. I've had the same conversation with hundreds of men, and for every one who sat down, there's ten who would have, if they'd known it existed. And because I'm fifty-two now, and the man who sat with me is gone. Somebody has to pull up the chair.
 
-WES: Now. My turn.
+JONATHON: Then I'll take the chair next to it. Your turn on me.
 
 ---
 
@@ -118,7 +118,7 @@ JONATHON: She's the best person I know. You can put that on a card.
 
 WES: Two kids. Ruby, who's seven and runs the house, and Theo, who's four and runs into things.
 
-JONATHON: That's accurate. That is accurate, and Theo would like it on the record that the things run into him too.
+JONATHON: That's accurate. That's accurate, and Theo would like it on the record that the things run into him too.
 
 WES: He pitched in college, small school, until his shoulder went. Now he coaches Ruby's coach-pitch team. Last fall they went oh-and-six. That's my version. Fix it.
 
@@ -126,7 +126,7 @@ JONATHON: That's the fun part. Here's the rest of it. My dad left when I was nin
 
 WES: [quietly] Yeah.
 
-JONATHON: He's alive. He lives in Lake Charles. He calls about twice a year. And I'm going to tell you right up front, I have not figured that out. We're going to talk about dads on this show, and I'm going to be the guy who hasn't healed on schedule.
+JONATHON: He's alive. He lives in Lake Charles. He calls about twice a year. And I'm going to tell you right up front, I haven't figured that out. We're going to talk about dads on this show, and I'm going to be the guy who hasn't healed on schedule.
 
 WES: That's allowed here.
 
@@ -146,7 +146,7 @@ JONATHON: And she wasn't wrong. About a month later, a customer of mine, a mecha
 
 WES: That's how most men end up at a men's breakfast.
 
-JONATHON: I sat in the parking lot for eleven minutes. I watched the clock on the dash. I almost left. When I finally went in, there was one open seat, and it was across from this guy. I didn't say anything that morning. Three months later I sent him a text asking if he'd get breakfast with me. That is the scariest text I've ever sent a man.
+JONATHON: I sat in the parking lot for eleven minutes. I watched the clock on the dash. I almost left. When I finally went in, there was one open seat, and it was across from this guy. I didn't say anything that morning. Three months later I sent him a text asking if he'd get breakfast with me. That's the scariest text I've ever sent a man.
 
 WES: It said, Hey, this is Jonathon from the breakfast, the HVAC guy, no pressure.
 
@@ -174,7 +174,7 @@ WES: Let's take the next few minutes on what this actually is, because if you ju
 
 JONATHON: I'll start, because I asked him this when he first said he wanted to do a show. I said, is this a sermon with two chairs?
 
-WES: It is not.
+WES: It's not.
 
 JONATHON: Good. Because I would have said no. Walk Steadfast is two men at a table working through one hard part of following Jesus. That's it. Wes drives. I color. We tell on ourselves first. We open the Bible. I argue. Then we each tell you what we actually did this week, not what we wish we'd done.
 
@@ -190,7 +190,7 @@ WES: Then one question men actually ask, labeled honestly. Then one tool you can
 
 JONATHON: Both drop early, before your commute. Tuesday and Friday. That's the week.
 
-WES: Who it's for. If you're a man who knows the words and is still checked out in your own house, this is for you. If you came to faith late and you feel like you missed the class, this is for you. If you're twenty-two and nobody's waiting on you at home, stay. Your Tuesday's in here too. If you're sixty-two and you think the useful years are behind you, stay. I've sat with that man. He is not done.
+WES: Who it's for. If you're a man who knows the words and is still checked out in your own house, this is for you. If you came to faith late and you feel like you missed the class, this is for you. If you're twenty-two and nobody's waiting on you at home, stay. Your Tuesday's in here too. If you're sixty-two and you think the useful years are behind you, stay. I've sat with that man. He's not done.
 
 JONATHON: And if you're a woman listening, you're welcome. A lot of you will hear your husband in this. Send it. Don't send it with a speech.
 
@@ -198,9 +198,9 @@ WES: If you're not sure about God at all, you're welcome too. Jonathon was Easte
 
 JONATHON: That's what I did. In the truck. At lunch. I didn't tell Dani for a month because I thought I'd sound like I was trying too hard.
 
-WES: What it's not. Nobody's going to yell at you or tell you to be an alpha anything. We will disagree, and we will not always land it. We will not stack asks on you. When we want you to do something, it will be one thing, said plainly, at the end.
+WES: What it's not. Nobody's going to yell at you or tell you to be an alpha anything. We will disagree, and we won't always land it. We won't stack asks on you. When we want you to do something, it will be one thing, said plainly, at the end.
 
-JONATHON: And we will not pretend we have this figured out. I have a seven-year-old who still has to jail my phone at supper, and we haven't even told that story yet.
+JONATHON: And we won't pretend we've got this figured out. I've got a seven-year-old who still has to jail my phone at supper, and we haven't even told that story yet.
 
 WES: We will. Look around your week this week. If there's a version of you you've been describing for years, and he only shows up on the days with pictures, you're in the right chair.
 
@@ -254,7 +254,7 @@ WES: She just wanted to eat with her dad. And I looked down at her on the floor,
 
 [BOARD: Proverbs 20:6 (NIV) · "Many claim to have unfailing love, but a faithful person who can find?"]
 
-WES: If you've got a recliner, or a 1604, hear this. The man you keep saying you'll be is not waiting on a better season. He's waiting on a regular day.
+WES: If you've got a recliner, or a 1604, hear this. The man you keep saying you'll be isn't waiting on a better season. He's waiting on a regular day.
 
 JONATHON: And the regular day is the one you keep leaving, which is why the man you describe never shows up.
 
@@ -286,9 +286,9 @@ WES: For you it was 1604. And then Jesus says something in Luke sixteen that I t
 
 JONATHON: Hold on. So the little thing is the test. Not the trip. Not the promotion. The bath fight.
 
-WES: Tuesday is the very little. It's six-fifteen. It's supper. It's the bath fight. And the way you handle the very little is the way you handle the much. You don't get to be one man on the trip to the coast and a different man in the recliner. It's the same man. The trip just has better lighting.
+WES: The bath fight. Tuesday is the very little. It's six-fifteen. It's supper. And the way you handle the very little is the way you handle the much. You don't get to be one man on the trip to the coast and a different man in the recliner. It's the same man. The trip just has better lighting.
 
-JONATHON: That's annoying. I have a lot of trip pictures, and I have used every one of them as proof I was present.
+JONATHON: That's annoying. I've got a lot of trip pictures, and I've used every one of them as proof I was present.
 
 WES: Keep the pictures. Just don't let them do the lying for you.
 
@@ -404,7 +404,7 @@ JONATHON: Monday was great. Tuesday was fine. Wednesday, Theo flooded the bathro
 
 WES: How?
 
-JONATHON: I genuinely do not know. I turned around to get a towel. I turned back and there was water going under the door into the hallway. He was just sitting in the tub smiling at me. Very proud.
+JONATHON: I genuinely don't know. I turned around to get a towel. I turned back and there was water going under the door into the hallway. He was just sitting in the tub smiling at me. Very proud.
 
 WES: Of course he was.
 

@@ -5,9 +5,9 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,934 (about 19:34 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,948 (about 19:39 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 52 lines (52% of words). JONATHON 46 lines (48% of words), 1 under 12 words (2.2%) |
+| Line balance | WES 52 lines (51% of words). JONATHON 46 lines (49% of words), 1 under 12 words (2.2%) |
 | Focus mark | None by design. Sets up the sentence. |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Genesis 1:27. Board only: Proverbs 20:6 |
 | Board cues | 4 (none repeats spoken words) |
@@ -54,7 +54,7 @@ JONATHON: I'm on my knees on the bathmat with a cup in my hand, and I've got not
 
 WES: What would the fortune cookie say?
 
-JONATHON: Something like "A man works hard and loves his family." Which is fine. It's true. It's also what a golden retriever does. My dog, if I had a dog. Ruby's still working on that one, and she's going to be a lawyer, and I am going to lose.
+JONATHON: Something like "A man works hard and loves his family." Which is fine. It's true. It's also what a golden retriever does. My dog, if I had a dog. Ruby's still working on that one, and she's going to be a lawyer, and I'm going to lose.
 
 ---
 
@@ -70,7 +70,7 @@ JONATHON: That's a lineman move. They don't do soft, and they don't let you hide
 
 WES: I sat there a while. And I wrote, "Pay the bills and don't make trouble." That was it. Fifteen years. I paid every bill. I never made any trouble. I also never made anything else.
 
-JONATHON: Where did you get it? Because that doesn't sound like something a man invents on a Tuesday. That sounds like something he inherits.
+JONATHON: Pay the bills and don't make trouble. Yeah, and— that's a disappearing act with a checking account. Where did you get it? Because that doesn't sound like something a man invents on a Tuesday. That sounds like something he inherits.
 
 WES: From my dad, mostly. Not from anything he said. From what he didn't say. He was a good man. He paid the bills. He didn't make trouble. And he never once sat me down and said, "Son, here's what a man is." I watched what he did, and I wrote my own sentence from the outside of his life.
 
@@ -190,7 +190,7 @@ JONATHON: Okay, but I have to ask this one, because somebody's thinking it. Does
 
 WES: Look at the verse. Same breath. "Male and female he created them." Both in the image. There's no ranking in that sentence. A man wanting a sentence doesn't take anything from a woman. My wife doesn't need me to be less of a man so she can be more of a woman. She needs me to show up.
 
-JONATHON: Dani would say the same thing. Louder. And better. She would not let me turn this into a ranking.
+JONATHON: Dani would say the same thing. Louder. And better. She wouldn't let me turn this into a ranking.
 
 ---
 
@@ -232,7 +232,7 @@ JONATHON: What did he say, because a sixteen-year-old will either give you nothi
 
 WES: He was quiet for about a mile. Then he said, "That's kind of what I thought you thought." He'd read it off of me. I said, "I'm working on a better one." He said, "Okay." And then he ran a yellow light.
 
-JONATHON: How deep? Because "yellow" in his mouth and "yellow" in your mouth are not the same color.
+JONATHON: How deep? Because "yellow" in his mouth and "yellow" in your mouth aren't the same color.
 
 WES: It was a dark yellow. What about you?
 

@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 3,173 (about 21:09 at 150 wpm, before laughs and pauses) |
+| Spoken words | 3,172 (about 21:09 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 46 lines (52% of words). JONATHON 39 lines (48% of words), 2 under 12 words (5.1%) |
 | Focus mark | All four, introduced once |
@@ -38,7 +38,7 @@ JONATHON: And I'm Jonathon.
 
 WES: Today, one question. What does a steadfast man actually look like on a regular Tuesday, in a sentence a man can say out loud? If you've got a card with a blank back, or a receipt in the console, stay. Before we're done, I'm going to say the sentence once, and you're going to write it.
 
-JONATHON: And if you're driving, do not write. Listen now. Write it at the next stop. I already almost wrote on the highway in my head.
+JONATHON: And if you're driving, don't write. Listen now. Write it at the next stop. I already almost wrote on the highway in my head.
 
 ---
 
@@ -46,7 +46,7 @@ JONATHON: And if you're driving, do not write. Listen now. Write it at the next 
 
 WES: Pull up a chair. Friday we said leave the back of the card blank. Today we fill it in. I'm going to say the sentence once. Just once. Then we take it apart, one piece at a time, and I want you to see each piece on a regular day. Because a sentence you can't picture on a Tuesday is just a slogan.
 
-JONATHON: And we don't do slogans. I have sat through enough of those at work to last me until I retire, and none of them ever followed me home.
+JONATHON: And we don't do slogans. I've sat through enough of those at work to last me until I retire, and none of them ever followed me home.
 
 WES: [turns his mug a quarter turn] A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
@@ -60,7 +60,7 @@ WES: And a man who's all of those things can fail every word of it. Easily. I've
 
 JONATHON: Why not five? Add "prays." Add "loves his wife." Add "grills." I can keep going if you let me, and some guy on my team would add a fifth just to have a poster.
 
-WES: Prayer's in all four. Loving your wife is in all four. Grills is not. No fifth.
+WES: Prayer's in all four. Loving your wife is in all four. Grills isn't. No fifth.
 
 ---
 
@@ -68,11 +68,11 @@ WES: Prayer's in all four. Loving your wife is in all four. Grills is not. No fi
 
 WES: Let's take the next few minutes on the first two, because they show up in a house before they show up in a verse. Piece one. When it's yours to do, start now, before you feel like it. James four, seventeen, in plain words. If you know the good you ought to do and you sit on it, James doesn't call that a personality type.
 
-JONATHON: And the picture used to be your gutter. Used to be. Because I want the man listening to hear that it did not stay loose for another season.
+JONATHON: And the picture used to be your gutter. Used to be. Because I want the man listening to hear that it didn't stay loose for another season.
 
 WES: The gutter is done. Saturday. Eighty-one-year-old held the ladder. He supervised. What's left at my house is a ceiling fan in my youngest's room that clicks, and a call I still haven't made. Waiting doesn't feel like doing anything wrong. It feels like nothing. I didn't decide to leave the gutter. I just never decided to fix it.
 
-JONATHON: It feels like peace. And it's not. I already know we're going to spend a whole Tuesday on that, because I've got my own version, and it is not a porch.
+JONATHON: It feels like peace. And it's not. I already know we're going to spend a whole Tuesday on that, because I've got my own version, and it's not a porch.
 
 WES: Piece two. Carry what's yours, even when somebody else dropped it. Paul told the Galatians each one should carry their own load. Your load. Not everybody's. Not nobody's. Yours.
 
@@ -80,7 +80,7 @@ JONATHON: Okay, this one's mine. Can I take this one? Because "even when somebod
 
 WES: That's a fair question.
 
-JONATHON: It's a fair question. But here's what I figured out, slowly, mostly at breakfast with you. I don't carry his weight. I can't. That's his. He'll answer for that. But my kids are mine. My marriage is mine. How I treat my mom now, that's mine. And the stuff he left in me, the anger, the "win the room," that's in my house now, so whether I like it or not, it's mine to deal with.
+JONATHON: Yeah, and— it's a fair question I used for years. But here's what I figured out, slowly, mostly at breakfast with you. I don't carry his weight. I can't. That's his. He'll answer for that. But my kids are mine. My marriage is mine. How I treat my mom now, that's mine. And the stuff he left in me, the anger, the "win the room," that's in my house now, so whether I like it or not, it's mine to deal with.
 
 WES: You didn't drop it. But it landed in your yard.
 
@@ -126,7 +126,7 @@ WES: [sips coffee] I planned it a little.
 
 ## SEGMENT 4 · Which one is hardest
 
-WES: We're about halfway. Before we open the Bible, I want this on the table. Which one's the hardest? For most men. You've sat with me at enough breakfasts to have an opinion, and I have sat with hundreds of guys.
+WES: We're about halfway. Before we open the Bible, I want this on the table. Which one's the hardest? For most men. You've sat with me at enough breakfasts to have an opinion, and I've sat with hundreds of guys.
 
 JONATHON: I think it's the pay one. And I know you're going to say waiting, so I'm going to say mine first so I don't just nod.
 
@@ -136,7 +136,7 @@ JONATHON: See, I think the pay one is underneath the other three. Why do I wait?
 
 WES: [beat] Huh. That's a "I'm going to think about that on the drive home" huh. I'll say this. You might be right about you. A man who grew up winning rooms, the pay is probably the root. A man like me, who grew up not making trouble, I think the waiting's the root. I didn't need applause. I needed comfort.
 
-JONATHON: So it depends on the guy. Which is why the challenge is going to be, find yours. And we're going to keep arguing about this. Fair warning. I do not fold just because you said "huh."
+JONATHON: So it depends on the guy. Which is why the challenge is going to be, find yours. And we're going to keep arguing about this. Fair warning. I don't fold just because you said "huh."
 
 WES: Good. Don't.
 
@@ -208,7 +208,7 @@ WES: Tuesday, zero. Wednesday, one. Thursday, zero. Friday, two. Friday I went f
 
 JONATHON: The brother you haven't called.
 
-WES: Different brother. I have two. I haven't called the other one either. What about you?
+WES: Different brother. I've got two. I haven't called the other one either. What about you?
 
 JONATHON: I put the card in my truck visor like I said. Monday I had a call with a customer, a big one. Their order was going to be three weeks late. Our warehouse messed up. And my whole instinct was to win the room. Make it sound fine. Blame the manufacturer. Promise something I couldn't promise. I had the visor down. I saw the card. "Not the room's." And I just told him the truth. Our warehouse messed up, it's three weeks, here's what I can actually do, here's what I can't.
 

@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (1,914 spoken words, about 12:46). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (1,924 spoken words, about 12:50). Re-time them against the final edit before publishing.
 
 ---
 
@@ -35,20 +35,20 @@ Christian men podcast, marriage, Proverbs 5:18, covenant, Field Notes, Walk Stea
 |---|---|---|
 | 00:00 | Open | Open |
 | 00:53 | Hiding | Hiding |
-| 01:59 | How are you | How are you |
-| 02:48 | The Word | The Word |
-| 03:41 | The scan and the boots | The scan and the boots |
-| 04:57 | The man who looks | The man who looks |
-| 06:03 | The cigarette hour | The cigarette hour |
-| 07:02 | Waiting room | Waiting room |
-| 08:00 | Boots and a box | Boots and a box |
-| 09:04 | The dishes again | The dishes again |
-| 09:41 | Monday results | Monday results |
-| 10:18 | Second Saturday coming | Second Saturday coming |
-| 10:53 | What I'm carrying | What I'm carrying |
-| 11:23 | Oldest and loud | Oldest and loud |
-| 11:56 | Reader | Reader |
-| 12:25 | Close | Close |
+| 02:07 | How are you | How are you |
+| 03:04 | The Word | The Word |
+| 03:56 | The scan and the boots | The scan and the boots |
+| 05:11 | The man who looks | The man who looks |
+| 06:16 | The cigarette hour | The cigarette hour |
+| 07:14 | Waiting room | Waiting room |
+| 08:11 | Boots and a box | Boots and a box |
+| 09:14 | The dishes again | The dishes again |
+| 09:50 | Monday results | Monday results |
+| 10:25 | Second Saturday coming | Second Saturday coming |
+| 11:00 | What I'm carrying | What I'm carrying |
+| 11:28 | Oldest and loud | Oldest and loud |
+| 12:01 | Reader | Reader |
+| 12:29 | Close | Close |
 
 ---
 

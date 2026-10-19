@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (1,911 spoken words, about 12:44). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (1,991 spoken words, about 13:16). Re-time them against the final edit before publishing.
 
 ---
 
@@ -34,23 +34,23 @@ Christian men podcast, layoff, Matthew 6:33, Field Notes, Walk Steadfast, identi
 | Time | Segment | Summary |
 |---|---|---|
 | 00:00 | Open | Open |
-| 00:48 | The table | The table |
-| 01:29 | Tomatoes | Tomatoes |
-| 02:33 | The Word | The Word |
-| 03:33 | What we're carrying | What we're carrying |
-| 04:21 | More on a 1 | More on a 1 |
-| 05:10 | More on a 2 | More on a 2 |
-| 05:53 | More on a 3 | More on a 3 |
-| 06:29 | More on a 4 | More on a 4 |
-| 07:04 | More on a 5 | More on a 5 |
-| 07:35 | More on a 6 | More on a 6 |
-| 08:24 | More on a 7 | More on a 7 |
-| 09:08 | More on tomatoes 8 | More on tomatoes 8 |
-| 09:44 | More on tomatoes 9 | More on tomatoes 9 |
-| 10:18 | More on tomatoes 10 | More on tomatoes 10 |
-| 10:50 | More on tomatoes 11 | More on tomatoes 11 |
-| 11:40 | More on tomatoes 12 | More on tomatoes 12 |
-| 12:22 | Close | Close |
+| 00:46 | The table | The table |
+| 01:25 | Tomatoes | Tomatoes |
+| 02:29 | The Word | The Word |
+| 03:29 | What we're carrying | What we're carrying |
+| 04:14 | More on a 1 | More on a 1 |
+| 05:09 | More on a 2 | More on a 2 |
+| 05:50 | More on a 3 | More on a 3 |
+| 06:34 | More on a 4 | More on a 4 |
+| 07:07 | More on a 5 | More on a 5 |
+| 07:46 | More on a 6 | More on a 6 |
+| 08:41 | More on a 7 | More on a 7 |
+| 09:24 | More on tomatoes 8 | More on tomatoes 8 |
+| 10:05 | More on tomatoes 9 | More on tomatoes 9 |
+| 10:38 | More on tomatoes 10 | More on tomatoes 10 |
+| 11:19 | More on tomatoes 11 | More on tomatoes 11 |
+| 12:14 | More on tomatoes 12 | More on tomatoes 12 |
+| 12:55 | Close | Close |
 
 ---
 

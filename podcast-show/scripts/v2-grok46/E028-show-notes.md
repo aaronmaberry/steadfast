@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,097 spoken words, about 13:59). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,126 spoken words, about 14:10). Re-time them against the final edit before publishing.
 
 ---
 
@@ -35,11 +35,11 @@ Christian men podcast, Field Notes, fatherhood, Ephesians 4:29, Walk Steadfast, 
 | Time | Segment | Summary |
 |---|---|---|
 | 00:00 | Open | Does he know about me? He liked the picture. |
-| 00:46 | Check the box | I used to hand you the brush. Mine took the TV. |
-| 05:26 | One honest sentence | Left is the true word. I know. I'm just saying. |
-| 08:41 | The Word | Ephesians 4:29. According to their needs. |
-| 10:37 | From the table | True. Short. Ends safe. Then stop. |
-| 13:32 | Close | One sentence. Then stop. |
+| 00:45 | Check the box | I used to hand you the brush. Mine took the TV. |
+| 05:53 | One honest sentence | Left is the true word. I know. I'm just saying. |
+| 09:03 | The Word | Ephesians 4:29. According to their needs. |
+| 10:57 | From the table | True. Short. Ends safe. Then stop. |
+| 13:44 | Close | One sentence. Then stop. |
 
 ---
 

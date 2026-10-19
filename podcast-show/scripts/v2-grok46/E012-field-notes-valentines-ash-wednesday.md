@@ -5,9 +5,9 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 1,900 (about 12:40 at 150 wpm, before laughs and pauses) |
+| Spoken words | 1,905 (about 12:42 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 24 lines (58% of words). JONATHON 19 lines (42% of words), 0 under 12 words (0.0%) |
+| Line balance | WES 24 lines (57% of words). JONATHON 19 lines (43% of words), 0 under 12 words (0.0%) |
 | Focus mark | Go First |
 | Scripture (NIV, verified 2026-10-19) | Spoken: 1 John 1:9. Board only: Psalm 51:3; Lamentations 3:40 |
 | Board cues | 5 (none repeats spoken words) |
@@ -34,7 +34,7 @@ WES: It was. My brother bristled. Then in the parking lot he said "Well," and th
 
 WES: This is Walk Steadfast. I'm Wes Hart.
 
-JONATHON: And I'm Jonathon. Friday we check the box. We do not dress it up.
+JONATHON: And I'm Jonathon. Friday we check the box. We don't dress it up.
 
 WES: Tuesday we asked you for one first move. If you made it, or if you didn't, stay. Before we're done I'll tell you what my wife said about diner coffee, and he will tell you what his mother is bringing for Easter.
 
@@ -46,23 +46,23 @@ JONATHON: And I'll tell you what Theo said when he saw dirt on my face.
 
 WES: Let's take the next few minutes on the room. Tuesday at two. Mom, my older brother, the doctor.
 
-JONATHON: Start with her sentence, because that's the one you said you would not improve, and I want to know if you kept your hands off it.
+JONATHON: Start with her sentence, because that's the one you said you wouldn't improve, and I want to know if you kept your hands off it.
 
-WES: She told the doctor she wants to stay in her house. Daytime driving, church included. Cleaning help every two weeks. A grab bar. The walker in the bathroom only. PT continues. The doctor agreed to most of it. My brother said, "We talked about this," in that voice that means he and I talked about this, not her. I stayed in the chair. I did not leave early. I want that on the record, because leaving early is my old move, and the old move was sitting right there in my legs. I put both feet flat and I listened. That is the only first move I made in that room, and it was enough.
+WES: She told the doctor she wants to stay in her house. Daytime driving, church included. Cleaning help every two weeks. A grab bar. The walker in the bathroom only. PT continues. The doctor agreed to most of it. My brother said, "We talked about this," in that voice that means he and I talked about this, not her. I stayed in the chair. I didn't leave early. I want that on the record, because leaving early is my old move, and the old move was sitting right there in my legs. I put both feet flat and I listened. That's the only first move I made in that room, and it was enough.
 
-JONATHON: Then the parking lot. "Well." And "I never asked her either." That's a lot of sentence for a man who answers the phone with one syllable. Did you pile on, or did you let it sit?
+JONATHON: Then the parking lot. "Well." And "I never asked her either." Yeah, and— that's a lot of sentence for a man who answers the phone with one syllable. Did you pile on, or did you let it sit?
 
-WES: I let it sit. He did not need me to win. He needed to hear himself say it. Mom wants to cook Sunday lunch for the whole family once a month, starting in March. She's already planning the menu. I told my wife that in the truck, and she said, "Good. Then you show up and you eat."
+WES: I let it sit. He didn't need me to win. He needed to hear himself say it. Mom wants to cook Sunday lunch for the whole family once a month, starting in March. She's already planning the menu. I told my wife that in the truck, and she said, "Good. Then you show up and you eat."
 
-JONATHON: Showing up and eating is a first move for your family. I know that sounds small. In your family it is not small.
+JONATHON: Showing up and eating is a first move for your family. I know that sounds small. In your family it's not small.
 
 [BOARD: Do not improve her line.]
 
 WES: Thursday I took my wife to Mr. Abernathy's diner for breakfast. In twenty years she had never been. Her verdict: "The coffee's terrible." She smiled when she said it. That's the review, and I'm keeping it.
 
-JONATHON: That's the most romantic sentence I've heard from your house in a month. Terrible coffee, and she was in the booth. You went first on a place that was yours, and you let her tell the truth about the pot.
+JONATHON: "The coffee's terrible." That's the most romantic sentence I've heard from your house in a month. Terrible coffee, and she was in the booth. You went first on a place that was yours, and you let her tell the truth about the pot.
 
-WES: That's the whole date. I did not need a bigger plan. I needed her in the booth I never invited her into. For twenty years that diner was a men's table in my head. Mr. Abernathy, the receipts, the fork. I never once thought she might want to see the booth. Going first was inviting her into a room I had kept as mine. The coffee being terrible made it honest. If I had taken her somewhere I was trying to impress her, I would have been collecting pay again.
+WES: That's the whole date. I didn't need a bigger plan. I needed her in the booth I never invited her into. For twenty years that diner was a men's table in my head. Mr. Abernathy, the receipts, the fork. I never once thought she might want to see the booth. Going first was inviting her into a room I had kept as mine. The coffee being terrible made it honest. If I had taken her somewhere I was trying to impress her, I would have been collecting pay again.
 
 ---
 
@@ -70,21 +70,21 @@ WES: That's the whole date. I did not need a bigger plan. I needed her in the bo
 
 WES: Your call. Thursday at seven. How did your mom take Easter at your house?
 
-JONATHON: I said the sentence. "We're hosting Easter lunch at our house, and I want you there, and I'm telling you myself." Then I shut up. She was quiet. Then she said, "Well, I'll bring the ham." My sister is at her in-laws' anyway. Friday morning she texted Dani directly. "Are you sure you're okay with me there?" Dani wrote back, "Yes. Bring the ham." I did not get to manage that text. I had to let two women talk without me in the middle.
+JONATHON: I said the sentence. "We're hosting Easter lunch at our house, and I want you there, and I'm telling you myself." Then I shut up. She was quiet. Then she said, "Well, I'll bring the ham." My sister is at her in-laws' anyway. Friday morning she texted Dani directly. "Are you sure you're okay with me there?" Dani wrote back, "Yes. Bring the ham." I didn't get to manage that text. I had to let two women talk without me in the middle.
 
-WES: That's going first and then getting out of the way. A lot of us go first and then hover like we still own the room. I have done that with my kids, with my wife, with my mom. I make the move, and then I stand over it to make sure it lands the way I wanted. That is not first. That is control wearing a nicer shirt. Once you have said the sentence, the next obedience is often shutting your mouth.
+WES: That's going first and then getting out of the way. A lot of us go first and then hover like we still own the room. I've done that with my kids, with my wife, with my mom. I make the move, and then I stand over it to make sure it lands the way I wanted. That's not first. That's control wearing a nicer shirt. Once you have said the sentence, the next obedience is often shutting your mouth.
 
-JONATHON: I left the coffee made with a note. She wrote back on the same sticky note. "Decaf next time. I'm trying to sleep." So I went first and I got a correction. I'll take a correction over silence. The note is still on the counter. I'm leaving it.
+JONATHON: I left the coffee made with a note. She wrote back on the same sticky note. "Decaf next time. I'm trying to sleep." So I went first and I got a correction. I'll take a correction over silence. The note is still on the counter. I'm leaving it. What would you have done with a correction like that? Because I wanted to write back "it's still coffee."
 
-WES: And Ash Wednesday. You took the kids alone.
+WES: I would have written back. That's the old me. You left the note. That's first. And Ash Wednesday. You took the kids alone.
 
-JONATHON: Dani was on shift. I took Ruby and Theo to the evening service. First time I've taken the family to church by myself. I forgot Ruby's jacket and we were late, and I felt like a man playing dress-up in his wife's job. Theo looked at me after and said, "You have dirt on your face." Ruby said, "Mom does the sitting part better." She is seven, and she is not wrong. I sat there with ash on my forehead feeling like a substitute, and I stayed anyway. Staying was the first move. Leaving would have been the old one. I used to think going first meant looking like I knew the room. Last night going first meant looking a little lost and not handing the kids back to nobody.
+JONATHON: Dani was on shift. I took Ruby and Theo to the evening service. First time I've taken the family to church by myself. I forgot Ruby's jacket and we were late, and I felt like a man playing dress-up in his wife's job. Theo looked at me after and said, "You have dirt on your face." Ruby said, "Mom does the sitting part better." She is seven, and she's not wrong. I sat there with ash on my forehead feeling like a substitute, and I stayed anyway. Staying was the first move. Leaving would have been the old one. I used to think going first meant looking like I knew the room. Last night going first meant looking a little lost and not handing the kids back to nobody.
 
 [BOARD: Stay in the pew even when you feel borrowed.]
 
-WES: That's the whole mark. You do not wait until you feel like the lead. You sit down and you stay. I have left rooms because I did not feel like the lead. I called it not wanting to get in the way. It was fear. A man who will only go first when he looks competent will go first about twice a year. The other fifty weeks his wife will keep being the one who knows where the jackets are.
+WES: That's the whole mark. You don't wait until you feel like the lead. You sit down and you stay. I've left rooms because I didn't feel like the lead. I called it not wanting to get in the way. It was fear. A man who will only go first when he looks competent will go first about twice a year. The other fifty weeks his wife will keep being the one who knows where the jackets are.
 
-JONATHON: Saturday we still have the reservation. I picked the place. I did not ask her to plan her own night after a week of nights. If she falls asleep in the appetizer I will still count it.
+JONATHON: Saturday we still have the reservation. I picked the place. I didn't ask her to plan her own night after a week of nights. If she falls asleep in the appetizer I will still count it.
 
 WES: Count it. A first move that meets a tired woman is still a first move.
 
@@ -98,11 +98,11 @@ JONATHON: "If we confess our sins, he is faithful and just and will forgive us o
 
 [BOARD: Psalm 51:3 (NIV) · "For I know my transgressions, and my sin is always before me."]
 
-WES: John is writing to people who already believe, and he is still telling them to say it out loud. Confess. Not explain. Not give context. Not tell her why you were tired. The first apology is the sin named, and then you stop. God is faithful. She may need a minute. You do not get to rush her minute. I have rushed a lot of minutes in my marriage because I wanted to feel clean. Feeling clean is not the same as being forgiven. Forgiven is her time, and God's. Your job is the sentence.
+WES: John is writing to people who already believe, and he is still telling them to say it out loud. Confess. Not explain. Not give context. Not tell her why you were tired. The first apology is the sin named, and then you stop. God is faithful. She may need a minute. You don't get to rush her minute. I've rushed a lot of minutes in my marriage because I wanted to feel clean. Feeling clean isn't the same as being forgiven. Forgiven is her time, and God's. Your job is the sentence.
 
-JONATHON: Here's my problem with that. In sales I have been trained to stack the because. "I'm sorry the report was late because the client..." That's not an apology. That's a press release. I did that with Dani for years. "I'm sorry I was short because the kids..." She heard the because. She did not hear the sorry.
+JONATHON: Here's my problem with that. In sales I've been trained to stack the because. "I'm sorry the report was late because the client..." That's not an apology. That's a press release. I did that with Dani for years. "I'm sorry I was short because the kids..." She heard the because. She didn't hear the sorry.
 
-WES: Drop the because. "I was short with you. I was wrong. I'm sorry." Then shut up. If she says keep going, keep going. If she says okay, do not add a paragraph so you can feel finished.
+WES: Drop the because. "I was short with you. I was wrong. I'm sorry." Then shut up. If she says keep going, keep going. If she says okay, don't add a paragraph so you can feel finished.
 
 [BOARD: Lamentations 3:40 (NIV) · "Let us examine our ways and test them, and let us return to the Lord."]
 
@@ -114,21 +114,21 @@ WES: Last few minutes on the tool. The first apology. One clean sentence. No bec
 
 JONATHON: I need examples, because I will write a speech if you leave this open. Give me the short ones a man can actually say tonight.
 
-WES: "I left you to start that talk, and I was wrong." "I yelled, and the yelling was wrong." "I have been making you pay for my mom." You already said that one. That's the model. Then you listen longer than you want to. If you live alone, the first apology might be to your mother, or to a brother, or to a man at work you undercut. Write the sentence. Say it. Do not mail a paragraph. A paragraph is how we hide.
+WES: "I left you to start that talk, and I was wrong." "I yelled, and the yelling was wrong." "I have been making you pay for my mom." You already said that one. That's the model. Then you listen longer than you want to. If you live alone, the first apology might be to your mother, or to a brother, or to a man at work you undercut. Write the sentence. Say it. Don't mail a paragraph. A paragraph is how we hide.
 
-JONATHON: And if she doesn't accept it that night? Because I have a version of me that will keep talking until I get a receipt.
+JONATHON: And if she doesn't accept it that night? Because I've got a version of me that will keep talking until I get a receipt.
 
-WES: Then you already did the first move. The receipt is not the point. God saw it. She heard it. Give her the night. Do not collect pay in the morning.
+WES: Then you already did the first move. The receipt isn't the point. God saw it. She heard it. Give her the night. Don't collect pay in the morning.
 
-JONATHON: The single check came by text. My nephew made chili for two guys. Seven showed up. He had chili for four. He texted me a picture of the pot and the line, "I should've gone first on the beans." I wrote back, "Next time double it." That's his version. He invited. He did not wait for a better Sunday.
+JONATHON: The single check came by text. My nephew made chili for two guys. Seven showed up. He had chili for four. He texted me a picture of the pot and the line, "I should've gone first on the beans." I wrote back, "Next time double it." That's his version. He invited. He didn't wait for a better Sunday.
 
-WES: Look around your house this week. If you owe an apology, do not wait for Valentine's dinner to make it pretty. Pretty is how we postpone. Say it in the kitchen. Then go eat. I would rather you ruin a pretty night with an honest sentence than keep a pretty night and a dirty quiet. The ash is still on some of our foreheads. That is a good week to tell the truth.
+WES: Look around your house this week. If you owe an apology, don't wait for Valentine's dinner to make it pretty. Pretty is how we postpone. Say it in the kitchen. Then go eat. I would rather you ruin a pretty night with an honest sentence than keep a pretty night and a dirty quiet. The ash is still on some of our foreheads. That's a good week to tell the truth.
 
 [BOARD: No because. Then stop talking.]
 
-JONATHON: I still owe my mom a cleaner sentence than Easter logistics. The ham is not the whole story. The October fight is not finished. We picked a night. We started. We have not closed it. I need that on the record so nobody thinks a ham fixed four months. I can feel myself wanting the ham to be the ending so I can go back to being comfortable. Comfortable is how we got the cease-fire. I am not going back to that, even if Thursday was ugly.
+JONATHON: I still owe my mom a cleaner sentence than Easter logistics. The ham isn't the whole story. The October fight isn't finished. We picked a night. We started. We haven't closed it. I need that on the record so nobody thinks a ham fixed four months. I can feel myself wanting the ham to be the ending so I can go back to being comfortable. Comfortable is how we got the cease-fire. I'm not going back to that, even if Thursday was ugly.
 
-WES: Started is still the word. Friday does not require finished. It requires honest. I keep wanting a Friday where every box is closed and the family is tidy. That Friday is not coming. The honest Friday is, I asked her, I stayed in the chair, I took my wife to a diner with bad coffee, and I still have a brother I have to keep showing up for. That's enough for one week if I do not lie about the rest.
+WES: Started is still the word. Friday does not require finished. It requires honest. I keep wanting a Friday where every box is closed and the family is tidy. That Friday isn't coming. The honest Friday is, I asked her, I stayed in the chair, I took my wife to a diner with bad coffee, and I still have a brother I have to keep showing up for. That's enough for one week if I don't lie about the rest.
 
 ---
 

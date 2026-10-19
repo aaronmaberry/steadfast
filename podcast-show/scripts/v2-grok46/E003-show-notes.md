@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,934 spoken words, about 19:34). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,948 spoken words, about 19:39). Re-time them against the final edit before publishing.
 
 ---
 
@@ -41,14 +41,14 @@ Christian men podcast, Walk Steadfast, biblical manhood, Genesis 1:27, image of 
 | 00:00 | Open | Theo asks what a man is. Jonathon says "a big boy." The question of the day, and a receipt. |
 | 01:00 | The bath | "Be a man about it." The shark. The fortune cookie. The golden retriever. |
 | 02:25 | The sentence you've been living | Wes writes "Pay the bills and don't make trouble." Thirty-some receipts in a Bible. |
-| 04:49 | Your turn | "Win the room" on a feed-store receipt. Dad left. 1604. |
-| 06:50 | Where they come from | Coach, church, boss, phone. "Never let them see you hurt." |
-| 08:58 | Loud and quiet | The feed is screaming. Quiet at your table. Costume versus fit. |
-| 10:44 | The Word | Genesis 1:27. Made on purpose. No ranking. |
-| 13:44 | Pushback | Why a sentence at all? Kids are already writing theirs. |
-| 15:56 | What we actually did | The sixteen-year-old. Next bath night. "Are you tired?" |
-| 17:49 | This week's challenge | Write the one you've been living. Tell one man. Ask her. |
-| 19:00 | Close | Read yours before your kids finish it. Friday: what she said. |
+| 04:55 | Your turn | "Win the room" on a feed-store receipt. Dad left. 1604. |
+| 06:56 | Where they come from | Coach, church, boss, phone. "Never let them see you hurt." |
+| 09:05 | Loud and quiet | The feed is screaming. Quiet at your table. Costume versus fit. |
+| 10:50 | The Word | Genesis 1:27. Made on purpose. No ranking. |
+| 13:50 | Pushback | Why a sentence at all? Kids are already writing theirs. |
+| 16:02 | What we actually did | The sixteen-year-old. Next bath night. "Are you tired?" |
+| 17:54 | This week's challenge | Write the one you've been living. Tell one man. Ask her. |
+| 19:05 | Close | Read yours before your kids finish it. Friday: what she said. |
 
 ---
 

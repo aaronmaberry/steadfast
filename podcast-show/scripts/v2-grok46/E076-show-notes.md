@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (1,960 spoken words, about 13:04). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,156 spoken words, about 14:22). Re-time them against the final edit before publishing.
 
 ---
 
@@ -34,25 +34,25 @@ Christian men podcast, mentoring, Titus 2:2, Field Notes, Walk Steadfast, genera
 | Time | Segment | Summary |
 |---|---|---|
 | 00:00 | Open | Open |
-| 00:48 | Forty feet | Forty feet |
-| 01:39 | Bottom three | Bottom three |
-| 02:26 | The Word | The Word |
-| 03:20 | Wrenches and golf | Wrenches and golf |
-| 04:04 | More on forty 1 | More on forty 1 |
-| 04:50 | More on forty 2 | More on forty 2 |
-| 05:31 | More on forty 3 | More on forty 3 |
-| 06:04 | More on forty 4 | More on forty 4 |
-| 06:34 | More on forty 5 | More on forty 5 |
-| 07:06 | More on forty 6 | More on forty 6 |
-| 07:52 | More on forty 7 | More on forty 7 |
-| 08:33 | More on bottom-three 8 | More on bottom-three 8 |
-| 09:06 | More on bottom-three 9 | More on bottom-three 9 |
-| 09:37 | More on bottom-three 10 | More on bottom-three 10 |
-| 10:07 | More on bottom-three 11 | More on bottom-three 11 |
-| 10:53 | More on bottom-three 12 | More on bottom-three 12 |
-| 11:35 | More on bottom-three 13 | More on bottom-three 13 |
-| 12:09 | More on bottom-three 14 | More on bottom-three 14 |
-| 12:40 | Close | Close |
+| 00:47 | Forty feet | Forty feet |
+| 01:56 | Bottom three | Bottom three |
+| 02:43 | The Word | The Word |
+| 03:36 | Wrenches and golf | Wrenches and golf |
+| 04:17 | More on forty 1 | More on forty 1 |
+| 05:09 | More on forty 2 | More on forty 2 |
+| 05:48 | More on forty 3 | More on forty 3 |
+| 06:28 | More on forty 4 | More on forty 4 |
+| 07:04 | More on forty 5 | More on forty 5 |
+| 07:44 | More on forty 6 | More on forty 6 |
+| 08:36 | More on forty 7 | More on forty 7 |
+| 09:15 | More on bottom-three 8 | More on bottom-three 8 |
+| 09:55 | More on bottom-three 9 | More on bottom-three 9 |
+| 10:31 | More on bottom-three 10 | More on bottom-three 10 |
+| 11:09 | More on bottom-three 11 | More on bottom-three 11 |
+| 12:01 | More on bottom-three 12 | More on bottom-three 12 |
+| 12:41 | More on bottom-three 13 | More on bottom-three 13 |
+| 13:22 | More on bottom-three 14 | More on bottom-three 14 |
+| 13:58 | Close | Close |
 
 ---
 

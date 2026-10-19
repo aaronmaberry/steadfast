@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (1,913 spoken words, about 12:45). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (1,916 spoken words, about 12:46). Re-time them against the final edit before publishing.
 
 ---
 
@@ -36,10 +36,10 @@ Christian men podcast, Field Notes, Walk Steadfast, Psalm 139, examen, confessio
 |---|---|---|
 | 00:00 | Open | The VP said let's not make this a thing. |
 | 00:48 | Check the box | The email. The cereal. The pie. The fan tomorrow. |
-| 05:16 | From the table | Find your part, not everybody's part. |
-| 07:35 | The Word | Psalm 139:23-24. Search me. |
-| 09:50 | Three questions | The examen. Where was God. What is mine. What do I need. |
-| 12:11 | Close | Ask him to search you. Then sleep. |
+| 05:31 | From the table | Find your part, not everybody's part. |
+| 07:44 | The Word | Psalm 139:23-24. Search me. |
+| 09:56 | Three questions | The examen. Where was God. What is mine. What do I need. |
+| 12:13 | Close | Ask him to search you. Then sleep. |
 
 ---
 

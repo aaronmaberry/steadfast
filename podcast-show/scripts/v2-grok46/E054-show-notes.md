@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (1,927 spoken words, about 12:51). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (1,935 spoken words, about 12:54). Re-time them against the final edit before publishing.
 
 ---
 
@@ -34,11 +34,11 @@ Christian men podcast, Field Notes, Colossians 3:23, work, Walk Steadfast
 |---|---|---|
 | 00:00 | Open | Open. |
 | 00:44 | Door's open | Door's open. |
-| 02:53 | A bar chart and a driveway | A bar chart and a driveway. |
-| 04:27 | The Word | The Word. |
-| 05:32 | The end-of-day shutdown | The end-of-day shutdown. |
-| 09:06 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
-| 12:28 | Close | Close. |
+| 02:46 | A bar chart and a driveway | A bar chart and a driveway. |
+| 04:18 | The Word | The Word. |
+| 05:21 | The end-of-day shutdown | The end-of-day shutdown. |
+| 08:30 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
+| 12:31 | Close | Close. |
 
 ---
 

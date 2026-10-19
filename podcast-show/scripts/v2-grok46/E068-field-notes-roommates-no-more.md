@@ -5,9 +5,9 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 2,022 (about 13:29 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,072 (about 13:49 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 32 lines (55% of words). JONATHON 30 lines (45% of words), 2 under 12 words (6.7%) |
+| Line balance | WES 41 lines (53% of words). JONATHON 39 lines (47% of words), 2 under 12 words (5.1%) |
 | Focus mark | Stop Waiting |
 | Scripture (NIV, verified 2026-10-19) | Spoken: 1 Corinthians 13:4. Board only: Ecclesiastes 9:9; Ephesians 4:32 |
 | Board cues | 3 |
@@ -24,7 +24,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 
 WES: She drew a cartoon duck under his line. No words.
 
-JONATHON: I asked what it meant. She said, "It's a duck."
+JONATHON: She said, "It's a duck."
 
 WES: That's a tree down. Don't ask the duck to be a paragraph.
 
@@ -34,7 +34,7 @@ WES: That's a tree down. Don't ask the duck to be a paragraph.
 
 WES: This is Walk Steadfast. I'm Wes Hart.
 
-JONATHON: And I'm Jonathon. Friday we check the box. We do not dress it up.
+JONATHON: And I'm Jonathon. Friday we check the box. We don't dress it up.
 
 WES: Tuesday we asked you for one minute with no job and one line that isn't a chore. If you tried it, stay. Before we're done I'll tell you what she said after a mile of quiet, and he will tell you about rain boots on a porch rebuild.
 
@@ -64,7 +64,7 @@ JONATHON: Dani's old rain boots. Virgil's elbow on a porch rebuild. She handed s
 
 WES: That's a room that isn't a whiteboard. A seven-year-old can tell.
 
-JONATHON: She looked like a person, not a chore I manage. I needed to see that. I have been managing her shoes on a fridge and missing her becoming someone.
+JONATHON: She looked like a person, not a chore I manage. I needed to see that. I've been managing her shoes on a fridge and missing her becoming someone.
 
 ---
 
@@ -76,7 +76,7 @@ JONATHON: "Love is patient, love is kind. It does not envy, it does not boast, i
 
 [BOARD: Ephesians 4:32 (NIV) · "Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you."]
 
-WES: Patient is a mile of quiet. Kind is a duck you don't interrogate. Not proud is not turning a whiteboard into a testimony.
+WES: Patient is a mile of quiet. Kind is a duck you don't interrogate. Not proud isn't turning a whiteboard into a testimony.
 
 JONATHON: I wanted to boast about the lines. The duck shut that down. Good.
 
@@ -86,9 +86,9 @@ WES: Context in two sentences. Paul is telling a church that gifts without love 
 
 ## SEGMENT 4 · Finish something
 
-WES: Saturday on the ride I asked what she is looking forward to this year. About a mile of quiet. She said, "I'd like to finish something." I said like what. She said, "I'll tell you when I know." I did not mention the printout in my Bible. I thought about the back door. I did not say it. The plane is still on the workbench. She wants to finish something. I have a jamb I keep not finishing.
+WES: Saturday on the ride I asked what she's looking forward to this year. About a mile of quiet. She said, "I'd like to finish something." I said like what. She said, "I'll tell you when I know." I didn't mention the printout in my Bible. I thought about the back door. I didn't say it. The plane is still on the workbench. She wants to finish something. I've got a jamb I keep not finishing.
 
-JONATHON: That's hearing. I would have slid the printout. You left it. That's enjoy without a project. You heard finish and you thought of a hinge. That's honest. Next time say the hinge out loud so she doesn't have to guess which Saturday you mean.
+JONATHON: I would have slid the printout. You left it. That's enjoy without a project. You heard finish and you thought of a hinge. That's honest. Next time say the hinge out loud so she doesn't have to guess which Saturday you mean.
 
 WES: The friend's results Monday: treatable. A long fall. Treatments Tuesdays after Labor Day. My wife drives most weeks. I drive the weeks she's at her sister's. She asked. I repeated it. She nodded.
 
@@ -100,11 +100,11 @@ JONATHON: That's a lot under the sun. A long fall. A chair. Not a joke in a hall
 
 ## SEGMENT 5 · Lead
 
-WES: The 24-year-old texted Tuesday from the warehouse. I have permission to read it. He told Merle yes, but only the nursing home one, once a month on the Thursday. Grandma gets the front row. The other Thursdays are still hers. Still nights. Still no girlfriend. Still no car, so don't ask. But he sings lead now he guesses.
+WES: The 24-year-old texted Tuesday from the warehouse. I've got permission to read it. He told Merle yes, but only the nursing home one, once a month on the Thursday. Grandma gets the front row. The other Thursdays are still hers. Still nights. Still no girlfriend. Still no car, so don't ask. But he sings lead now he guesses.
 
-JONATHON: You asked what time. You didn't ask about a car. That's the assigned thing wearing a calendar.
+JONATHON: You didn't ask about a car. That's the assigned thing wearing a calendar.
 
-WES: Three. I'll sit in the back the second Thursday in September. I will not go up. I will leave before the cookies if I need to. I'm there for a man who already has a life.
+WES: Three. I'll sit in the back the second Thursday in September. I won't go up. I will leave before the cookies if I need to. I'm there for a man who already has a life.
 
 JONATHON: Last few minutes. Keep the line. Keep the step. Sit the back. Don't ask the duck to be a paragraph. Don't ask the young man to be a project.
 
@@ -122,7 +122,7 @@ JONATHON: We planned dates like client dinners and brought the rash with us. I'm
 
 WES: When the youngest got his license I started ten minutes on the porch after supper. Not a meeting. A place. If I skip it I can feel the house go back to an office.
 
-JONATHON: I'll take ten after she leaves if I have to, and ten with her when she's off. Two tens. One of them has to include her.
+JONATHON: I'll take ten after she leaves if I've got to, and ten with her when she's off. Two tens. One of them has to include her.
 
 ---
 
@@ -136,7 +136,7 @@ JONATHON: Don't go up. Don't fix his Thursdays. He already assigned himself. You
 
 ## SEGMENT 9 · Hold that
 
-WES: Hold that is a gift. It means she still has a sentence. I have killed sentences by rushing. I'm practicing being interrupted by a woman I love.
+WES: Hold that's a gift. It means she still has a sentence. I've killed sentences by rushing. I'm practicing being interrupted by a woman I love.
 
 JONATHON: I will hold it. Even if the shift is close. Even if the water bill is in my mouth. Her sentence is the minute with no job.
 
@@ -144,9 +144,9 @@ JONATHON: I will hold it. Even if the shift is close. Even if the water bill is 
 
 ## SEGMENT 10 · Long fall
 
-WES: A long fall is a season with a name. I will drive the weeks she asks. I will not improve the treatments with jokes. I will sit.
+WES: A long fall is a season with a name. I will drive the weeks she asks. I won't improve the treatments with jokes. I will sit.
 
-JONATHON: Sitting is the sock. I keep wanting a meal train so I can feel useful. Useful is a rabbit. Sit.
+JONATHON: I keep wanting a meal train so I can feel useful. Useful is a rabbit. Sit.
 
 ---
 
@@ -154,79 +154,124 @@ JONATHON: Sitting is the sock. I keep wanting a meal train so I can feel useful.
 
 WES: I almost mentioned the printout. That's the old Wes. Hearing is still the job. Finishing something is hers to name.
 
-JONATHON: I almost asked the duck what it meant after I said thank you. I didn't. That's the most Christian thing I have done to a fridge.
+JONATHON: I almost asked the duck what it meant after I said thank you. I didn't. That's the most Christian thing I've done to a fridge.
 
 ---
 
 ## SEGMENT 12 · More on the 1
 
-WES: Stay on the duck a minute, because a man will hear the verse and look for a war. The war is the duck. I have walked past the duck so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up the duck before you write a speech about it.
+WES: Stay on the duck a minute, because a man will hear the verse and look for a war. The war is the duck.
 
-JONATHON: I'll be real with you. I can talk about the duck for twenty minutes and still skip the rain boots tonight, which is why I need a man who will ask me tomorrow whether I did the rain boots. If I fail I will say I failed, not that the week got loud.
+JONATHON: I can talk about the duck for twenty minutes and still skip the rain boots tonight, which is why I need a man who will ask me tomorrow whether I did the rain boots. If I fail I will say I failed, not that the week got loud.
+
+WES: I've walked past the duck so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up the duck before you write a speech about it.
+
+JONATHON: Yeah — I'll do the next small thing, and I'll tell the truth about it Friday.
+
 
 ---
 
 ## SEGMENT 13 · More on the 2
 
-WES: I keep a picture of the duck in my head when I want to quit. Not a stage. the duck. If I need a prettier assignment than the duck, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like the duck, then tell one man.
+WES: I keep a picture of the duck in my head when I want to quit. Not a stage. the duck.
 
-JONATHON: I want credit for the duck and I want privacy for a mile of quiet. That's the paycheck again. I'm doing a mile of quiet without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
+JONATHON: I want credit for the duck and I want privacy for a mile of quiet.
+
+WES: If I need a prettier assignment than the duck, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like the duck, then tell one man.
+
+JONATHON: I'm doing a mile of quiet without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
+
 
 ---
 
 ## SEGMENT 14 · More on the 3
 
-WES: I almost turned the duck into a testimony before the week was over. That's how I steal a gift. I'm leaving the duck unnamed in the report so I don't get paid twice. Coming back to the duck counts. Narrating the duck does not.
+WES: I almost turned the duck into a testimony before the week was over. That's how I steal a gift.
 
-JONATHON: I keep trying to upgrade the duck into a program. She did not ask for a program. She asked for the back row. I'm retiring the program and keeping the back row, even if the back row makes me feel small.
+JONATHON: I keep trying to upgrade the duck into a program. She didn't ask for a program. She asked for the back row. I'm retiring the program and keeping the back row, even if the back row makes me feel small.
+
+WES: I'm leaving the duck unnamed in the report so I don't get paid twice. Coming back to the duck counts. Narrating the duck does not.
+
+JONATHON: Hold on. If I miss it I'll say I missed it. I won't hide it in a loud week.
+
 
 ---
 
 ## SEGMENT 15 · More on the 4
 
-WES: My dad would have called the duck Tuesday. I have been wanting a letter for the duck. I'm retiring the letter. I'm doing the duck tired, and I am not writing a paragraph on the way.
+WES: My dad would have called the duck Tuesday. I've been wanting a letter for the duck.
 
-JONATHON: If I hide from the duck I will call it logistics. I'm done with that name. the duck is the work. the catfish booth is how I prove I meant it. Ask me Friday about the catfish booth and I will not joke.
+JONATHON: If I hide from the duck I will call it logistics. I'm done with that name. the duck is the work. the catfish booth is how I prove I meant it. Ask me Friday about the catfish booth and I won't joke.
+
+WES: I'm retiring the letter. I'm doing the duck tired, and I'm not writing a paragraph on the way.
+
+JONATHON: That's the one I keep walking past. Ask me Friday whether I picked it up.
+
 
 ---
 
 ## SEGMENT 16 · More on the 5
 
-WES: If the duck feels small, that's a clue you're close. Big feelings like a conference. the duck likes a kitchen. I have skipped kitchens for conferences. I'm late. I'm still going to the duck.
+WES: If the duck feels small, that's a clue you're close. Big feelings like a conference. the duck likes a kitchen.
 
-JONATHON: Single men, the duck still belongs to you. Divorced men, ten porch minutes still belongs to you. I don't get to keep these on a married shelf. I'm doing the duck and ten porch minutes as a person, not as a title.
+JONATHON: Duck likes a kitchen. Single men, the duck still belongs to you. Divorced men, ten porch minutes still belongs to you. I don't get to keep these on a married shelf. I'm doing the duck and ten porch minutes as a person, not as a title.
+
+WES: I've skipped kitchens for conferences. I'm late. I'm still going to the duck.
+
+JONATHON: I'm with you. I'll take the small one tonight and I won't write a speech on the way.
+
 
 ---
 
 ## SEGMENT 17 · More on the 6
 
-WES: Stay on the duck a minute, because a man will hear the verse and look for a war. The war is the duck. I have walked past the duck so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up the duck before you write a speech about it.
+WES: Stay on the duck a minute, because a man will hear the verse and look for a war. The war is the duck.
 
-JONATHON: I'll be real with you. I can talk about the duck for twenty minutes and still skip a long fall tonight, which is why I need a man who will ask me tomorrow whether I did a long fall. If I fail I will say I failed, not that the week got loud.
+JONATHON: I can talk about the duck for twenty minutes and still skip a long fall tonight, which is why I need a man who will ask me tomorrow whether I did a long fall. If I fail I will say I failed, not that the week got loud.
+
+WES: I've walked past the duck so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up the duck before you write a speech about it.
+
+JONATHON: Yeah — I'll do the next small thing, and I'll tell the truth about it Friday.
+
 
 ---
 
 ## SEGMENT 18 · More on the 7
 
-WES: I keep a picture of the duck in my head when I want to quit. Not a stage. the duck. If I need a prettier assignment than the duck, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like the duck, then tell one man.
+WES: I keep a picture of the duck in my head when I want to quit. Not a stage. the duck.
 
-JONATHON: I want credit for the duck and I want privacy for the knitting grandmother. That's the paycheck again. I'm doing the knitting grandmother without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
+JONATHON: I want credit for the duck and I want privacy for the knitting grandmother.
+
+WES: If I need a prettier assignment than the duck, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like the duck, then tell one man.
+
+JONATHON: I'm doing the knitting grandmother without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
+
 
 ---
 
 ## SEGMENT 19 · More on the 8
 
-WES: I almost turned the rain boots into a testimony before the week was over. That's how I steal a gift. I'm leaving the rain boots unnamed in the report so I don't get paid twice. Coming back to the rain boots counts. Narrating the rain boots does not.
+WES: I almost turned the rain boots into a testimony before the week was over. That's how I steal a gift.
 
-JONATHON: I keep trying to upgrade the rain boots into a program. She did not ask for a program. She asked for the duck. I'm retiring the program and keeping the duck, even if the duck makes me feel small.
+JONATHON: I keep trying to upgrade the rain boots into a program. She didn't ask for a program. She asked for the duck. I'm retiring the program and keeping the duck, even if the duck makes me feel small.
+
+WES: I'm leaving the rain boots unnamed in the report so I don't get paid twice. Coming back to the rain boots counts. Narrating the rain boots does not.
+
+JONATHON: Hold on. If I miss it I'll say I missed it. I won't hide it in a loud week.
+
 
 ---
 
 ## SEGMENT 20 · More on the 9
 
-WES: My dad would have called the rain boots Tuesday. I have been wanting a letter for the rain boots. I'm retiring the letter. I'm doing the rain boots tired, and I am not writing a paragraph on the way.
+WES: My dad would have called the rain boots Tuesday. I've been wanting a letter for the rain boots.
 
-JONATHON: If I hide from the rain boots I will call it logistics. I'm done with that name. the rain boots is the work. a mile of quiet is how I prove I meant it. Ask me Friday about a mile of quiet and I will not joke.
+JONATHON: If I hide from the rain boots I will call it logistics.
+
+WES: I'm retiring the letter. I'm doing the rain boots tired, and I'm not writing a paragraph on the way.
+
+JONATHON: I'm done with that name. the rain boots is the work. a mile of quiet is how I prove I meant it. Ask me Friday about a mile of quiet and I won't joke.
+
 
 ---
 

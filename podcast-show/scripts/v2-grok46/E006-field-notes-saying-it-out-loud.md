@@ -5,9 +5,9 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 2,204 (about 14:42 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,217 (about 14:47 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 31 lines (50% of words). JONATHON 28 lines (50% of words), 1 under 12 words (3.6%) |
+| Line balance | WES 31 lines (51% of words). JONATHON 28 lines (49% of words), 1 under 12 words (3.6%) |
 | Focus mark | All four, check |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Philippians 1:6. Board only: 2 Corinthians 5:17 |
 | Board cues | 4 (none repeats spoken words) |
@@ -36,15 +36,15 @@ WES: This is Walk Steadfast. I'm Wes Hart.
 
 JONATHON: And I'm Jonathon. Friday we check the box. Misses too.
 
-WES: Tuesday we asked you to write the sentence on the back of the card, pick your weakest mark, tell one man, and if you're married, ask your wife which one she sees you do best and which she'd love to see more. Stay. Before we're done I'll tell you what I finally said to my son-in-law by the trucks, and he will tell you about a friend request that is still sitting there.
+WES: Tuesday we asked you to write the sentence on the back of the card, pick your weakest mark, tell one man, and if you're married, ask your wife which one she sees you do best and which she'd love to see more. Stay. Before we're done I'll tell you what I finally said to my son-in-law by the trucks, and he will tell you about a friend request that's still sitting there.
 
-JONATHON: And I'll record a voice memo at this table, because Wes made me write on a receipt, and I am not letting him off that easy.
+JONATHON: And I'll record a voice memo at this table, because Wes made me write on a receipt, and I'm not letting him off that easy.
 
 ---
 
 ## SEGMENT 1 · Check the box
 
-WES: Let's take the next few minutes on what we actually did. I'll go first. I wrote the sentence on the back of the card. That was easy. My weakest is stop waiting, which nobody who's been at this table is surprised by. The gutter is done. The brothers are not. The fan still clicks. And I told my son-in-law.
+WES: Let's take the next few minutes on what we actually did. I'll go first. I wrote the sentence on the back of the card. That was easy. My weakest is stop waiting, which nobody who's been at this table is surprised by. The gutter is done. The brothers aren't. The fan still clicks. And I told my son-in-law.
 
 JONATHON: Your son-in-law? Not the Air Force guy? Because I thought that man already knew everything about you after he held your ladder and counted the seconds you spent deciding which screw.
 
@@ -84,11 +84,11 @@ WES: And?
 
 JONATHON: He said he'd tell them Monday. I'm checking on him Monday. Then he told me he wants to sell the company in five years and teach welding at the community college. He's never told anybody that either. He's got a binder. Sixty, and he's planning a second career, and the binder is thicker than my whole follow-up system at home.
 
-WES: That's how it happens. You tell a man your weak one, and he hands you a binder he has been carrying alone. Then Dani.
+WES: That's how it happens. You tell a man your weak one, and he hands you a binder he has been carrying alone. A binder. At sixty. Then Dani.
 
 JONATHON: I asked her which one I do best. She said, "Go first." And I said, really? Because I'm the one that's always talking about how I'm bad at stuff. And she reminded me, in year three of our marriage, I was the one who said we should see a counselor. Not her. Me. You told me to do it. I'm the one who said it to her.
 
-WES: You went first.
+WES: You went first. That's the one I would have missed if I was keeping score from the outside.
 
 JONATHON: I went first. Then I asked which one she'd like to see more. She said, "Stop waiting." I said, on what? She said, "On your dad."
 
@@ -98,7 +98,7 @@ JONATHON: He sent me a friend request. On Christmas Day. A Facebook friend reque
 
 [BOARD: A pending yes is still a no you have not owned.]
 
-WES: You don't have to do anything about that this week. I mean it. That's not the challenge. That's a season. We're getting to dads later. You don't have to solve it on a Friday. A man can tell the truth about a button and still leave the button alone until he has a date to decide. Pending forever is not a decision. It's just waiting with a better story.
+WES: You don't have to do anything about that this week. I mean it. That's not the challenge. That's a season. We're getting to dads later. You don't have to solve it on a Friday. A man can tell the truth about a button and still leave the button alone until he has a date to decide. Pending forever isn't a decision. It's just waiting with a better story.
 
 JONATHON: I know. I just wanted to say it out loud. That's the name of this one. I said it. It's still sitting there. Both of those things can be true at the same time.
 
@@ -158,7 +158,7 @@ WES: [laughs, quietly] Who are you sending it to?
 
 JONATHON: You. And you're not allowed to reply with a thumbs-up. You send the letter K, which is the coldest thing a man can send, and I need an actual sentence back, even if it's awkward.
 
-WES: K means okay. I'll write a sentence. I won't like it. I'll write it anyway. A letter is not a conversation, and I have used it like one for too long.
+WES: K means okay. I'll write a sentence. I won't like it. I'll write it anyway. A letter isn't a conversation, and I've used it like one for too long.
 
 ---
 

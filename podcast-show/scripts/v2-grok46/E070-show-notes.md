@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (1,962 spoken words, about 13:05). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,153 spoken words, about 14:21). Re-time them against the final edit before publishing.
 
 ---
 
@@ -35,23 +35,23 @@ Christian men podcast, Sabbath, Hebrews 4:9, Labor Day, Field Notes, Walk Steadf
 |---|---|---|
 | 00:00 | Open | Open |
 | 00:48 | The bead | The bead |
-| 01:46 | She got in | She got in |
-| 02:32 | The Word | The Word |
-| 03:32 | What stuck | What stuck |
-| 04:33 | More on the 1 | More on the 1 |
-| 05:19 | More on the 2 | More on the 2 |
-| 06:00 | More on the 3 | More on the 3 |
-| 06:34 | More on the 4 | More on the 4 |
-| 07:05 | More on the 5 | More on the 5 |
-| 07:35 | More on the 6 | More on the 6 |
-| 08:22 | More on the 7 | More on the 7 |
-| 09:03 | More on tres 8 | More on tres 8 |
-| 09:36 | More on tres 9 | More on tres 9 |
-| 10:08 | More on tres 10 | More on tres 10 |
-| 10:38 | More on tres 11 | More on tres 11 |
-| 11:24 | More on tres 12 | More on tres 12 |
-| 12:05 | More on tres 13 | More on tres 13 |
-| 12:39 | Close | Close |
+| 02:05 | She got in | She got in |
+| 02:50 | The Word | The Word |
+| 03:54 | What stuck | What stuck |
+| 04:54 | More on the 1 | More on the 1 |
+| 05:43 | More on the 2 | More on the 2 |
+| 06:23 | More on the 3 | More on the 3 |
+| 07:04 | More on the 4 | More on the 4 |
+| 07:40 | More on the 5 | More on the 5 |
+| 08:18 | More on the 6 | More on the 6 |
+| 09:09 | More on the 7 | More on the 7 |
+| 09:48 | More on tres 8 | More on tres 8 |
+| 10:28 | More on tres 9 | More on tres 9 |
+| 11:05 | More on tres 10 | More on tres 10 |
+| 11:44 | More on tres 11 | More on tres 11 |
+| 12:35 | More on tres 12 | More on tres 12 |
+| 13:15 | More on tres 13 | More on tres 13 |
+| 13:56 | Close | Close |
 
 ---
 

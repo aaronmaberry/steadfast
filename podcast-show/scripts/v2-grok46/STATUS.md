@@ -97,7 +97,7 @@ E001 exception logged 2026-10-19 (Aaron): replace the earlier 40–45 min / 6,00
 | E079 | Grief at the Table | 2,862 | 19:05 | 57 / 43 | PASS 0/0 |
 | E080 | Field Notes: Grief Report | 2,009 | 13:24 | 55 / 45 | PASS 0/0 |
 
-**Tally:** 80 / 80 PASS (0 fail, 0 warn), re-checked 2026-10-19 after the back-door thread with `check_script.py --quiet --all`.
+**Tally:** 80 / 80 PASS (0 fail, 0 warn), re-checked 2026-10-19 after the conversation pass with `check_script.py --quiet --all`. E007 remains the locked pilot (word for word). Conversation pass: spoken contractions, no 3+ same-host runs except E007's locked stack, Jonathon short-line rate under 15%.
 
 ## Continuity ledger (overrides + on-air facts)
 

@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (3,043 spoken words, about 20:17). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (3,045 spoken words, about 20:18). Re-time them against the final edit before publishing.
 
 ---
 
@@ -35,13 +35,13 @@ Christian men podcast, anger, Ephesians 4:26, fatherhood, Walk Steadfast, pick u
 | Time | Segment | Summary |
 |---|---|---|
 | 00:00 | Open | The horn stuck. She told her mom. |
-| 00:56 | The horn | Pay the bills. She thought it was her seat. |
-| 03:42 | The shoulder | I've got it. Never let them see you hurt. |
-| 06:53 | The ledge and the lot | A bump. Astros people. |
-| 09:42 | The Word | Do not let the sun go down. |
-| 12:44 | Pushback | Fists stay his. Ice still counts. |
-| 15:43 | This week's challenge | Write what it was guarding. Tell one person. |
-| 19:47 | Close | Say it before dark. |
+| 00:55 | The horn | Pay the bills. She thought it was her seat. |
+| 03:57 | The shoulder | I've got it. Never let them see you hurt. |
+| 07:11 | The ledge and the lot | A bump. Astros people. |
+| 09:58 | The Word | Do not let the sun go down. |
+| 12:58 | Pushback | Fists stay his. Ice still counts. |
+| 15:47 | This week's challenge | Write what it was guarding. Tell one person. |
+| 19:48 | Close | Say it before dark. |
 
 ---
 

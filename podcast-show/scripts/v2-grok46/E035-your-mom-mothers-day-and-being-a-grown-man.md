@@ -5,9 +5,9 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,800 (about 18:40 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,819 (about 18:48 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 24 lines (55% of words). JONATHON 21 lines (45% of words), 1 under 12 words (4.8%) |
+| Line balance | WES 29 lines (56% of words). JONATHON 26 lines (44% of words), 1 under 12 words (3.8%) |
 | Focus mark | Work for God's Pay |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Proverbs 23:22. Board only: Proverbs 31:28 |
 | Board cues | 4 (none repeats spoken words) |
@@ -20,7 +20,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 
 ---
 ## OPEN (word for word)
-WES: My wife left a laminated list. Fourteen items. Item four: do not water the fern in the den. It is fake. I have watered it every Sunday after church for years.
+WES: My wife left a laminated list. Fourteen items. Item four: don't water the fern in the den. It's fake. I've watered it every Sunday after church for years.
 
 JONATHON: And she let you, because you looked happy, which is a very specific kind of marriage.
 
@@ -34,110 +34,120 @@ JONATHON: And I'm Jonathon.
 
 WES: Today, one question. How does a grown man honor his mother, or honor the hole she left, without becoming a boy or a stranger? If Mother's Day is complicated in your house, pull up a chair. Before we're done I will tell you about a man named Merle who wants to sing again, and he will tell you what his mom said when Ruby painted her with three arms.
 
-JONATHON: And I will tell you I called a dealership behind my mom's back last year and heard what despise sounds like when it is polite.
+JONATHON: And I will tell you I called a dealership behind my mom's back last year and heard what despise sounds like when it's polite.
 
 ---
 
 ## SEGMENT 1 · The fern and the shirt
 
-WES: Let's take the next few minutes on the house while my wife is in Fredericksburg. Item nine on the list: call your mother about Sunday. The oldest came to supper Monday with a frozen pizza. He said he was contributing. The fern is still fake. I did not water it. I wanted to. Bluebonnets lost Saturday at eight-thirty. One and five with an asterisk. The March rainout make-up is Thursday night. I do not want to rush past that. A man will hear a story and start fixing the next guy instead of looking at his own kitchen. Look at yours this week. What is the version of this sitting on your calendar, and who is covering for you while you wait?
+WES: Let's take the next few minutes on the house while my wife is in Fredericksburg. Item nine on the list: call your mother about Sunday. The oldest came to supper Monday with a frozen pizza. He said he was contributing. The fern is still fake. I didn't water it. I wanted to. Bluebonnets lost Saturday at eight-thirty.
+JONATHON: Bluebonnets lost Saturday at eight-thirty. Yeah, and—one and five with an asterisk. The March rainout make-up is Thursday.
+WES: One and five with an asterisk. The March rainout make-up is Thursday night. I don't want to rush past that. A man will hear a story and start fixing the next guy instead of looking at his own kitchen. Look at yours this week. What is the version of this sitting on your calendar, and who is covering for you while you wait?
 
-JONATHON: Ruby's first watercolor lesson was Saturday at ten, on video. She wore my old high school baseball shirt, down to her knees. Mom knew it in one second. That is your shirt from high school. Let the water do the work, baby. Ruby painted Grandma with three arms and said sorry, she did the arms wrong again. Mom said, no baby. That is right. I needed three. I was at the sink holding the counter. Forty minutes. I did not help, and it felt good. Then she painted a dog we do not have. I'll be real with you, I want a cleaner ending than that, and I am not getting one. I can live with unfinished if I stop using unfinished as a reason to hide. That is the part that keeps me honest at this table.
+JONATHON: Ruby's first watercolor lesson was Saturday at ten, on video. She wore my old high school baseball shirt, down to her knees. Mom knew it in one second. That's your shirt from high school. Let the water do the work, baby. Ruby painted Grandma with three arms and said sorry, she did the arms wrong again. Mom said, no baby.
+WES: [laughs] Mom said no, baby. All right. You needed three arms, and you didn't help, and it felt good.
+JONATHON: That's right. I needed three. I was at the sink holding the counter. Forty minutes. I didn't help, and it felt good. Then she painted a dog we don't have. I'll be real with you, I want a cleaner ending than that, and I'm not getting one. I can live with unfinished if I stop using unfinished as a reason to hide. That's the part that keeps me honest at this table.
 
-WES: That is honor that is not a capacitor. A mess. A Saturday. A woman who needed three arms and said so. I keep thinking honor is a hanging basket and a card from the grocery store. It is a child in your old shirt and a mother who can laugh at a third arm. I do not want to rush past that. A man will hear a story and start fixing the next guy instead of looking at his own kitchen. Look at yours this week. What is the version of this sitting on your calendar, and who is covering for you while you wait?
+WES: That's honor that's not a capacitor. A mess. A Saturday. A woman who needed three arms and said so. I keep thinking honor is a hanging basket and a card from the grocery store. It's a child in your old shirt and a mother who can laugh at a third arm.
+JONATHON: Yeah. Honor that's a mother who can laugh at a third arm. Not a hanging basket. What'd you do after the sink?
+WES: I don't want to rush past that. A man will hear a story and start fixing the next guy instead of looking at his own kitchen. Look at yours this week. What is the version of this sitting on your calendar, and who is covering for you while you wait?
 
 [BOARD: A third arm can be the truth.]
 
 
 ## SEGMENT 2 · The Camry and the trade
 
-JONATHON: Last year Mom bought a car alone for the first time. I said, Mom, that is low. I called the dealership behind her back and got her a better number. She said, oh, thank you, flat. That is despise. I had made her a girl at a desk again. I thought I was protecting her. I was protecting my job as her guy. I'll be real with you, I want a cleaner ending than that, and I am not getting one. I can live with unfinished if I stop using unfinished as a reason to hide. That is the part that keeps me honest at this table.
+JONATHON: Last year Mom bought a car alone for the first time. I said, Mom, that's low. I called the dealership behind her back and got her a better number. She said, oh, thank you, flat. That's despise. I had made her a girl at a desk again.
+WES: You made her a girl at a desk again. That's the bump. You thought you were protecting her. You were protecting the job.
+JONATHON: I thought I was protecting her. I was protecting my job as her guy. I'll be real with you, I want a cleaner ending than that, and I'm not getting one. I can live with unfinished if I stop using unfinished as a reason to hide. That's the part that keeps me honest at this table.
 
 WES: Merle came to car-care Saturday. Seventy-one. His wife died a year ago February. He brought her silver Camry. It has been sitting. He starts it every couple of weeks. The radio is still on her gospel station. He sang the bass part along with a quartet. The eighty-one-year-old mechanic rolled out and said, you sing. Used to.
 
-WES: He sang bass in a gospel quartet from nineteen until his first child, church to church on Sunday nights, and never went back. His wife used to tell people he could sing. Three grown kids, forties, all called him last Mother's Day to check on Dad. He hated it. He is not their mother. He said, I want to sing again. Is that selfish.
+WES: He sang bass in a gospel quartet from nineteen until his first child, church to church on Sunday nights, and never went back. His wife used to tell people he could sing. Three grown kids, forties, all called him last Mother's Day to check on Dad. He hated it. He's not their mother. He said, I want to sing again. Is that selfish.
 
-JONATHON: That is not selfish. That is a man who is still alive. Dani has worked the last three Mother's Days. She says the hardest room on Mother's Day is not the one with the new baby. I believe her. We drive to Pasadena Saturday after the game. I make the pot pie Saturday night. Recipe from my sister. She uses the store crust. Do not ever tell her I told you. Dani stands next to me and does not help. I will say happy Mother's Day to my sister, which nobody in the family has ever done, and tell her one thing I have watched her do as a mother. She raised the nephew mostly alone. He checks in by text. That is enough detail. I'll be real with you, I want a cleaner ending than that, and I am not getting one. I can live with unfinished if I stop using unfinished as a reason to hide. That is the part that keeps me honest at this table.
+JONATHON: That's not selfish. That's a man who is still alive. Dani has worked the last three Mother's Days. She says the hardest room on Mother's Day isn't the one with the new baby. I believe her. We drive to Pasadena Saturday after the game. I make the pot pie Saturday night. Recipe from my sister. She uses the store crust. Don't ever tell her I told you. Dani stands next to me and does not help.
+WES: The hardest room is the one where nobody stands next to her and does not help. [beat] Yeah. Then your sister. Mother's Day.
+JONATHON: I will say happy Mother's Day to my sister, which nobody in the family has ever done, and tell her one thing I've watched her do as a mother. She raised the nephew mostly alone. He checks in by text. That's enough detail. I'll be real with you, I want a cleaner ending than that, and I'm not getting one. I can live with unfinished if I stop using unfinished as a reason to hide. That's the part that keeps me honest at this table.
 
-WES: We're about halfway. Merle asked if wanting to sing is selfish. I told him no. On Sunday tell the kids one story about their mother they have never heard. Coffee with me Thursday. Every man he sang with is dead or in Arizona. He needs three men. You and I cannot sing. Dani says you sing like you are being chased. He said, nobody is going to know a Merle. We can use the name. He asked. I do not want to rush past that. A man will hear a story and start fixing the next guy instead of looking at his own kitchen. Look at yours this week. What is the version of this sitting on your calendar, and who is covering for you while you wait?
+WES: We're about halfway. Merle asked if wanting to sing is selfish. I told him no. On Sunday tell the kids one story about their mother they have never heard. Coffee with me Thursday. Every man he sang with is dead or in Arizona. He needs three men. You and I can't sing. Dani says you sing like you're being chased. He said, nobody is going to know a Merle. We can use the name. He asked. I don't want to rush past that. A man will hear a story and start fixing the next guy instead of looking at his own kitchen. Look at yours this week. What is the version of this sitting on your calendar, and who is covering for you while you wait?
 
 [BOARD: A bass part can come back.]
 
 
 ## SEGMENT 3 · The Word
 
-WES: Proverbs twenty-three, verse twenty-two. A son being told not to despise a mother when she is old. That word despise is the flat thank you at a dealership. I do not want to rush past that. A man will hear a story and start fixing the next guy instead of looking at his own kitchen. Look at yours this week. What is the version of this sitting on your calendar, and who is covering for you while you wait?
+WES: Proverbs twenty-three, verse twenty-two. A son being told not to despise a mother when she's old. That word despise is the flat thank you at a dealership. I don't want to rush past that. A man will hear a story and start fixing the next guy instead of looking at his own kitchen. Look at yours this week. What is the version of this sitting on your calendar, and who is covering for you while you wait?
 
-JONATHON: "Listen to your father, who gave you life, and do not despise your mother when she is old." I'll be real with you, I want a cleaner ending than that, and I am not getting one. I can live with unfinished if I stop using unfinished as a reason to hide. That is the part that keeps me honest at this table.
+JONATHON: "Listen to your father, who gave you life, and do not despise your mother when she is old." I'll be real with you, I want a cleaner ending than that, and I'm not getting one. I can live with unfinished if I stop using unfinished as a reason to hide. That's the part that keeps me honest at this table.
 
-WES: Listen. Do not despise. Old is not a reason to take her dignity so you can feel useful. If your mom has died, the verse still holds. Do not despise her memory by turning her into a joke, or into a saint who never happened. Tell one true story. The orange-slice deacon at our church, his mom died in the nineties, gives a bag of orange-slice candy to the oldest woman in church every Mother's Day. Only his wife knows why. That is honor with no receipt. I do not want to rush past that. A man will hear a story and start fixing the next guy instead of looking at his own kitchen. Look at yours this week. What is the version of this sitting on your calendar, and who is covering for you while you wait?
+WES: Listen. Don't despise. Old isn't a reason to take her dignity so you can feel useful. If your mom has died, the verse still holds. Don't despise her memory by turning her into a joke, or into a saint who never happened. Tell one true story. The orange-slice deacon at our church, his mom died in the nineties, gives a bag of orange-slice candy to the oldest woman in church every Mother's Day. Only his wife knows why. That's honor with no receipt. I don't want to rush past that. A man will hear a story and start fixing the next guy instead of looking at his own kitchen. Look at yours this week. What is the version of this sitting on your calendar, and who is covering for you while you wait?
 
-JONATHON: If Mother's Day is the worst day of your year, you are allowed to say so. You are not allowed to make your wife carry it alone, and you are not allowed to disappear into a garage. Write the note. Drive the pie. Or sit in a cemetery and say her name. Those are grown options. Despise is the other one. I'll be real with you, I want a cleaner ending than that, and I am not getting one. I can live with unfinished if I stop using unfinished as a reason to hide. That is the part that keeps me honest at this table.
+JONATHON: If Mother's Day is the worst day of your year, you're allowed to say so. You're not allowed to make your wife carry it alone, and you're not allowed to disappear into a garage. Write the note. Drive the pie. Or sit in a cemetery and say her name. Those are grown options. Despise is the other one. I'll be real with you, I want a cleaner ending than that, and I'm not getting one. I can live with unfinished if I stop using unfinished as a reason to hide. That's the part that keeps me honest at this table.
 
 [BOARD: Proverbs 31:28 (NIV) · "Her children arise and call her blessed; her husband also, and he praises her:"]
 
 
 ## SEGMENT 4 · Pushback
 
-WES: The man whose mom was hard, not warm. He thinks this week is not for him. I do not want to rush past that. A man will hear a story and start fixing the next guy instead of looking at his own kitchen. Look at yours this week. What is the version of this sitting on your calendar, and who is covering for you while you wait?
+WES: The man whose mom was hard, not warm. He thinks this week isn't for him. I don't want to rush past that. A man will hear a story and start fixing the next guy instead of looking at his own kitchen. Look at yours this week. What is the version of this sitting on your calendar, and who is covering for you while you wait?
 
-JONATHON: Then honor the truth. She kept you fed. Or she did not. Say the true thing without a halo and without a roast. The twin's dad is going to do that this week, and I will let him tell it when he is ready. Hard is not the same as cruel. Tired is not the same as love. You can hold both. I'll be real with you, I want a cleaner ending than that, and I am not getting one. I can live with unfinished if I stop using unfinished as a reason to hide. That is the part that keeps me honest at this table.
+JONATHON: Then honor the truth. She kept you fed. Or she didn't. Say the true thing without a halo and without a roast. The twin's dad is going to do that this week, and I will let him tell it when he's ready. Hard isn't the same as cruel. Tired isn't the same as love. You can hold both. I'll be real with you, I want a cleaner ending than that, and I'm not getting one. I can live with unfinished if I stop using unfinished as a reason to hide. That's the part that keeps me honest at this table.
 
-WES: The man whose mom is gone and whose phone will be quiet Sunday. Cook what she would cook. Wear the hat. Tell your kids one story. That is the assignment, not a brunch you cannot sit through. I do not want to rush past that. A man will hear a story and start fixing the next guy instead of looking at his own kitchen. Look at yours this week. What is the version of this sitting on your calendar, and who is covering for you while you wait?
+WES: The man whose mom is gone and whose phone will be quiet Sunday. Cook what she would cook. Wear the hat. Tell your kids one story. That's the assignment, not a brunch you can't sit through. I don't want to rush past that. A man will hear a story and start fixing the next guy instead of looking at his own kitchen. Look at yours this week. What is the version of this sitting on your calendar, and who is covering for you while you wait?
 
-JONATHON: The man whose wife is the one working the hard room on Mother's Day. Let her sleep. Then take her to see your mother if she asks, which is what Dani asked. I want to sleep until ten, and then I want to go see your mother. Somebody needs to make her a pot pie for once. I'll be real with you, I want a cleaner ending than that, and I am not getting one. I can live with unfinished if I stop using unfinished as a reason to hide. That is the part that keeps me honest at this table.
+JONATHON: The man whose wife is the one working the hard room on Mother's Day. Let her sleep. Then take her to see your mother if she asks, which is what Dani asked. I want to sleep until ten, and then I want to go see your mother. Somebody needs to make her a pot pie for once. I'll be real with you, I want a cleaner ending than that, and I'm not getting one. I can live with unfinished if I stop using unfinished as a reason to hide. That's the part that keeps me honest at this table.
 
 
 ## SEGMENT 5 · The door and the pie
 
-WES: We've got about seven minutes. After the apartment visit Saturday I am rehanging Mom's dragging screen door, the one from the driveway memory, without telling her. The last thing I do on that house is a door that closes quiet. I do not want to rush past that. A man will hear a story and start fixing the next guy instead of looking at his own kitchen. Look at yours this week. What is the version of this sitting on your calendar, and who is covering for you while you wait?
+WES: We've got about seven minutes. After the apartment visit Saturday I'm rehanging Mom's dragging screen door, the one from the driveway memory, without telling her. The last thing I do on that house is a door that closes quiet. I don't want to rush past that. A man will hear a story and start fixing the next guy instead of looking at his own kitchen. Look at yours this week. What is the version of this sitting on your calendar, and who is covering for you while you wait?
 
-JONATHON: I have three bad drafts for my sister. Handwriting like a ransom note. Dani will check the spelling. I keep wanting the note to be clever. It needs to be one true thing I have watched her do. The nephew could call at one in the morning because she taught him to say the hard thing out loud. That is the line I think I am keeping. I'll be real with you, I want a cleaner ending than that, and I am not getting one. I can live with unfinished if I stop using unfinished as a reason to hide. That is the part that keeps me honest at this table.
+JONATHON: I've got three bad drafts for my sister. Handwriting like a ransom note. Dani will check the spelling. I keep wanting the note to be clever. It needs to be one true thing I've watched her do. The nephew could call at one in the morning because she taught him to say the hard thing out loud. That's the line I think I'm keeping. I'll be real with you, I want a cleaner ending than that, and I'm not getting one. I can live with unfinished if I stop using unfinished as a reason to hide. That's the part that keeps me honest at this table.
 
-WES: Look around your house this week. If your mom is alive, honor her as a man, not as a boy with a watering can over a fake fern, and not as a stranger who only texts a heart. If she is gone, honor the hole. Merle is going to try to find three men. I am going to hang a door. You pick your version. I do not want to rush past that. A man will hear a story and start fixing the next guy instead of looking at his own kitchen. Look at yours this week. What is the version of this sitting on your calendar, and who is covering for you while you wait?
+WES: Look around your house this week. If your mom is alive, honor her as a man, not as a boy with a watering can over a fake fern, and not as a stranger who only texts a heart. If she's gone, honor the hole. Merle is going to try to find three men. I'm going to hang a door. You pick your version. I don't want to rush past that. A man will hear a story and start fixing the next guy instead of looking at his own kitchen. Look at yours this week. What is the version of this sitting on your calendar, and who is covering for you while you wait?
 
 [BOARD: A quiet hinge is a sentence.]
 
 
 ## SEGMENT 6 · This week's challenge
 
-WES: Write one true thing. A note, a story, a door. Married men, ask your wife what she wants the day to be, then do that, not the brunch you saw in a photo. Single men, call your mother and ask about her week, not about your laundry. If she has died, tell one person one story they have never heard. I do not want to rush past that. A man will hear a story and start fixing the next guy instead of looking at his own kitchen. Look at yours this week. What is the version of this sitting on your calendar, and who is covering for you while you wait?
+WES: Write one true thing. A note, a story, a door. Married men, ask your wife what she wants the day to be, then do that, not the brunch you saw in a photo. Single men, call your mother and ask about her week, not about your laundry. If she has died, tell one person one story they have never heard. I don't want to rush past that. A man will hear a story and start fixing the next guy instead of looking at his own kitchen. Look at yours this week. What is the version of this sitting on your calendar, and who is covering for you while you wait?
 
-JONATHON: And if you have a sister who did the mothering, say Mother's Day to her. Nobody in my family has. I am late. Late still counts if the pie makes it to the table. I'll be real with you, I want a cleaner ending than that, and I am not getting one. I can live with unfinished if I stop using unfinished as a reason to hide. That is the part that keeps me honest at this table.
+JONATHON: And if you have a sister who did the mothering, say Mother's Day to her. Nobody in my family has. I'm late. Late still counts if the pie makes it to the table. I'll be real with you, I want a cleaner ending than that, and I'm not getting one. I can live with unfinished if I stop using unfinished as a reason to hide. That's the part that keeps me honest at this table.
 
-WES: I keep wanting this to resolve in one conversation, and it will not. The assignment is the next honest sentence, said on time, without a speech attached.
+WES: I keep wanting Mother's Day to resolve in one conversation, and it won't. The assignment is one true thing said on time, without a hanging basket standing in for the sentence.
 
-JONATHON: Honestly, I will try to add the speech anyway. Somebody should stop me. If you are listening and you do that too, write the three sentences down before you dial.
+JONATHON: Honestly, I will try to add the speech anyway. Somebody should stop me. If you're listening and you do that too, write the three sentences down before you dial.
 
-WES: Last few minutes I want this back in your house, not in ours. Pick the one door that is yours. Not your brother's. Not the man on the internet. Yours.
+WES: Last few minutes I want this back in your house, not in ours. Pick the one door that's yours. Not your brother's. Not the man on the internet. Yours.
 
-JONATHON: Mine is already on a calendar. That is the only reason I trust it. A mood is not a plan, and I have used moods for years.
+JONATHON: Mine is already on a calendar. That's the only reason I trust it. A mood isn't a plan, and I've used moods for years.
 
-WES: If you fail the first try, the second try still counts. I have to say that every time or I will use the miss as a way out.
+WES: If you fail the first try, the second try still counts. I've got to say that every time or I will use the miss as a way out.
 
-JONATHON: I used the first miss as a way out for most of my twenties. I am trying not to do that at thirty-seven. It is harder than a capacitor.
+JONATHON: I used the first miss as a way out for most of my twenties. I'm trying not to do that at thirty-seven. It's harder than a capacitor.
 
-WES: I have watched men collect stories like this and never change a Tuesday. Do not be that man this week. Change one Tuesday. Then tell one person you did.
+WES: I've watched men collect stories like this and never change a Tuesday. Don't be that man this week. Change one Tuesday. Then tell one person you did.
 
-JONATHON: I am the man who collects stories. I have a notes app full of them. The only ones that count are the ones that got a day and a time.
+JONATHON: I'm the man who collects stories. I've got a notes app full of them. The only ones that count are the ones that got a day and a time.
 
-WES: Before we go I want the listener who thinks this does not apply because his house is quieter. Quiet is not settled. You already know that if you have been here any length of time.
+WES: Before we go I want the listener who thinks this does not apply because his house is quieter. Quiet isn't settled. You already know that if you have been here any length of time.
 
-JONATHON: My house can be loud and still be a cease-fire. Volume is not the test. The test is whether the true thing got said.
+JONATHON: My house can be loud and still be a cease-fire. Volume isn't the test. The test is whether the true thing got said.
 
 WES: I will check this on Friday, which is the only reason I trust myself. A public calendar is a kind of mercy for a man who likes his recliner.
 
-JONATHON: I will hold you to it, and I want somebody holding me. That is why I say the time out loud even when it makes me look late.
+JONATHON: I will hold you to it, and I want somebody holding me. That's why I say the time out loud even when it makes me look late.
 
-WES: I keep a bag of orange slices in my head now. Not because candy is the point. Because a man found a way to honor a mother who is gone without making a speech in the lobby. That is available to you this week even if brunch is not.
+WES: I keep a bag of orange slices in my head now. Not because candy is the point. Because a man found a way to honor a mother who is gone without making a speech in the lobby. That's available to you this week even if brunch isn't.
 
-JONATHON: I will take the pie and the ugly note over a speech in a lobby. If the crust is store-bought, I am still counting it as honor, and my mom will name it in one bite anyway.
+JONATHON: I will take the pie and the ugly note over a speech in a lobby. If the crust is store-bought, I'm still counting it as honor, and my mom will name it in one bite anyway.
 
 ## CLOSE (word for word)
 
 WES: Here's what I want you to carry out of here. Honor your mother as a man. Not as a boy, and not as a stranger.
 
-JONATHON: And do not despise her with a useful favor she did not ask for.
+JONATHON: And don't despise her with a useful favor she didn't ask for.
 
 WES: Friday I'll tell you whether that screen door closed quiet. Until then: one true thing, written down.
 

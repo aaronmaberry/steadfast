@@ -5,9 +5,9 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,800 (about 18:40 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,851 (about 19:00 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 37 lines (56% of words). JONATHON 28 lines (44% of words), 1 under 12 words (3.6%) |
+| Line balance | WES 38 lines (56% of words). JONATHON 29 lines (44% of words), 1 under 12 words (3.4%) |
 | Focus mark | Stop Waiting |
 | Scripture (NIV, verified 2026-10-19) | Spoken: 1 Corinthians 7:17. Board only: 1 Corinthians 7:24; 1 Corinthians 7:7 |
 | Board cues | 4 |
@@ -38,13 +38,13 @@ JONATHON: And I'm Jonathon.
 
 WES: Today, one question. What if there is no wife yet, and why do we treat a single man like he's in the lobby of his own life? If that's you, or that's your brother, stay. Before we're done, I'll tell you what my granddad said after I shaved him, and he will tell you the years he called the pregame.
 
-JONATHON: And I'll tell you the text I keep sending a twenty-two-year-old that is not actually a question.
+JONATHON: And I'll tell you the text I keep sending a twenty-two-year-old that's not actually a question.
 
 ---
 
 ## SEGMENT 1 · Come up here
 
-WES: Pull up a chair. Let's take the next few minutes on a nursing-home Thursday, because that's where this started, and I was not in the room.
+WES: Pull up a chair. Let's take the next few minutes on a nursing-home Thursday, because that's where this started, and I wasn't in the room.
 
 JONATHON: Three of Merle's quartet sing old hymns at the nursing home by the hospital once a month. The 24-year-old was there with his grandmother. He sang the melody of "Blessed Assurance" loud from the back row, beside her wheelchair. Merle stopped the song and said, "Son, come up here." His grandmother pushed him. They finished with four.
 
@@ -60,9 +60,9 @@ WES: Then last night, a little after ten, he texted me from the warehouse break 
 
 JONATHON: He does her nails. That's the line that sat with me, because nobody at church asked him that. They asked if he had a girl and if he had a car.
 
-WES: I asked the car one. Three times. I'm done with that question. This week I'm sending one text: "Heard you can sing. Merle's lucky either way." That's all. No car. No girl. No fix. Just the thing that is already true.
+WES: I asked the car one. Three times. I'm done with that question. This week I'm sending one text: "Heard you can sing. Merle's lucky either way." That's all. No car. No girl. No fix. Just the thing that's already true.
 
-JONATHON: I have my own version of the dumb question, and I need to say it before I get holy about his. Every Sunday I used to text my sister's boy, twenty-two, "Anybody special?" He'd write back "Nope," and then we'd talk about oranges. That's not a question. That's me checking whether his real life has started.
+JONATHON: I've my own version of the dumb question, and I need to say it before I get holy about his. Every Sunday I used to text my sister's boy, twenty-two, "Anybody special?" He'd write back "Nope," and then we'd talk about oranges. That's not a question. That's me checking whether his real life has started.
 
 WES: So what are you going to ask instead, because "Anybody special?" is the lobby question in a costume.
 
@@ -84,17 +84,17 @@ JONATHON: I did. I thought a wife was the on-ramp. Then we had a house and a job
 
 WES: That's the mark today. Stop Waiting. A lot of single men have been told, out loud or not, that the real life starts when somebody says yes. Then they wait for it. And a lot of married men keep waiting after the yes, because the habit was never about a wife. It was about later. Later is how I skipped a dying man in a front room. Later is how you skipped six churches.
 
-JONATHON: I'll be real with you. I still catch myself treating single guys at work like they're unfinished. "When you settle down." I said that to a rep last month. He has a mother in Corpus, a girlfriend of a few months, and a job he's good at. He is not unfinished. I was projecting the pregame onto him, and he was kind enough not to call me on it in the hallway.
+JONATHON: I'll be real with you. I still catch myself treating single guys at work like they're unfinished. "When you settle down." I said that to a rep last month. He has a mother in Corpus, a girlfriend of a few months, and a job he's good at. He's not unfinished. I was projecting the pregame onto him, and he was kind enough not to call me on it in the hallway.
 
 [BOARD: Later is a room with no furniture.]
 
-WES: If you're single and tired of being the project, hear this. You are not the warm-up act for a marriage that may or may not come. You are already assigned. God did not put your life on hold until a woman filled out a form. Tuesday counts even if Friday is empty.
+WES: If you're single and tired of being the project, hear this. You're not the warm-up act for a marriage that may or may not come. You're already assigned. God didn't put your life on hold until a woman filled out a form. Tuesday counts even if Friday is empty.
 
 ---
 
 ## SEGMENT 3 · Sport
 
-WES: We're about halfway, and I'll tell you one I have never told. I was twenty-two. Renting a room, twenty minutes from the place. My granddad was dying in a hospital bed in the front room. Uncles came weekends. My dad went every night. I went once, on a Tuesday, because my mother said, "Go see your granddad."
+WES: We're about halfway, and I'll tell you one I've never told. I was twenty-two. Renting a room, twenty minutes from the place. My granddad was dying in a hospital bed in the front room. Uncles came weekends. My dad went every night. I went once, on a Tuesday, because my mother said, "Go see your granddad."
 
 JONATHON: Once. That's the kind of number a man carries and then pretends he doesn't.
 
@@ -104,7 +104,7 @@ JONATHON: "You did all right, Sport." That's a whole blessing in five words, and
 
 WES: I almost wasn't. I was twenty minutes away, waiting for something that felt more like a life. A room with a TV tray and a ballgame every night. That was my lobby. I thought I was being independent. I was being absent. Independence that never shows up is just a nicer word for hiding.
 
-JONATHON: So the single man who lives twenty minutes from a dying grandfather is not in a different category from the married man who lives twenty feet from a wife he doesn't see. Same lobby. Different furniture.
+JONATHON: So the single man who lives twenty minutes from a dying grandfather isn't in a different category from the married man who lives twenty feet from a wife he doesn't see. Same lobby. Different furniture.
 
 WES: Same lobby. And Austin, a man I work with in a different way, drove his kids to Oregon this summer. Two days in the car. He sent one picture. A river. The kids knee-deep. His shoes on the bank. No words. That's a man who used to wait for a Saturday that felt like fathering. He took the days he already had.
 
@@ -128,11 +128,11 @@ WES: Quick context. Paul is talking to a church full of people who wanted a diff
 
 JONATHON: "Assigned" is a heavy word if you're twenty-four and lonely. It can sound like, sit down and stop wanting a wife. I don't think that's what he's doing, and I need us to keep saying that, because a lonely man will hear the harshest version first.
 
-WES: It isn't. Wanting a wife is not a sin. Making your obedience wait on a wife is. You can want a marriage and still live Tuesday. You can want a marriage and still do your grandmother's nails. You can want a marriage and still sing from the back row until somebody says come up here.
+WES: It isn't. Wanting a wife isn't a sin. Making your obedience wait on a wife is. You can want a marriage and still live Tuesday. You can want a marriage and still do your grandmother's nails. You can want a marriage and still sing from the back row until somebody says come up here.
 
 JONATHON: And if you're thirty-eight and divorced, "assigned" can sound like God trapped you in a life you didn't pick. I need a better sentence for that man than "stay put and smile."
 
-WES: Assigned is not trapped. Assigned is: this is the ground under your feet today, and God is not waiting for a different address to start using you. Your kids are still yours. Your church is still yours. Your Tuesday is still a real day, and it counts.
+WES: Assigned isn't trapped. Assigned is: this is the ground under your feet today, and God isn't waiting for a different address to start using you. Your kids are still yours. Your church is still yours. Your Tuesday is still a real day, and it counts.
 
 JONATHON: I'll take that. I'm not fully at peace with how churches talk about this. The flyer for the men's breakfast is couples. The small group is couples. The jokes are about wives. A single man walks in and feels like he showed up to someone else's party. We can quote Paul and still build a lobby with the furniture.
 
@@ -146,11 +146,11 @@ WES: Merle's been a widower a year and a half. He ate standing up for months. Dr
 
 JONATHON: And the divorced seat. I don't sit in it, so I'm going to be careful. The men I know who got honest said the worst part wasn't the papers. It was everybody treating them like their useful life was on pause until they remarried. That's the lobby again, just with a stamp on it. One of them told me the first year he got invited to fewer tables, not more, like grief made him contagious.
 
-WES: If that's you, you are not the warm-up act for a second wedding. You are a father, a brother, a man with a name. Live the assignment. Get help if the dark is dark. Then go do the next thing. A crew. A kid. A Thursday that is not a dating plan.
+WES: If that's you, you're not the warm-up act for a second wedding. You're a father, a brother, a man with a name. Live the assignment. Get help if the dark is dark. Then go do the next thing. A crew. A kid. A Thursday that's not a dating plan.
 
 JONATHON: Caleb-age men too. Forty, fifty, never married, or married late. Churches act like that's a problem to solve. Paul would have hired those men. They've had years of Tuesdays with nobody clapping, and some of them are the steadiest men in the room if we'd stop treating them like a puzzle.
 
-WES: Look at the 24-year-old again. Nights. Rent. Nails. Melody. That is not a pregame. That is a life. The only people calling it a lobby are the ones with a ring asking the wrong questions, and I have been one of those people.
+WES: Look at the 24-year-old again. Nights. Rent. Nails. Melody. That's not a pregame. That's a life. The only people calling it a lobby are the ones with a ring asking the wrong questions, and I've been one of those people.
 
 ---
 
@@ -158,11 +158,11 @@ WES: Look at the 24-year-old again. Nights. Rent. Nails. Melody. That is not a p
 
 WES: Jonathon, push, because a married man can sound very sure about a life he isn't living.
 
-JONATHON: Okay, hold on. Easy for us to say "you're already assigned" from a table with wedding bands on it. If I'm twenty-four and lonely, this can sound like, stop wanting what you want. I wanted Dani. Wanting her was not the lobby. Waiting to become a person until I had her was the lobby. I need that split to stay sharp, or we will hurt the lonely ones.
+JONATHON: Okay, hold on. Easy for us to say "you're already assigned" from a table with wedding bands on it. If I'm twenty-four and lonely, this can sound like, stop wanting what you want. I wanted Dani. Wanting her wasn't the lobby. Waiting to become a person until I had her was the lobby. I need that split to stay sharp, or we will hurt the lonely ones.
 
-WES: That's the distinction. Desire is not delay. Delay is when your obedience sits down until the desire arrives. You can want a wife and still join a church. You can want a wife and still give money. You can want a wife and still be a man on a Thursday.
+WES: That's the distinction. Desire isn't delay. Delay is when your obedience sits down until the desire arrives. You can want a wife and still join a church. You can want a wife and still give money. You can want a wife and still be a man on a Thursday.
 
-JONATHON: Second push. Some men are single because they won't grow up. They want a wife the way they want a manager. Somebody else to make them a man. If we only comfort the lonely, we skip the lazy, and I have been both of those men in different years.
+JONATHON: Second push. Some men are single because they won't grow up. They want a wife the way they want a manager. Somebody else to make them a man. If we only comfort the lonely, we skip the lazy, and I've been both of those men in different years.
 
 WES: Fair. If you're hiding in video games and calling it a waiting season, you don't need a pep talk. You need a job, a church, a younger back on a crew, and a man who will ask you what you did Tuesday. Assigned includes work. It includes showing up when nobody is dating you for it.
 
@@ -174,7 +174,7 @@ WES: Don't. Tell him to be the kind of man a wise woman would trust, and to live
 
 ## SEGMENT 7 · What we're actually doing
 
-WES: Here's what I'm actually doing. I'm done asking that young man about a car. One text: "Heard you can sing. Merle's lucky either way." I will not follow it with a paragraph. If he answers, I'll answer. If he doesn't, I still sent the right question.
+WES: Here's what I'm actually doing. I'm done asking that young man about a car. One text: "Heard you can sing. Merle's lucky either way." I won't follow it with a paragraph. If he answers, I'll answer. If he doesn't, I still sent the right question.
 
 JONATHON: I'm texting my sister's boy something real. What's hard at work. Then I'm asking him to be one of the men at Theo's morning. That's eight years out. He can say no. At least it won't be "Anybody special?" And if he writes back "Nope" out of habit, I'll ask again, because I trained him to expect the lobby question.
 
@@ -186,9 +186,13 @@ WES: If you're divorced or widowed, take one Tuesday back. Not a dating plan. A 
 
 ---
 
+WES: Look around your week. If you've got a single man in your life, notice which questions you ask. If they all point at a missing woman or a missing car, you're telling him he isn't here yet. I'm done with that question. The text is about the song.
+
+JONATHON: And if he writes back nope out of habit, I'll ask again, because I trained him to expect the lobby question. I can untrain it. That's assigned too.
+
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. You are not in the lobby. You are already assigned.
+WES: Here's what I want you to carry. You're not in the lobby. You're already assigned.
 
 JONATHON: And stop asking a man if his real life has started. Ask what he did Tuesday.
 

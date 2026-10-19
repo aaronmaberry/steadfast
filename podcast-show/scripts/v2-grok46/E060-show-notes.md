@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (1,979 spoken words, about 13:12). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (1,955 spoken words, about 13:02). Re-time them against the final edit before publishing.
 
 ---
 
@@ -34,14 +34,14 @@ Christian men podcast, marriage, James 1:19, know your wife, Walk Steadfast, Go 
 | Time | Segment | Summary |
 |---|---|---|
 | 00:00 | Open | Little ones or the real one. |
-| 00:47 | The little ones | TV, notice, a letter K, then a degree. |
-| 03:07 | The room that talked | Welding, the boot, Dairy Queen walks. |
-| 04:50 | The Word | James 1:19. Quick to listen. |
-| 05:57 | Tuesdays out loud | The leaving sentence. Three-question walk. |
-| 07:57 | What we're carrying | Write it. Don't book the mountain yet. |
-| 09:10 | The three questions | Walk, porch, or sink. Write it. |
-| 11:00 | What we failed | Don't dress up a skipped ask. |
-| 12:49 | Close | Hearing is the job. |
+| 00:46 | The little ones | TV, notice, a letter K, then a degree. |
+| 03:04 | The room that talked | Welding, the boot, Dairy Queen walks. |
+| 04:47 | The Word | James 1:19. Quick to listen. |
+| 05:52 | Tuesdays out loud | The leaving sentence. Three-question walk. |
+| 07:51 | What we're carrying | Write it. Don't book the mountain yet. |
+| 09:04 | The three questions | Walk, porch, or sink. Write it. |
+| 10:51 | What we failed | Don't dress up a skipped ask. |
+| 12:39 | Close | Hearing is the job. |
 
 ---
 

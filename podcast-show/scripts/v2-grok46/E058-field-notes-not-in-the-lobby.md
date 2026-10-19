@@ -5,9 +5,9 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 1,900 (about 12:40 at 150 wpm, before laughs and pauses) |
+| Spoken words | 1,939 (about 12:56 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 29 lines (54% of words). JONATHON 25 lines (46% of words), 1 under 12 words (4.0%) |
+| Line balance | WES 30 lines (54% of words). JONATHON 26 lines (46% of words), 1 under 12 words (3.8%) |
 | Focus mark | Stop Waiting |
 | Scripture (NIV, verified 2026-10-19) | Spoken: 1 Peter 4:10. Board only: 1 Corinthians 7:20; Colossians 3:23 |
 | Board cues | 5 |
@@ -34,7 +34,7 @@ JONATHON: He texted Wednesday: "you didnt ask about girls sunday. noticed." I st
 
 WES: This is Walk Steadfast. I'm Wes Hart.
 
-JONATHON: And I'm Jonathon. Friday we check the box. We do not dress it up.
+JONATHON: And I'm Jonathon. Friday we check the box. We don't dress it up.
 
 WES: Tuesday we asked you to do one assigned thing that has nothing to do with finding a wife, and to quit the lobby questions. If you tried it, stay. Before we're done I'll tell you about a cracked boot on a vent pipe, and he will tell you what a twenty-two-year-old said about a morning eight years out.
 
@@ -50,7 +50,7 @@ JONATHON: I texted him Saturday night. Not "Anybody special?" I wrote, "What's h
 
 WES: And what did he say when you didn't rush in to fix his pride?
 
-JONATHON: "He's the best electrician I've ever seen. He just hates college kids." I wrote back, "You went one semester." He sent a laugh. Not quitting this week. That's the whole report on the work ask, and it is more of a man than two years of oranges.
+JONATHON: "He's the best electrician I've ever seen. He just hates college kids." I wrote back, "You went one semester." He sent a laugh. Not quitting this week. That's the whole report on the work ask, and it's more of a man than two years of oranges.
 
 WES: Then Theo's morning. The real ask.
 
@@ -62,15 +62,15 @@ WES: Wednesday he noticed you skipped the girls question. You still haven't answ
 
 JONATHON: I haven't, because if I explain it I'll turn it back into a speech. I'm going to write, "Yeah. I asked a real one instead." Then stop. He can sit with that.
 
-WES: My box. I sent the text. "Heard you can sing. Merle's lucky either way." Wednesday afternoon he wrote, "thanks wes." Nothing on Thursdays. Merle said nothing at church. I'm leaving it there. I will not chase a paragraph.
+WES: My box. I sent the text. "Heard you can sing. Merle's lucky either way." Wednesday afternoon he wrote, "thanks wes." Nothing on Thursdays. Merle said nothing at church. I'm leaving it there. I won't chase a paragraph.
 
 JONATHON: That's harder for you than the long text, because you like a clean loop.
 
-WES: I like a clean loop. He said don't fix it. So I didn't. I sat with "thanks wes" the way I sat with two waters in a truck. It is not a testimony. It is just a man answering without giving me his whole week.
+WES: I like a clean loop. He said don't fix it. So I didn't. I sat with "thanks wes" the way I sat with two waters in a truck. It's not a testimony. It's just a man answering without giving me his whole week.
 
 JONATHON: His roommate came up in a later text. Vegan. Dani had made a separate pan of beans one Sunday and the roommate never forgot it. I'm not turning that into a cameo. The roommate is his. The text is mine. I'm staying in my lane.
 
-WES: Stay in the lane. Look around your house this week. If you've got a younger man on your phone, notice whether you are asking him to perform a life or tell you the truth.
+WES: Stay in the lane. Look around your house this week. If you've got a younger man on your phone, notice whether you're asking him to perform a life or tell you the truth.
 
 ---
 
@@ -84,7 +84,7 @@ WES: I asked him to look. Thursday after work he was there ten minutes and said,
 
 JONATHON: So the assigned thing for a married man this week was admitting he couldn't see the leak, and letting a single man teach him in his own attic.
 
-WES: That's exactly it. He's forty-four. Never married. Fifteen years on the board. Roofed houses in his twenties. I have treated him like furniture in the booth. This week he was the man who knew.
+WES: That's exactly it. He's forty-four. Never married. Fifteen years on the board. Roofed houses in his twenties. I've treated him like furniture in the booth. This week he was the man who knew.
 
 [BOARD: Ask the man who already knows the room.]
 
@@ -96,7 +96,7 @@ WES: At twenty-two I ate off a TV tray and watched a ballgame every night and ca
 
 JONATHON: So the sound man teaching you the boot is the picture. A single man with a name, not a project. You buy the part. He shows you. That's honor, not charity.
 
-WES: That's honor. I'm going to say his tomatoes out loud so I remember he has a life I have never asked about. Nine kinds. I asked about one. I have fourteen more questions if I ever become a man who asks. Starting with the brother in Lubbock, and why they don't talk, and whether he wants to.
+WES: That's honor. I'm going to say his tomatoes out loud so I remember he has a life I've never asked about. Nine kinds. I asked about one. I've fourteen more questions if I ever become a man who asks. Starting with the brother in Lubbock, and why they don't talk, and whether he wants to.
 
 JONATHON: Don't start with Lubbock. Start with the boot. Then ask if he wants to come eat, not fix anything. A meal without a job is how a lobby becomes a house.
 
@@ -110,15 +110,15 @@ JONATHON: "Each of you should use whatever gift you have received to serve other
 
 [BOARD: 1 Corinthians 7:20 (NIV) · "Each person should remain in the situation they were in when God called them."]
 
-WES: Peter is writing to ordinary people, not a stage. The gift is already received. Past tense. You use it. You don't wait to feel titled. A cracked boot is a gift if you know how to see it. A semester you didn't finish is not the whole name.
+WES: Peter is writing to ordinary people, not a stage. The gift is already received. Past tense. You use it. You don't wait to feel titled. A cracked boot is a gift if you know how to see it. A semester you didn't finish isn't the whole name.
 
 JONATHON: "Various forms." That's the part that gets me. Nails. Sound. A Tuesday text. A melody from the back row. None of those look like a calling on a flyer, and all of them are grace in a form.
 
-WES: If you needed a prettier gift than the one in your hands, you would still be in the lobby. Use the one you have. A semester you didn't finish is not the whole name. A cracked boot is not small if a ceiling is staining Oklahoma.
+WES: If you needed a prettier gift than the one in your hands, you would still be in the lobby. Use the one you have. A semester you didn't finish isn't the whole name. A cracked boot isn't small if a ceiling is staining Oklahoma.
 
 JONATHON: I'll be real with you. I wanted Peter to say "gift" and mean a stage. He means a towel. He means a text. He means a man who can see a vent pipe. That's why this verse is harder than the conference, and it's why I keep trying to upgrade the gift before I use it.
 
-WES: Context in two sentences. Peter is talking about the end being near, and therefore serving, not performing. The various forms are how grace shows up in a kitchen and a warehouse and a booth. If the form in your hand looks ordinary, that is not a clue you missed your calling. That is the calling.
+WES: Context in two sentences. Peter is talking about the end being near, and therefore serving, not performing. The various forms are how grace shows up in a kitchen and a warehouse and a booth. If the form in your hand looks ordinary, that's not a clue you missed your calling. That's the calling.
 
 ---
 
@@ -153,6 +153,10 @@ WES: And if he doesn't answer, you still asked. That's assigned. That's not a fa
 [BOARD: Four lines is a life, not a lobby.]
 
 ---
+
+WES: Look around your house this week. The gift is already in your hands. A cracked boot. A Tuesday. A real question. Use the one you have.
+
+JONATHON: I'll leave the girls question on the floor. If I pick it back up, stop me. That's me walking back into the lobby with a better costume.
 
 ## CLOSE (word for word)
 

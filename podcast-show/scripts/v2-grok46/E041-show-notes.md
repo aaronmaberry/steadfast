@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,831 spoken words, about 18:52). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,823 spoken words, about 18:49). Re-time them against the final edit before publishing.
 
 ---
 
@@ -33,15 +33,15 @@ Christian men podcast, brotherhood, Hebrews 3:13, Memorial Day, Walk Steadfast
 | Time | Segment | Summary |
 |---|---|---|
 | 00:00 | Open | Open. |
-| 00:49 | The porch and the umbrella | The porch and the umbrella. |
+| 00:46 | The porch and the umbrella | The porch and the umbrella. |
 | 02:50 | Barn, dog, kitchen | Barn, dog, kitchen. |
-| 04:51 | The Word | The Word. |
-| 06:00 | Pancakes and a truck | Pancakes and a truck. |
-| 08:10 | Pushback | Pushback. |
-| 09:26 | This week's challenge | This week's challenge. |
-| 12:48 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
-| 18:04 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
-| 18:31 | Close | Close. |
+| 04:58 | The Word | The Word. |
+| 06:11 | Pancakes and a truck | Pancakes and a truck. |
+| 08:32 | Pushback | Pushback. |
+| 09:51 | This week's challenge | This week's challenge. |
+| 12:31 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
+| 17:59 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
+| 18:28 | Close | Close. |
 
 ---
 

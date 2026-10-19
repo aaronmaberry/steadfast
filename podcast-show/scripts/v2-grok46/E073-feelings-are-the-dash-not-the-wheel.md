@@ -5,9 +5,9 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,826 (about 18:50 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,950 (about 19:40 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 36 lines (54% of words). JONATHON 35 lines (46% of words), 3 under 12 words (8.6%) |
+| Line balance | WES 54 lines (52% of words). JONATHON 53 lines (48% of words), 4 under 12 words (7.5%) |
 | Focus mark | Stop Waiting |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Psalm 42:5. Board only: Proverbs 29:11; James 1:19 |
 | Board cues | 4 |
@@ -24,7 +24,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 
 WES: He went for the truck keys. I said you don't drive mad.
 
-JONATHON: Four months. She broke up by text during a ballgame.
+JONATHON: She broke up by text during a ballgame.
 
 WES: He set the keys on the table, not in my hand. That was a man starting.
 
@@ -36,9 +36,9 @@ WES: This is Walk Steadfast. I'm Wes Hart.
 
 JONATHON: And I'm Jonathon.
 
-WES: Today, one question. What do you do with a feeling so it doesn't drive? If you have been calling it tired when it is afraid, stay. Before we're done I'll tell you the word I named on the porch, and he will tell you two words Ruby used on a bedroom floor.
+WES: Today, one question. What do you do with a feeling so it doesn't drive? If you have been calling it tired when it's afraid, stay. Before we're done I'll tell you the word I named on the porch, and he will tell you two words Ruby used on a bedroom floor.
 
-JONATHON: And I'll tell you why I would not take a quit text till seven the next morning.
+JONATHON: And I'll tell you why I wouldn't take a quit text till seven the next morning.
 
 ---
 
@@ -52,7 +52,7 @@ WES: I said you can be as mad as you want. You don't drive mad. I'll drive. You 
 
 [BOARD: Mad can ride. Mad cannot drive.]
 
-JONATHON: That's the dash. He named it. He did not give it the wheel.
+JONATHON: He named it. He didn't give it the wheel.
 
 ---
 
@@ -62,7 +62,7 @@ WES: Your first Tuesday word.
 
 JONATHON: Left out. Under the glad. I had been calling it nervous. Plan: the short text, then how was it first. Naming left out keeps me from turning her folder into my abandonment story.
 
-WES: I have a review in October with a new, younger reviewer. Feels about my son-in-law's age. I have been short with my wife, the dog, and a man at the shop, calling it tired. Sunday she said, what's October. On the porch I named it afraid. Afraid a younger man will decide I'm the old way, and might be right about some of it.
+WES: I've got a review in October with a new, younger reviewer. Feels about my son-in-law's age. I've been short with my wife, the dog, and a man at the shop, calling it tired. Sunday she said, what's October. On the porch I named it afraid. Afraid a younger man will decide I'm the old way, and might be right about some of it.
 
 JONATHON: Tired was a costume. Afraid is a word you can pray. I needed you to say afraid so I would stop saying nervous when I mean left out.
 
@@ -70,7 +70,7 @@ JONATHON: Tired was a costume. Afraid is a word you can pray. I needed you to sa
 
 ## SEGMENT 3 · Ashamed
 
-WES: The warranty Saturday I have told. An older couple buying a TV for a grandson's graduation. Manager high-fived me on the floor. I left through the back. For ten years I called it bored. In my thirties a man at church asked what it felt like when he high-fived you. I said ashamed.
+WES: The warranty Saturday I've told. An older couple buying a TV for a grandson's graduation. Manager high-fived me on the floor. I left through the back. For ten years I called it bored. In my thirties a man at church asked what it felt like when he high-fived you. I said ashamed.
 
 JONATHON: A younger tech Wednesday. Customer cussed him for being forty minutes late. The call before was a family with a baby and no air. At six he texted I'm done, find somebody else. I said I'm not taking that text till seven tomorrow morning. Thursday at seven-oh-five: still here. Sorry about last night.
 
@@ -78,7 +78,7 @@ JONATHON: A younger tech Wednesday. Customer cussed him for being forty minutes 
 
 WES: You gave a feeling a night to sit in the passenger seat. That's the dash.
 
-JONATHON: Ruby Wednesday stomped in, slammed her door. I sat on the floor outside. Can you give me two words for it. Mad. And embarrassed. A friend laughed at her drawing. I said that would embarrass me too. I did not fix the friend.
+JONATHON: Ruby Wednesday stomped in, slammed her door. I sat on the floor outside. Can you give me two words for it. Mad. And embarrassed. A friend laughed at her drawing. I said that would embarrass me too. I didn't fix the friend.
 
 ---
 
@@ -92,7 +92,7 @@ JONATHON: "Why, my soul, are you downcast? Why so disturbed within me? Put your 
 
 WES: The psalmist talks to his own soul. That's a dash he can read. He does not pretend the downcast isn't there. He also does not hand it the keys. Hope is the wheel. Praise is yet. Not fake now. Yet.
 
-JONATHON: I have given full vent in a kitchen and called it honesty. Honesty without a wheel is a wreck. Two words on a floor is honesty with a wheel.
+JONATHON: I've given full vent in a kitchen and called it honesty. Honesty without a wheel is a wreck. Two words on a floor is honesty with a wheel.
 
 WES: Context in two sentences. This psalm is a thirsty man far from the house of God. He names the downcast. Then he tells it where to look. My wife used to say use your words when the kids were small. That's Psalm forty-two in a hallway.
 
@@ -108,157 +108,247 @@ WES: This week's challenge. Say one true word to her at supper every night befor
 
 JONATHON: Thursday's text to Wes becomes my word for the week instead of did you do it. Wes said he'll answer with more than K.
 
-WES: A man says it's unmanly to cry. I cried at my daughter's wedding and not at any birth. A son-in-law handed me a pocket square mid-song. Feelings are information. They are not a verdict on your manhood. They are also not a license to drive drunk on them.
+WES: A man says it's unmanly to cry. I cried at my daughter's wedding and not at any birth. A son-in-law handed me a pocket square mid-song. Feelings are information. They aren't a verdict on your manhood. They're also not a license to drive drunk on them.
 
 JONATHON: If you're single, name the word to a brother. If you're divorced, don't let mad drive a handoff. Keys on the table. Then the road.
 
-WES: Look around your house this week. What have you been calling tired that is afraid. Name it. Then put the keys down.
+WES: Look around your house this week. What have you been calling tired that's afraid. Name it. Then put the keys down.
 
-JONATHON: I'll name left out. I'll ask how was it first. I will not take a quit at six. That's the wheel I can hold.
+JONATHON: I'll ask how was it first. I won't take a quit at six. That's the wheel I can hold.
 
 ---
 
 ## SEGMENT 6 · More on keys 1
 
-WES: Stay on keys on the table a minute, because a man will hear the verse and look for a war. The war is keys on the table. I have walked past keys on the table so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up keys on the table before you write a speech about it.
+WES: Stay on keys on the table a minute, because a man will hear the verse and look for a war. The war is keys on the table.
 
 JONATHON: I'll be real with you. I can talk about keys on the table for twenty minutes and still skip a farm-road quiet tonight, which is why I need a man who will ask me tomorrow whether I did a farm-road quiet. If I fail I will say I failed, not that the week got loud.
+
+WES: I've walked past keys on the table so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up keys on the table before you write a speech about it.
+
+JONATHON: Yeah — I'll do the next small thing, and I'll tell the truth about it Friday.
+
 
 ---
 
 ## SEGMENT 7 · More on keys 2
 
-WES: I keep a picture of keys on the table in my head when I want to quit. Not a stage. keys on the table. If I need a prettier assignment than keys on the table, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like keys on the table, then tell one man.
+WES: I keep a picture of keys on the table in my head when I want to quit. Not a stage. keys on the table.
 
-JONATHON: I want credit for keys on the table and I want privacy for the word afraid. That's the paycheck again. I'm doing the word afraid without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
+JONATHON: I want credit for keys on the table and I want privacy for the word afraid.
+
+WES: If I need a prettier assignment than keys on the table, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like keys on the table, then tell one man.
+
+JONATHON: I'm doing the word afraid without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
+
 
 ---
 
 ## SEGMENT 8 · More on keys 3
 
-WES: I almost turned keys on the table into a testimony before the week was over. That's how I steal a gift. I'm leaving keys on the table unnamed in the report so I don't get paid twice. Coming back to keys on the table counts. Narrating keys on the table does not.
+WES: I almost turned keys on the table into a testimony before the week was over. That's how I steal a gift.
 
-JONATHON: I keep trying to upgrade keys on the table into a program. She did not ask for a program. She asked for two words on a floor. I'm retiring the program and keeping two words on a floor, even if two words on a floor makes me feel small.
+JONATHON: I keep trying to upgrade keys on the table into a program.
+
+WES: I'm leaving keys on the table unnamed in the report so I don't get paid twice. Coming back to keys on the table counts. Narrating keys on the table does not.
+
+JONATHON: She didn't ask for a program. She asked for two words on a floor. I'm retiring the program and keeping two words on a floor, even if two words on a floor makes me feel small.
+
 
 ---
 
 ## SEGMENT 9 · More on keys 4
 
-WES: My dad would have called keys on the table Tuesday. I have been wanting a letter for keys on the table. I'm retiring the letter. I'm doing keys on the table tired, and I am not writing a paragraph on the way.
+WES: My dad would have called keys on the table Tuesday. I've been wanting a letter for keys on the table.
 
-JONATHON: If I hide from keys on the table I will call it logistics. I'm done with that name. keys on the table is the work. a quit till morning is how I prove I meant it. Ask me Friday about a quit till morning and I will not joke.
+JONATHON: If I hide from keys on the table I will call it logistics.
+
+WES: I'm retiring the letter. I'm doing keys on the table tired, and I'm not writing a paragraph on the way.
+
+JONATHON: I'm done with that name. keys on the table is the work. a quit till morning is how I prove I meant it. Ask me Friday about a quit till morning and I won't joke.
+
 
 ---
 
 ## SEGMENT 10 · More on keys 5
 
-WES: If keys on the table feels small, that's a clue you're close. Big feelings like a conference. keys on the table likes a kitchen. I have skipped kitchens for conferences. I'm late. I'm still going to keys on the table.
+WES: If keys on the table feels small, that's a clue you're close. Big feelings like a conference. keys on the table likes a kitchen.
 
-JONATHON: Single men, keys on the table still belongs to you. Divorced men, a pocket square still belongs to you. I don't get to keep these on a married shelf. I'm doing keys on the table and a pocket square as a person, not as a title.
+JONATHON: Table likes a kitchen. Single men, keys on the table still belongs to you. Divorced men, a pocket square still belongs to you. I don't get to keep these on a married shelf. I'm doing keys on the table and a pocket square as a person, not as a title.
+
+WES: I've skipped kitchens for conferences. I'm late. I'm still going to keys on the table.
+
+JONATHON: Hold on. If I miss it I'll say I missed it. I won't hide it in a loud week.
+
 
 ---
 
 ## SEGMENT 11 · More on keys 6
 
-WES: Stay on keys on the table a minute, because a man will hear the verse and look for a war. The war is keys on the table. I have walked past keys on the table so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up keys on the table before you write a speech about it.
+WES: Stay on keys on the table a minute, because a man will hear the verse and look for a war. The war is keys on the table.
 
 JONATHON: I'll be real with you. I can talk about keys on the table for twenty minutes and still skip left out under glad tonight, which is why I need a man who will ask me tomorrow whether I did left out under glad. If I fail I will say I failed, not that the week got loud.
+
+WES: I've walked past keys on the table so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up keys on the table before you write a speech about it.
+
+JONATHON: That's the one I keep walking past. Ask me Friday whether I picked it up.
+
 
 ---
 
 ## SEGMENT 12 · More on keys 7
 
-WES: I keep a picture of keys on the table in my head when I want to quit. Not a stage. keys on the table. If I need a prettier assignment than keys on the table, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like keys on the table, then tell one man.
+WES: I keep a picture of keys on the table in my head when I want to quit. Not a stage. keys on the table.
 
-JONATHON: I want credit for keys on the table and I want privacy for a high-five shame. That's the paycheck again. I'm doing a high-five shame without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
+JONATHON: I want credit for keys on the table and I want privacy for a high-five shame.
+
+WES: If I need a prettier assignment than keys on the table, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like keys on the table, then tell one man.
+
+JONATHON: I'm doing a high-five shame without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
+
 
 ---
 
 ## SEGMENT 13 · More on a 8
 
-WES: I almost turned a farm-road quiet into a testimony before the week was over. That's how I steal a gift. I'm leaving a farm-road quiet unnamed in the report so I don't get paid twice. Coming back to a farm-road quiet counts. Narrating a farm-road quiet does not.
+WES: I almost turned a farm-road quiet into a testimony before the week was over. That's how I steal a gift.
 
-JONATHON: I keep trying to upgrade a farm-road quiet into a program. She did not ask for a program. She asked for keys on the table. I'm retiring the program and keeping keys on the table, even if keys on the table makes me feel small.
+JONATHON: I keep trying to upgrade a farm-road quiet into a program. She didn't ask for a program. She asked for keys on the table. I'm retiring the program and keeping keys on the table, even if keys on the table makes me feel small.
+
+WES: I'm leaving a farm-road quiet unnamed in the report so I don't get paid twice. Coming back to a farm-road quiet counts. Narrating a farm-road quiet does not.
+
+JONATHON: I'm with you. I'll take the small one tonight and I won't write a speech on the way.
+
 
 ---
 
 ## SEGMENT 14 · More on a 9
 
-WES: My dad would have called a farm-road quiet Tuesday. I have been wanting a letter for a farm-road quiet. I'm retiring the letter. I'm doing a farm-road quiet tired, and I am not writing a paragraph on the way.
+WES: My dad would have called a farm-road quiet Tuesday. I've been wanting a letter for a farm-road quiet.
 
-JONATHON: If I hide from a farm-road quiet I will call it logistics. I'm done with that name. a farm-road quiet is the work. the word afraid is how I prove I meant it. Ask me Friday about the word afraid and I will not joke.
+JONATHON: If I hide from a farm-road quiet I will call it logistics.
+
+WES: I'm retiring the letter. I'm doing a farm-road quiet tired, and I'm not writing a paragraph on the way.
+
+JONATHON: I'm done with that name. a farm-road quiet is the work. the word afraid is how I prove I meant it. Ask me Friday about the word afraid and I won't joke.
+
 
 ---
 
 ## SEGMENT 15 · More on a 10
 
-WES: If a farm-road quiet feels small, that's a clue you're close. Big feelings like a conference. a farm-road quiet likes a kitchen. I have skipped kitchens for conferences. I'm late. I'm still going to a farm-road quiet.
+WES: If a farm-road quiet feels small, that's a clue you're close. Big feelings like a conference. a farm-road quiet likes a kitchen.
 
-JONATHON: Single men, a farm-road quiet still belongs to you. Divorced men, two words on a floor still belongs to you. I don't get to keep these on a married shelf. I'm doing a farm-road quiet and two words on a floor as a person, not as a title.
+JONATHON: Quiet likes a kitchen. Single men, a farm-road quiet still belongs to you. Divorced men, two words on a floor still belongs to you. I don't get to keep these on a married shelf. I'm doing a farm-road quiet and two words on a floor as a person, not as a title.
+
+WES: I've skipped kitchens for conferences. I'm late. I'm still going to a farm-road quiet.
+
+JONATHON: Yeah — I'll do the next small thing, and I'll tell the truth about it Friday.
+
 
 ---
 
 ## SEGMENT 16 · More on a 11
 
-WES: Stay on a farm-road quiet a minute, because a man will hear the verse and look for a war. The war is a farm-road quiet. I have walked past a farm-road quiet so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up a farm-road quiet before you write a speech about it.
+WES: Stay on a farm-road quiet a minute, because a man will hear the verse and look for a war. The war is a farm-road quiet.
 
 JONATHON: I'll be real with you. I can talk about a farm-road quiet for twenty minutes and still skip a quit till morning tonight, which is why I need a man who will ask me tomorrow whether I did a quit till morning. If I fail I will say I failed, not that the week got loud.
+
+WES: I've walked past a farm-road quiet so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up a farm-road quiet before you write a speech about it.
+
+JONATHON: Hold on. If I miss it I'll say I missed it. I won't hide it in a loud week.
+
 
 ---
 
 ## SEGMENT 17 · More on a 12
 
-WES: I keep a picture of a farm-road quiet in my head when I want to quit. Not a stage. a farm-road quiet. If I need a prettier assignment than a farm-road quiet, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like a farm-road quiet, then tell one man.
+WES: I keep a picture of a farm-road quiet in my head when I want to quit. Not a stage. a farm-road quiet.
 
-JONATHON: I want credit for a farm-road quiet and I want privacy for a pocket square. That's the paycheck again. I'm doing a pocket square without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
+JONATHON: I want credit for a farm-road quiet and I want privacy for a pocket square.
+
+WES: If I need a prettier assignment than a farm-road quiet, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like a farm-road quiet, then tell one man.
+
+JONATHON: I'm doing a pocket square without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
+
 
 ---
 
 ## SEGMENT 18 · More on a 13
 
-WES: I almost turned a farm-road quiet into a testimony before the week was over. That's how I steal a gift. I'm leaving a farm-road quiet unnamed in the report so I don't get paid twice. Coming back to a farm-road quiet counts. Narrating a farm-road quiet does not.
+WES: I almost turned a farm-road quiet into a testimony before the week was over. That's how I steal a gift.
 
-JONATHON: I keep trying to upgrade a farm-road quiet into a program. She did not ask for a program. She asked for left out under glad. I'm retiring the program and keeping left out under glad, even if left out under glad makes me feel small.
+JONATHON: I keep trying to upgrade a farm-road quiet into a program. She didn't ask for a program. She asked for left out under glad. I'm retiring the program and keeping left out under glad, even if left out under glad makes me feel small.
+
+WES: I'm leaving a farm-road quiet unnamed in the report so I don't get paid twice. Coming back to a farm-road quiet counts. Narrating a farm-road quiet does not.
+
+JONATHON: That's the one I keep walking past. Ask me Friday whether I picked it up.
+
 
 ---
 
 ## SEGMENT 19 · More on a 14
 
-WES: My dad would have called a farm-road quiet Tuesday. I have been wanting a letter for a farm-road quiet. I'm retiring the letter. I'm doing a farm-road quiet tired, and I am not writing a paragraph on the way.
+WES: My dad would have called a farm-road quiet Tuesday. I've been wanting a letter for a farm-road quiet.
 
-JONATHON: If I hide from a farm-road quiet I will call it logistics. I'm done with that name. a farm-road quiet is the work. a high-five shame is how I prove I meant it. Ask me Friday about a high-five shame and I will not joke.
+JONATHON: If I hide from a farm-road quiet I will call it logistics.
+
+WES: I'm retiring the letter. I'm doing a farm-road quiet tired, and I'm not writing a paragraph on the way.
+
+JONATHON: I'm done with that name. a farm-road quiet is the work. a high-five shame is how I prove I meant it. Ask me Friday about a high-five shame and I won't joke.
+
 
 ---
 
 ## SEGMENT 20 · More on the 15
 
-WES: If the word afraid feels small, that's a clue you're close. Big feelings like a conference. the word afraid likes a kitchen. I have skipped kitchens for conferences. I'm late. I'm still going to the word afraid.
+WES: If the word afraid feels small, that's a clue you're close. Big feelings like a conference. the word afraid likes a kitchen.
 
-JONATHON: Single men, the word afraid still belongs to you. Divorced men, keys on the table still belongs to you. I don't get to keep these on a married shelf. I'm doing the word afraid and keys on the table as a person, not as a title.
+JONATHON: Afraid likes a kitchen. Single men, the word afraid still belongs to you. Divorced men, keys on the table still belongs to you. I don't get to keep these on a married shelf. I'm doing the word afraid and keys on the table as a person, not as a title.
+
+WES: I've skipped kitchens for conferences. I'm late. I'm still going to the word afraid.
+
+JONATHON: I'm with you. I'll take the small one tonight and I won't write a speech on the way.
+
 
 ---
 
 ## SEGMENT 21 · More on the 16
 
-WES: Stay on the word afraid a minute, because a man will hear the verse and look for a war. The war is the word afraid. I have walked past the word afraid so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up the word afraid before you write a speech about it.
+WES: Stay on the word afraid a minute, because a man will hear the verse and look for a war. The war is the word afraid.
 
 JONATHON: I'll be real with you. I can talk about the word afraid for twenty minutes and still skip a farm-road quiet tonight, which is why I need a man who will ask me tomorrow whether I did a farm-road quiet. If I fail I will say I failed, not that the week got loud.
+
+WES: I've walked past the word afraid so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up the word afraid before you write a speech about it.
+
+JONATHON: Yeah — I'll do the next small thing, and I'll tell the truth about it Friday.
+
 
 ---
 
 ## SEGMENT 22 · More on the 17
 
-WES: I keep a picture of the word afraid in my head when I want to quit. Not a stage. the word afraid. If I need a prettier assignment than the word afraid, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like the word afraid, then tell one man.
+WES: I keep a picture of the word afraid in my head when I want to quit. Not a stage. the word afraid.
 
-JONATHON: I want credit for the word afraid and I want privacy for two words on a floor. That's the paycheck again. I'm doing two words on a floor without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
+JONATHON: I want credit for the word afraid and I want privacy for two words on a floor.
+
+WES: If I need a prettier assignment than the word afraid, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like the word afraid, then tell one man.
+
+JONATHON: I'm doing two words on a floor without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
+
 
 ---
 
 ## SEGMENT 23 · More on the 18
 
-WES: I almost turned the word afraid into a testimony before the week was over. That's how I steal a gift. I'm leaving the word afraid unnamed in the report so I don't get paid twice. Coming back to the word afraid counts. Narrating the word afraid does not.
+WES: I almost turned the word afraid into a testimony before the week was over. That's how I steal a gift.
 
-JONATHON: I keep trying to upgrade the word afraid into a program. She did not ask for a program. She asked for a quit till morning. I'm retiring the program and keeping a quit till morning, even if a quit till morning makes me feel small.
+JONATHON: I keep trying to upgrade the word afraid into a program. She didn't ask for a program. She asked for a quit till morning. I'm retiring the program and keeping a quit till morning, even if a quit till morning makes me feel small.
+
+WES: I'm leaving the word afraid unnamed in the report so I don't get paid twice. Coming back to the word afraid counts. Narrating the word afraid does not.
+
+JONATHON: Hold on. If I miss it I'll say I missed it. I won't hide it in a loud week.
+
 
 ---
 

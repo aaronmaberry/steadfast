@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,880 spoken words, about 19:12). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,997 spoken words, about 19:59). Re-time them against the final edit before publishing.
 
 ---
 
@@ -34,34 +34,34 @@ Christian men podcast, work, Ephesians 2:10, Labor Day, Walk Steadfast, handiwor
 | Time | Segment | Summary |
 |---|---|---|
 | 00:00 | Open | Open |
-| 00:47 | The attic | The attic |
-| 02:00 | Warranties and foil | Warranties and foil |
-| 03:00 | Cedar | Cedar |
-| 04:19 | The Word | The Word |
-| 05:27 | Pushback | Pushback |
-| 06:54 | The challenge | The challenge |
-| 07:46 | Flashlight | Flashlight |
-| 08:13 | Names at six | Names at six |
-| 08:36 | Bead | Bead |
-| 08:58 | Foil | Foil |
-| 09:18 | Sleepwalk | Sleepwalk |
-| 09:36 | Pancake Saturday | Pancake Saturday |
-| 09:59 | What I'm actually doing | What I'm actually doing |
-| 10:15 | Boss twice | Boss twice |
-| 10:31 | More on the 1 | More on the 1 |
-| 11:18 | More on the 2 | More on the 2 |
-| 11:59 | More on the 3 | More on the 3 |
-| 12:33 | More on the 4 | More on the 4 |
-| 13:04 | More on the 5 | More on the 5 |
-| 13:34 | More on the 6 | More on the 6 |
-| 14:20 | More on the 7 | More on the 7 |
-| 15:01 | More on the 8 | More on the 8 |
-| 15:36 | More on the 9 | More on the 9 |
-| 16:09 | More on the 10 | More on the 10 |
-| 16:42 | More on the 11 | More on the 11 |
-| 17:30 | More on the 12 | More on the 12 |
-| 18:13 | More on the 13 | More on the 13 |
-| 18:48 | Close | Close |
+| 00:46 | The attic | The attic |
+| 02:13 | Warranties and foil | Warranties and foil |
+| 03:11 | Cedar | Cedar |
+| 04:28 | The Word | The Word |
+| 05:36 | Pushback | Pushback |
+| 07:01 | The challenge | The challenge |
+| 07:52 | Flashlight | Flashlight |
+| 08:17 | Names at six | Names at six |
+| 08:38 | Bead | Bead |
+| 09:00 | Foil | Foil |
+| 09:20 | Sleepwalk | Sleepwalk |
+| 09:38 | Pancake Saturday | Pancake Saturday |
+| 09:58 | What I'm actually doing | What I'm actually doing |
+| 10:14 | Boss twice | Boss twice |
+| 10:30 | More on the 1 | More on the 1 |
+| 11:21 | More on the 2 | More on the 2 |
+| 12:00 | More on the 3 | More on the 3 |
+| 12:42 | More on the 4 | More on the 4 |
+| 13:17 | More on the 5 | More on the 5 |
+| 13:56 | More on the 6 | More on the 6 |
+| 14:46 | More on the 7 | More on the 7 |
+| 15:24 | More on the 8 | More on the 8 |
+| 16:06 | More on the 9 | More on the 9 |
+| 16:39 | More on the 10 | More on the 10 |
+| 17:18 | More on the 11 | More on the 11 |
+| 18:13 | More on the 12 | More on the 12 |
+| 18:55 | More on the 13 | More on the 13 |
+| 19:35 | Close | Close |
 
 ---
 

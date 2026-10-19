@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,800 spoken words, about 18:40). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,819 spoken words, about 18:48). Re-time them against the final edit before publishing.
 
 ---
 
@@ -33,13 +33,13 @@ Christian men podcast, Mother's Day, Proverbs 23:22, honoring your mother, Walk 
 | Time | Segment | Summary |
 |---|---|---|
 | 00:00 | Open | Hook and the question of the day. |
-| 01:00 | The fern and the shirt | The fern and the shirt. |
-| 03:26 | The Camry and the trade | The Camry and the trade. |
-| 06:56 | The Word | The Word. |
-| 09:30 | Pushback | Pushback. |
-| 11:55 | The door and the pie | The door and the pie. |
-| 14:02 | This week's challenge | This week's challenge. |
-| 18:10 | Close | Carry this, and the close. |
+| 00:59 | The fern and the shirt | The fern and the shirt. |
+| 03:44 | The Camry and the trade | The Camry and the trade. |
+| 07:26 | The Word | The Word. |
+| 09:54 | Pushback | Pushback. |
+| 12:14 | The door and the pie | The door and the pie. |
+| 14:17 | This week's challenge | This week's challenge. |
+| 18:19 | Close | Carry this, and the close. |
 
 ---
 

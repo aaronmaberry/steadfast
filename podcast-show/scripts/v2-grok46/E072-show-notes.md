@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (1,929 spoken words, about 12:52). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,031 spoken words, about 13:32). Re-time them against the final edit before publishing.
 
 ---
 
@@ -34,24 +34,24 @@ Christian men podcast, unseen work, Galatians 6:9, Field Notes, Walk Steadfast
 | Time | Segment | Summary |
 |---|---|---|
 | 00:00 | Open | Open |
-| 00:46 | The letter | The letter |
-| 01:36 | Somebody has to open it | Somebody has to open it |
-| 02:21 | The Word | The Word |
-| 03:13 | Secret list | Secret list |
-| 03:54 | More on the 1 | More on the 1 |
-| 04:42 | More on the 2 | More on the 2 |
-| 05:26 | More on the 3 | More on the 3 |
-| 06:02 | More on the 4 | More on the 4 |
-| 06:35 | More on the 5 | More on the 5 |
-| 07:08 | More on the 6 | More on the 6 |
-| 07:56 | More on the 7 | More on the 7 |
-| 08:40 | More on a 8 | More on a 8 |
-| 09:16 | More on a 9 | More on a 9 |
-| 09:50 | More on a 10 | More on a 10 |
-| 10:22 | More on a 11 | More on a 11 |
-| 11:10 | More on a 12 | More on a 12 |
-| 11:54 | More on a 13 | More on a 13 |
-| 12:30 | Close | Close |
+| 00:45 | The letter | The letter |
+| 01:34 | Somebody has to open it | Somebody has to open it |
+| 02:19 | The Word | The Word |
+| 03:09 | Secret list | Secret list |
+| 03:48 | More on the 1 | More on the 1 |
+| 04:43 | More on the 2 | More on the 2 |
+| 05:25 | More on the 3 | More on the 3 |
+| 06:08 | More on the 4 | More on the 4 |
+| 06:40 | More on the 5 | More on the 5 |
+| 07:20 | More on the 6 | More on the 6 |
+| 08:15 | More on the 7 | More on the 7 |
+| 08:57 | More on a 8 | More on a 8 |
+| 09:38 | More on a 9 | More on a 9 |
+| 10:12 | More on a 10 | More on a 10 |
+| 10:53 | More on a 11 | More on a 11 |
+| 11:46 | More on a 12 | More on a 12 |
+| 12:28 | More on a 13 | More on a 13 |
+| 13:11 | Close | Close |
 
 ---
 

@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,800 spoken words, about 18:40). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,801 spoken words, about 18:40). Re-time them against the final edit before publishing.
 
 ---
 
@@ -40,11 +40,11 @@ Christian men podcast, go first, John 10:4, leadership, marriage, fatherhood, Va
 |---|---|---|
 | 00:00 | Open | Coffee at 5:15. The question of going first. |
 | 01:10 | The coffee and the talk | Eleven days. Sunday. Easter at their house. |
-| 04:58 | The stop sign and Mom | The earbud. What Mom wants. The appointment at two. |
-| 08:01 | The Word | John 10:4. Lead even if she is ahead in faith. |
-| 10:14 | Pushback | Control vs first. The empty table. The mechanic. |
-| 13:56 | What we're actually doing | Thursday at 7. Saturday dinner. One true sentence. |
-| 16:20 | This week's challenge | One first move. Married, alone, dads. |
+| 05:08 | The stop sign and Mom | The earbud. What Mom wants. The appointment at two. |
+| 08:14 | The Word | John 10:4. Lead even if she is ahead in faith. |
+| 10:24 | Pushback | Control vs first. The empty table. The mechanic. |
+| 14:01 | What we're actually doing | Thursday at 7. Saturday dinner. One true sentence. |
+| 16:24 | This week's challenge | One first move. Married, alone, dads. |
 | 18:10 | Close | Somebody has to step out ahead. |
 
 ---

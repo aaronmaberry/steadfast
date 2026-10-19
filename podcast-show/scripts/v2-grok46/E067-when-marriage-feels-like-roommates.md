@@ -5,9 +5,9 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,806 (about 18:42 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,801 (about 18:40 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 50 lines (52% of words). JONATHON 44 lines (48% of words), 2 under 12 words (4.5%) |
+| Line balance | WES 51 lines (53% of words). JONATHON 45 lines (47% of words), 2 under 12 words (4.4%) |
 | Focus mark | Stop Waiting |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Ecclesiastes 9:9. Board only: Ephesians 4:32; Proverbs 5:18 |
 | Board cues | 3 |
@@ -36,7 +36,7 @@ WES: This is Walk Steadfast. I'm Wes Hart.
 
 JONATHON: And I'm Jonathon.
 
-WES: Today, one question. What do you do when marriage feels like two managers of a small company? If your house is a whiteboard, stay. Before we're done I'll tell you about a Saturday ride I have taken for seven years, and he will tell you what Dani said on the back step.
+WES: Today, one question. What do you do when marriage feels like two managers of a small company? If your house is a whiteboard, stay. Before we're done I'll tell you about a Saturday ride I've taken for seven years, and he will tell you what Dani said on the back step.
 
 JONATHON: And I'll tell you the forty-second handoff that has become our weekday marriage.
 
@@ -44,13 +44,17 @@ JONATHON: And I'll tell you the forty-second handoff that has become our weekday
 
 ## SEGMENT 1 · Who is this
 
-WES: Pull up a chair. Let's take the next few minutes on a fridge, because that's where this started, and it did not look spiritual.
+WES: Pull up a chair. Let's take the next few minutes on a fridge, because that's where this started, and it didn't look spiritual.
 
 JONATHON: Dani's unit is short. Two nurses out, one on maternity leave. She's working a fourth night every week through Labor Day. Weekday handoff in the driveway at seven-fifteen, windows down, about forty seconds. She sleeps till two. She leaves at six-thirty. Wednesday the whiteboard said Ruby's shoes, Theo's dentist, love you. I wrote, "Who is this."
 
 WES: You wrote that as a joke. It wasn't a joke.
 
-JONATHON: It was a cry in marker. We have become a company that loves each other in theory and manages children in practice. Ruby heard the theory getting thin.
+JONATHON: [beat] No. It wasn't. I laughed so I wouldn't have to feel it.
+
+WES: Yeah. That's how a fridge tells on you. Kids read the marker before they read our mouths. Ruby already knew, and she asked the question anyway, which is the report card.
+
+JONATHON: It was a cry in marker. We've got become a company that loves each other in theory and manages children in practice. Ruby heard the theory getting thin.
 
 [BOARD: A fridge can tell the truth a porch will not.]
 
@@ -66,7 +70,7 @@ JONATHON: Kids down by eight-thirty. I started with the water bill. Five minutes
 
 WES: That's the roommate sentence. I heard a version about seven years ago after a ballgame. My wife asked, "When's the last time we talked about anything that wasn't on the calendar?"
 
-JONATHON: I noticed she still pulls her feet up on a step. She still talks to the neighbor's dog first. She has tired nurse hands. Those are not logistics. Those are a woman I used to study.
+JONATHON: I noticed she still pulls her feet up on a step. She still talks to the neighbor's dog first. She has tired nurse hands. Those aren't logistics. Those are a woman I used to study.
 
 WES: Study is the job we retired when the calendar got loud.
 
@@ -74,9 +78,9 @@ WES: Study is the job we retired when the calendar got loud.
 
 ## SEGMENT 3 · The ride
 
-WES: Every Saturday I said, "Ride with me," out the farm road, about twenty minutes. She has ridden most Saturdays since, seven years. When she can't come, she says she's sorry. I honestly cannot say whether the ride or the quieter house ended our relay year. I know we still have a road.
+WES: Every Saturday I said, "Ride with me," out the farm road, about twenty minutes. She has ridden most Saturdays since, seven years. When she can't come, she says she's sorry. I honestly can't say whether the ride or the quieter house ended our relay year. I know we still have a road.
 
-JONATHON: I don't have a farm road. I have a back step. Same job. A place with no whiteboard.
+JONATHON: I don't have a farm road. I've got a back step. Same job. A place with no whiteboard.
 
 WES: What I like about her, if you need a list because you have forgotten you have one: she reads the last page first. She talks to dogs before people. She knows every hymn by number. She backs a trailer better than I do.
 
@@ -98,9 +102,9 @@ JONATHON: "Enjoy life with your wife, whom you love, all the days of this meanin
 
 WES: Enjoy is a command, not a mood. Under the sun means the Labor Day stretch, the fourth night, the dentist at three-fifteen. The lot includes toilsome labor. You don't wait for a vacation to enjoy her. You enjoy her in the toil.
 
-JONATHON: I have been waiting for the unit to be fully staffed to be a husband. That's a lobby. The verse does not give me a staffing clause.
+JONATHON: I've been waiting for the unit to be fully staffed to be a husband. That's a lobby. The verse does not give me a staffing clause.
 
-WES: Context in two sentences. The preacher has looked at work and death and said, while you are here, enjoy the wife you love. That's not thin romance. That's rebellion against a whiteboard that thinks it owns you.
+WES: Context in two sentences. The preacher has looked at work and death and said, while you're here, enjoy the wife you love. That's not thin romance. That's rebellion against a whiteboard that thinks it owns you.
 
 ---
 
@@ -108,17 +112,17 @@ WES: Context in two sentences. The preacher has looked at work and death and sai
 
 WES: We're about halfway, and I want the push. A man says, a date night will fix this.
 
-JONATHON: A date night that is another event on the calendar will not. We tried every-other-Saturday like client dinners after Ruby was born. Dani's first line was the rash on Ruby's arm. The calendar came with us in the car.
+JONATHON: A date night that's another event on the calendar won't. We tried every-other-Saturday like client dinners after Ruby was born. Dani's first line was the rash on Ruby's arm. The calendar came with us in the car.
 
 WES: A man says, we don't have fifteen minutes.
 
-JONATHON: You had forty seconds in a driveway. You have a whiteboard. You have a step. The minutes are there. They are wearing jobs. Take one job off one minute.
+JONATHON: You had forty seconds in a driveway. You have a whiteboard. You have a step. The minutes are there. They're wearing jobs. Take one job off one minute.
 
 WES: A man says, she doesn't want to ride.
 
-JONATHON: Then find her step. Don't make the ride the test. Some women talk in a car. Some talk in the dark. Some talk while they dry a pan. I have been asking in the wrong room and then saying she never talks.
+JONATHON: Then find her step. Don't make the ride the test. Some women talk in a car. Some talk in the dark. Some talk while they dry a pan. I've been asking in the wrong room and then saying she never talks.
 
-WES: Last few minutes on what we're actually doing. Saturday on the ride I will ask, "What are you looking forward to? This year." I will not fill the quiet.
+WES: Last few minutes on what we're actually doing. Saturday on the ride I will ask, "What are you looking forward to? This year." I won't fill the quiet.
 
 JONATHON: I'm writing one non-logistics line on the whiteboard every day, and the back step again on her next night off. If I write a joke, it still has to be about her, not about the dentist.
 
@@ -126,13 +130,13 @@ JONATHON: I'm writing one non-logistics line on the whiteboard every day, and th
 
 ## SEGMENT 6 · The challenge
 
-WES: This week's challenge. Take one minute that has a job and give it no job. A ride. A step. A couch. Ask one question that is not on the calendar. Write what she says.
+WES: This week's challenge. Take one minute that has a job and give it no job. A ride. A step. A couch. Ask one question that isn't on the calendar. Write what she says.
 
 JONATHON: If you're dating, notice whether every hour has a plan. If you're single, notice whether every friendship has a task. If you're divorced, one non-logistics sentence with your kids' mom is still a kind of clearing.
 
 WES: Look around your house this week. The roommate season is usually a fridge. Read the fridge. Then write one line that could not go in a manager's meeting.
 
-JONATHON: And if a child asks if you like each other, don't lie and don't give a speech. Like each other somewhere she can see. A step. A laugh at a dog. A pat that is not a handoff.
+JONATHON: And if a child asks if you like each other, don't lie and don't give a speech. Like each other somewhere she can see. A step. A laugh at a dog. A pat that isn't a handoff.
 
 ---
 
@@ -140,11 +144,11 @@ JONATHON: And if a child asks if you like each other, don't lie and don't give a
 
 WES: Stay on the back forty. Six years of mesquite after the cows left. Three years of clearing. Nobody got a weekend miracle. If your house has gone to brush, don't buy a coupon. Buy a saw and a Saturday.
 
-JONATHON: I want a coupon. A restaurant. A sitter. Then I want the old marriage to be waiting at the table. The old marriage is under brush. I have to cut.
+JONATHON: I want a coupon. A restaurant. A sitter. Then I want the old marriage to be waiting at the table. The old marriage is under brush. I've got to cut.
 
 WES: Cut small. A ride. A line. A step. If you try to clear forty acres on a Friday night you will quit and blame her.
 
-JONATHON: I'll cut a line a day. If she draws a duck, that's a tree down. I will not ask the duck to be a paragraph.
+JONATHON: I'll cut a line a day. If she draws a duck, that's a tree down. I won't ask the duck to be a paragraph.
 
 WES: Don't ask the duck to be a paragraph. Receive the duck. That's enjoy.
 
@@ -160,7 +164,7 @@ JONATHON: I'm naming the season out loud so I don't marry it. Through Labor Day.
 
 WES: Name the end. Then enjoy her before the end. The verse does not say enjoy her after the unit is staffed.
 
-JONATHON: I have been storing enjoy for September. That's a lobby. I'm spending a little now on a step.
+JONATHON: I've been storing enjoy for September. That's a lobby. I'm spending a little now on a step.
 
 WES: Spend it now. A laugh at a dog is spend. A line that isn't shoes is spend.
 
@@ -176,7 +180,7 @@ JONATHON: Fair. It's the only lens I had for a week. An account going transactio
 
 WES: Then win the room, not the order. A ride is a room. A step is a room. A forty-second driveway is an order. You need both. You have been living on orders.
 
-JONATHON: I'm putting a room on the calendar without making the room a meeting. That's the trick. If I agenda the step I have built another office.
+JONATHON: I'm putting a room on the calendar without making the room a meeting. That's the trick. If I agenda the step I've built another office.
 
 WES: No agenda. One question. Then quiet. I will practice that on the farm road.
 
@@ -186,13 +190,13 @@ JONATHON: I'll practice it on the step. If I start a water bill I will stop and 
 
 ## SEGMENT 10 · What I like
 
-WES: Men forget they like their wives. Not love as a duty. Like. I like that she reads the last page first. I have mocked that. I'm going to say it on the ride without a joke that undercuts it.
+WES: Men forget they like their wives. Not love as a duty. Like. I like that she reads the last page first. I've mocked that. I'm going to say it on the ride without a joke that undercuts it.
 
-JONATHON: I like her tired hands. I have treated them as a problem to solve with lotion and a speech. I can like them. Liking is enjoy.
+JONATHON: I like her tired hands. I've treated them as a problem to solve with lotion and a speech. I can like them. Liking is enjoy.
 
 WES: Say one like this week out loud. Not a compliment as payment. A like. Then shut up.
 
-JONATHON: I'll say the feet on the step. I will not add a lesson. If I add a lesson I have written a manager note.
+JONATHON: I'll say the feet on the step. I won't add a lesson. If I add a lesson I've written a manager note.
 
 WES: I've got one more minute. One minute with no job. One question. One line. Clear a little brush. That's the lot under the sun this week.
 
@@ -202,9 +206,9 @@ JONATHON: And if Ruby asks again, I want to have a laugh she can point to, not a
 
 ## SEGMENT 11 · Pancake later
 
-WES: Theo is five now. You have talked about a pancake morning when he turned five. Don't let the roommate season steal that too. A pancake is a room. Put it on a Saturday that is not a job.
+WES: Theo is five now. You have talked about a pancake morning when he turned five. Don't let the roommate season steal that too. A pancake is a room. Put it on a Saturday that isn't a job.
 
-JONATHON: I have been sliding it. The unit is short. The whiteboard is loud. If I slide a pancake I have told him the company comes first. I'll pick a Saturday in September and I'll write pancake where a dentist would go.
+JONATHON: I've been sliding it. The unit is short. The whiteboard is loud. If I slide a pancake I've told him the company comes first. I'll pick a Saturday in September and I'll write pancake where a dentist would go.
 
 WES: Write it. Then keep it. If you move it three times you have taught the fridge who wins.
 
@@ -212,37 +216,37 @@ JONATHON: I'll keep it. Dani can sleep. I can burn a pancake and eat that one my
 
 WES: Good. A five-year-old can read a fridge too. Give him a word that isn't shoes.
 
-JONATHON: Pancake. I'll write it in marker. If I write it I have to heat a pan. That's enjoy with butter on it.
+JONATHON: Pancake. I'll write it in marker. If I write it I've got to heat a pan. That's enjoy with butter on it.
 
 ---
 
 ## SEGMENT 12 · The forty seconds
 
-WES: I want the driveway handoff named as a marriage, because you have been calling it logistics. Forty seconds is a marriage if that's what you have. Roll the window down. Look at her. Say one thing that is not a time. Then let her sleep. I have given my wife a weather report in a doorway and called it connection.
+WES: I want the driveway handoff named as a marriage, because you have been calling it logistics. Forty seconds is a marriage if that's what you have. Roll the window down. Look at her. Say one thing that isn't a time. Then let her sleep. I've given my wife a weather report in a doorway and called it connection.
 
-JONATHON: I'll say one thing that is not a time. I like your laugh. I want you to sleep. I'm glad you're my person. If I say dentist I will say the other line too. Two lines. One of them has to be a wife.
+JONATHON: I'll say one thing that isn't a time. I like your laugh. I want you to sleep. I'm glad you're my person. If I say dentist I will say the other line too. Two lines. One of them has to be a wife.
 
 ---
 
 ## SEGMENT 13 · Hardware store
 
-WES: Before kids you had an hour that produced nothing. That's enjoy. I have mocked hours that produce nothing. I called them wasted. Ecclesiastes would call them the lot. I was the whiteboard wearing boots.
+WES: Before kids you had an hour that produced nothing. That's enjoy. I've mocked hours that produce nothing. I called them wasted. Ecclesiastes would call them the lot. I was the whiteboard wearing boots.
 
-JONATHON: I want an hour that produces nothing this month. Not a project store run. A walk past houses we still cannot afford. If we talk about money I will stop and say I miss this. That's the room.
+JONATHON: I want an hour that produces nothing this month. Not a project store run. A walk past houses we still can't afford. If we talk about money I will stop and say I miss this. That's the room.
 
 ---
 
 ## SEGMENT 14 · Hymns by number
 
-WES: I like that she knows hymns by number. I have used that as a joke at church. I'm going to say it on the ride as a like, no joke under it. Liking is how I obey enjoy when my mood is a calendar.
+WES: I like that she knows hymns by number. I've used that as a joke at church. I'm going to say it on the ride as a like, no joke under it. Liking is how I obey enjoy when my mood is a calendar.
 
-JONATHON: I like that she talks to a dog first. I have rushed her past the dog. I'll let the dog have the first minute. If I rush the dog I have told her the whiteboard is hungrier than she is.
+JONATHON: I like that she talks to a dog first. I've rushed her past the dog. I'll let the dog have the first minute. If I rush the dog I've told her the whiteboard is hungrier than she's.
 
 ---
 
 ## SEGMENT 15 · Relay year
 
-WES: Seven years ago the house was a relay. Daughter a senior. Boys in sports. After a game she asked when we last talked about anything that wasn't on the calendar. I did not have an answer. The ride started because I needed an answer more than I needed a faster Saturday.
+WES: Seven years ago the house was a relay. Daughter a senior. Boys in sports. After a game she asked when we last talked about anything that wasn't on the calendar. I didn't have an answer. The ride started because I needed an answer more than I needed a faster Saturday.
 
 JONATHON: I don't have an answer for Ruby yet. That's why the line on the fridge matters. If she can point to a line that isn't shoes, she has an answer without a speech.
 
@@ -250,15 +254,15 @@ JONATHON: I don't have an answer for Ruby yet. That's why the line on the fridge
 
 ## SEGMENT 16 · Clearing
 
-WES: My brother cleared mesquite three years. He did not post about it. That's the work. If you need a post you are still in the roommate office. Clear a little. Don't announce the acreage.
+WES: My brother cleared mesquite three years. He didn't post about it. That's the work. If you need a post you're still in the roommate office. Clear a little. Don't announce the acreage.
 
-JONATHON: I will not announce the acreage. I'll write a line. I'll sit a step. I'll keep a pancake. If I announce it Ruby will think we are performing like each other. I want her to trip over it, not clap for it.
+JONATHON: I won't announce the acreage. I'll write a line. I'll sit a step. I'll keep a pancake. If I announce it Ruby will think we're performing like each other. I want her to trip over it, not clap for it.
 
 ---
 
 ## SEGMENT 17 · What I'm actually doing
 
-WES: Saturday I ask what she is looking forward to this year. I will let a mile of quiet happen. I will not mention a printout I have been carrying. Hearing is still the job when the house feels like an office.
+WES: Saturday I ask what she's looking forward to this year. I will let a mile of quiet happen. I won't mention a printout I've been carrying. Hearing is still the job when the house feels like an office.
 
 JONATHON: I'll write a line every day through Labor Day. I'll take the step on her night off. I'll put pancake on a Saturday in September. If I fail Wednesday I will write two lines Thursday, and one of them will be about her feet.
 
@@ -266,17 +270,17 @@ JONATHON: I'll write a line every day through Labor Day. I'll take the step on h
 
 ## SEGMENT 18 · Wes on the calendar
 
-WES: I have been the manager in my own house. I ran people. I ran a clock. I ran a cooler to a beach she did not ask for. Roommate is not a young man's disease. It is what happens when a calendar gets a louder voice than a woman.
+WES: I've been the manager in my own house. I ran people. I ran a clock. I ran a cooler to a beach she didn't ask for. Roommate isn't a young man's disease. It's what happens when a calendar gets a louder voice than a woman.
 
-JONATHON: I'm thirty-seven and I already have the disease. The fourth night did not invent it. It revealed it. That's a mercy if I cut brush now.
+JONATHON: I'm thirty-seven and I already have the disease. The fourth night didn't invent it. It revealed it. That's a mercy if I cut brush now.
 
 ---
 
 ## SEGMENT 19 · Quiet mile
 
-WES: A mile of quiet will make me want to teach. I will not teach. I will watch the fence line and let her find a sentence. If she says she wants to finish something I will not pull a printout. I will say tell me more.
+WES: A mile of quiet will make me want to teach. I won't teach. I will watch the fence line and let her find a sentence. If she says she wants to finish something I won't pull a printout. I will say tell me more.
 
-JONATHON: Tell me more is the only upgrade I want. I have upgraded her sentences into projects for years. I'm tired of being a project manager at my own step.
+JONATHON: Tell me more is the only upgrade I want. I've upgraded her sentences into projects for years. I'm tired of being a project manager at my own step.
 
 ---
 
@@ -292,9 +296,9 @@ JONATHON: I'll put the date on the whiteboard. Season ends. Then we date the pan
 
 WES: Look around your house this week. Read the fridge like a child would. Then write one line a child would know meant like. I've got about a minute and I want it on you. One minute with no job. Tonight if you can. Tomorrow if you must.
 
-JONATHON: Tonight if I can. The step if she's home. The driveway window if she's not. One line either way. I will not wait for a fully staffed unit to become a man who likes his wife out loud.
+JONATHON: Tonight if I can. The step if she's home. The driveway window if she's not. One line either way. I won't wait for a fully staffed unit to become a man who likes his wife out loud.
 
-WES: I've got one more minute and I want it on you, not on the fridge. Pick the minute. Take the job off it. Ask the question. Write what she says. Then don't turn it into a meeting before Monday. I have wasted good answers by turning them into meetings. I'm not doing that on the ride. I'm asking, then I'm letting a mile of fence go by without a lesson.
+WES: I've got one more minute and I want it on you, not on the fridge. Pick the minute. Take the job off it. Ask the question. Write what she says. Then don't turn it into a meeting before Monday. I've wasted good answers by turning them into meetings. I'm not doing that on the ride. I'm asking, then I'm letting a mile of fence go by without a lesson.
 
 ---
 

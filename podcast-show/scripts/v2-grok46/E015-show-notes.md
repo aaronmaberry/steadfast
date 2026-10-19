@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,908 spoken words, about 19:23). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,870 spoken words, about 19:08). Re-time them against the final edit before publishing.
 
 ---
 
@@ -39,13 +39,13 @@ Christian men podcast, Lent, Romans 7:18, confession, Walk Steadfast, pick up th
 | Time | Segment | Summary |
 |---|---|---|
 | 00:00 | Open | Cancun. The deal that was not his. |
-| 00:58 | Cancun | Forty-one schools. Monday lunch. The VP on Thursday. |
-| 04:27 | The shepherd | A headache. A game. I wasn't there. |
-| 07:35 | The Word | Romans 7:18. No condemnation. Shame stays, confession moves. |
-| 10:07 | Pushback | Do not confess your father's fists. |
-| 12:49 | What we're actually doing | The VP sentence. The fan date. October still open. |
-| 16:20 | This week's challenge | One sentence. Your hands, not your childhood. |
-| 18:49 | Close | Pick up the part that's yours. |
+| 00:56 | Cancun | Forty-one schools. Monday lunch. The VP on Thursday. |
+| 04:22 | The shepherd | A headache. A game. I wasn't there. |
+| 07:25 | The Word | Romans 7:18. No condemnation. Shame stays, confession moves. |
+| 09:55 | Pushback | Do not confess your father's fists. |
+| 12:38 | What we're actually doing | The VP sentence. The fan date. October still open. |
+| 16:09 | This week's challenge | One sentence. Your hands, not your childhood. |
+| 18:34 | Close | Pick up the part that's yours. |
 
 ---
 

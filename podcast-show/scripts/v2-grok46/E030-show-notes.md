@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (1,906 spoken words, about 12:42). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (1,936 spoken words, about 12:54). Re-time them against the final edit before publishing.
 
 ---
 
@@ -36,12 +36,12 @@ Christian men podcast, Field Notes, forgive your father, Colossians 3:13, absent
 | Time | Segment | Summary |
 |---|---|---|
 | 00:00 | Open | Nine minutes on the contact. "Who died?" Friday is the check. |
-| 01:01 | The truck | Twelve minutes. The name. The rods. "Not yet." A real laugh. Mad, not sad. |
-| 04:01 | Proud without a reason | Wes tells his oldest. Wheel bearing. Fredericksburg. |
-| 06:22 | The Word | Colossians 3:13. Forgiveness is not pretending. |
-| 07:55 | From the table | Do I have to forgive a dad who is not sorry? |
-| 10:39 | The two-call rule | One question for the man. Then God, about the floor. |
-| 12:13 | Close | A start is not the whole debt. Two calls. |
+| 00:59 | The truck | Twelve minutes. The name. The rods. "Not yet." A real laugh. Mad, not sad. |
+| 04:23 | Proud without a reason | Wes tells his oldest. Wheel bearing. Fredericksburg. |
+| 06:39 | The Word | Colossians 3:13. Forgiveness is not pretending. |
+| 08:09 | From the table | Do I have to forgive a dad who is not sorry? |
+| 10:55 | The two-call rule | One question for the man. Then God, about the floor. |
+| 12:26 | Close | A start is not the whole debt. Two calls. |
 
 ---
 

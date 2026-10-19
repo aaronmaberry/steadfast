@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (3,173 spoken words, about 21:09). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (3,172 spoken words, about 21:09). Re-time them against the final edit before publishing.
 
 ---
 
@@ -40,11 +40,11 @@ Christian men podcast, Walk Steadfast, four marks, Philippians 2:5, biblical man
 |---|---|---|
 | 00:00 | Open | "Not the room's." The sentence, once. If you're driving, don't write. |
 | 00:56 | The sentence | All verbs. No fifth. Prayer is in all four. |
-| 02:53 | The first two | The gutter is done. The fan still clicks. Weight that landed in the yard. |
+| 02:52 | The first two | The gutter is done. The fan still clicks. Weight that landed in the yard. |
 | 05:49 | The second two | Into the cost, not the good seat. Pay is inheritance, not a wage. |
 | 09:20 | Which one is hardest | Wes says waiting. Jonathon says pay. Unsettled. |
 | 11:15 | The Word | Philippians 2:5. The four are what that mindset looks like on a Tuesday. |
-| 12:53 | Pushback | A list never changed anybody. Absent while standing in the room. |
+| 12:52 | Pushback | A list never changed anybody. Absent while standing in the room. |
 | 17:04 | What we actually did | One out of four. The visor. The late order. Write the back. Pick one. |
 | 20:40 | Close | The room's pay is gone by tomorrow. Friday we check the cards. |
 
