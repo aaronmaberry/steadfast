@@ -1,0 +1,33 @@
+== E055-some-saturdays.md
+Spoken words: 2800 (about 18:40 at 150 wpm)
+WES: 46 lines, 1444 words (52%)
+JONATHON: 39 lines, 1356 words (48%), 2 under 12 words (5.1%)
+Format: main (spoken-word window 2800-3200)
+  Jonathon short lines:
+    [3] And I'm Jonathon.
+    [9] That's my answer. Not the hand motions. The notebook.
+Hook before first sting: 49 words (about 20 s)
+Segments (start times at 150 wpm):
+  00:00  OPEN (word for word)  (140 words)
+  00:56  SEGMENT 1 · Which days  (466 words)
+  04:02  SEGMENT 2 · The flat year  (354 words)
+  06:24  SEGMENT 3 · The fire decade  (382 words)
+  08:57  SEGMENT 4 · The Word  (350 words)
+  11:17  SEGMENT 5 · Some Saturdays  (370 words)
+  13:45  SEGMENT 6 · Pushback  (370 words)
+  16:13  SEGMENT 7 · What we're actually doing  (294 words)
+  18:10  CLOSE (word for word)  (74 words)
+  18:40  END
+Board cues: 5
+  ok (idea) A feeling is not a heading.
+  ok (NIV exact) 2 Corinthians 5:7
+  ok (idea) Heat is not the same as light.
+  ok (NIV exact) Galatians 6:9
+  ok (idea) Show up on the Saturdays that do not sing.
+  scripture quote ok (2 Corinthians 5:15): 'And he died for all, that those who live should no longer li'
+  scripture quote ok (2 Corinthians 5:15): 'No longer live for themselves.'
+  scripture quote ok (2 Corinthians 5:15): 'He died for all.'
+Show notes: E055-show-notes.md
+  show notes ok checks done; 3 NIV quotes verified
+
+RESULT E055-some-saturdays.md: PASS (0 fail, 0 warn)

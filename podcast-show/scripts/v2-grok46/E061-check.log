@@ -1,0 +1,33 @@
+== E061-lay-it-down.md
+Spoken words: 2806 (about 18:42 at 150 wpm)
+WES: 43 lines, 1497 words (53%)
+JONATHON: 40 lines, 1309 words (47%), 2 under 12 words (5.0%)
+Format: main (spoken-word window 2800-3200)
+  Jonathon short lines:
+    [3] And I'm Jonathon.
+    [5] Deer camp. You skipped it.
+Hook before first sting: 46 words (about 18 s)
+Segments (start times at 150 wpm):
+  00:00  OPEN (word for word)  (131 words)
+  00:52  SEGMENT 1 · The call  (285 words)
+  02:46  SEGMENT 2 · The letter  (248 words)
+  04:26  SEGMENT 3 · The visor  (228 words)
+  05:57  SEGMENT 4 · The Word  (183 words)
+  07:10  SEGMENT 5 · Pushback  (209 words)
+  08:34  SEGMENT 6 · The challenge  (154 words)
+  09:35  SEGMENT 7 · The kitchen door  (252 words)
+  11:16  SEGMENT 8 · Roses and math  (221 words)
+  12:44  SEGMENT 9 · Men who disappear  (224 words)
+  14:14  SEGMENT 10 · What it costs  (607 words)
+  18:17  CLOSE (word for word)  (64 words)
+  18:42  END
+Board cues: 4
+  ok (idea) Credit is not the same as a cross.
+  ok (idea) A packet can be another way to say what for.
+  ok (NIV exact) Ephesians 5:28
+  ok (NIV exact) John 15:13
+  scripture quote ok (Ephesians 5:25): 'Husbands, love your wives, just as Christ loved the church a'
+Show notes: E061-show-notes.md
+  show notes ok checks done; 1 NIV quotes verified
+
+RESULT E061-lay-it-down.md: PASS (0 fail, 0 warn)

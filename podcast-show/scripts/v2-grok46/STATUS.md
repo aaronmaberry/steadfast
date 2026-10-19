@@ -50,7 +50,32 @@ E001 exception logged 2026-10-19 (Aaron): replace the earlier 40–45 min / 6,00
 | E052 | Field Notes: Independence Day | 1,940 | 12:56 | 53 / 47 | PASS 0/0 |
 | E053 | Before Anything Went Wrong | 2,810 | 18:44 | 53 / 47 | PASS 0/0 |
 | E054 | Field Notes: Work It and Keep It | 1,927 | 12:51 | 54 / 46 | PASS 0/0 |
-| E055–E080 | remaining | — | — | — | pending |
+| E055 | Some Saturdays | 2,800 | 18:40 | 52 / 48 | PASS 0/0 |
+| E056 | Field Notes: The Feeling Isn't the Fire | 1,904 | 12:42 | 57 / 43 | PASS 0/0 |
+| E057 | If There Is No Wife Yet | 2,800 | 18:40 | 56 / 44 | PASS 0/0 |
+| E058 | Field Notes: Not in the Lobby | 1,900 | 12:40 | 54 / 46 | PASS 0/0 |
+| E059 | Know Her | 2,940 | 19:36 | 52 / 48 | PASS 0/0 |
+| E060 | Field Notes: Study Her | 1,979 | 13:12 | 55 / 45 | PASS 0/0 |
+| E061 | Lay It Down | 2,806 | 18:42 | 53 / 47 | PASS 0/0 |
+| E062 | Field Notes: Laying It Down Report | 1,910 | 12:44 | 52 / 48 | PASS 0/0 |
+| E063 | What She Actually Needs | 2,824 | 18:50 | 54 / 46 | PASS 0/0 |
+| E064 | Field Notes: Her Need, Not Mine | 1,904 | 12:42 | 52 / 48 | PASS 0/0 |
+| E065 | The Bed Is a Covenant | 2,841 | 18:56 | 52 / 48 | PASS 0/0 |
+| E066 | Field Notes: Covenant Check | 1,914 | 12:46 | 55 / 45 | PASS 0/0 |
+| E067 | When Marriage Feels Like Roommates | 2,806 | 18:42 | 52 / 48 | PASS 0/0 |
+| E068 | Field Notes: Roommates No More | 1,963 | 13:05 | 55 / 45 | PASS 0/0 |
+| E069 | You Were Made for a Work | 2,880 | 19:12 | 52 / 48 | PASS 0/0 |
+| E070 | Field Notes: Labor Day | 1,962 | 13:05 | 53 / 47 | PASS 0/0 |
+| E071 | What You Build When Nobody Claps | 2,812 | 18:45 | 53 / 47 | PASS 0/0 |
+| E072 | Field Notes: The Unseen Shift | 1,929 | 12:52 | 55 / 45 | PASS 0/0 |
+| E073 | Feelings Are the Dash, Not the Wheel | 2,826 | 18:50 | 54 / 46 | PASS 0/0 |
+| E074 | Field Notes: Dash and Wheel | 1,944 | 12:58 | 55 / 45 | PASS 0/0 |
+| E075 | Every Season Still Counts | 2,819 | 18:48 | 53 / 47 | PASS 0/0 |
+| E076 | Field Notes: Season Swap | 1,960 | 13:04 | 54 / 46 | PASS 0/0 |
+| E077 | When the Job Goes Away | 2,860 | 19:04 | 53 / 47 | PASS 0/0 |
+| E078 | Field Notes: Between Jobs | 1,911 | 12:44 | 55 / 45 | PASS 0/0 |
+| E079 | Grief at the Table | 2,862 | 19:05 | 57 / 43 | PASS 0/0 |
+| E080 | Field Notes: Grief Report | 1,950 | 13:00 | 55 / 45 | PASS 0/0 |
 
 ## Continuity ledger (overrides + on-air facts)
 
