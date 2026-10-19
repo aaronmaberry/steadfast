@@ -1,0 +1,30 @@
+== E059-know-her.md
+Spoken words: 2905 (about 19:22 at 150 wpm)
+WES: 43 lines, 1503 words (52%)
+JONATHON: 38 lines, 1402 words (48%), 1 under 12 words (2.6%)
+Format: main (spoken-word window 2800-3200)
+  Jonathon short lines:
+    [3] And I'm Jonathon.
+Hook before first sting: 47 words (about 19 s)
+Segments (start times at 150 wpm):
+  00:00  OPEN (word for word)  (121 words)
+  00:48  SEGMENT 1 · The beach you invented  (309 words)
+  02:52  SEGMENT 2 · The parking lot  (312 words)
+  04:57  SEGMENT 3 · The well  (264 words)
+  06:42  SEGMENT 4 · The Word  (201 words)
+  08:03  SEGMENT 5 · What else  (215 words)
+  09:29  SEGMENT 6 · The challenge  (135 words)
+  10:23  SEGMENT 7 · Two more rooms  (715 words)
+  15:09  SEGMENT 8 · The walk and the sink  (563 words)
+  18:54  CLOSE (word for word)  (70 words)
+  19:22  END
+Board cues: 4
+  ok (idea) An old answer can hide a new woman.
+  ok (idea) Fear will name a gift as a threat.
+  ok (NIV exact) Proverbs 18:13
+  ok (NIV exact) 1 Peter 3:7
+  scripture quote ok (Proverbs 20:5): 'The purposes of a person’s heart are deep waters, but one wh'
+Show notes: E059-show-notes.md
+  show notes ok checks done; 2 NIV quotes verified
+
+RESULT E059-know-her.md: PASS (0 fail, 0 warn)

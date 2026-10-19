@@ -1,0 +1,29 @@
+== E057-if-there-is-no-wife-yet.md
+Spoken words: 2851 (about 19:00 at 150 wpm)
+WES: 38 lines, 1594 words (56%)
+JONATHON: 29 lines, 1257 words (44%), 1 under 12 words (3.4%)
+Format: main (spoken-word window 2800-3200)
+  Jonathon short lines:
+    [3] And I'm Jonathon.
+Hook before first sting: 44 words (about 18 s)
+Segments (start times at 150 wpm):
+  00:00  OPEN (word for word)  (130 words)
+  00:52  SEGMENT 1 · Come up here  (508 words)
+  04:15  SEGMENT 2 · The pregame  (395 words)
+  06:53  SEGMENT 3 · Sport  (409 words)
+  09:37  SEGMENT 4 · The Word  (414 words)
+  12:22  SEGMENT 5 · Widowed and waiting  (278 words)
+  14:14  SEGMENT 6 · Pushback  (328 words)
+  16:25  SEGMENT 7 · What we're actually doing  (324 words)
+  18:34  CLOSE (word for word)  (65 words)
+  19:00  END
+Board cues: 4
+  ok (idea) The lobby is not a location. It is a story you were told.
+  ok (idea) Later is a room with no furniture.
+  ok (NIV exact) 1 Corinthians 7:7
+  ok (NIV exact) 1 Corinthians 7:24
+  scripture quote ok (1 Corinthians 7:17): 'Nevertheless, each person should live as a believer in whate'
+Show notes: E057-show-notes.md
+  show notes ok checks done; 3 NIV quotes verified
+
+RESULT E057-if-there-is-no-wife-yet.md: PASS (0 fail, 0 warn)

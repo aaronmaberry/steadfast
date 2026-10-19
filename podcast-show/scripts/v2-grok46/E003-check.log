@@ -1,0 +1,32 @@
+== E003-nobody-ever-gave-you-the-sentence.md
+Spoken words: 2948 (about 19:39 at 150 wpm)
+WES: 52 lines, 1516 words (51%)
+JONATHON: 46 lines, 1432 words (49%), 1 under 12 words (2.2%)
+Format: main (spoken-word window 2800-3200)
+  Jonathon short lines:
+    [3] And I'm Jonathon.
+Hook before first sting: 60 words (about 24 s)
+Segments (start times at 150 wpm):
+  00:00  OPEN (word for word)  (150 words)
+  01:00  SEGMENT 1 · The bath  (212 words)
+  02:25  SEGMENT 2 · The sentence you've been living  (376 words)
+  04:55  SEGMENT 3 · Your turn  (303 words)
+  06:56  SEGMENT 4 · Where they come from  (321 words)
+  09:05  SEGMENT 5 · Loud and quiet  (264 words)
+  10:50  SEGMENT 6 · The Word  (450 words)
+  13:50  SEGMENT 7 · Pushback  (328 words)
+  16:02  SEGMENT 8 · What we actually did  (282 words)
+  17:54  SEGMENT 9 · This week's challenge  (177 words)
+  19:05  CLOSE (word for word)  (85 words)
+  19:39  END
+Board cues: 4
+  ok (NIV exact) Proverbs 20:6
+  ok (idea) A feed talks at a crowd. A table talks to a name.
+  ok (idea) The hunger is not a defect.
+  ok (idea) Put the real one on paper.
+  scripture quote ok (Genesis 1:27): 'So God created mankind in his own image, in the image of God'
+  scripture quote ok (Genesis 1:27): 'Male and female he created them.'
+Show notes: E003-show-notes.md
+  show notes ok checks done; 2 NIV quotes verified
+
+RESULT E003-nobody-ever-gave-you-the-sentence.md: PASS (0 fail, 0 warn)
