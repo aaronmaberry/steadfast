@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,859 spoken words, about 19:04). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,946 spoken words, about 19:38). Re-time them against the final edit before publishing.
 
 ---
 
@@ -40,12 +40,12 @@ Christian men podcast, work for God's pay, Colossians 3:23, Ephesians 2:8, leade
 |---|---|---|
 | 00:00 | Open | The Monday email. The prize that slides. |
 | 01:05 | The Monday email | Eleven years. The mic. The hour after work. |
-| 04:09 | The fall he cannot remember | A plaque. Croup. Valentine's was good. |
-| 07:22 | The Word | Colossians 3. Grace, not a better leaderboard. |
-| 09:50 | The receipts | Mr. Abernathy's names. The metal roof. |
-| 13:17 | What we're actually doing | Moved the email. Gave the mic away. |
-| 16:18 | This week's challenge | One hidden thing. One man, not the room. |
-| 18:14 | Close | Gone by Thursday. Stay quiet. |
+| 04:35 | The fall he cannot remember | A plaque. Croup. Valentine's was good. |
+| 08:11 | The Word | Colossians 3. Grace, not a better leaderboard. |
+| 10:40 | The receipts | Mr. Abernathy's names. The metal roof. |
+| 14:14 | What we're actually doing | Moved the email. Gave the mic away. |
+| 17:16 | This week's challenge | One hidden thing. One man, not the room. |
+| 19:06 | Close | Gone by Thursday. Stay quiet. |
 
 ---
 

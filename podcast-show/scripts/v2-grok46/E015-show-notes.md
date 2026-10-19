@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,870 spoken words, about 19:08). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,869 spoken words, about 19:08). Re-time them against the final edit before publishing.
 
 ---
 
@@ -45,7 +45,7 @@ Christian men podcast, Lent, Romans 7:18, confession, Walk Steadfast, pick up th
 | 09:55 | Pushback | Do not confess your father's fists. |
 | 12:38 | What we're actually doing | The VP sentence. The fan date. October still open. |
 | 16:09 | This week's challenge | One sentence. Your hands, not your childhood. |
-| 18:34 | Close | Pick up the part that's yours. |
+| 18:37 | Close | Pick up the part that's yours. |
 
 ---
 

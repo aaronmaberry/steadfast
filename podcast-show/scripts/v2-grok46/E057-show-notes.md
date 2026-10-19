@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,851 spoken words, about 19:00). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (3,066 spoken words, about 20:26). Re-time them against the final edit before publishing.
 
 ---
 
@@ -40,13 +40,13 @@ Christian men podcast, singleness, 1 Corinthians 7:17, Stop Waiting, Walk Steadf
 |---|---|---|
 | 00:00 | Open | Merle found a lead. Wes had nothing to do with it. |
 | 00:52 | Come up here | Nursing home Thursday. The nails text. Quit the car question. |
-| 04:15 | The pregame | Jonathon's twenties. Dani got the pregame guy. The lobby is a habit. |
-| 06:53 | Sport | Wes shaves his granddad. "You did all right, Sport." Austin's river. |
-| 09:37 | The Word | 1 Corinthians 7:17. Assigned, not pending. |
-| 12:22 | Widowed and waiting | Merle. The divorced seat. Caleb-age men. |
-| 14:14 | Pushback | Desire is not delay. The lazy. The man who can't find her. |
-| 16:25 | What we're actually doing | One text. A real ask. This week's challenge. |
-| 18:34 | Close | You are already assigned. Ask what he did Tuesday. |
+| 04:18 | The pregame | Jonathon's twenties. Dani got the pregame guy. The lobby is a habit. |
+| 06:56 | Sport | Wes shaves his granddad. "You did all right, Sport." Austin's river. |
+| 09:44 | The Word | 1 Corinthians 7:17. Assigned, not pending. |
+| 12:31 | Widowed and waiting | Merle. The divorced seat. Caleb-age men. |
+| 14:28 | Pushback | Desire is not delay. The lazy. The man who can't find her. |
+| 16:39 | What we're actually doing | One text. A real ask. This week's challenge. |
+| 20:00 | Close | You are already assigned. Ask what he did Tuesday. |
 
 ---
 

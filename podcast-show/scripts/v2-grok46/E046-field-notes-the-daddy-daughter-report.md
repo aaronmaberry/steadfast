@@ -5,9 +5,9 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm |
-| Spoken words | 2,131 (about 14:12 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,032 (about 13:33 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 27 lines (51% of words). JONATHON 26 lines (49% of words), 3 under 12 words (11.5%) |
+| Line balance | WES 38 lines (50% of words). JONATHON 34 lines (50% of words), 5 under 12 words (14.7%) |
 | Focus mark | Go First |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Proverbs 22:6. Board only: Deuteronomy 6:7 |
 | Board cues | 4 (none repeats spoken words) |
@@ -40,24 +40,36 @@ JONATHON: And I will tell you a man texted me first about a ponytail, asking for
 
 ## SEGMENT 1 · The stock tank
 
-WES: Let's take the next few minutes on Thursday evening. You left at three. He was at the gate.
+WES: Let's take the next few minutes on Thursday evening. You left at three. He was at the gate. What time did you actually get there?
 
 JONATHON: About six-thirty. Three poles. A coffee can of worms. He said evening. He baited one slowly, handed Ruby a worm, and she asked if the worm can feel it. He said not as much as the fish. She baited her own on the first try. He showed one sidearm cast and never touched her pole again. About twenty minutes in, a bluegill the size of a phone. She held it up to me. I caught nothing. I baited my own hook. I said okay. That was the bravest okay I've said in a while.
 
-WES: He called me after. Second call in a week. He said she's all right. I said Ruby. He said both of them. That's a blessing from a man who does not give speeches. Take it. Don't improve it.
+WES: He called me after. Second call in a week. He said she's all right. I said Ruby. He said both of them.
 
-JONATHON: On the drive home she asked what I think about when I'm by myself. I said Pancake. Then she said, and if Grandpa in Louisiana liked my picture. She has carried that since winter. I said I don't know, baby. I wonder that too. She said okay. I didn't fix it. I wanted to tell her a story that made him kinder than I can prove. I let the not-knowing sit in the truck.
+JONATHON: Wait, both of them? That's a speech from a man who doesn't give speeches.
+
+WES: That's a blessing. Take it. Don't improve it. Did you improve it in the truck?
+
+JONATHON: I wanted to. On the drive home she asked what I think about when I'm by myself. I said Pancake. Then she said, and if Grandpa in Louisiana liked my picture. She has carried that since winter. I said I don't know, baby. I wonder that too. She said okay. I didn't fix it. I wanted to tell her a story that made him kinder than I can prove. I let the not-knowing sit in the truck.
 
 [BOARD: The floor teaches first.]
 
 
 ## SEGMENT 2 · A couch and a ponytail
 
-WES: We're about halfway. Wednesday my daughter told me they bought a couch that didn't fit their door. While the son-in-law went for straps she said, I told him. About the waiting. He said he didn't know I was waiting. I started to finish her sentence. I do that at home. I give the Thursday table patience and I steal sentences from my own kid. I shut my mouth. They took the feet off the couch. That's the whole story. I didn't get to be wise. I got to be quiet.
+WES: We're about halfway. Can I tell you the couch without you turning it into a lesson?
 
-JONATHON: Friday morning, the morning after yes, tacos, Austin texted first. A first. Question. How do you do a ponytail. Asking for real. His daughter is ten. Summer league, Saturday mornings. Dani filmed a forty-second tutorial on Ruby. Brush it back, hold it with one hand, the hair tie goes around twice, not three times, split and pull tight. Ruby said ow, it's fine. Saturday at eight-ten a photo of a crooked ponytail from behind. Did it. Its crooked. She wore it. A minute later, she said its fine. No moral. I'm not adding one.
+JONATHON: [laughs] I'll try. No lesson from me. Just the couch. Go ahead.
 
-WES: Good. Don't add one. A man who asked for a ponytail is a father. A girl who wore a crooked one is a daughter. That's enough. I've ruined enough reports by putting a bow on them.
+WES: Wednesday my daughter told me they bought a couch that didn't fit their door. While the son-in-law went for straps she said, I told him. About the waiting. He said he didn't know I was waiting. I started to finish her sentence. I do that at home. I give the Thursday table patience and I steal sentences from my own kid. I shut my mouth. They took the feet off the couch. That's the whole story. I didn't get to be wise. I got to be quiet.
+
+JONATHON: Friday morning, the morning after yes, tacos, Austin texted first. A first. How do you do a ponytail. Asking for real. His daughter is ten. Summer league, Saturday mornings. Dani filmed a forty-second tutorial on Ruby. Brush it back, hold it with one hand, the hair tie goes around twice, not three times, split and pull tight. Ruby said ow, it's fine. Saturday at eight-ten a photo of a crooked ponytail from behind. Did it. It's crooked. She wore it. A minute later she said it's fine. No moral. I'm not adding one.
+
+WES: Good. Don't add one. Would you have added one last year?
+
+JONATHON: [laughs] I would've written a caption. A man who asked for a ponytail is a father. A girl who wore a crooked one is a daughter. That's enough.
+
+WES: I've ruined enough reports by putting a bow on them.
 
 JONATHON: At thirteen I was quiet, door shut, headphones, fine through the door to my mom. A coach drove me home and said you hungry and talked about the Astros. About every third time I said something real. Eyes forward. That's why a drive-through works. A girl will talk to a windshield who won't talk to a face.
 
@@ -66,88 +78,114 @@ JONATHON: At thirteen I was quiet, door shut, headphones, fine through the door 
 
 ## SEGMENT 3 · The Word
 
-WES: Proverbs twenty-two, verse six. A start, not a guarantee, and still a start.
+WES: Proverbs twenty-two, verse six. A start, not a guarantee, and still a start. You want to read it?
 
 JONATHON: "Start children off on the way they should go, and even when they are old they will not turn from it."
 
 WES: Start. Off. The way. You can't start a girl on a way you only use on the phone. You start her on the way you use in a truck when the answer is I don't know. Old is a long time. Start is this week.
 
-JONATHON: I don't want the proverb as a promise I can cash if I do one fish. I want it as a warning. She's already on a way. The way she saw me talk to a contractor. The way I didn't lie about Louisiana. Start means I can still change the road under her feet.
+JONATHON: That's fair, but I don't want the proverb as a promise I can cash if I do one fish. I want it as a warning. She's already on a way. The way she saw me talk to a contractor. The way I didn't lie about Louisiana. Start means I can still change the road under her feet. Does that sound like I'm arguing with Solomon?
+
+WES: [laughs] It sounds like you're listening to him. Keep the warning. Lose the cash-in.
 
 [BOARD: Deuteronomy 6:7 (NIV) · "Impress them on your children. Talk about them when you sit at home and when you walk along the road, when you lie down and when you get up."]
 
 
 ## SEGMENT 4 · The drive-through date
 
-WES: Last few minutes. Tool is the drive-through date. Eyes forward. She orders. You don't comment on the order. You ask one thing you don't know. Then you let the music sit there if she wants music. My youngest, sixteen, drives us both to the one by the high school on Thursday nights after supper. He orders the same thing every time. Last month, four sentences about a girl in chemistry, then the music up. I didn't chase the four sentences. Chasing is how you get none next week.
+WES: Last few minutes. Tool is the drive-through date. Eyes forward. She orders. You don't comment on the order. You ask one thing you don't know. Then you let the music sit there if she wants music.
 
-JONATHON: If she's a teenager and won't talk, do the drive-through anyway. Don't announce it as a talk. Announce fries. If she says fine, you still bought fries. Fine isn't a failure. Fine is a door that's not open yet. Stay in the car. Don't turn it into a speech about how you never had this.
+JONATHON: Hold on. If she's a teenager and won't talk, do you still do the drive-through?
 
-WES: If she's seven, the drive-through still works. If she's grown, a porch works, and you still don't finish her sentence. I almost finished mine. I'm glad I didn't. I would have stolen a thing that belonged to her and her husband.
+WES: Yes. Don't announce it as a talk. Announce fries. If she says fine, you still bought fries. Fine isn't a failure. Fine is a door that's not open yet. Stay in the car.
 
-JONATHON: I won't send Grandpa the fish photo. Not yet. If he does not answer, then it's her picture he didn't answer. I won't make a seven-year-old carry that. I can carry the not-knowing. That's my job. Hers is to bait a hook and ask about a worm.
+JONATHON: Don't turn it into a speech about how you never had this. I almost did that with Ruby last winter.
+
+WES: If she's seven, it still works. If she's grown, a porch works, and you still don't finish her sentence. I almost finished mine. I'm glad I didn't. I would have stolen a thing that belonged to her and her husband.
+
+JONATHON: Are you sending Grandpa the fish photo, or is that the thing you're about to tell me not to do?
+
+WES: That's your call. I'm asking if you'll make a seven-year-old carry the silence if he doesn't answer.
+
+JONATHON: I won't send it. Not yet. If he does not answer, then it's her picture he didn't answer. I can carry the not-knowing. That's my job. Hers is to bait a hook and ask about a worm.
 
 WES: Look around your house this week. Pick a night. Pick a window. Ask one thing you don't know. Don't grade the answer. Don't post the fish. Let her hold it toward whoever she chooses.
 
-JONATHON: She held it toward me. I keep seeing that. A man I barely know taught her, and she still turned to me. I don't have to be the expert to be the dad. I've got to be in the truck on the way home when the real question comes.
+JONATHON: She held it toward me. I keep seeing that. A man I barely know taught her, and she still turned to me. Do I have to be the expert to be the dad?
+
+WES: No. You've got to be in the truck on the way home when the real question comes.
 
 [BOARD: Eyes stay on the road.]
 
-WES: I keep wanting to call my daughter back and tidy the mad-at-me line. I won't. Quiet was the gift. I can send a text that says I'm still thinking about what you asked. That's not tidying. That's staying.
+WES: I keep wanting to call my daughter back and tidy the mad-at-me line. I won't. Quiet was the gift.
 
-JONATHON: [beat] Don't tidy it. If you tidy it you'll steal the thing that belonged to her.
+JONATHON: [beat] Don't tidy it. If you tidy it you'll steal the thing that belonged to her. Can you send a text that isn't a tidy?
 
-WES: I almost finished her sentence about the couch too. I shut my mouth. They took the feet off. I didn't get to be wise. I got to be quiet, and I'm glad.
+WES: I can send I'm still thinking about what you asked. That's staying. That's not a speech.
 
-WES: I've watched men collect daughter reports like this and never change a drive-through. Don't be that man this week. Pick a night. Ask one thing you don't know. Then tell one person you did, because a secret date turns back into a mood by Thursday.
+JONATHON: I've watched myself collect daughter reports in a notes app and never change a drive-through. Don't be that man this week. Pick a night. Then tell one person you did, because a secret date turns back into a mood by Thursday.
 
-JONATHON: I'm the man who collects stories. I've got a notes app and a crooked ponytail I refuse to put a bow on. The only ones that count are the ones that got fries and a windshield.
+WES: The only ones that count are the ones that got fries and a windshield. A crooked ponytail you refuse to put a bow on. That's the report.
 
 ## SEGMENT · Sitting with it
 
-WES: I want the listener who thinks this doesn't apply because his house is quieter. Quiet isn't settled. You already know that if you've sat through a polite holiday and called it peace. A couch that doesn't fit a door is still a report.
+WES: I want the man who thinks this doesn't apply because his house is quieter. Quiet isn't settled.
 
-JONATHON: My house can be loud and still be a cease-fire. Volume isn't the test. The test is whether I let the not-knowing about Louisiana sit in the truck, not whether I can tell you about a worm.
+JONATHON: Wait, back up. Quieter than what? Because my house can be loud and still be a cease-fire.
 
-WES: I'll check the quiet on Friday, which is the only reason I trust myself. I won't tidy the mad-at-me line. I won't call her back to finish a sentence that wasn't mine. A public calendar is a kind of mercy for a man who likes his recliner and likes to call the recliner wisdom. The driveway is enough. The windshield is enough.
+WES: Quieter than a stock tank and a bluegill. He sat through a polite holiday and called it peace. A couch that doesn't fit a door is still a report.
 
-JONATHON: I'll hold you to the unsent tidy text, and I want somebody holding me to the unsent fish photo. That's why I say the not-knowing out loud even when it makes me look late. Looking late is better than looking fine and being dug in.
+JONATHON: Volume isn't the test. The test is whether I let Louisiana sit in the truck. Worm stories don't count. Can I ask you something hard?
 
-WES: A steadfast man does the small thing while it's still small. For me that's not finishing her sentence. For you that's eyes forward and fries. We forget it by Wednesday and start waiting to feel ready.
+WES: Go.
 
-JONATHON: I forget it by Tuesday afternoon. Ruby doesn't. She asked what I think about when I'm by myself. She has a better memory for what I said I'd do than any review I've ever run.
+JONATHON: Are you actually going to leave the mad-at-me line alone, or are you going to tidy it Friday when the house is empty?
 
-WES: If this feels like too many stories, pick one. One window. One question. One crooked ponytail. That's enough weight for seven days.
+WES: [beat] Friday I'll check whether I sent the tidy text. That's the only reason I trust myself. I won't call her back to finish a sentence that wasn't mine.
 
-JONATHON: I'll pick the drive-through. If I pick three I'll do none. One night of fries is how a man like me gets free of his own notes app.
+JONATHON: I'll hold you to the unsent tidy text this week, and then—
 
-WES: I've got a habit of saving the true sentence for a better room. There is no better room. The truck is the room. The stock tank is the room. The doorway where I almost finished her sentence is the room. Say it there.
+WES: Don't hold me to a speech. Hold me to the text I don't send. That's the only check I trust.
 
-JONATHON: I've rehearsed in better rooms my whole adult life. The rehearsal is how I stay safe. Dani can hear the difference between a tutorial and a dad. She filmed forty seconds and then left the Saturday photo alone.
+JONATHON: [laughs] Fine. And I want somebody holding me to the unsent fish photo. Looking late is better than looking fine and being dug in.
 
-WES: Some of you will try to make this spiritual so you don't have to be specific. Prayer is good. A night and a window is still required. Don't baptize delay and call it discernment. Start children off on the way you actually use in a truck.
+WES: That's fair, but— no, that's actually it. Looking late is the job this week. So what are you picking? Because if this is too many stories, pick one.
 
-JONATHON: I've baptized delay. I've called it being careful. Careful is sometimes fear with a pressed shirt. A story that made Louisiana kinder than I can prove would have been a pressed shirt. Okay was the road.
+JONATHON: Drive-through. If I pick three I'll do none. One night of fries is how I get free of my own notes app. What are you picking?
 
-WES: The man who says he'll start after the busy season is lying to himself the same way I did grading three questions I already knew. There is always another season. Ask the real one inside the busy, or you never will.
+WES: Not finishing her sentence. And not saving the true sentence for a better room. There is no better room.
 
-JONATHON: HVAC sales doesn't hand you a quiet month. If I wait for one I'll still be waiting when Theo has a license. I've got to put fries on a Thursday that already has a meeting.
+JONATHON: No, hold on. You've got a habit of saying the truck is the room and then rehearsing in the recliner anyway.
 
-WES: The drive-through still works if she's seven. If she's grown, a porch works, and you still don't finish her sentence. I almost finished mine. I'm glad I didn't. I would've stolen a thing that belonged to her and her husband.
+WES: [laughs] That's fair. The doorway where I almost finished her sentence is the room. Say it there.
 
-JONATHON: If she is a teenager and won't talk, do the drive-through anyway. Don't announce it as a talk. Announce fries. If she says fine, you still bought fries. Fine isn't a failure. Fine is a door that isn't open yet. Stay in the car.
+JONATHON: I've rehearsed in better rooms my whole adult life, and then—
 
-WES: My youngest, sixteen, drives us both to the one by the high school on Thursday nights after supper. He orders the same thing every time. Last month, four sentences about a girl in chemistry, then the music up. I didn't chase the four sentences. Chasing is how you get none next week.
+WES: And Dani can hear the difference between a tutorial and a dad. I want to hear it too.
 
-JONATHON: At thirteen I was quiet, door shut, headphones, fine through the door to my mom. A coach drove me home and said you hungry and talked about the Astros. About every third time I said something real. Eyes forward. That's why a drive-through works.
+JONATHON: She can. She filmed forty seconds and left the Saturday photo alone. That's a dad, not a tutorial.
 
-WES: A man who asked for a ponytail is a father. A girl who wore a crooked one is a daughter. That's enough. I've ruined enough reports by putting a bow on them. I won't put a bow on the couch either. I won't put a bow on Louisiana. I won't put a bow on the mad-at-me line. Quiet was the gift. I'm leaving it quiet. I can send a text that says I'm still thinking about what you asked. That's staying. That's not a speech.
+WES: Prayer is good. A night and a window is still required. Don't baptize delay and call it discernment.
 
-JONATHON: Friday morning, the morning after yes, tacos, Austin texted first. How do you do a ponytail. Asking for real. Dani filmed forty seconds. Saturday at eight-ten a photo of a crooked ponytail from behind. Did it. She wore it. No moral. I'm not adding one.
+JONATHON: I've called delay being careful. Careful is sometimes fear with a pressed shirt. A kinder Louisiana than I can prove would've been a pressed shirt. Okay was the road. HVAC doesn't hand you a quiet month. If I wait for one I'll still be waiting when Theo has a license. Does that sound like a sales pitch if I say it that way?
+
+WES: [laughs] It sounds like a man who knows his calendar. Put fries on a Thursday that already has a meeting. Ask the real one inside the busy, or you never will.
+
+JONATHON: My youngest— wait, yours. Sixteen. The one by the high school. Did you chase the chemistry sentences?
+
+WES: Last month, four sentences about a girl, then the music up. I didn't chase them. Would I have chased them last year? Yeah. Chasing is how you get none next week.
+
+JONATHON: At thirteen I was headphones and fine through the door. A coach talked Astros. About every third time I said something real. Eyes forward.
+
+WES: That's the whole takeaway. Eyes forward. One question you don't know. Don't finish her sentence. Don't put a bow on the couch, or Louisiana, or a crooked ponytail. My youngest, sixteen, still drives us to the one by the high school on Thursday nights after supper. He orders the same thing every time. I don't comment on the order. I ask one thing I don't know, and if he turns the music up I let it sit.
+
+JONATHON: Friday morning Austin texted first. How do you do a ponytail. Saturday a crooked one from behind. Did it. She wore it. No moral.
+
+WES: That's the report. Leave it quiet. A public calendar helps a man who likes his recliner and likes to call the recliner wisdom. The driveway is enough. The windshield is enough. I won't tidy the mad-at-me line, and I won't invent a kinder Louisiana than anybody can prove. Start is this week, in the truck, not after the busy season. I almost finished her sentence about the couch. I shut my mouth. They took the feet off. I didn't get to be wise. I got to be quiet, and I'm glad.
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. Eyes forward. One question you don't know. Don't finish her sentence.
+WES: Carry this. Eyes forward. One question you don't know. Don't finish her sentence.
 
 JONATHON: And a crooked ponytail she wore anyway is a whole report.
 

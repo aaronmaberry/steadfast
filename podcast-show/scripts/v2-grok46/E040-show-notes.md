@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (1,900 spoken words, about 12:40). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (1,903 spoken words, about 12:41). Re-time them against the final edit before publishing.
 
 ---
 
@@ -38,7 +38,7 @@ Christian men podcast, Field Notes, James 1:19, mentorship, Walk Steadfast
 | 04:14 | The Word | The Word. |
 | 05:11 | From the table | From the table. |
 | 08:40 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
-| 12:16 | Close | Close. |
+| 12:20 | Close | Close. |
 
 ---
 

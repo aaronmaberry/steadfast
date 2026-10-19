@@ -5,9 +5,9 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,801 (about 18:40 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,805 (about 18:42 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 34 lines (56% of words). JONATHON 28 lines (44% of words), 1 under 12 words (3.6%) |
+| Line balance | WES 34 lines (55% of words). JONATHON 28 lines (45% of words), 1 under 12 words (3.6%) |
 | Focus mark | Go First |
 | Scripture (NIV, verified 2026-10-19) | Spoken: John 10:4. Board only: John 10:11; Hebrews 10:24 |
 | Board cues | 5 (none repeats spoken words) |
@@ -134,7 +134,7 @@ WES: There's an older man at our church, eighty-one, retired Air Force, sits beh
 
 JONATHON: That's the mechanic. I want that man on the show one day, and I know you will never let me ask him on a Friday. Here's what gets me. He's eighty-one and he is still looking for a first move. I'm thirty-six and I still wait for Dani to write the script. If he can start a Saturday for women he barely knows, I can call my own mother without a buffer.
 
-WES: You can ask him yourself. That's the whole point. And I want the listener to hear the age in that story. Going first isn't a young man's mark. It's a man's mark. Some of you're fifty-two like me and you still want a committee. Some of you're twenty-two and you think you have to wait until you have a title. The mechanic did not wait for a title. He asked. I said I'd make the coffee. That's the whole partnership. One man starts. The other man shows up.
+WES: You can ask him yourself. That's the whole point. Can you hear the age in that story? Going first isn't a young man's mark. It's a man's mark. Some of you're fifty-two like me and you still want a committee. Some of you're twenty-two and you think you have to wait until you have a title. The mechanic did not wait for a title. He asked. I said I'd make the coffee. That's the whole partnership. One man starts. The other man shows up.
 
 ---
 
@@ -166,9 +166,9 @@ JONATHON: That's a hard one, and it's the right kind of hard. Going first isn't 
 
 ## SEGMENT 6 · This week's challenge
 
-WES: Last few minutes on the challenge. One first move this week. Not five. One. If you pick five you will do none of them and then tell yourself the assignment was too big. Pick the one that makes your stomach tight. That's usually the right one.
+WES: Last few minutes on the challenge. One first move this week. Not five. One. If you pick five you will do none of them and then tell yourself the assignment was too big. What's the one that makes your stomach tight? That's usually the right one.
 
-JONATHON: Married men, go first toward her on something she has been carrying the opener for. A talk, a plan, an apology, a reservation. Don't make her start it again. And don't turn it into a presentation. One sentence, then listen longer than you want to. That's the whole move.
+JONATHON: Thursday at seven. My mom. That's the tight one, and I already want a kinder hour. Married men, go first toward her on something she has been carrying the opener for. A talk, a plan, an apology, a reservation. Don't make her start it again. And don't turn it into a presentation. One sentence, then listen longer than you want to. That's the whole move.
 
 WES: If you live alone, go first toward one man or toward your mother or toward the person at work nobody checks on. A text is a start. A phone call is better. Don't wait until you feel like a leader. Feelings don't go first. You do.
 
@@ -180,7 +180,7 @@ WES: And if your first move is toward God, say one sentence out loud at the tabl
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry out of here. Somebody has to step out ahead. Most weeks that somebody is supposed to be you.
+WES: Carry this. Somebody has to step out ahead. Most weeks that somebody is supposed to be you.
 
 JONATHON: And catching up still counts if it costs you a sentence you have been avoiding.
 

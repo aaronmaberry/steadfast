@@ -5,9 +5,9 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 2,001 (about 13:20 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,041 (about 13:36 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 28 lines (54% of words). JONATHON 26 lines (46% of words), 0 under 12 words (0.0%) |
+| Line balance | WES 28 lines (53% of words). JONATHON 26 lines (47% of words), 0 under 12 words (0.0%) |
 | Focus mark | Pick Up the Weight |
 | Scripture (NIV, verified 2026-10-19) | Spoken: 1 Corinthians 13:11. Board only: Luke 2:51 |
 | Board cues | 5 (none repeats spoken words) |
@@ -78,9 +78,9 @@ JONATHON: Oh, man. That's a whole second show sitting in one line. What did you 
 
 WES: I said I was sorry. He said it's not my fault, it's just how it went. Then cattle prices. I don't have a lesson. I'm not going to invent one so we can feel better. He stayed. He got the place and the hip and the recliner. He didn't get a roof speech. I left and I got one. Both of those can be true, and I can't settle it from this table.
 
-JONATHON: So you just let cattle prices be the end of it. I would have written a paragraph. I'm trying to learn your version.
+JONATHON: Wait, back up. You just let cattle prices be the end of it? I would have written a paragraph. I'm trying to learn your version. Did that feel like a sit, or like you left him in the wound?
 
-WES: Cattle prices was his way of staying in the conversation without staying in the wound. I can live with that. I wanted a bow I could bring back here. He wouldn't give me one. We're about halfway, and I want the other text on the table, because it's not in person and it should not be cleaned up.
+WES: It felt like both. Cattle prices was his way of staying in the conversation without staying in the wound. I can live with that. I wanted a bow I could bring back here. He wouldn't give me one. We're about halfway, and I want the other text on the table, because it's not in person and it should not be cleaned up.
 JONATHON: Yeah. A young man checking in by text is still a person, and it shouldn't be cleaned up into a visit he didn't ask for.
 WES: A young man checking in by text is still checking in. Don't turn it into a visit he didn't ask for.
 
@@ -102,9 +102,9 @@ JONATHON: "When I was a child, I talked like a child, I thought like a child, I 
 
 WES: He's not insulting childhood. He's naming a change. Talking, thinking, reasoning. Then a man puts those ways behind him. Not his mother. Not his people. The ways. The part where someone else runs the capacitor and you stay useful so you never have to be lonely. Paul wrote that to a church that loved big talk. He's saying love grows up. It stops making other people carry your adult sentences.
 
-JONATHON: So putting childish ways behind me isn't hanging up on my mom. It's stopping the hide-in-the-garage move. It's asking about watercolor. It's letting her be a person with a Tuesday night class and a friend named Bev.
+JONATHON: So which is it? Hang up on my mom, or stop hiding in the garage? Putting childish ways behind me isn't hanging up. It's asking about watercolor. It's letting her be a person with a Tuesday night class and a friend named Bev.
 
-WES: That's it. Childhood in this verse isn't age. It's a way of being in the world where somebody else carries the adult sentences. You can be thirty-seven and still talking like the boy who sat at the dealership desk. Growing up, here, is asking a question that does not end with you being the hero of the call.
+WES: Stop hiding. Childhood in this verse isn't age. It's a way of being in the world where somebody else carries the adult sentences. You can be thirty-seven and still talking like the boy who sat at the dealership desk. Growing up, here, is asking a question that does not end with you being the hero of the call.
 
 ---
 
@@ -150,18 +150,18 @@ JONATHON: Bring the donuts. Don't add a new condition in the driveway. You alrea
 
 WES: I came back through the kitchen to the porch after the last truck Saturday and I still had to lift the back door. Paper bag in one hand. Plane on the workbench. I looked at it and I kept walking. I'm good at waving from a driveway. I'm still not good at a jamb.
 
-JONATHON: You bought donuts for a finished paper and you walked past a door that's still yours. I'll ask if the plane moved. Ok is allowed. Weather isn't.
+JONATHON: You bought donuts for a finished paper and you walked past a door that's still yours. I'll ask if the plane moved. Ok is allowed. Weather isn't. Are you going to answer the jamb, or is waving from a driveway the whole stay?
 
 ---
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. Hand the job back. Keep the Sunday. Those are different things.
+WES: Waving isn't the jamb. The plane still sits. Carry this. Hand the job back. Keep the Sunday. Those are different things.
 
 JONATHON: And don't make a twenty-two-year-old's text weird. Ok is a complete sentence.
 
 WES: Tuesday we talk about leaving without slamming the door. Until then: one call that's not a work order, and three questions that aren't about you.
 
-JONATHON: Then go make it, and tell us how it went at walksteadfast.com, and find us everywhere at @steadfastwalk.
+JONATHON: Go make it, then tell us at walksteadfast.com, and find us at @steadfastwalk.
 
 [STING 2s]

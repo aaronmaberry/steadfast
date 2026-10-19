@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 1,916 (about 12:46 at 150 wpm, before laughs and pauses) |
+| Spoken words | 1,951 (about 13:00 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 22 lines (53% of words). JONATHON 20 lines (47% of words), 1 under 12 words (5.0%) |
 | Focus mark | Pick Up the Weight |
@@ -44,7 +44,7 @@ JONATHON: And I'll tell you why I asked God to search me at two in the morning, 
 
 ## SEGMENT 1 · Check the box
 
-WES: Let's take the next few minutes on the receipts, not the movie versions. You first. You have been carrying Thursday all week.
+WES: Let's take the next few minutes on the receipts, not the movie versions. You first. What did the room actually do when you said it?
 
 JONATHON: Thursday at two, a scheduled call, fifteen minutes. I had the sentence on a sticky note so I wouldn't decorate it. I said, "The 2019 district deal should have been his, and I put my name on it." Then I stopped. Four seconds of quiet that felt like a year. He said, "Appreciate you telling me." Then he explained that deals older than three years can't be reassigned in the system. Then he said, "Let's not make this a thing." An hour later, two lines in my inbox. "Thanks for the call. Let's keep this between us."
 
@@ -76,7 +76,7 @@ WES: My oldest. Twenty-one, electrical apprentice. He texted Wednesday. The whol
 
 ## SEGMENT 2 · From the table
 
-WES: We're about halfway, and I want a question men asked after Tuesday. Isn't this just blaming myself for everything?
+WES: We're about halfway, and I want a question men asked after Tuesday. Isn't this just blaming yourself for everything? Because I heard you almost do that in the driveway.
 
 JONATHON: That was me last night in the driveway after the rep's text. The deal is my fault, the VP is my fault, the shoes, the cereal. I'm the problem. Everything is me. I sat there and I could feel the pile getting taller, and I almost called that humility.
 
@@ -86,7 +86,7 @@ JONATHON: So the VP shrugging isn't mine. Not asking the rep first is mine. Two 
 
 WES: The VP shrugging is the VP's. Yours is the ask you skipped. There is a kind of man this hits hardest. The one who grew up in a house where everything was his fault. Every bad mood, every fight, somehow the kid caused it. You hear "find your part" and your body says, I know, it's always my part. If that's you, your part is probably smaller than you think. What happened to you was real.
 
-JONATHON: And if it tips over into "I am worthless," that's a different thing, and I need us to say where a man goes with that.
+JONATHON: And if it tips over into "I am worthless," that's a different thing. Where does a man go with that, because I need a door, not a speech?
 
 WES: That's not God's voice. If what you're hearing is "you're garbage," that's not conviction, and you should not sit alone with it. Tell somebody. A pastor, a counselor, your doctor. Today. Don't wait for a cleaner feeling to make the call. The feeling is the reason to call.
 
@@ -116,9 +116,9 @@ JONATHON: If you live alone, the voice in your head does not get interrupted. Te
 
 ## SEGMENT 4 · Three questions
 
-WES: Last few minutes on a tool older than both of us. The examen. Three questions at the end of the day. First: where was God in today? Start with the good. Always. If you start with the bad you will never get to the end. Second: what is mine from today? One thing. Not a list. Say it to God, short, no because. Third: what do I need for tomorrow? Patience. Courage. Sleep. Ask. Then you're done. Three minutes. If it's taking fifteen, you're doing the everything-is-me thing again.
+WES: Last few minutes on a tool older than both of us. The examen. Three questions at the end of the day. First: where was God in today? Start with the good. Always. If you start with the bad you will never get to the end. Second: what is mine from today? One thing. Not a list. Say it to God, short, no because. Third: what do I need for tomorrow? Patience. Courage. Sleep. Ask. Then you're done. Three minutes. If it's taking fifteen, you're doing the everything-is-me thing again. Where do you actually do yours, because I don't believe you wait for a quiet room?
 
-JONATHON: I do it on the drive home. Twelve minutes from the office. I turn the radio off at the light by the Whataburger, and I do the three, and I walk in already having said the thing, so I'm not carrying it into supper. Tuesday's good was Ruby and the cereal. She was honest with me. That's a gift I would have missed if I started with the shoes.
+JONATHON: On the drive home. Twelve minutes from the office. I turn the radio off at the light by the Whataburger, and I do the three, and I walk in already having said the thing, so I'm not carrying it into supper. Tuesday's good was Ruby and the cereal. She was honest with me. That's a gift I would have missed if I started with the shoes. Where do you do yours? And don't say a better room.
 
 WES: I do mine with the lights out. My wife falls asleep in about ninety seconds, which is a gift, and I do the three before the house goes quiet. I'm not going to tell you she snores, because she does not, and I would like to stay married. Start with the good. Name one thing that's yours. Ask for tomorrow. Then sleep. If you can't sleep, you already handed it over, and that still counts.
 
@@ -132,7 +132,7 @@ WES: You'll get a sentence. If weather moves it I will say weather, and I will s
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. Find your part. Not everybody's. Ask God to search you, because you will miss the middle.
+WES: Carry this. Find your part. Not everybody's. Ask God to search you, because you will miss the middle.
 
 JONATHON: And if the room shrugs, you still needed to say it. Then stop taking the pile that's not yours.
 

@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 2,217 (about 14:47 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,228 (about 14:51 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 31 lines (51% of words). JONATHON 28 lines (49% of words), 1 under 12 words (3.6%) |
 | Focus mark | All four, check |
@@ -144,7 +144,7 @@ WES: I don't hate the phone. I hate hearing my own voice. That's different.
 
 JONATHON: The tool is a sixty-second voice memo. Once this week, you open the app, and you record sixty seconds. Not more. You say your sentence out loud. You say your weakest mark out loud. And you say one specific thing you're going to do about it tomorrow. When it's in your head, it's mush. When it's out loud, it's a promise.
 
-WES: And then what? Because a lot of men will record it, feel spiritual for eleven seconds, and never listen again.
+WES: And then what? Because a lot of men will record it, feel spiritual for eleven seconds, and never listen again. Are you sending yours, or are you keeping it where nobody can hold you to it?
 
 JONATHON: Then you've got two choices. You can send it to your one man. Instead of a text. A text is two seconds. A voice memo is your actual voice, and it's harder, and it's better. Or you keep it and listen to it once, the next morning, in the truck. That's it. One time. And you hear yourself make a promise.
 
@@ -164,7 +164,7 @@ WES: K means okay. I'll write a sentence. I won't like it. I'll write it anyway.
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. Your strongest mark can turn into your favorite place to hide. Watch it.
+WES: Carry this. Your strongest mark can turn into your favorite place to hide. Watch it.
 
 JONATHON: And say it out loud. A promise in your head is mush. Sixty seconds. Then send it.
 

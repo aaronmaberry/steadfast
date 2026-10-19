@@ -5,9 +5,9 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,899 (about 19:20 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,826 (about 18:50 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 35 lines (52% of words). JONATHON 32 lines (48% of words), 2 under 12 words (6.2%) |
+| Line balance | WES 35 lines (54% of words). JONATHON 33 lines (46% of words), 3 under 12 words (9.1%) |
 | Focus mark | Pick Up the Weight |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Genesis 2:15. Board only: Colossians 3:23 |
 | Board cues | 4 (none repeats spoken words) |
@@ -40,7 +40,7 @@ JONATHON: And I will tell you I put in for the week of Theo's birthday, phone of
 
 ## SEGMENT 1 · A column and a birthday week
 
-WES: Let's take the next few minutes on a screen I didn't want to love. You wrote a heading about vacation days. They made it a grade. Tell the truth about how that felt.
+WES: Let's take the next few minutes on a screen I didn't want to love. You wrote a heading about vacation days. They made it a grade. How did that feel?
 
 JONATHON: Great idea, Jonathon. A rep texted, lol are we getting graded on the beach now. I called him. His wife is pregnant. Nobody at work knows. He had been scared to take time off. I've nine unused days. Friday I put in for the week of Theo's birthday in August. Five days. Phone off. Pancake arrives that week. The VP approved it in about four minutes. Love it. Leading from the front. I hated that sentence. I'm taking the week anyway. I won't let a slogan steal a rest I need.
 
@@ -68,7 +68,7 @@ WES: Every year. Best one yet. She knows I'm lying a little and she lets me. Tha
 
 ## SEGMENT 3 · The Word
 
-WES: Genesis two, verse fifteen. Before the snake. Before the sweat. A job.
+WES: Genesis two, verse fifteen. Before the snake. Before the sweat. A job. You want to read it?
 
 JONATHON: "The Lord God took the man and put him in the Garden of Eden to work it and take care of it."
 
@@ -96,7 +96,7 @@ JONATHON: I will call the midnight rep and say what I kept. I won't say it in a 
 
 ## SEGMENT 5 · Pushback
 
-WES: Push. The man who hates his job and thinks we're romantic. And the man who loves his job and thinks rest is for people who aren't serious.
+WES: Push. The man who hates his job and thinks we're romantic. And the man who loves his job and thinks rest is for people who aren't serious. Which one is sitting in you this week?
 
 JONATHON: If you hate it, you may still have a keep inside it. A person. A part you like at ten-thirty. A library. You don't have to call it a calling to treat it as a garden for the hours you're there. And if you love it, nine unused days isn't seriousness. It's a man stripping the garden and calling the dust faithfulness. I've been that man. The VP will clap. Your kids won't remember the clap.
 
@@ -117,21 +117,8 @@ JONATHON: I will take August. I will call the rep. I won't decorate the column. 
 
 WES: I keep seeing that truck in the lot with the engine on. I've been a man in a truck. I've also been a man who walks past. I know both sins. The sandwich is how I stop being the second one without pretending I can fix the first.
 
-WES: I keep seeing that truck in the lot with the engine on. I've been a man in a truck. I've also been a man who walks past. I know both sins. The sandwich is how I stop being the second one without pretending I can fix the first.
 
 JONATHON: Don't make the knock a project with a moral. Take a sandwich. Ask for air conditioning. If he says you need something, tell the truth. You have a sandwich and it's a hundred degrees. That's a garden sentence. Not a rescue speech.
-
-WES: I won't rescue him. I'll knock. I may get two inches of window. Two inches is a start. I've used three months of walking past as wisdom. It was fear. I don't know his name well enough to say it here, and that's already a tell.
-
-JONATHON: I'll call the midnight rep and say what I kept. I'll say the library. I'll say I asked about the bill first. I'll say I'm sorry I stopped at good man. Sorry is part of keep.
-
-WES: Tell one person what you like about the work, even a sliver. Knock on one window you've walked past. If you've been hoarding days, put rest on a calendar. Don't wait for a slogan to approve it.
-
-JONATHON: Call the person whose work kept somebody alive, and tell him. If you have nine days on a shelf, spend some. If your mom taught you work is only a curse, you're allowed to like a Tuesday. Liking a Tuesday isn't a betrayal of her tired.
-
-WES: Last few minutes. I'll knock. I'll tell my wife at supper. I'll tell the youngest I like my job, and I'll let him say huh and ask for potatoes. Huh is a holy word in my house this summer.
-
-JONATHON: I'll take August. I'll call the rep. I won't decorate the column. If I come back proud of a bar chart, stop me. The bar chart isn't the garden.
 
 WES: I left a farm because I thought work there was a curse. Some of it was sweat after the fall. Some of it was a pecan and a trough and a brother placed. I was too young to sort those. I can sort them now. Liking a part isn't betraying the part I left.
 
@@ -147,37 +134,55 @@ JONATHON: Say it at supper. Then knock. I asked about the bill first. I'm still 
 
 ## SEGMENT · Sitting with it
 
-WES: I've watched men collect work stories like this and never knock. Don't be that man this week. Tell one person what you like about the work. Knock on one window. Then tell one person you did, because a secret garden turns back into a mood by Thursday.
+WES: I keep wanting to send a man home with a slogan about work. Work it and take care of it was the job before the snake.
 
-JONATHON: I'm the man who collects stories. I've got a notes app and a plaque wall I walked past like a relative. The only ones that count are the ones that got August on a calendar and a midnight call.
+JONATHON: Wait, back up. Are you talking about the knock, or me decorating a column that grades rest?
 
-WES: I want the listener who thinks this doesn't apply because he hates his job, or loves it too much to rest. Then find the keep inside it. Quiet isn't settled. You already know that if you've sat through a polite holiday and called it peace.
+WES: Both. You've got nine days on a shelf. Are you taking August, or walking past a plaque wall like a relative?
 
-JONATHON: My house can be loud and still be a cease-fire. Volume isn't the test. The test is whether I take the week of Theo's birthday with the phone off, not whether I can tell you about a compressor.
+JONATHON: I'm taking August. Phone off for Theo's birthday. Can I ask you something hard?
 
-WES: I'll check the knock on Friday, which is the only reason I trust myself. I'll tell my wife at supper. I'll tell the youngest I like my job, and I'll let him say huh and ask for potatoes. Huh is a holy word in my house this summer.
+WES: Go.
 
-JONATHON: I'll hold you to the window, and I want somebody holding me to August. That's why I say the week out loud even when it makes me look late. Looking late is better than looking serious and being dug into nine unused days.
+JONATHON: Are you knocking on the window, or walking past a truck with the engine on and calling that wisdom?
 
-WES: A steadfast man does the small thing while it's still small. For me that's a sandwich and a knock. For you that's a library you finally name. We forget it by Wednesday and start waiting to feel ready.
+WES: [beat] I'll knock. I may get two inches. Two inches is a start. I've used three months of walking past as wisdom. It was fear. What are you actually saying to the midnight rep?
 
-JONATHON: I forget it by Tuesday afternoon. Ruby doesn't. She has a better memory for what I said I'd do than any review I've ever run, and she doesn't care that the VP approved it in four minutes.
+JONATHON: What I kept. The library. I asked about the bill first. I'm sorry I stopped at good man. If I pick three I'll do none. One call.
 
-WES: If this feels like too many stories, pick one. One window. One sliver you like. One week on a calendar. That's enough weight for seven days.
+WES: That's fair, but— no, don't come back proud of a bar chart.
 
-JONATHON: I'll pick the midnight rep. If I pick three I'll do none. One call about a library is how a man like me gets free of his own notes app.
+JONATHON: [laughs] Stop me if I do. The bar chart isn't the garden. Will you tell your wife at supper what you like, or only knock?
 
-WES: I've got a habit of saving the true sentence for a better room. There is no better room. The cab is the room. The loading dock at eleven is the room. The barn when I asked if Dad liked it's the room. Say it there.
+WES: Both. I'll tell the youngest I like my job and let him say huh and ask for potatoes. Huh is a holy word this summer. You stop me if I make the knock a rescue speech.
 
-JONATHON: I've rehearsed in better rooms my whole adult life. The rehearsal is how I stay safe. Dani can hear the difference between a column and a garden. She stops me when I start handing people a slogan before they're on the beach.
+JONATHON: No, hold on. You asked your brother if Dad liked it. He doesn't know. He never said. Did you stack the second question with the knock so you can fail both?
 
-WES: Some of you will try to make this spiritual so you don't have to be specific. Prayer is good. A knock and a week is still required. Don't baptize delay and call it discernment. Work it and take care of it was the job before the snake.
+WES: [laughs] Two questions in one Saturday felt like greed. The trough can wait a week if it has a day. The sandwich is this week. Are you still using the first half of the verse as cover?
 
-JONATHON: I've baptized delay. I've called it being careful. Careful is sometimes fear with a pressed shirt. Vacation utilization as a grade is a pressed shirt. Phone in a drawer is the road.
+JONATHON: I was. Liking a Tuesday isn't a betrayal of my mom's tired. Unavailable is a kind of keep. Dani can hear the difference between a column and a garden.
 
-WES: The man who says he'll start after the busy season is lying to himself the same way I did leaving a farm I thought was only a curse. There is always another season. Knock inside the busy, or you never will.
+WES: Good. I left a farm because I thought work there was a curse. Some of it was sweat after the fall. Some of it was a pecan. I can sort them now.
 
-JONATHON: HVAC sales doesn't hand you a quiet month. If I wait for one I'll still be waiting when Theo has a license. I've got to put August on a Tuesday that already has a meeting.
+JONATHON: Then I put August on a Tuesday that already has a meeting. Does that sound like a quota?
+
+WES: [laughs] It sounds like a man who knows his calendar. Knock inside the busy, or you never will. Mr. Abernathy waited while I gave a weather report. I still owe a better answer. I like the mid-morning problem nobody wants.
+
+JONATHON: What are you picking, for real?
+
+WES: The knock. A sandwich. It's a hundred degrees. You have a sandwich. That's a garden sentence.
+
+JONATHON: The library call. That's the whole takeaway. Work it and take care of it. A column that grades your rest is still not the same as actually resting.
+
+WES: Don't wait for a slogan to approve a week off. Put rest on a calendar. Two inches is still a start. Liking a part isn't betraying the part I left. I was too young to sort those. I can sort them now. Huh is a holy word in my house this summer. I'll tell him I like my job and let him ask for potatoes. I left a farm because I thought work there was a curse. Some of it was sweat after the fall. Some of it was a pecan and a trough and a brother placed. I can sort them now without a slogan. The mid-morning problem nobody wants is a sliver I actually like, and I will say it at home before I knock.
+
+JONATHON: Then ask the trough next Saturday. Don't stack it with the knock. The library is this week. A column that grades rest can become a new idol. I won't let South Central leading on rest become my plaque. I'll go to the beach, or the house, or the pancake, and I'll be a man who isn't available.
+
+WES: I asked my brother at the barn Saturday if Dad liked it. He said he doesn't know. He never said. Then he checked a trough. I haven't asked whether my brother likes it. Mr. Abernathy asked me, in the middle of a big project, whether I liked the work. I gave him a weather report. He waited. I like the mid-morning problem nobody wants. I've never said that out loud at home. I'll say it at supper. Then knock. I've been a man in a truck. I've also been a man who walks past. I know both sins. The sandwich is how I stop being the second one without pretending I can fix the first. I don't know his name well enough to say it here, and that's already a tell.
+
+JONATHON: Say it. Then knock. I asked about the bill first. I'm still ashamed of the first words. I can still say the second ones. The product keeps people alive. I've said numbers. I haven't said a library full of people who can't go home to heat. Sorry is part of keep.
+
+---
 
 ## CLOSE (word for word)
 

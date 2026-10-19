@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,960 spoken words, about 19:44). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,800 spoken words, about 18:40). Re-time them against the final edit before publishing.
 
 ---
 
@@ -36,11 +36,10 @@ Christian men podcast, sons, Isaiah 43:1, fatherhood, Walk Steadfast
 | 00:56 | Steve and a knee | Steve and a knee. |
 | 02:57 | Porch and a phone | Porch and a phone. |
 | 05:03 | The Word | The Word. |
-| 06:48 | Pushback | Pushback. |
-| 08:03 | This week's challenge | This week's challenge. |
-| 10:33 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
-| 14:35 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
-| 19:20 | Close | Close. |
+| 06:50 | Pushback | Pushback. |
+| 08:09 | This week's challenge | This week's challenge. |
+| 12:18 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
+| 18:16 | Close | Close. |
 
 ---
 

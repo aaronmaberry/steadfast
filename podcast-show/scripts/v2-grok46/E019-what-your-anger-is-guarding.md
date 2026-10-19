@@ -5,9 +5,9 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 3,045 (about 20:18 at 150 wpm, before laughs and pauses) |
+| Spoken words | 3,163 (about 21:05 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 34 lines (54% of words). JONATHON 30 lines (46% of words), 3 under 12 words (10.0%) |
+| Line balance | WES 39 lines (55% of words). JONATHON 36 lines (45% of words), 4 under 12 words (11.1%) |
 | Focus mark | Pick Up the Weight |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Ephesians 4:26-27. Board only: Proverbs 16:32; Proverbs 29:11 |
 | Board cues | 5 (none repeats spoken words) |
@@ -60,7 +60,11 @@ WES: I was scared I couldn't pay the bills. The horn was guarding a paycheck I w
 
 JONATHON: I'll be real with you, I'd have built a joke around the horn and never named the paycheck. That's how I keep anger looking like personality. Big feelings. Short fuse. Italian blood, or sales, or Monday. Anything except fear.
 
-WES: Years later Mr. Abernathy tapped the table twice, the way he did, and asked, "What's it guarding?" He didn't ask why I was angry. He asked what the anger was standing in front of. I said nothing the first time. The second time I said the old sentence. Pay the bills and don't make trouble.
+WES: [laughs] You would have. I almost did when she told me this week. Have you ever named a paycheck under a snap, or do you still call it Monday?
+
+JONATHON: Still Monday. HVAC hands you a Monday every week and I use it. Abernathy's four words scare me because they'd make Monday a smaller word.
+
+WES: Years later he tapped the table twice, the way he did, and asked, "What's it guarding?" He didn't ask why I was angry. He asked what the anger was standing in front of. I said nothing the first time. The second time I said the old sentence. Pay the bills and don't make trouble.
 
 JONATHON: He already knew. What'd he ask you next?
 
@@ -68,9 +72,11 @@ WES: He nodded like a man who'd already known. Then he asked if I'd told my girl
 
 [BOARD: The heat is usually covering a smaller word.]
 
-WES: If you've got a horn in you, I want you to hear that the girl in the booster will write a story if you don't. She'll put herself in the middle of it because children do that. Your job is to go get the story and replace it with the true one, even sixteen years later. Especially sixteen years later.
+JONATHON: Wait, back up. She thought it was her shoes for sixteen years and you found out this week?
 
-JONATHON: Go get the story. Even if she's twenty-five and the booster's long gone. That's the assignment before we talk about my Saturday.
+WES: This week. If you've got a horn in you, the girl in the booster will write a story if you don't. She'll put herself in the middle of it because children do that. Your job is to go get the story and replace it with the true one, even sixteen years later.
+
+JONATHON: Even if she's twenty-five and the booster's long gone. That's the assignment before we talk about my Saturday.
 
 ---
 
@@ -86,9 +92,13 @@ JONATHON: Never let them see you hurt. I learned that young. I've used it at wor
 
 WES: Never let them see you hurt is a boy's sentence that'll run a man's house. It looks like toughness. It's fear of being the kind of man who needs help. You snapped at a juice box because you wouldn't hand a bucket of balls to another dad.
 
-JONATHON: That's the math. I hate the math. I also texted the contractor, because he used to throw a hard hat when a job went sideways. His crew called it hat weather. He hasn't thrown one in eight years. He's scared he'll throw one at a student when he starts teaching.
+JONATHON: That's the math. I hate the math.
 
-WES: Hat weather. You text him the same four words.
+WES: You hate it. Are you actually putting a doctor on the calendar, or is texting the contractor the stand-in?
+
+JONATHON: [laughs] That's fair, but— the contractor is easier. He used to throw a hard hat when a job went sideways. His crew called it hat weather. He hasn't thrown one in eight years. He's scared he'll throw one at a student when he starts teaching.
+
+WES: Hat weather. You text him the same four words?
 
 JONATHON: I text him every Monday of this first stretch, "What's it guarding?" He writes back one word most weeks. Pride. Money. His dad. Last Monday he wrote, "looking weak in front of boys who already think I'm old." That's a grown man. I told him I threw BP on a bad shoulder so twelve kids would think I was fine. He wrote, "dumb. go to a doctor." Two men, same sentence.
 
@@ -96,7 +106,11 @@ WES: Go to the doctor. I'm not your mother. I am the man who watched you limp a 
 
 [BOARD: The carton is rarely the real subject.]
 
-JONATHON: My mom's anger was the cold kind. Silent for a day. The house went quiet and you did the inventory of every word you'd said since breakfast. Dani told me in October, "You sound like your mom when she's mad at the toaster." She meant the ice, not the volume. I've got a hot version and a cold version. The hot one snaps. The cold one cleans the kitchen like a punishment. Both of them are guarding the same thing. If I go still and clean, I don't have to say I'm hurt.
+JONATHON: My mom's anger was the cold kind. Silent for a day. The house went quiet and you did the inventory of every word you'd said since breakfast.
+
+WES: No, hold on. Dani said you sound like your mom at the toaster. Did she mean the ice, or the volume?
+
+JONATHON: The ice, not the volume. I've got a hot version and a cold version. The hot one snaps. The cold one cleans the kitchen like a punishment. Both of them are guarding the same thing. If I go still and clean, I don't have to say I'm hurt.
 
 ---
 
@@ -112,9 +126,13 @@ JONATHON: "We're Astros people." His daughter says that's her favorite part of t
 
 WES: She does. He didn't become a soft man. He named the fear and he got out of the truck. That's a bump. That's also a grown-up.
 
-JONATHON: I need that, because I'll wait for a season of anger management and miss the parking lot. Five minutes about the Astros is more sanctified than a speech about my childhood. I can talk about my dad leaving for an hour and still snap at a juice box. The parking lot is the test. I keep wanting a class with a workbook so I can postpone the five minutes. A class would let me stay the expert. Five minutes would make me a man in a lot with another man I don't like, talking about a team, so a little girl can see two adults in the same air. That's a smaller thing than a program and a harder thing than a program.
+JONATHON: I need that, because I'll wait for a season of anger management and miss the parking lot. Five minutes about the Astros is more sanctified than a speech about my childhood. I can talk about my dad leaving for an hour and still snap at a juice box.
 
-WES: The parking lot is the test. So is the booster seat. So is the kitchen after the toaster. If you want a program you can hide in a program. If you want a different Tuesday you pick a bump. I've hidden in books about anger and still hit a wheel. The book wasn't the problem. The night I wouldn't name the paycheck was the problem. I want you bored with your own insight and busy with one bump. Insight without a lot is just a new way to stay right.
+WES: That's fair, but— are you postponing the five minutes because a class would let you stay the expert?
+
+JONATHON: Yes. A class would let me stay the expert. Five minutes would make me a man in a lot with another man I don't like, talking about a team, so a little girl can see two adults in the same air. That's a smaller thing than a program and a harder thing than a program.
+
+WES: The parking lot is the test. So is the booster. So is the kitchen after the toaster. If you want a program you can hide in a program. If you want a different Tuesday you pick a bump. I've hidden in books about anger and still hit a wheel. The book wasn't the problem. The night I wouldn't name the paycheck was.
 
 [BOARD: Leave the cab. Talk baseball five minutes.]
 
@@ -124,7 +142,7 @@ WES: The parking lot is the test. So is the booster seat. So is the kitchen afte
 
 WES: We're about halfway, and I want the Bible open, because Paul already told a church not to make a campsite out of anger. Ephesians four, twenty-six and twenty-seven.
 
-JONATHON: I've used the first half as a permission slip. Be angry. I skip the rest, because the rest has a clock on it.
+JONATHON: I've used the first half as a permission slip. Be angry. I skip the rest, because the rest has a clock on it. So which is it? Be angry, or bury it before dark?
 
 WES: He says, "Do not let the sun go down while you are still angry, and do not give the devil a foothold." Anger is allowed. A night of it as a house guest is not. The sun going down is a clock. A foothold is what happens when the clock's ignored. You don't have to finish the whole war before dark. You have to stop feeding it overnight. Name it. Say the fear. Put the phone down. Ask the question. Then sleep. Morning can finish what night shouldn't carry.
 
@@ -132,9 +150,9 @@ WES: He says, "Do not let the sun go down while you are still angry, and do not 
 
 JONATHON: Here's my problem with the sunset clock. Dani works nights. The sun goes down and she's at the hospital. If I wait for a perfect conversation I'll wait until Thursday, and Thursday I'll have a better speech and a colder house. So I write it on a card and I say it in the morning when she walks in, even if I'm clumsy. Clumsy before noon is better than a polished paragraph after a night of rehearsing.
 
-WES: Clumsy before noon is the whole Christian life for some of us. I told my daughter this week. I told my wife the night of the horn in 2009, badly. I didn't tell the girl. The sun went down on that one for sixteen years. I don't recommend my timeline.
+WES: Clumsy before noon is the whole Christian life for some of us. I told my daughter this week. I told my wife the night of the horn in 2009, badly. I didn't tell the girl. Does the card actually get said when she walks in, or does it become another better speech for Thursday?
 
-JONATHON: And if the anger is righteous? A man whose ex left bald tires on a car the kids ride in. We saw that Saturday at car-care. Four used tires by Wednesday. That heat was guarding those kids, not his pride. I need us to say some anger is a smoke alarm. I stood there holding a coffee and I could feel my own cheap heat trying to join his good heat, like I wanted a villain so I could stay the hero. His heat bought tires. Mine wanted a speech. That's how I know which kind I'm carrying. The kind that buys tires can stay long enough to finish the work. The kind that wants a speech needs the sun to go down on it.
+JONATHON: It gets said. Clumsy. Then I stop. And if the anger is righteous? A man whose ex left bald tires on a car the kids ride in. We saw that Saturday at car-care. Four used tires by Wednesday. That heat was guarding those kids, not his pride. I need us to say some anger is a smoke alarm. I stood there holding a coffee and I could feel my own cheap heat trying to join his good heat, like I wanted a villain so I could stay the hero. His heat bought tires. Mine wanted a speech. That's how I know which kind I'm carrying. The kind that buys tires can stay long enough to finish the work. The kind that wants a speech needs the sun to go down on it.
 
 WES: Some anger is a smoke alarm. You still don't get to sleep with the alarm screaming. You fix the smoke. Bald tires get tires. A layoff rumor gets a conversation, not a horn. A sore shoulder gets a doctor, not a juice box. Righteous heat still has a clock. If it lives overnight it starts lying about what it is.
 
@@ -144,13 +162,13 @@ WES: Some anger is a smoke alarm. You still don't get to sleep with the alarm sc
 
 ## SEGMENT 5 · Pushback
 
-WES: Keep pushing.
+WES: Keep pushing. Go ahead.
 
-JONATHON: What about the man whose dad hit him? If I sit here talking about a juice box, he's going to think we just baptized his father's fists as a personality. Draw the line in paint.
+JONATHON: Yeah, here's my problem. What about the man whose dad hit him? If I sit here talking about a juice box, he's going to think we just baptized his father's fists as a personality. Draw the line in paint.
 
 WES: Draw it. A father's fists are sin. They're not a shape you inherit like a nose. You don't confess his hands. You confess yours. If your anger is starting to look like his, that's the part that's yours, and it's why we're here. If you're in danger of putting hands on somebody, you leave the room and you call a brother and you get help today. This table is not a substitute for that.
 
-JONATHON: Second. I go cold, not loud. People at work think I'm the calm one. Dani's the only one who knows the toaster silence. If I only repent of volume I'll never repent of ice.
+JONATHON: I don't totally buy the clock yet, not for me. I go cold, not loud. People at work think I'm the calm one. Dani's the only one who knows the toaster silence. If I only repent of volume I'll never repent of ice. Do you actually hear ice as a night the sun went down on, or are we still talking about horns?
 
 WES: Then repent of ice. Cold is still a night the sun went down on. The foothold doesn't care about decibels. It cares about the story you're feeding. Never let them see you hurt is a quiet story. It still runs a house.
 
@@ -158,17 +176,21 @@ JONATHON: Third. Naming the fear can become a new performance. I can say, "What'
 
 WES: Then put a date on it. Shoulder. Horn. Parking lot. Doctor. Conversation. Write it where a seven-year-old can see it if you've got one. Ruby already has a basket. She can have a card. I told my wife I'd ask her tonight what she sees my anger guarding this month. I won't explain first. I said the job last time and she said my mother. I'm ready to be wrong again. I've been ready to be right for fifty-two years. Being wrong in a kitchen is a newer skill and I'm still clumsy at it. Clumsy is fine. Hidden isn't. If she names a thing I don't like I'll write it on the same card as the horn and I won't add a footnote until morning. Morning's allowed to kill footnotes. Night isn't allowed to grow them.
 
-JONATHON: Fourth. Some of us use the good heat as a cover for the cheap kind. I can get loud about bald tires and still ice Dani over a toaster. If I only confess the tires I'll never confess the kitchen. I need a man who'll ask me about the toaster, not the speech I gave in a parking lot.
+JONATHON: Fourth, and this one's on me. Some of us use the good heat as a cover for the cheap kind. I can get loud about bald tires and still ice Dani over a toaster. If I only confess the tires I'll never confess the kitchen. Will you ask me about the toaster this week, not the speech I gave in a parking lot?
 
 ---
 
 ## SEGMENT 6 · This week's challenge
 
-WES: Last few minutes. Name one anger from this week, even a small one. Write the sentence: it was guarding ______. Then tell one person, with no because. If a person was in the blast, tell them the true story so they don't write themselves into the middle. If you live alone, tell a brother, or tell God out loud in the truck and then text one man the sentence. Friday we'll give you a twenty-minute rule so you don't turn this into a speech.
+WES: Last few minutes. Yes. I'll ask you about the toaster, not the parking-lot speech. Name one anger from this week, even a small one. Write the sentence: it was guarding ______. Then tell one person, with no because. If a person was in the blast, tell them the true story so they don't write themselves into the middle. If you live alone, tell a brother, or tell God out loud in the truck and then text one man the sentence. Friday we'll give you a twenty-minute rule so you don't turn this into a speech.
 
-JONATHON: Mine is the shoulder. It was guarding never let them see you hurt. I told the dad. I told Dani. I haven't told a doctor. So my contrary hour is an appointment, not another paragraph. I texted my nephew the question because he snaps at his roommates when he's lonely. He wrote, "guarding: looking like the kid who got left." I told him that was a real sentence and he should say it to the roommate he trusts, not to the group chat. He wrote, "ok. not the chat." That's a win.
+JONATHON: Mine is the shoulder. It was guarding never let them see you hurt. I told the dad. I told Dani. I haven't told a doctor.
 
-WES: Mine is the horn I already told and the short voice I still get at PT. I'll tell you more Friday. Tonight I ask my wife the question. I want her sentence, not mine. If she says the bills again I won't be shocked. If she says something else I'll sit a night before I try the case. The girl in the booster already waited sixteen years. I can wait one night.
+WES: Can I ask you something hard? Are you putting the doctor on a date this week, or is the nephew text the stand-in again?
+
+JONATHON: [laughs] The nephew text is easier. He wrote, "guarding: looking like the kid who got left." I told him say it to the roommate he trusts, not the group chat. He wrote, "ok. not the chat." That's a win. The doctor still isn't on the calendar. So what are you naming, because I'm not doing this alone.
+
+WES: The horn I already told, and the short voice I still get at PT. Tonight I ask my wife the question. I want her sentence, not mine. If she says the bills again I won't be shocked. If she says something else I'll sit a night before I try the case. The girl in the booster already waited sixteen years. I can wait one night.
 
 JONATHON: And if you can't think of an anger, ask the person who lives with you what she's been walking around. She already has a list. Don't pick a nicer one from 2009 if she names a juice box from Saturday. The first one that makes your stomach tight is the assignment.
 
@@ -184,12 +206,12 @@ JONATHON: Fan's quiet. Door's loud. You just moved the delay to a different hing
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. Anger is fruit. Ask what it's guarding. Then say it before the sun goes down.
+WES: Carry this. Anger is fruit. Ask what it's guarding. Then say it before the sun goes down.
 
-JONATHON: And if a girl already wrote herself into the story, go get the story back. Late is still allowed.
+JONATHON: And if a girl already wrote herself into the story, go get the story. Late is still allowed.
 
 WES: Friday we cool off without checking out. Until then: one sentence, one person, no because.
 
-JONATHON: Then go name it, and tell us how it went at walksteadfast.com, and find us everywhere at @steadfastwalk.
+JONATHON: Go name it, then tell us at walksteadfast.com, and find us at @steadfastwalk.
 
 [STING 2s]

@@ -5,9 +5,9 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,889 (about 19:16 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,937 (about 19:35 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 43 lines (51% of words). JONATHON 39 lines (49% of words), 2 under 12 words (5.1%) |
+| Line balance | WES 44 lines (51% of words). JONATHON 40 lines (49% of words), 2 under 12 words (5.0%) |
 | Focus mark | Go First |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Exodus 20:12. Board only: Luke 15:20 |
 | Board cues | 4 (none repeats spoken words) |
@@ -104,9 +104,9 @@ JONATHON: "Honor your father and your mother, so that you may live long in the l
 
 WES: And your problem is the word honor. You have heard it as pretend. Stand up at the cookout. You can't do that. He took the lamp.
 
-JONATHON: I won't tell Ruby a halo story about a man she has never met. Pretend honor is how a man lies at his own table with his kids listening.
+JONATHON: I won't tell Ruby a halo story about a man she has never met. Pretend honor is how a man lies at his own table with his kids listening. So which is it? A halo, or the right weight?
 
-WES: Our pastor said the Hebrew word is heavy. Weight. It does not say give him a halo. It says treat him like he weighs what a father weighs. More than nothing. A lot of men make him weigh nothing so he can't hurt them. Other men let him weigh a ton. One comment knocks the week over.
+WES: The right weight. Our pastor said the Hebrew word is heavy. Weight. It does not say give him a halo. It says treat him like he weighs what a father weighs. More than nothing. A lot of men make him weigh nothing so he can't hurt them. Other men let him weigh a ton. One comment knocks the week over.
 
 JONATHON: So the right weight. He did real things, some of them terrible, and he's still the only father I get. I can take him seriously and tell the truth in the same breath. I don't have to say the lamp was fine.
 
@@ -130,11 +130,11 @@ WES: Quick version if you're new. My mom is seventy-eight. We each had a plan. H
 
 JONATHON: So after the pot roast, your wife took the kids to see the calves, and you asked, and then you had to stay quiet.
 
-WES: "Mom, what do you want?" Eleven seconds. I counted. My brother started to talk at seven, and I kicked him under the table. Fifty-eight years old. Kicked him. She wants the senior apartments behind the church. Her friend Ola lives there. Dominoes. A grocery van. Her own door. She can't see to drive at night. I asked why she never said it. She looked at my brother and said, "Because he bought a chair."
+WES: "Mom, what do you want?" Eleven seconds. I counted. My brother started to talk at seven, and I kicked him under the table. [laughs] Fifty-eight years old. Kicked him. She wants the senior apartments behind the church. Her friend Ola lives there. Dominoes. A grocery van. Her own door. She can't see to drive at night. I asked why she never said it. She looked at my brother and said, "Because he bought a chair."
 
-JONATHON: She had known about the recliner since Christmas. She didn't want to hurt him, so she said nothing for two years while the two of you protected her right into a ditch.
+JONATHON: Wait, back up. She had known about the recliner since Christmas and said nothing for two years because he bought a chair? That's the whole shape. You protected her right into a ditch.
 
-WES: He said, "Well." Then, "I'm keeping the recliner." She laughed. We will visit the apartments in May. There is a list. She's not on it yet.
+WES: Yes. Two years. He said, "Well." Then, "I'm keeping the recliner." She laughed. We will visit the apartments in May. There is a list. She's not on it yet.
 
 [BOARD: Ask her, then give the silence room.]
 
@@ -148,7 +148,7 @@ WES: You can be a good son right past your own mother. I had a plan for her and 
 
 WES: Jonathon, you've been sitting on the men who are already mad at us. Go ahead and push.
 
-JONATHON: First, the guy whose dad was dangerous. "You want me to honor a man who hit my mom? Call him because two men at a table said so?"
+JONATHON: Yeah, here's my problem. First, the guy whose dad was dangerous. "You want me to honor a man who hit my mom? Call him because two men at a table said so?"
 
 WES: No phone call. If he's still dangerous, you don't call him because a show said so. Honor does not mean access. You can give a man weight from a long way away. Pray his name. Get a counselor in the room before you get your father in the room.
 
@@ -190,6 +190,10 @@ WES: So put a day on it. Out loud. I already promised the listener a day and an 
 
 JONATHON: Wednesday night. Tomorrow. Seven-thirty, after the kids are down. I'm going to sit in the truck in the driveway, because I'm not doing the first one in the house where Ruby can hear it. I will ask what his dad was like. I won't bring up the lamp. I won't give the speech I've been writing since I was nine. Then I will shut up the way you did with your mom.
 
+WES: Can I ask you something hard? If he says he'll let you go, will you actually say not yet, or does the speech come out?
+
+JONATHON: Not yet. That's the line. If the speech comes out, I hung up on myself.
+
 WES: Did you tell Dani, or were you going to surprise her with a man sitting in a dark truck?
 
 JONATHON: I told her last night. She said, "Do you want me in the truck?" I said no. She said, "Okay. I'll leave the porch light on." We're in the driveway. The porch light is twenty feet away. I knew what she meant.
@@ -216,12 +220,12 @@ JONATHON: If your dad is gone, ask somebody who knew him. An uncle, an aunt, his
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry out of here. Honor is giving him his weight. Not a halo, and not nothing.
+WES: Carry this. Honor is giving him his weight. Not a halo, and not nothing.
 
 JONATHON: And if he has been the one dialing for twenty-eight years, somebody else can pick up the phone.
 
 WES: Friday I'll tell you whether he made the call. Until then: one question, one day, one time.
 
-JONATHON: Then go make the call, and tell us how it went at walksteadfast.com, and find us everywhere at @steadfastwalk.
+JONATHON: Go make the call, then tell us at walksteadfast.com, and find us at @steadfastwalk.
 
 [STING 2s]

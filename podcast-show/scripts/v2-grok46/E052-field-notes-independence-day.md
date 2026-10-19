@@ -5,9 +5,9 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm |
-| Spoken words | 1,986 (about 13:14 at 150 wpm, before laughs and pauses) |
+| Spoken words | 1,946 (about 12:58 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 25 lines (53% of words). JONATHON 24 lines (47% of words), 2 under 12 words (8.3%) |
+| Line balance | WES 27 lines (50% of words). JONATHON 27 lines (50% of words), 3 under 12 words (11.1%) |
 | Focus mark | Work for God's Pay |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Galatians 5:1. Board only: Joshua 4:6-7 |
 | Board cues | 4 (none repeats spoken words) |
@@ -66,7 +66,7 @@ JONATHON: I keep seeing Ruby's card for my father, half done on the counter. She
 
 ## SEGMENT 3 · The Word
 
-WES: Galatians five, verse one. A holiday week is a good week to read it without a flag on it.
+WES: Galatians five, verse one. A holiday week is a good week to read it without a flag on it. You want to read it?
 
 JONATHON: "It is for freedom that Christ has set us free. Stand firm, then, and do not let yourselves be burdened again by a yoke of slavery."
 
@@ -79,7 +79,7 @@ JONATHON: I pick it up when I say soon to a girl with a marker. I pick it up whe
 
 ## SEGMENT 4 · The porch prayer
 
-WES: Last few minutes. Tool is the porch prayer. Alone if you must. Out loud. Thank God for one concrete thing. Name one person. Put one thing down you can't fix. If a neighbor light comes on, finish anyway. If you can't pray with your wife yet, don't lie about that. Tell the truth and go to the porch. The crack can stay a crack while you still open your mouth.
+WES: Last few minutes. Tool is the porch prayer. Are you actually going to the porch, or saying soon? Alone if you must. Out loud. Thank God for one concrete thing. Name one person. Put one thing down you can't fix. If a neighbor light comes on, finish anyway. If you can't pray with your wife yet, don't lie about that. Tell the truth and go to the porch. The crack can stay a crack while you still open your mouth.
 
 JONATHON: What stuck. Bud is mostly gone. Theo still catches it in the car. The first text got sent. What isn't stuck is the card on the counter. I won't call that a season review win. I will call it the yoke I can see.
 
@@ -95,7 +95,6 @@ JONATHON: I will pour coffee again if I've got to. I already got a name. I don't
 
 WES: I asked for the day to go good and heard how cheap it sounded. I asked again. Asking again is allowed. Asking again isn't the same as decorating. I want the second ask to be slower. That's the whole practice.
 
-WES: I asked for the day to go good and heard how cheap it sounded. I asked again. Asking again is allowed. Asking again isn't the same as decorating. I want the second ask to be slower. That's the whole practice.
 
 JONATHON: If freedom means anything this week, I'll either finish the card with her or tell her why we wait, in words a seven-year-old can stand. I won't say soon again. Soon is how I stay enslaved to a maybe.
 
@@ -105,37 +104,51 @@ JONATHON: What stuck. Bud is mostly gone. Theo still catches it in the car. The 
 
 ## SEGMENT · Sitting with it
 
-WES: I've watched men collect Fourth stories like this and never sit on a porch. Don't be that man this week. Thank God for one concrete thing. Name one person. Put one thing down. Then tell one person you did, because a secret prayer turns back into a mood by Thursday.
+WES: I keep wanting to send a man home with fireworks and call it freedom. Freedom isn't a day off.
 
-JONATHON: I'm the man who collects stories. I've got a notes app and a half-done card. The only ones that count are the ones that got a driveway and a name on an eighty-two-year-old's phone.
+JONATHON: Wait, back up. Are you talking about me saying soon, or the guy who can't pray with his wife yet?
 
-WES: I want the listener who thinks this doesn't apply because his house is quieter, or he can't pray with his wife yet. Then go to the porch. Quiet isn't settled. You already know that if you've sat through a polite holiday and called it peace.
+WES: Both. You have a half-done card. Are you finishing it with her, or saying soon again?
 
-JONATHON: My house can be loud and still be a cease-fire. Volume isn't the test. The test is whether I stop saying soon, not whether I can tell you about a porch light.
+JONATHON: I won't say soon. Finish the card or tell her why we wait, in words a seven-year-old can stand. Can I ask you something hard?
 
-WES: I'll check the porch on Friday, which is the only reason I trust myself. The crack with my wife can stay a crack while I still open my mouth. A public calendar is a kind of mercy for a man who likes his recliner and likes to call the recliner wisdom.
+WES: Go.
 
-JONATHON: I'll hold you to the second ask, and I want somebody holding me to the card. That's why I say the yoke out loud even when it makes me look late. Looking late is better than looking free and being dug into soon.
+JONATHON: Are you rushing the end of a sentence, or sitting on the porch and putting one thing down you can't fix?
 
-WES: A steadfast man does the small thing while it's still small. For me that's not rushing the end. For you that's not saying soon to a girl with a marker. We forget it by Wednesday and start waiting to feel ready.
+WES: [beat] The porch. Thank God for one concrete thing. Name one person. Put one thing down. The crack can stay a crack while I still open my mouth. What are you actually putting down?
 
-JONATHON: I forget it by Tuesday afternoon. Ruby doesn't. She asks every few days. She has a better memory for what I said I'd do than any review I've ever run.
+JONATHON: The card on the counter. That's the yoke I can see. Bud is mostly gone. The first text got sent. If I pick three I'll do none. One honest sentence.
 
-WES: If this feels like too many stories, pick one. One porch. One card. One slower end. That's enough weight for a holiday weekend.
+WES: That's fair, but— no, don't pick up the old yoke because a holiday made you lonely.
 
-JONATHON: I'll pick the card. If I pick three I'll do none. One honest sentence to a seven-year-old is how a man like me gets free of his own notes app.
+JONATHON: [laughs] I pick it up when I want a work-call face for a prayer. Dani thought it was a work call. Then she said oh. Will you stop me if I come back with soon?
 
-WES: I've got a habit of saving the true sentence for a better room. There is no better room. The porch is the room. The truck with Dani knocking is the room. The back porch in New Braunfels is the room. Say it there.
+WES: I'll stop you. You stop me if I start a sentence to the youngest without his name. Did you move the truck. I still do that. The missing name is the old yoke, small and ordinary.
 
-JONATHON: I've rehearsed in better rooms my whole adult life. The rehearsal is how I stay safe. Dani thought it was a work call. Then she said oh. That's a kind of freedom. Not being the only adult in the sentence.
+JONATHON: No, hold on. You've got a habit of asking for the day to go good. That sounded cheap even to you. Did you ask again slower?
 
-WES: Some of you will try to make this spiritual so you don't have to be specific. Prayer is good. Three parts out loud is still required. Don't baptize delay and call it discernment. Freedom isn't a day off. Freedom isn't picking up the old yoke because a holiday made you lonely.
+WES: [laughs] I asked again. Asking again is allowed. Asking again isn't decorating. I want the second ask to be slower. Are you standing firm in a driveway, or reaching for a booth?
 
-JONATHON: I've baptized delay. I've called it being careful. Careful is sometimes fear with a pressed shirt. Soon is a pressed shirt. Finish the card or tell the truth. That's the road.
+JONATHON: Driveway. I already got a name. I don't need to turn eighty-two into a speech. Freedom is not being the only adult in the sentence.
 
-WES: The man who says he'll start after the holiday is lying to himself the same way I did asking for the day to go good. There is always another holiday. Sit on the porch inside this one, or you never will.
+WES: Good. Sit on the porch. Don't post it. Don't wear a flag as a personality. A chair and a sentence are enough.
 
-JONATHON: HVAC sales doesn't hand you a quiet Fourth. If I wait for one I'll still be waiting when Theo has a license. I've got to put the card on a day that already has fireworks.
+JONATHON: Then I put the card on a day that already has fireworks. Does that sound like a quota?
+
+WES: [laughs] It sounds like a man who knows his calendar. Stand firm then. Then is after you've been set free.
+
+JONATHON: What are you picking, for real?
+
+WES: The porch prayer. Three parts. Out loud. If a neighbor light comes on, finish anyway.
+
+JONATHON: The card. Or the truth about waiting. That's the whole takeaway. Freedom is a porch and a sentence you don't rush. Not a yoke you pick back up.
+
+WES: Proud, said to two sons. A couch that lost its feet. I won't pick up a matching ceremony to fix a wound. I still can't pray out loud with my wife. That crack is still a crack. I'm not closing it for a holiday. I heard myself ask for the day to go good, and I asked again, because good is a mush word and I was rushing the end. The second ask has to be slower. That's the whole practice I actually trust this weekend.
+
+JONATHON: I pick up the yoke when I say soon to a girl with a marker. I pick it up when I want a work-call face for a prayer. I'll pour coffee again if I've got to. I already got a name. I don't need to turn eighty-two into a speech. I need to stand firm when I want to pick up soon. Theo still catches bud in the car. That's the yoke I can see, small and ordinary.
+
+---
 
 ## CLOSE (word for word)
 

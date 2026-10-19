@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,948 spoken words, about 19:39). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,946 spoken words, about 19:38). Re-time them against the final edit before publishing.
 
 ---
 
@@ -48,7 +48,7 @@ Christian men podcast, Walk Steadfast, biblical manhood, Genesis 1:27, image of 
 | 13:50 | Pushback | Why a sentence at all? Kids are already writing theirs. |
 | 16:02 | What we actually did | The sixteen-year-old. Next bath night. "Are you tired?" |
 | 17:54 | This week's challenge | Write the one you've been living. Tell one man. Ask her. |
-| 19:05 | Close | Read yours before your kids finish it. Friday: what she said. |
+| 19:08 | Close | Read yours before your kids finish it. Friday: what she said. |
 
 ---
 

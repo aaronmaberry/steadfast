@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,199 spoken words, about 14:40). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,209 spoken words, about 14:44). Re-time them against the final edit before publishing.
 
 ---
 
@@ -44,7 +44,7 @@ Christian men podcast, Field Notes, Walk Steadfast, phone basket, Luke 16:10, fa
 | 08:05 | The Word | Luke 16:10. The meal and the text are the little thing. |
 | 09:05 | From the table | How do I start if I've never been the spiritual one? Eleven words. Mark at lunch. |
 | 12:32 | The phone basket | By the door. Yours first. A cord in the basket. The number that may ring. |
-| 14:08 | Close | Second try counts. Ask about her Tuesday. Tuesday is the sentence. |
+| 14:14 | Close | Second try counts. Ask about her Tuesday. Tuesday is the sentence. |
 
 ---
 

@@ -5,7 +5,7 @@ Walk Steadfast · launch episode · script v2 (kickoff rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 32 min at 150 wpm (launch exception: 4,500-5,250 spoken words) |
-| Spoken words | 4,968 (about 33:07 at 150 wpm, before laughs and pauses) |
+| Spoken words | 4,965 (about 33:06 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 99 lines (51% of words). JONATHON 92 lines (49% of words), 0 under 12 words (0.0%) |
 | Focus mark | Stop Waiting |
@@ -354,7 +354,7 @@ WES: We'll come back to it.
 
 ## SEGMENT 6b · Who else is in the chair
 
-WES: We've got about twelve minutes. Before we get to what we actually did, I want the man who thinks this isn't his story.
+WES: We've got about twelve minutes. Before we get to what we actually did, who still thinks this isn't his story? Because I can hear him folding his arms.
 
 JONATHON: Okay. Third thing. This is for the guy who's listening and going, I don't have a 1604, because nobody's at my house. The twenty-two-year-old in an apartment. No wife, no kids. What's his Tuesday?
 
@@ -448,7 +448,7 @@ JONATHON: And if you're the twenty-two-year-old, don't wait until you have a tab
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry out of here. You don't become a man someday. You put something down on a Tuesday.
+WES: Carry this. You don't become a man someday. You put something down on a Tuesday.
 
 JONATHON: And whatever your 1604 is, take the direct route home. The highlight can wait.
 

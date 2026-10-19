@@ -5,9 +5,9 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,849 (about 19:00 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,898 (about 19:19 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 33 lines (54% of words). JONATHON 29 lines (46% of words), 1 under 12 words (3.4%) |
+| Line balance | WES 33 lines (53% of words). JONATHON 29 lines (47% of words), 1 under 12 words (3.4%) |
 | Focus mark | Go First |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Genesis 2:24. Board only: Genesis 12:1 |
 | Board cues | 4 (none repeats spoken words) |
@@ -46,9 +46,9 @@ WES: Let's take the next few minutes on Saturday, because the paper came off the
 JONATHON: He ate four and put the rest in the truck's visor. Yeah, and—at four-ten he said he was going to the lake with the guys.
 WES: At four-ten: "I'm going to the lake with the guys." Not a question. I stood in the driveway and waved. Two honks. My wife from the porch: "Wes. Come inside."
 
-JONATHON: She went inside so you could leave. That's what you said your mom did with the Buick. You just lived it from the other side of the mailbox, and you didn't like how long it took to put your hand down.
+JONATHON: She went inside so you could leave. That's what you said your mom did with the Buick. You just lived it from the other side of the mailbox. Did you like how long it took to put your hand down?
 
-WES: I understood the screen door. She went inside so I could leave. I've been the man in the yard for twelve Saturdays, and I wanted a thirteenth without saying so. The truck is paid in full. The paper lives in the visor now. Thursday he has a ballgame in Kerrville with three buddies, school night, curfew eleven. My wife is taking my phone at nine and putting it in her purse.
+WES: I didn't. I understood the screen door. She went inside so I could leave. I've been the man in the yard for twelve Saturdays, and I wanted a thirteenth without saying so. The truck is paid in full. The paper lives in the visor now. Thursday he has a ballgame in Kerrville with three buddies, school night, curfew eleven. My wife is taking my phone at nine and putting it in her purse.
 JONATHON: [beat] Your wife writing ten fifty-nine and putting it in her purse. Stay there. She said she'll be in the driveway if you hide.
 WES: She said I will be in the driveway at ten fifty-nine if she does not. I laughed when she said it, and then I was grateful, because I know myself. I will invent a reason to stand in gravel if nobody takes the phone. Leaving him also means leaving that version of me, the inspector in the yard, and I'm not good at it yet.
 
@@ -58,11 +58,11 @@ WES: And then she said the sentence you have been avoiding since you stopped bei
 
 JONATHON: She said, "I don't know what you need from me anymore. I just don't know what I'm for." I said, "Mom, I don't need you for anything. I just want you." She said, "Well, that's nice, but what do I DO?" Then she got the pot pie.
 WES: Yeah, and—what do I DO? Then she got the pot pie. I'm with you. You didn't have a better answer in the moment.
-JONATHON: I didn't have a better answer in the moment, and I hated that, because I had driven three and a half hours to be a son and I still wanted a job to hand her.
+JONATHON: I didn't have a better answer in the moment, and I hated that, because I had driven three and a half hours to be a son and I still wanted a job to hand her. Did "I just want you" land, or did the pot pie end it?
 
 [BOARD: Want is not a work order.]
 
-WES: You told her you wanted her. That's the leave without the slam. You didn't make her small. You also didn't pick up the capacitor again. Look around your house this week. If the only way you know how to love somebody is to need them for a task, you will keep inventing tasks.
+WES: It landed some. The pot pie ended the rest. You told her you wanted her. That's the leave without the slam. You didn't make her small. You also didn't pick up the capacitor again. Look around your house this week. If the only way you know how to love somebody is to need them for a task, you will keep inventing tasks.
 JONATHON: If you need her for a task, you'll keep inventing tasks. Hold on. That's why you're bringing tape to an apartment visit.
 WES: My mom measured the china cabinet. Fifty-one inches. We visit the apartments in May. I'm bringing tape anyway. I keep wanting a job in that visit so I don't have to just be a son in a hallway that smells like somebody else's cooking. I'm going to be a son anyway.
 
@@ -102,9 +102,9 @@ JONATHON: "That is why a man leaves his father and mother and is united to his w
 
 WES: Leave, then unite. Not slam, then ghost. Leave means the first loyalty moves. Your wife becomes the first call. Your house becomes the first table. Your mom still gets honor. She does not get the vote. Jesus quotes this later, almost word for word, when men are looking for a loophole on marriage. He does not treat leaving as optional extra credit for intense families. He treats it as how a house gets made. If your house is still waiting on a parent to approve the week, you have a roommate with extra power, not a marriage.
 
-JONATHON: Here's my problem. Leave sounds like the lamp. It sounds like a truck at eight in the morning and a boy in cleats. I've spent my adult life trying not to be the man who leaves. So I stayed. I stayed in the dealership chair. I stayed ten minutes away. I stayed on the phone when the AC man talked past her. Staying felt like the opposite of my dad. It was just a different way to not become a husband.
+JONATHON: Here's my problem. Leave sounds like the lamp. It sounds like a truck at eight in the morning and a boy in cleats. I've spent my adult life trying not to be the man who leaves. So I stayed. I stayed in the dealership chair. I stayed ten minutes away. I stayed on the phone when the AC man talked past her. So which is it? Stay and never become a husband, or leave without a slam?
 
-WES: Leaving in this verse isn't abandonment. Abandonment is what your dad did with a lamp. Leaving is what my mom did with a screen door. She let me go and she didn't stop being my mother. She just stopped being my manager. You can hold both of those pictures without pretending they're the same.
+WES: Leave without a slam. Leaving in this verse isn't abandonment. Abandonment is what your dad did with a lamp. Leaving is what my mom did with a screen door. She let me go and she didn't stop being my mother. She just stopped being my manager. You can hold both of those pictures without pretending they're the same.
 
 [BOARD: Genesis 12:1 (NIV) · "Go from your country, your people and your father’s household to the land I will show you."]
 
@@ -116,11 +116,11 @@ WES: Husband first on an anniversary. Son on a Sunday with a pot pie. You don't 
 
 ## SEGMENT 4 · Pushback
 
-WES: Jonathon, push. The men who think we just told them to ice out their parents are already in the car.
+WES: Jonathon, push. The men who think we just told them to ice out their parents are already in the car. Go ahead.
 
-JONATHON: The guy whose parents are paying the rent. "I cannot leave. They hold the lease." Okay. Then leave in the ways you can. First call. First table. First loyalty. You may still sleep in their back room. You don't have to give them the vote on your marriage. That's leave without a U-Haul.
+JONATHON: Yeah, here's my problem. The guy whose parents are paying the rent. "I cannot leave. They hold the lease." Okay. Then leave in the ways you can. First call. First table. First loyalty. You may still sleep in their back room. You don't have to give them the vote on your marriage. That's leave without a U-Haul. Wait, back up. Are we telling a man on a lease he's failed, or that loyalty can move before the U-Haul does?
 
-WES: The guy who slammed it already. Has not called in five years. Thinks this episode isn't for him because he already left.
+WES: Loyalty can move first. The guy who slammed it already. Has not called in five years. Thinks this isn't for him because he already left.
 
 JONATHON: You left. You also slammed. The verse wanted one of those, not both. Call. Not to move back in. To say I'm sorry I made you small on my way out. Then stay a son from a distance. If they're dangerous, you already know that exception. Honor without access. We said that when we talked about fathers, and it holds for a mother who harms.
 
@@ -156,9 +156,9 @@ WES: Good. The leave isn't only from parents. It's from the version of you that 
 
 ## SEGMENT 6 · This week's challenge
 
-WES: So here is your challenge. If you have a door you have not walked through, walk through it without slamming it. One leave. Tell your mom thank you, no, and I love you, in that order, about one real thing. Not a speech. One thing. Practice it once in the truck so the first time she hears it's not the first time you have said it out loud. A sentence you have never rehearsed will turn back into a job if you get scared.
+WES: So here is your challenge. If you have a door you have not walked through, walk through it without slamming it. One leave. Tell your mom thank you, no, and I love you, in that order, about one real thing. Not a speech. One thing. Practice it once in the truck so the first time she hears it's not the first time you have said it out loud. Can I ask you something hard? Will you say those three, or send Dani to be the no again?
 
-JONATHON: Married men, don't send your wife to say it. Say it. Then tell her you said it. Single men, if you still live at home, leave in the first-call way this week. News goes to the person you're building a life with, or to a brother, before it goes to your mom. If your parents have died, write the sentence you never got to say and read it to one man.
+JONATHON: I'll say them. I won't send her. Married men, don't send your wife to say it. Then tell her you said it. Single men, if you still live at home, leave in the first-call way this week. News goes to the person you're building a life with, or to a brother, before it goes to your mom. If your parents have died, write the sentence you never got to say and read it to one man.
 
 WES: If you're the parent, practice the screen door. Wave. Go inside. Don't add a condition in the yard. The paper is in the visor. Let it stay there. I almost added a new rule about gas money while he was folding the paper. I caught it. Catching it's the whole assignment some weeks.
 
@@ -168,12 +168,12 @@ JONATHON: And if you have already slammed it, make the hard right call. Not to m
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry out of here. Leave means the first loyalty moves. It does not mean you make them small on your way out.
+WES: Carry this. Leave means the first loyalty moves. It does not mean you make them small on your way out.
 
 JONATHON: And you can tell a mother you want her without handing her a capacitor. Want is enough for a Sunday.
 
 WES: Friday I'll tell you whether I stayed in the chair, and whether the door at my mom's house closes quiet. Until then: thank you, no, I love you.
 
-JONATHON: Then go say those three honest sentences, and tell us how it went at walksteadfast.com, and find us everywhere at @steadfastwalk.
+JONATHON: Go say those three honest sentences, then tell us at walksteadfast.com, and find us at @steadfastwalk.
 
 [STING 2s]

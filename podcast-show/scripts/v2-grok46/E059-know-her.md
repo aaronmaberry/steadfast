@@ -5,9 +5,9 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,905 (about 19:22 at 150 wpm, before laughs and pauses) |
+| Spoken words | 3,061 (about 20:24 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 43 lines (52% of words). JONATHON 38 lines (48% of words), 1 under 12 words (2.6%) |
+| Line balance | WES 47 lines (53% of words). JONATHON 41 lines (47% of words), 2 under 12 words (4.9%) |
 | Focus mark | Go First |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Proverbs 20:5. Board only: Proverbs 18:13; 1 Peter 3:7 |
 | Board cues | 4 |
@@ -50,7 +50,7 @@ JONATHON: "What's something about you I'd get wrong if somebody asked me?" That'
 
 WES: She said, "You'd say I like the beach." Twenty-two summers. Same week in June. Same rental three times. She books it. She packs the cooler. She finds the place with the porch. Then she said, "I like that you like it."
 
-JONATHON: That's wild, and it's also a report card. She has been running your vacation so you can feel like a man who takes his family to the water.
+JONATHON: Wait, she's been running your vacation so you can feel like a man who takes his family to the water? That's a report card, not a punch line.
 
 WES: She likes mountains. Cool air in the morning. Somewhere she needs a jacket. She said so in 2004. Our daughter was two. I said the drive was too long. Fourteen hours. I closed it. I've been packing a cooler for a beach she never asked for.
 
@@ -72,7 +72,7 @@ WES: Your turn. Dani. And I want the H-E-B, not the cleaned-up version.
 
 JONATHON: Thursday after the kids were down I asked, "What's something you've been doing lately that I don't know about?" She said, "I sing in the car." Since the Fourth, every drive home from the hospital. Scales, then the audition piece. She won't tell me which. She said I'd look it up and listen forty times, and she's right.
 
-WES: She pulls into a parking lot to finish.
+WES: She pulls into a parking lot to finish. H-E-B, or somewhere she can hide?
 
 JONATHON: H-E-B. Usually twice through. Because if Ruby hears her, it's real, and if it's real and she doesn't get in, Ruby will know her mom tried something and didn't make it. She emailed the director herself. She has an August slot. She talked to her charge nurse about Tuesdays if she gets in. Then she said, "Don't come to the audition. Ask me how it went."
 
@@ -82,7 +82,7 @@ JONATHON: That's my job. And here's the part I've got to say. When she said she 
 
 [BOARD: Fear will name a gift as a threat.]
 
-WES: You're going to tell her that.
+WES: You're going to tell her that, or are you going to keep it as a confession she never hears?
 
 JONATHON: I'm going to tell her that. Not as a speech. As a confession. "Part of me heard that you were leaving, and I'm sorry." Then I've got to be okay with Tuesdays out loud, not quiet. Quiet is how I make her carry my fear.
 
@@ -108,7 +108,7 @@ JONATHON: I kicked dirt in with jokes. "You're fine. You're always fine." Dani i
 
 ## SEGMENT 4 · The Word
 
-WES: I've got a little under ten minutes, and I want the Bible open. Proverbs twenty, verse five.
+WES: I've got a little under ten minutes, and I want the Bible open. Proverbs twenty, verse five. You want to read it?
 
 JONATHON: "The purposes of a person’s heart are deep waters, but one who has insight draws them out."
 
@@ -130,7 +130,7 @@ WES: If your prayers feel like a blank ceiling, start with the woman in the othe
 
 ## SEGMENT 5 · What else
 
-WES: Last few minutes on what I'm actually doing. I'm going back to the porch. "What else have you told me that I didn't hear?" I'm going to write what she says on a card for my wallet. I'm not booking mountains yet. I'm listening first, because I booked a beach for twenty-two years.
+WES: Last few minutes on what I'm actually doing. I'm going back to the porch. "What else have you told me that I didn't hear?" I'm going to write what she says on a card for my wallet. I'm not booking mountains yet. I'm listening first, because I booked a beach for twenty-two years. What about you?
 
 JONATHON: I'm telling Dani the leaving sentence. Then I'm asking once a week about the song, and I won't drive by the H-E-B. Courting her I knew the radio. Knowing her now means I don't steal the piece.
 
@@ -164,7 +164,7 @@ WES: I want two more rooms before we go, because a man will hear the beach story
 
 JONATHON: I give Dani the number. "It was fine. We moved two counties." I don't tell her the VP made me feel twelve. Then I wonder why she doesn't know me. She can't draw water I won't put in the well.
 
-WES: Second room: the trip. I've been the man who books what he likes and calls it "for the family." Rockport was for me. The porch was for me. She made it gentle so I could keep being the man who takes them to the water. That's not partnership. That's a performance she has been producing.
+WES: Second room: the trip. I've been the man who books what he likes and calls it "for the family." Rockport was for me. The porch was for me. She made it gentle so I could keep being the man who takes them to the water. That's not partnership. That's a performance she has been producing. You hear that, or are you still calling Tuesdays a hobby she can drop?
 
 JONATHON: Dani produces Tuesdays for me. Sleep, kids, the house, then work. If I don't ask what the singing costs her, I will treat the audition like a hobby she can drop when the baby is sick. It's not a hobby. It's a woman coming back to life.
 
@@ -208,17 +208,31 @@ WES: I've been the man who asks in the wrong room and then says she never talks.
 
 JONATHON: Dani's room is the sink after lasagna. That's where she told me I never asked how she was after Theo. Not how the baby was. How she was. I had been asking the wrong well for a year.
 
-WES: Then that's your map. The sink. The porch. The parking lot. The walk. Go there. Drop the bucket. Wait. Draw. Don't yell. Don't "What for?" Don't book the beach again unless she asks for the beach.
+WES: Then that's your map. The sink. The porch. The parking lot. The walk. Go there. Drop the bucket. Wait. Draw. Don't yell. Don't "What for?" Don't book the beach again unless she asks for the beach. What are you actually doing this week?
 
-JONATHON: I'll ask once a week about the song. I'll tell her the leaving sentence. I won't drive by the store. If I fail, I'll say I failed, not that she got quiet.
+JONATHON: Wait, back up. Are you asking what else you didn't hear, or booking mountains so you can feel like you listened?
 
-WES: I'll ask what else I didn't hear. I'll write it on a card. I'll sit with it a day. If she names a degree, I won't say "What for?" I will say "Tell me more," and I will mean it, even if my chest wants a number.
+WES: Asking. Card in the wallet. Sit with it a day. I'm not booking yet. I booked a beach for twenty-two years.
 
-JONATHON: And if she names something small, treat the small thing like it matters. TV off at supper isn't cute. A day's notice before company isn't cute. A phone call instead of a letter K isn't cute. Those are the little wells. If you yawn at those, she won't hand you the real one.
+JONATHON: Can I ask you something hard?
 
-WES: I've yawned at those. I called them preferences. They were her telling me how to live with her. Last few minutes I want that on the table. The little ones are the training for the real one. If you skip them, you have not earned the mountains.
+WES: Go.
 
-JONATHON: So this week I won't skip the little one. I will ask about the song. I will tell her the leaving sentence. I won't drive by the store. And I will call her instead of sending a letter K at least once, because nine years of that's long enough.
+JONATHON: If she names a degree, are you going to say "What for?" with nicer words, or "Tell me more" and mean it even if your chest wants a number?
+
+WES: [beat] Tell me more. I mean it. I've yawned at the little ones. I called them preferences. They were her telling me how to live with her. The little ones are the training for the real one. If you skip them, you have not earned the mountains. What are you picking, for real?
+
+JONATHON: The leaving sentence. Then the song once a week. I won't drive by the store. If I fail, I'll say I failed, not that she got quiet. And I will call her instead of sending a letter K at least once, because nine years of that's long enough.
+
+WES: That's fair, but— don't stack three so you can miss two. Pick one.
+
+JONATHON: [laughs] Leaving sentence. That's the one. No, hold on. You've got a habit of packing a cooler and calling it love. Are you actually going to her porch, or asking in the truck because the truck is yours?
+
+WES: [laughs] Porch. Her room. The truck is sometimes mine. I need to go to her room. TV off at supper isn't cute. A day's notice before company isn't cute. A phone call instead of a letter K isn't cute. Those are the little wells. If you yawn at those, she won't hand you the real one.
+
+JONATHON: Then I say the leaving sentence at a sink that already has a pan. Does that sound like a quota?
+
+WES: It sounds like a man who knows the room. Ask in the room where she speaks, or you never will. That's the whole takeaway. Knowing her is a job. Memory isn't the work.
 
 ---
 

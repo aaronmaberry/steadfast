@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,802 spoken words, about 18:41). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,800 spoken words, about 18:40). Re-time them against the final edit before publishing.
 
 ---
 
@@ -34,13 +34,13 @@ Christian men podcast, mentorship, Proverbs 13:20, Mr. Abernathy, Walk Steadfast
 |---|---|---|
 | 00:00 | Open | Open. |
 | 00:54 | The green lamp | The green lamp. |
-| 02:58 | The barn and a receipt | The barn and a receipt. |
-| 05:53 | The Word | The Word. |
-| 07:09 | The men ahead | The men ahead. |
-| 09:10 | Pushback | Pushback. |
-| 10:46 | This week's challenge | This week's challenge. |
-| 14:33 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
-| 18:15 | Close | Close. |
+| 04:12 | The barn and a receipt | The barn and a receipt. |
+| 07:07 | The Word | The Word. |
+| 08:23 | The men ahead | The men ahead. |
+| 10:24 | Pushback | Pushback. |
+| 12:00 | This week's challenge | This week's challenge. |
+| 16:00 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
+| 18:16 | Close | Close. |
 
 ---
 

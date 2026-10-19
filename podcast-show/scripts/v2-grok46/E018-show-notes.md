@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (1,906 spoken words, about 12:42). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (1,935 spoken words, about 12:54). Re-time them against the final edit before publishing.
 
 ---
 
@@ -36,10 +36,10 @@ Christian men podcast, Field Notes, Proverbs 12:15, Walk Steadfast, skip the hou
 |---|---|---|
 | 00:00 | Open | The fan stopped clicking. |
 | 00:51 | Check the box | Donuts. Deal. Ruby at the window. A different color. |
-| 05:08 | From the table | She says I run the room. Now what? |
-| 08:05 | The Word | Proverbs 12:15. The wise listen. |
-| 09:56 | Ask one person | Ask, write, sit, match. Car-care tomorrow. |
-| 12:16 | Close | Sit with it a day. |
+| 05:17 | From the table | She says I run the room. Now what? |
+| 08:14 | The Word | Proverbs 12:15. The wise listen. |
+| 10:05 | Ask one person | Ask, write, sit, match. Car-care tomorrow. |
+| 12:29 | Close | Sit with it a day. |
 
 ---
 

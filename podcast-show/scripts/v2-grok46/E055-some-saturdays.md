@@ -5,9 +5,9 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,800 (about 18:40 at 150 wpm, before laughs and pauses) |
+| Spoken words | 3,170 (about 21:08 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 46 lines (52% of words). JONATHON 39 lines (48% of words), 2 under 12 words (5.1%) |
+| Line balance | WES 53 lines (50% of words). JONATHON 47 lines (50% of words), 4 under 12 words (8.5%) |
 | Focus mark | Work for God's Pay |
 | Scripture (NIV, verified 2026-10-19) | Spoken: 2 Corinthians 5:15. Board only: 2 Corinthians 5:7; Galatians 6:9 |
 | Board cues | 5 |
@@ -48,11 +48,11 @@ WES: Pull up a chair. Let's take the next few minutes on that supper table, beca
 
 JONATHON: It's VBS week at a church down the road. Ruby's in it, Theo's in the little kids' room. This year's big song has the word fire in it about forty times, plus hand motions over chicken like the table is a stage.
 
-WES: Then she stopped and asked you the question you used as the hook.
+WES: Then she stopped. What did she actually ask, the version that made Dani put the fork down?
 
 JONATHON: She said, "Daddy, are you on fire for Jesus?" I said "Some days," because it was true and I was tired. She said, "Which days?" Dani put her fork down. I said, "Eat your chicken." That's my mom's line when she didn't have an answer and needed the room to move on.
 
-WES: So you used your mother's dodge on a seven-year-old who asked you a real question.
+WES: Wait, back up. You used your mother's dodge on a seven-year-old who asked you a real question?
 
 JONATHON: I knew it while I was doing it. Later Dani said, "I wanted to hear your answer." I said I didn't have one. She said, "Mine's some days too." She's a nurse on nights. On fire at four in the morning holding somebody's baby, and flat at four in the afternoon trying to sleep through Theo. I thought she was the steady one.
 
@@ -61,6 +61,10 @@ WES: If you live with somebody who looks solid, they may be counting some days t
 JONATHON: Here's the part I'm not proud of. Thursday my VP said, "Great idea, Jonathon," in front of the whole company, and I felt it. Warm. Big. Same feeling I got in a church parking lot at twenty-nine. Wired to the same place in me. I can't always tell them apart.
 
 [BOARD: A feeling is not a heading.]
+
+WES: Same chest as the parking lot? You're sure you can't tell them apart?
+
+JONATHON: I'm sure I like both. That's the problem.
 
 WES: My quiet report fits. The truck, second week, noon every day. Rangers and the heat. Some days we don't say ten words. I've caught myself thinking this isn't doing anything.
 
@@ -96,7 +100,7 @@ JONATHON: That's my answer to "Which days?" The flat year was when it took. I wa
 
 [BOARD: 2 Corinthians 5:7 (NIV) · "For we live by faith, not by sight."]
 
-WES: If you've got a flat year right now, hear that. The absence of the feeling is not the absence of God. It might be the year it takes.
+WES: If you've got a flat year right now, hear that. The absence of the feeling is not the absence of God. It might be the year it takes. Do you still want the parking lot back, or are you just checking a battery?
 
 JONATHON: I'll be real with you. I still want the parking lot back. I still check my chest on Sunday like I'm checking a battery. Most Sundays the battery looks fine and empty at the same time. I used to treat that as failure. I'm trying to treat it as ordinary.
 
@@ -114,7 +118,7 @@ JONATHON: And then your wife asked you a question in the truck that the committe
 
 WES: I was about forty-five, coming home from a meeting, and she said, "Where are we going?" I said, "Home." She said, "No. You and me. Our family." I didn't have an answer. Ten years on fire, and I couldn't tell my wife where we were going.
 
-JONATHON: That's wild, because from the outside you looked finished. From the inside you were a man collecting heat.
+JONATHON: Wait, ten years on fire and you couldn't tell her where you were going? That's wild, because from the outside you looked finished. From the inside you were a man collecting heat.
 
 WES: A lot of that fire was for me. Some of it was God. A lot of it was a man who'd been asleep finally feeling useful, and he kept saying yes to anything that gave him the feeling. Supper at home on a Tuesday didn't feed it. So I was gone.
 
@@ -132,11 +136,9 @@ WES: Faithfulness has fruit. The flat year made you home for bath. The fire deca
 
 ## SEGMENT 4 · The Word
 
-WES: I've got a little under ten minutes, and I want the Bible open, because Scripture is colder and better than we are. Second Corinthians five, verse fifteen.
+WES: I've got a little under ten minutes, and I want the Bible open, because Scripture is colder and better than we are. Second Corinthians five, verse fifteen. You want to read it?
 
-JONATHON: Paul's talking about why he keeps going when it costs him. Not a conference. A reason that still works in a jail.
-
-WES: "And he died for all, that those who live should no longer live for themselves but for him who died for them and was raised again."
+JONATHON: "And he died for all, that those who live should no longer live for themselves but for him who died for them and was raised again." Paul's talking about why he keeps going when it costs him. Not a conference. A reason that still works in a jail.
 
 [BOARD: Galatians 6:9 (NIV) · "Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up."]
 
@@ -172,6 +174,10 @@ JONATHON: Virgil. Seventy-seven. I told him I'd been praying for him, and he loo
 
 [BOARD: Show up on the Saturdays that do not sing.]
 
+WES: Twenty-nine years. Did you ask if he likes it because you needed a grown man to say some Saturdays?
+
+JONATHON: Yeah. I needed permission to be flat and still go.
+
 WES: That's your answer to Ruby. Virgil's. Some Saturdays.
 
 JONATHON: That's my answer. Not the hand motions. The notebook.
@@ -196,7 +202,7 @@ JONATHON: Twenty-two. Everybody talks about finding your calling. He's graduatin
 
 WES: You're not going to miss it. It's not hiding. It's already the next thing in front of you. A job you can do well. A church that needs a man on Wednesdays. A grandmother who needs a ride. Do the next thing for Him, then the next. Look back in ten years and you'll see a road.
 
-JONATHON: I'll take the divorced dad. He thought his calling was his family. The shape changed. I'm staying partly unconvinced that "do the next thing" is enough for a man who lost the house.
+JONATHON: I'll take the divorced dad. He thought his calling was his family. The shape changed. I'm staying partly unconvinced that "do the next thing" is enough for a man who lost the house. Do you actually buy that, or are we handing him a deck so we don't have to sit in his grief?
 
 WES: His kids are still his. Every-other-weekend is still fathering. Find one thing this month that has nothing to do with his situation. A crew. A kid at church. A widow's deck. It won't fix it. It'll remind him he's still for something.
 
@@ -216,15 +222,39 @@ WES: I'm not dunking on it. That night was real. The test is Tuesday. What did y
 
 ## SEGMENT 7 · What we're actually doing
 
-WES: Here's what I'm actually doing. The porch prayer. Honest number was three nights out of fourteen. The other eleven I was tired, or the Rangers were on, or I just didn't. This week, every night. Out loud. Feel it or not. Friday I'll tell you how many I made. If it's four, I'll say four. I'm not going to round up on a conversation about not running on feelings.
+WES: Here's what I'm actually doing. The porch prayer. Honest number was three nights out of fourteen. The other eleven I was tired, or the Rangers were on, or I just didn't. This week, every night. Out loud. Feel it or not.
 
-JONATHON: Mine's the crew sheet through December. Last time I signed one Saturday. This week I'm putting my name on every one I can make, including the rotten-board days. And I'm going to tell Ruby about Virgil. A man who's fixed widows' porches every Saturday since before she was born. Some Saturdays he likes it. He goes on all of them. Then she can keep the hand motions, because she's seven, and the hand motions are still a gift.
+JONATHON: Wait, back up. Every night, or the nights you already feel like a man of prayer? Because three out of fourteen is the honest number, and I don't want you rounding in your head before Friday.
 
-WES: This week's challenge. Name one thing God has already put in front of you that you've been waiting to feel like doing. A person, a job, a prayer, a call. Then do it this week without the feeling. Notice afterward whether the feeling showed up. Either way, it counts.
+WES: Every night. Friday I'll tell you how many I made. If it's four, I'll say four. I'm not rounding on a conversation about feelings. What about you? Crew sheet, or a speech about Virgil?
 
-JONATHON: If you're married, on a calm night, ask your wife, "Is there something you've seen me waiting to feel like doing?" Say your guess first. Don't argue with hers. Sit with it a day. If you're single, you need the next thing, not a title. There's a crew somewhere with a Virgil on it who'd love a younger back.
+JONATHON: Crew sheet through December. Last time I signed one Saturday. This week I'm putting my name on every one I can make, including the rotten-board days. Can I ask you something hard?
 
-WES: If you're divorced, find one thing for someone else this month. If you're older and the feeling left, keep going to the table. Somebody younger is watching you show up without it, and that's the lesson he needs most.
+WES: Go.
+
+JONATHON: Are you going to the barn at five-fifteen because you felt it, or because your brother looked at his watch?
+
+WES: [beat] Because he looked at his watch. I went late. Nothing happened. That's most Saturdays if I keep going. I'm done making him feed alone. Are you actually telling Ruby about Virgil, or are you saving it for a better bedtime?
+
+JONATHON: I'm telling her. A man who's fixed widows' porches every Saturday since before she was born. Some Saturdays he likes it. He goes on all of them. Then she can keep the hand motions, because she's seven, and the hand motions are still a gift.
+
+WES: That's fair, but— don't make the hand motions the enemy. They're a gift. The notebook is the engine.
+
+JONATHON: [laughs] I won't dunk on the song. I've already used "eat your chicken" once this week. What are you picking, for real?
+
+WES: Porch. Every night. Name the number Friday. Name one thing God has already put in front of you that you've been waiting to feel like doing. A person, a job, a prayer, a call. Then do it this week without the feeling. Notice afterward whether the feeling showed up. Either way, it counts.
+
+JONATHON: No, hold on. You've got a habit of naming three so you can miss two and still feel deep. Pick one.
+
+WES: [laughs] Porch. That's the one.
+
+JONATHON: If you're married, on a calm night, ask your wife, "Is there something you've seen me waiting to feel like doing?" Say your guess first. Don't argue with hers. Sit with it a day. If you're single, you need the next thing, not a title. There's a crew somewhere with a Virgil on it who'd love a younger back. What are you asking your wife, if she were sitting here?
+
+WES: She'd say the porch, and she'd be half right. The other half is showing up at six when I don't want to. If you're divorced, find one thing for someone else this month. If you're older and the feeling left, keep going to the table. Somebody younger is watching you show up without it, and that's the lesson he needs most.
+
+JONATHON: Then I put the crew sheet on a Tuesday that already has a meeting. Does that sound like I'm making a quota out of a rotten board?
+
+WES: [laughs] It sounds like a man who knows his calendar. Put your name inside the busy, or you never will. That's the whole takeaway. Some Saturdays. The notebook. Go anyway.
 
 ---
 

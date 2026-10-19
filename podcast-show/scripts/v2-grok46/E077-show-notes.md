@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,995 spoken words, about 19:58). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (3,195 spoken words, about 21:18). Re-time them against the final edit before publishing.
 
 ---
 
@@ -35,31 +35,31 @@ Christian men podcast, layoff, Matthew 6:34, identity, Walk Steadfast, work
 |---|---|---|
 | 00:00 | Open | Open |
 | 00:47 | Finish the job | Finish the job |
-| 01:46 | Library clothes | Library clothes |
-| 02:30 | I work same as you | I work same as you |
-| 03:22 | The Word | The Word |
-| 04:23 | Challenge | Challenge |
-| 05:10 | More on a 1 | More on a 1 |
-| 06:08 | More on a 2 | More on a 2 |
-| 06:54 | More on a 3 | More on a 3 |
-| 07:34 | More on a 4 | More on a 4 |
-| 08:09 | More on a 5 | More on a 5 |
-| 08:54 | More on a 6 | More on a 6 |
-| 09:52 | More on a 7 | More on a 7 |
-| 10:38 | More on library 8 | More on library 8 |
-| 11:23 | More on library 9 | More on library 9 |
-| 11:55 | More on library 10 | More on library 10 |
-| 12:35 | More on library 11 | More on library 11 |
-| 13:30 | More on library 12 | More on library 12 |
-| 14:12 | More on library 13 | More on library 13 |
-| 14:52 | More on library 14 | More on library 14 |
-| 15:24 | More on a 15 | More on a 15 |
-| 16:07 | More on a 16 | More on a 16 |
-| 17:01 | More on a 17 | More on a 17 |
-| 17:43 | More on a 18 | More on a 18 |
-| 18:25 | More on a 19 | More on a 19 |
-| 18:57 | More on a 20 | More on a 20 |
-| 19:36 | Close | Close |
+| 01:53 | Library clothes | Library clothes |
+| 02:41 | I work same as you | I work same as you |
+| 03:39 | The Word | The Word |
+| 04:44 | Challenge | Challenge |
+| 05:31 | More on a 1 | More on a 1 |
+| 06:22 | More on a 2 | More on a 2 |
+| 07:08 | More on a 3 | More on a 3 |
+| 07:57 | More on a 4 | More on a 4 |
+| 08:46 | More on a 5 | More on a 5 |
+| 09:34 | More on a 6 | More on a 6 |
+| 10:19 | More on a 7 | More on a 7 |
+| 11:08 | More on library 8 | More on library 8 |
+| 11:55 | More on library 9 | More on library 9 |
+| 12:48 | More on library 10 | More on library 10 |
+| 13:33 | More on library 11 | More on library 11 |
+| 14:18 | More on library 12 | More on library 12 |
+| 15:08 | More on library 13 | More on library 13 |
+| 15:55 | More on library 14 | More on library 14 |
+| 16:38 | More on a 15 | More on a 15 |
+| 17:20 | More on a 16 | More on a 16 |
+| 18:05 | More on a 17 | More on a 17 |
+| 18:43 | More on a 18 | More on a 18 |
+| 19:35 | More on a 19 | More on a 19 |
+| 20:24 | More on a 20 | More on a 20 |
+| 21:01 | Close | Close |
 
 ---
 

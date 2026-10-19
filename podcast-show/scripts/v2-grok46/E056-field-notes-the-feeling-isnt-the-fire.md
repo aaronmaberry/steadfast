@@ -5,9 +5,9 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 2,018 (about 13:27 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,272 (about 15:09 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 32 lines (56% of words). JONATHON 28 lines (44% of words), 0 under 12 words (0.0%) |
+| Line balance | WES 36 lines (56% of words). JONATHON 31 lines (44% of words), 0 under 12 words (0.0%) |
 | Focus mark | Work for God's Pay |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Psalm 37:3. Board only: James 1:22; 2 Corinthians 5:7 |
 | Board cues | 5 |
@@ -50,7 +50,7 @@ JONATHON: Dani had six in her head. I had four. Nobody wins that pool. Which two
 
 WES: Tuesday I fell asleep in the recliner at nine-fifteen with my boots on. My wife put a blanket on me and turned off the lamp. I woke at one and walked down the hall, and I knew I was not going back out. Thursday there was lightning, and I told myself the porch was the point. It wasn't. I could have prayed in the kitchen. I just didn't.
 
-JONATHON: And the forty-second one, because that is the one I will remember longer than the five.
+JONATHON: And the forty-second one, because that is the one I will remember longer than the five. What did you actually say, because I don't trust a man who reports a number and hides the short one?
 
 WES: Monday. I sat down so tired I couldn't put a sentence together. So I said, "Lord, I'm tired. Thank You for the water." That's the whole prayer. Then I went to bed.
 
@@ -66,13 +66,15 @@ JONATHON: And she did not give you the porch back, which is why you look like th
 
 WES: She said, "The guest room ceiling." There's a water stain. Two years. Shaped a little like Oklahoma. I've been going to get in the attic since about the second week. I said, "That's not exactly a calling." She said, "You asked me what you've been waiting to feel like doing." Then she went back to her book.
 
-JONATHON: So Saturday you are going into a July attic on those knees because Oklahoma has been waiting on you.
+JONATHON: Wait, back up. Oklahoma? You've been staring at a state on the ceiling for two years and calling the porch the assignment?
 
 WES: Saturday morning. I'm going up. The attic is one Saturday because she named Oklahoma. The back door is still the job I keep calling Saturday when nobody names it. Those are different lists. I can do an attic and still leave a jamb. And the truck, week three. Monday and Tuesday, Rangers and heat. Wednesday his truck wasn't in the lot. I stood there with a paper sack like a man whose date didn't show. Thursday he was back and said, "Dentist," before I could ask. Then, halfway through the sandwich, he asked if I had kids. I said three. He nodded. He didn't say if he does. I didn't ask.
 
-JONATHON: So she handed you a stain and you already had a door. Do the attic. I will still ask about the hinge. I have a line I keep waiting to feel like writing to my dad. I write Ruby's permission slips the same week and I call that enough. It is not enough. The attic is one Saturday. The sentence is another. I do not get to skip the sentence because I filled out a form.
+JONATHON: So she handed you a stain and you already had a door. Do the attic. I will still ask about the hinge. Are you going to let the attic count as the jamb, or are those actually different lists?
 
-JONATHON: Monday the water. Thursday a question. That's three weeks of knocking, and you still don't know his name the way you want to.
+WES: Different lists. I can do an attic and still leave a door. I'm saying that out loud so you can hold me to it.
+
+JONATHON: Monday the water. Thursday a question. That's three weeks of knocking, and you still don't know his name the way you want to. I have a line I keep waiting to feel like writing to my dad. I write Ruby's permission slips the same week and I call that enough. It is not enough. The attic is one Saturday. The sentence is another. I do not get to skip the sentence because I filled out a form.
 
 WES: I'm still just the man who knocks. That's enough for now, and I can live with it.
 
@@ -84,7 +86,7 @@ WES: Your box. Ruby first, then Dani, and I want the crossed-out line before we'
 
 JONATHON: I told Ruby about Virgil Tuesday at bedtime. Seventy-seven, the notebook, every Saturday since his wife died, and "Some Saturdays." I told her she can keep the hand motions. The song's not wrong. It's just not the whole thing. She thought about that, then she said, "Can I go?"
 
-WES: On the crew. And you said seven is too young for a nail gun, which is true and also not what she asked.
+WES: On the crew. And you said seven is too young for a nail gun, which is true and also not what she asked. What did she actually want?
 
 JONATHON: She said, "I don't want the nail gun. I want to hand him the screws." Because I'd told her he's the screw man. That's not my decision. That's Virgil's. I'm asking him tomorrow, and I'll tell you what he says.
 
@@ -108,7 +110,7 @@ WES: I can guess. I'm not going to say it for you. Look around your house this w
 
 ## SEGMENT 3 · The Word
 
-WES: We're about halfway, and I want one verse, because a man at my Thursday table asked a question that needs Scripture more than it needs our opinions. Psalm thirty-seven, verse three. Jonathon, you've got younger eyes.
+WES: We're about halfway, and I want one verse, because a man at my Thursday table asked a question that needs Scripture more than it needs our opinions. Psalm thirty-seven, verse three. You want to read it?
 
 JONATHON: "Trust in the Lord and do good; dwell in the land and enjoy safe pasture."
 
@@ -130,7 +132,7 @@ WES: Last few minutes on the man who asked. Forty-one. Crop insurance, farmers a
 
 JONATHON: I was this guy for about two years after I came to faith. Called meant preachers. Called meant Africa. Then Dallas, and I felt called to everything for a weekend. Start a ministry. Quit sales. Drive home and I wasn't called to bath time. That's the truth. I felt called to the whole world and I couldn't make it to the tub.
 
-WES: So when the flat year came, you figured you'd missed it.
+WES: So when the flat year came, you figured you'd missed it?
 
 JONATHON: I figured the call went to somebody else. What I'd tell him is the thing I didn't know. The men with the big feeling aren't ahead of you. Some of them will be flat in a year. You're the one who's already learned to show up without it.
 
@@ -138,7 +140,7 @@ JONATHON: I figured the call went to somebody else. What I'd tell him is the thi
 
 WES: Almost every time the Bible says called, it means called to Somebody before it means called to something. If you belong to Christ, that already happened. Past tense. The question is where you're standing when you live it out.
 
-JONATHON: So what does he actually do all day, because "crop insurance" is how he hides the good part.
+JONATHON: So what does he actually do all day, because "crop insurance" is how he hides the good part?
 
 WES: When a hailstorm comes through, he drives out the same day. Before the adjuster. He sits at their kitchen table. A man who just watched a year of cotton get beat into the dirt in ten minutes. He lets them talk. He tells them what happens next. He's done that since he was twenty-two. He said, "That's just my job." I asked who else shows up at that table the same day. He didn't have an answer.
 
@@ -154,17 +156,29 @@ JONATHON: I'm taking that second question to my Monday meeting. "Who was glad yo
 
 WES: Tool on the table. One sheet. Sunday night. Three lines. Home, work, somebody who can't pay you back. Small enough to do by Saturday. Something you'd otherwise wait to feel like doing.
 
-JONATHON: I tried a version in my first year of faith. Eleven lines. Start a men's group. Read the whole Bible again. Learn Greek. I did none of them. Not one. Three's the point. Three's a list you can't hide behind, and you can't feel guilty about all of it at once.
+JONATHON: Wait, back up. Three, or eleven with Greek on it so I can feel holy while I do none of them? I tried eleven in my first year. Men's group. Whole Bible. Greek. I did none of them. Not one.
 
-WES: If it doesn't fit on one line, it's a someday thing. "Be a better husband" doesn't fit. "Fix the guest room ceiling" fits. Keep the papers. By December you'll see what your calling looked like, one line at a time.
+WES: Three's the point. Three's a list you can't hide behind. If it doesn't fit on one line, it's a someday thing. "Be a better husband" doesn't fit. "Fix the guest room ceiling" fits. Keep the papers. By December you'll see what your calling looked like, one line at a time. What are you actually writing?
 
-JONATHON: You're going to get a lot of mileage out of that ceiling, and I am going to enjoy watching it.
+JONATHON: Home, Tuesday bath night, phone in the console. Work, ask my rep if he booked the three days. Ask, not tell. Somebody who can't pay me back, ask Virgil about the screws. The fourth line stayed crossed out. Can I ask you something hard?
 
-WES: Home, the ceiling. Work, keep knocking on the truck. Don't push. Somebody who can't pay me back: Tuesday PT with my mother, every rep she counts, no complaint in the truck on the way home. She's earned that.
+WES: Go.
 
-JONATHON: Home, Tuesday bath night, phone in the console. Work, ask my rep if he booked the three days. Ask, not tell. Somebody who can't pay me back, ask Virgil about the screws. The fourth line stayed crossed out.
+JONATHON: Are you going into that attic Saturday, or are you going to let Oklahoma wait another July because the door is still the real job and you can hide behind it?
 
-WES: If you eat most nights alone, you still write three lines. Nobody has to hand you an assignment. You write it yourself. Divorced dads, one line is always for your kids, even on the weeks they aren't with you. Older men, put a younger man on the list. Not to fix him. To call him.
+WES: [beat] Attic Saturday. She named Oklahoma. The back door is still unfinished. Those are different lists. I will not let the jamb count as the stain. Home is the ceiling. Work is keep knocking on the truck. Don't push. Somebody who can't pay me back: Tuesday PT with my mother, every rep she counts, no complaint in the truck on the way home. She's earned that.
+
+JONATHON: [laughs] You're going to get a lot of mileage out of that ceiling, and I am going to enjoy watching it. What are you picking, for real?
+
+WES: The attic. Not the door. The door stays on the list I keep calling Saturday when nobody names it. That's fair, but— no, that's actually the split. Oklahoma this week. The hinge is another week.
+
+JONATHON: No, hold on. You've got a habit of stacking so you can miss both and feel deep. Attic. That's one.
+
+WES: [laughs] Attic. If you eat most nights alone, you still write three lines. Nobody has to hand you an assignment. You write it yourself. Divorced dads, one line is always for your kids, even on the weeks they aren't with you. Older men, put a younger man on the list. Not to fix him. To call him.
+
+JONATHON: Then I ask Virgil about the screws on a Tuesday that already has a meeting. Does that sound like a quota?
+
+WES: It sounds like a man who knows his calendar. Ask inside the busy, or you never will. That's the whole takeaway. Three lines. Not eleven. The attic this Saturday. The door still waits.
 
 [BOARD: Three lines beat eleven that never move.]
 

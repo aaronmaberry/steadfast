@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,889 spoken words, about 19:16). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,937 spoken words, about 19:35). Re-time them against the final edit before publishing.
 
 ---
 
@@ -44,11 +44,11 @@ Christian men podcast, honor your father, Exodus 20:12, father-son relationship,
 | 00:58 | The wave and the boots | Ruby waves from second. Wes's oldest brings work boots to a shoe shine and asks about Grandpa. The Q2 email. |
 | 03:46 | Twice a year | Birthday and Christmas. The hurricane. The Thursday-table man's son. "Don't" or "You already did." |
 | 06:05 | The Word | Exodus 20:12. Honor as weight. Ruby is watching what Jonathon does with his dad. |
-| 08:19 | The pot roast | Mom wants the apartments. "Because he bought a chair." Eleven seconds. |
-| 10:30 | Pushback | Dangerous dads, annoying dads, the son still at home, the divorced dad, the nursing-home Saturday. |
-| 13:04 | Not yet | The A&M scholarship. "What was your dad like?" Wednesday 7:30 in the truck. The porch light. |
-| 17:00 | This week's challenge | One question. Tell your wife first. If he is gone, ask someone who knew him. If he is dangerous, do not call. |
-| 18:45 | Carry this, and close | Honor is weight. Somebody else can dial. |
+| 08:24 | The pot roast | Mom wants the apartments. "Because he bought a chair." Eleven seconds. |
+| 10:37 | Pushback | Dangerous dads, annoying dads, the son still at home, the divorced dad, the nursing-home Saturday. |
+| 13:12 | Not yet | The A&M scholarship. "What was your dad like?" Wednesday 7:30 in the truck. The porch light. |
+| 17:24 | This week's challenge | One question. Tell your wife first. If he is gone, ask someone who knew him. If he is dangerous, do not call. |
+| 19:10 | Carry this, and close | Honor is weight. Somebody else can dial. |
 
 ---
 

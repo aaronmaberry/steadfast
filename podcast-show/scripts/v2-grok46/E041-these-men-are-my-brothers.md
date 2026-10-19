@@ -5,9 +5,9 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,823 (about 18:49 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,862 (about 19:05 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 40 lines (52% of words). JONATHON 37 lines (48% of words), 3 under 12 words (8.1%) |
+| Line balance | WES 42 lines (50% of words). JONATHON 39 lines (50% of words), 2 under 12 words (5.1%) |
 | Focus mark | Pick Up the Weight |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Hebrews 3:13. Board only: John 15:13 |
 | Board cues | 4 (none repeats spoken words) |
@@ -44,15 +44,15 @@ WES: Let's take the next few minutes on Sunday, because you actually asked. Bris
 
 JONATHON: I did all the dishes. First time in ten years of Sunday lunches. Dani's mom asked if something was wrong. Dani took her mom and the kids to the tomatoes. On the back porch I had his coffee and the card. How did you stay. Half a cup. A mockingbird. Then, I don't know, son. We didn't think about it like that. We just didn't leave.
 
-WES: That's an answer. I know you hate it. Stay with why you hate it before you make it a slogan.
+WES: That's an answer. I know you hate it. Can you stay with why you hate it before you make it a slogan?
 
-JONATHON: I asked about the golf years. He said those weren't good years. Her mother should have thrown me out. She didn't. Then he said help me with this umbrella, the base is full of sand and my back is no good.
+JONATHON: Because I asked about the golf years and I wanted a map. He said those weren't good years. Her mother should have thrown me out. She didn't. Then he said help me with this umbrella, the base is full of sand and my back is no good.
 
-WES: Mid-carry. That's when the real sentence shows up, when a man's hands are full and he can't give you a framework.
+WES: Mid-carry. That's when the real sentence shows up, when a man's hands are full and he can't give you a framework. Did you notice it happened while you were carrying, or did I just say that?
 
-JONATHON: Mid-carry, complaining about the man who sold it, he said Dani's mom's brother called him every Thursday night for about three years in those years. The Rangers. The weather. I said, to check on you. He said he doesn't know. He never asked why. The uncle died in two thousand nine. He said that's better, and went back to the golf.
+JONATHON: I noticed after. Mid-carry, complaining about the man who sold it, he said Dani's mom's brother called him every Thursday night for about three years in those years. The Rangers. The weather. I said, to check on you. He said he doesn't know. He never asked why. The uncle died in two thousand nine. He said that's better, and went back to the golf.
 
-WES: You wanted a method. You got an uncle who dialed. That's the whole brotherhood lesson for Memorial Day week, and it's going to bother you because it isn't a framework.
+WES: Did you want a method? Because you got an uncle who dialed. That's the whole brotherhood lesson for Memorial Day week, and it's going to bother you because it isn't a framework.
 
 JONATHON: I'm mad all week that it is an answer. I wanted a map I could sell to a twenty-nine-year-old. I got a dead uncle and a man who never asked why the phone rang. I'm going to be the uncle anyway. I don't need to understand it to copy the Thursday.
 
@@ -63,15 +63,19 @@ JONATHON: I'm mad all week that it is an answer. I wanted a map I could sell to 
 
 WES: Second Saturday at the barn. His thermos had two cups. A gate latch. About nine words. Hand me that. I'm going to Abilene Saturday because the little brother's father-in-law is in hospice now. My go-first this week is smaller. Thursday I call the little brother about nothing, and I learn the dog's name. Forty videos. I've never asked.
 
-JONATHON: You've watched a dog for years and never asked its name. That's the same sin as Harper's dad, just with fur. I have a version at work. I'll get to him. Finish the kitchen first, because I can tell you're not done being ashamed of it.
+JONATHON: Wait, back up. You've watched a dog for years and never asked its name? That's the same sin as Harper's dad, just with fur. I have a version at work. I'll get to him. Finish the kitchen first, because I can tell you're not done being ashamed of it.
 
-WES: The band director at the Thursday table. Retired. Sixty-one then. He brings the good coffee because he says our pot is an insult to the bean. A couple of years ago he missed three Thursdays. Nobody called.
+WES: The band director at the Thursday table. Retired. Sixty-one then. He brings the good coffee because he says our pot is an insult to the bean. A couple of years ago he missed three Thursdays. Nobody called. Would you have called?
 
-JONATHON: Nobody. A table of men, and nobody picked up a phone.
+JONATHON: I want to say yes. I walked past a truck at lunch, so maybe no. Nobody. A table of men, and nobody picked up a phone.
 
 WES: Fourth Thursday he told us his wife had breast cancer, third round of chemo. He said he kept waiting for one of us to call. I asked what he wanted. Could you come to my kitchen. Six weeks of Thursdays at his house. She came down in a headscarf and a robe and said we were too loud. I still hear the robe belt hit the banister. We were already late, and she was still kind.
 
 JONATHON: She's two years clear this spring and still tells you you're too loud. That's a living woman who was alone while a table of men practiced being faithful in theory. I hate that story. I need it.
+
+WES: Why do you need it?
+
+JONATHON: Because I can talk a good kitchen and still walk past a truck. I need a story that doesn't let me feel loyal in theory.
 
 WES: Table practice since: if a man misses, whoever notices calls, voice, by Friday noon. About thirty calls. Twice it wasn't nothing. One man had slept in his truck in his own driveway for a week. He's back in the house. Somebody seeing him was the whole medicine. We were late. We're less late now.
 
@@ -80,7 +84,7 @@ WES: Table practice since: if a man misses, whoever notices calls, voice, by Fri
 
 ## SEGMENT 3 · The Word
 
-WES: Hebrews three, verse thirteen. A daily word, not a holiday word.
+WES: Hebrews three, verse thirteen. A daily word, not a holiday word. You want to read it?
 
 JONATHON: "But encourage one another daily, as long as it is called “Today,” so that none of you may be hardened by sin’s deceitfulness."
 
@@ -99,11 +103,11 @@ WES: The Austin manager. You've been beside him on a leaderboard for eight years
 
 JONATHON: Fifty-three. His numbers fell in March and April. He kept his screen dark on Monday calls. I told Dani that Austin was having a bad year. She asked if he was okay. I didn't like that question.
 
-WES: Because you already knew you didn't want the answer.
+WES: Because you already knew you didn't want the answer. Is that fair?
 
-JONATHON: Quarterly meeting in Austin, catered fajitas. He sat in his running truck at lunch. I walked past once. Then I came back with two plates. Ten silent minutes. He said his wife moved out in March. Kids with her weekdays. Saturdays with him. I make them pancakes Saturday morning. That's the whole thing I'm holding onto. Don't tell anybody at work.
+JONATHON: That's fair. Quarterly meeting in Austin, catered fajitas. He sat in his running truck at lunch. I walked past once. Then I came back with two plates. Ten silent minutes. He said his wife moved out in March. Kids with her weekdays. Saturdays with him. I make them pancakes Saturday morning. That's the whole thing I'm holding onto. Don't tell anybody at work.
 
-WES: And you've texted him since.
+WES: Have you texted him since?
 
 JONATHON: Two Thursdays. Did you eat. He answers K. You said that's your move. His brother is in Oregon. The couple friends went with his wife. My go-first is Thursday, voice, and I ask about the pancakes. Not about the marriage. The pancakes. If I ask about the marriage I'm a coworker hunting a story. If I ask about the pancakes I'm a brother.
 
@@ -120,26 +124,26 @@ JONATHON: I've talked to you from a Target parking lot with Theo screaming about
 
 ## SEGMENT 5 · Pushback
 
-WES: Push. The man who says brothers are a luxury on a holiday week. And the man who only shows up for funerals.
+WES: Push. The man who says brothers are a luxury on a holiday week. And the man who only shows up for funerals. Which one is sitting in you this week?
 
-JONATHON: A holiday week is when we give speeches about men we never called. If you have a flag and no Thursday, you have a costume. I hear the guy with two jobs. Then do the small version. One voice call. Did you eat. How is the dog. That isn't a retreat. That's a minute in a parking lot.
+JONATHON: The funeral one, if I'm honest. A holiday week is when we give speeches about men we never called. If you have a flag and no Thursday, you have a costume. I hear the guy with two jobs. Then do the small version. One voice call. Did you eat. How is the dog. That isn't a retreat. That's a minute in a parking lot.
 
 WES: The funeral-only brother thinks presence at a grave makes him loyal. It makes him punctual for death. I've been that man. I could show up for a service and miss three Thursdays. The kitchen was the test. We failed it. We changed the rule. You can change a rule without a speech. You just have to hate the miss more than you love the story about the miss.
 
-JONATHON: I want to be the uncle. I don't need a theology of uncles. I need a night on the calendar. Rangers. Weather. I can do that. I've done harder things for work. That's the embarrassment. I have energy for a leaderboard and a thin battery for a man in a truck.
+JONATHON: I want to be the uncle. I don't need a theology of uncles. I need a night on the calendar. Rangers. Weather. I can do that. I've done harder things for work. That's the embarrassment. I have energy for a leaderboard and a thin battery for a man in a truck. Do you still think a title will dial?
 
 
 ## SEGMENT 6 · This week's challenge
 
-WES: Call one man about nothing. Voice, not a text, unless text is the only way he'll answer. If a man has gone missing from your table, call by Friday noon. Ask about the small thing he's holding. Pancakes. A dog. A desk they moved.
+WES: A title did not. The bass guy did. That's why the move this week is small. Call one man about nothing. Voice, not a text, unless text is the only way he'll answer. If a man has gone missing from your table, call by Friday noon. Ask about the small thing he's holding. Pancakes. A dog. A desk they moved. What are you actually dialing?
 
-JONATHON: I'll call Austin and ask about the pancakes. I won't ask about the marriage. I won't tell anybody at work. If he says K, that's still a live wire. I won't need a paragraph from him to count it.
+JONATHON: Austin. Pancakes. I won't ask about the marriage. I won't tell anybody at work. If he says K, that's still a live wire. I won't need a paragraph from him to count it. What about you?
 
-WES: Last few minutes. I'll call my little brother and ask the dog's name. I won't make it a speech about Abilene. Abilene is Saturday. Thursday is the dog. Don't stack them so you can fail both and feel deep.
+WES: Last few minutes. The little brother. The dog's name. I won't make it a speech about Abilene. Abilene is Saturday. Thursday is the dog. Don't stack them so you can fail both and feel deep.
 
-JONATHON: I'm not stacking the uncle plan with the Austin call. Austin is this Thursday. The uncle is a habit I have to start, not a project I announce. If I announce it I'll want credit before I have dialed.
+JONATHON: I'm not stacking the uncle plan with the Austin call. Austin is this Thursday. The uncle is a habit I have to start, not a project I announce. If I announce it I'll want credit before I have dialed. Will you stop me if I start announcing?
 
-WES: I keep seeing that headscarf in the kitchen doorway. We were loud. She was kind. We should've been there on week one, not week four. A rule after a miss is still a mercy. Don't wait for a better origin story for your rule. I wanted a prettier start than late. I don't get one.
+WES: I'll stop you. I keep seeing that headscarf in the kitchen doorway. We were loud. She was kind. We should've been there on week one, not week four. A rule after a miss is still a mercy. Don't wait for a better origin story for your rule. I wanted a prettier start than late. I don't get one.
 
 JONATHON: I keep seeing the running truck and the two plates. I walked past once. That's the sentence I don't get to dress up. If I tell the pancake story and skip the walk-past, I'm selling a costume.
 
@@ -153,59 +157,61 @@ JONATHON: I've got a leaderboard that looks like brothers. It isn't. The nephew'
 
 ## SEGMENT · Sitting with it
 
-WES: A steadfast man does the small thing while it's still small. For me that's a dog's name I should've asked two Christmases ago. Not a speech about Abilene. The name.
+WES: I keep wanting to send the man with a flag home thinking he did the week. A flag isn't a Thursday.
 
-JONATHON: For me it's pancakes, not the marriage. If I pick three I will do none, and I already know that about myself from sales and from home. One Thursday. Austin. Voice.
+JONATHON: Wait, back up. Are you talking about me, or the guy with two jobs who thinks brothers are a luxury?
 
-WES: If this feels like too many stories, pick one. One kitchen. One truck. One name. That's enough weight for seven days, and it's more than most of us will actually carry if we get proud of the list.
+WES: Both. You asked Dani's dad how he stayed, and you got an uncle who dialed. Are you actually going to copy the Thursday, or are you going to stay mad that it isn't a framework?
 
-JONATHON: I'll pick one. If I announce the uncle habit this week I'll want credit before I've dialed. Austin is this Thursday. The uncle starts after I've actually asked about batter.
+JONATHON: [laughs] I'm going to stay mad and copy it. I can do both. I wanted a map I could sell. I got Rangers, weather, and a dead man. Can I ask you something hard?
 
-WES: I've got a habit of saving the true sentence for a better room. There is no better room. His kitchen was the room. The running truck was the room. The porch after the dishes was the room. Say it there.
+WES: Go.
 
-JONATHON: I've rehearsed in better rooms my whole adult life. The rehearsal is how I stay safe. Dani asked if he was okay, and I didn't like the question because I already had the speech and none of the walk-back.
+JONATHON: Are you actually asking the dog's name this Thursday, or are you going to make it a speech about Abilene so you can skip the name?
 
-WES: Some of you will try to make this spiritual so you don't have to be specific. Prayer is good. A day and a name is still required. Don't baptize delay and call it discernment. The uncle didn't baptize the Rangers. He dialed.
+WES: [beat] Thursday is the dog. Abilene is Saturday. If I stack them I'll fail both and feel deep. I won't stack them. Forty videos. I've never asked. That's the scenery problem. A video is not a name. What are you actually dialing?
 
-JONATHON: I've baptized delay. I've called it being careful. Careful is sometimes fear with a pressed shirt. Walking past a truck at lunch was careful. Coming back with two plates was a brother.
+JONATHON: Austin. Pancakes. Not the marriage. If I pick three I'll do none, and I already know that about myself from sales. One Thursday. Voice.
 
-WES: The man who says he'll start after the busy season is lying to himself the same way I did in my forties. There is always another season. The band director missed three Thursdays inside a busy season. We were busy. He was alone.
+WES: That's fair, but— no, don't upgrade the question if he says K.
 
-JONATHON: HVAC sales doesn't hand you a quiet month. If I wait for one I'll still be waiting when Theo has a license. I have to put Austin on a Thursday that already has a meeting.
+JONATHON: I won't. K is a live wire. I used to need a paragraph before I'd count a man as reached. That's how I stayed on the sidewalk. Will you stop me if I start hunting the marriage story?
 
-WES: I don't need you to feel ready. I need you to be on time. Ready is a feeling. On time is a clock. I never felt ready to walk into that kitchen. We went on week four. Week one would've been better. Week four still counted.
+WES: I'll stop you. You stop me if I start a prettier origin story for the kitchen rule. We were late. Week four still counted. Week one would've been better.
 
-JONATHON: I wait for ready like it's a weather window. Then the window closes and I tell a funny story about almost doing it. I don't want another funny story about a truck I walked past. I want a clumsy question about pancakes that landed.
+JONATHON: No, hold on. You've got a habit of telling the kitchen like the rule is the win. The win is the call by Friday noon. Right?
 
-WES: Look at the next seven days and circle one hour. Not a vibe. An hour. Thursday for the dog. Thursday for batter. If you can't find an hour, you're not too busy. You're hiding inside busy, and I've done that with a laminated list and called it love.
+WES: [laughs] That's fair. The rule is a mercy after a miss. His kitchen was the game. This table is practice. Don't let me go home thinking practice was the game.
 
-JONATHON: I hide inside a full calendar better than anyone I know. A full calendar can still be a man walking past a running truck. I'm trying to leave a hole in Thursday on purpose.
+JONATHON: I'm very good at practice. Ruby can tell when I've only talked. She doesn't say it. She just watches whether I put the phone down. Does your youngest notice the recliner more than the speech?
 
-WES: If your people are used to you disappearing into a screen after supper, tell them you're going to be late to the recliner this week. Then be late to the recliner. Call about nothing. That's a kind of going first nobody applauds.
+WES: He treats ten extra minutes at the table like a holiday. Same size as Theo. If I disappear into a screen after supper, that's the report. Are you leaving a hole in Thursday on purpose?
 
-JONATHON: Theo notices the recliner more than he notices my speeches. If I stay at the table ten extra minutes he treats it like a holiday. That's how small this has to be to matter. A Thursday call is that small.
+JONATHON: I'm trying. The calendar already has the Thursday. I'm putting Austin inside a meeting I already have, not waiting for a quiet week. If I wait for quiet I'll still be waiting when he's got a license. Does that sound like I'm making a quota out of a brother?
 
-WES: I won't give you a poem about brotherhood. I'll give you a time. If you need a poem after you've been on time, fine. Most of us want the poem first so we can skip the time and still feel loyal at a grave.
+WES: [laughs] It sounds like a man who knows his calendar. Put pancakes on a Thursday that already has a meeting, or you never will. I hid inside a full calendar in my forties. Three committees. A ball team. Fifty-five-hour weeks. A full week can still be a man walking past a kitchen. I don't need ready. I need on time.
 
-JONATHON: I want the poem first. I always have. Then I get cute and the time slips. If I write Austin, Thursday, pancakes on a sticky note where Dani can see it, I'm much less poetic and much more likely to dial.
+JONATHON: And the uncle? After I've actually asked about batter. If I announce the uncle habit this week I'll want credit before I've dialed. Can you live with that order?
 
-WES: I've left good men as scenery. A table. A shop. A porch. Scenery doesn't call you when you fall. A name does. Stop collecting scenery and ask for a name. Ask for the dog. Ask for the pancakes. Ask about the desk they moved. That's the whole brotherhood I actually trust now.
+WES: I can. Don't dress the wait up and call it a plan. The uncle didn't study it. He dialed.
 
-WES: If you only obey when the story is pretty, you'll obey twice a year, usually with a flag. Pretty is a trap. Ordinary is the field. Do the ordinary Thursday while nobody is making it a lesson.
+JONATHON: I walked past the truck once. That's the sentence I don't get to dress up. If I tell the pancake story and skip the walk-past, I'm selling a costume. Will you let me skip it next time we talk?
 
-JONATHON: I wait for pretty. Then I miss the ordinary and write a paragraph about the miss. I want fewer paragraphs and one ordinary Thursday that actually happened. Rangers. Weather. Batter. That's it.
+WES: No. Keep the walk-past. I lost a title and waited for the committee. The bass guy called. I've been collecting the wrong brothers for years. A title does not dial. Do you still think the leaderboard looks like brothers?
 
-## SEGMENT · Sitting with it
+JONATHON: I know it doesn't. The nephew's group chat with nine guys is closer. I'm trying to steal his habit without stealing his friends. What are you picking, for real, this week?
 
-WES: Don't confuse a good conversation at this table with a changed kitchen. This table is practice. His kitchen was the game. The truck was the game. I won't let us go home thinking practice was the game.
+WES: The dog's name. Not Abilene. The name I should've asked two Christmases ago. I never felt ready to walk into that kitchen either. Ready is a feeling. On time is a clock.
 
-JONATHON: I'm very good at practice. I can talk a good kitchen. Ruby can tell when I've only talked. She doesn't say it. She just watches whether I put the phone down and actually dial.
+JONATHON: Pancakes. If I write Austin, Thursday, pancakes on a sticky note where Dani can see it, I'm much less poetic and much more likely to dial. That's the whole takeaway. A brother is a Thursday about nothing. Rangers. Weather. Batter.
+
+WES: Ordinary while nobody is making it a lesson. If you only obey when the story is pretty, you'll obey twice a year, usually with a flag. Pretty is a trap. I could show up for a service and miss three Thursdays. Rangers. Weather. A dog. That's the whole brotherhood I actually trust now. Call about nothing.
 
 ---
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. A brother is a Thursday, not a speech at a grave.
+WES: Carry this. A brother is a Thursday, not a speech at a grave.
 
 JONATHON: And a call about pancakes can be the whole kindness.
 

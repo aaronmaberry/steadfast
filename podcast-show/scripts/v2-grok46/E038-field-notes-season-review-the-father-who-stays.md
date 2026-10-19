@@ -5,9 +5,9 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm |
-| Spoken words | 1,930 (about 12:52 at 150 wpm, before laughs and pauses) |
+| Spoken words | 1,924 (about 12:50 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 27 lines (53% of words). JONATHON 23 lines (47% of words), 1 under 12 words (4.3%) |
+| Line balance | WES 26 lines (50% of words). JONATHON 23 lines (50% of words), 1 under 12 words (4.3%) |
 | Focus mark | Stop Waiting |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Proverbs 20:6. Board only: Proverbs 27:17 |
 | Board cues | 4 (none repeats spoken words) |
@@ -103,7 +103,9 @@ JONATHON: If you asked a name and got one, put it in the phone correctly. If you
 
 WES: I keep wanting Abilene to be a scene. It will be a family room and a dog if they let him in and a ballgame with the sound off. That's enough. I don't need a line from my brother that makes this a story. I need to be in the chair.
 
-WES: The listener who has no stone because his father left still gets a line. Write the true thing. Not a halo. Not a prosecution. One sentence you could read in five years and still stand by. That's a memorial too.
+JONATHON: Wait, back up. A family room and the sound off. Are you going to sit, or are you going to wait for a line that turns it into a scene?
+
+WES: Sit. The man who has no stone because his father left still gets a line. Write the true thing. Not a halo. Not a prosecution. One sentence you could read in five years and still stand by. That's a memorial too.
 
 JONATHON: I almost wrote a prosecution. I wrote we learned his name instead. That's about a grandfather and a girl, not about the man in Louisiana. I can keep those on different cards. That's how I stay sane this week.
 
@@ -113,33 +115,29 @@ JONATHON: Honestly, I will try to add the speech anyway. Somebody should stop me
 
 ## SEGMENT · Sitting with it
 
-WES: I want this back in your house, not in ours. Pick the one door that's yours. Not your brother's. Not a man on a screen. Yours. Put a day on it before supper, even if the day is tomorrow and the sentence is clumsy.
+WES: Wait, back up. You asked if I put the rock up so I could skip the jamb. Did I?
 
-JONATHON: Mine is already on a calendar. That's the only reason I trust it. A mood isn't a plan, and I've used moods for years to sound wise while I stayed still. I don't want to sound wise. I want to be on time.
+JONATHON: You did. The rock is watching you not do Saturday. Can I ask you something hard? Are you hanging the keys and calling that a stay, or are you going to put a day on the plane?
 
-WES: If you fail the first try, the second try still counts. I've got to say that every time or I will use the miss as a way out and then tell a story about the miss like the story was the obedience.
+WES: Keys aren't a stay. The plane still sits. I'll name a Saturday and I might still walk past. That's the report. What about the card on Ruby's mirror. Is it up, or did you only talk about putting it up?
 
-JONATHON: I used the first miss as a way out for most of my twenties. I'm trying not to do that at thirty-seven. It's harder than any capacitor, and it's also more ordinary than I want to admit at this table.
+JONATHON: It's up. I almost wrote a prosecution and I wrote we learned his name instead. [laughs] Ruby already read it. She said the name out loud like it was a spelling word. That's fair, but— I still wanted a better closing line than a card.
 
-WES: I've watched men collect stories like this and never change a Tuesday. Don't be that man this week. Change one Tuesday. Then tell one person you did, because a secret obedience turns back into a mood by Thursday.
+WES: There isn't a better closing line. The season doesn't resolve on a creek rock. So which is it this week? A stone by the keys, or a speech in the driveway?
 
-JONATHON: I'm the man who collects stories. I've got a notes app full of them. The only ones that count are the ones that got a day and a time and a person who knows I said I would do it.
+JONATHON: The stone. If I add a fourth sentence I'll get cute and ruin it. No, hold on. Are you actually going to Abilene to sit in a chair, or do you need a line from your brother first?
 
-WES: I want the listener who thinks this does not apply because his house is quieter. Quiet isn't settled. You already know that if you have sat through a polite holiday and called it peace.
+WES: The chair. I don't need a line. I need to be in the room with the sound off.
 
-JONATHON: My house can be loud and still be a cease-fire. Volume isn't the test. The test is whether the true thing got said to the person who had to hear it, not to a mug at this table.
+JONATHON: Then the card stays on the mirror and the plane can sit one more week if you say so out loud. Looking late is better than looking peaceful next to a rock you won't live beside. Dani timed my texts at forty seconds. That's better than a day. It's still a man managing a feeling. Are you going to pray out loud at Thursday table, or is the rock going to do your mouth's job?
 
-WES: I will check this on Friday, which is the only reason I trust myself. A public calendar is a kind of mercy for a man who likes his recliner and likes to call the recliner wisdom.
+WES: The rock isn't my mouth. I still pass. I'll tell Friday if I passed again. Lamp shopping is your Saturday. Don't turn a store into a speech. I can see the rock when I hang the keys, and I can still walk past the plane. That's the true line this week, not a scene in Abilene.
 
-JONATHON: I will hold you to it, and I want somebody holding me. That's why I say the time out loud even when it makes me look late. Looking late is better than looking peaceful and being dug in.
-
-WES: A steadfast man does the small thing while it's still small. That's the whole show, said again, because we forget it by Wednesday and start waiting to feel ready, and the ready never comes first.
-
-JONATHON: I forget it by Tuesday afternoon. Ruby does not. She has a better memory for what I said I would do than any review I've ever run, and she does not care that I had a good reason.
+JONATHON: I won't. Mom's birthday is Tuesday. I can walk a store. I can keep two cards. I can still be mad at my dad and write a line about a grandfather. Those aren't opposites. That's how I stay sane this week. Shane already knew. Late still counts. Frozen doesn't. If I froze, I'll ask anyway before Tuesday. Frozen is the only version that does not count, and I already used frozen for most of a season.
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. A father who stays mostly looks like nothing.
+WES: Carry this. A father who stays mostly looks like nothing.
 
 JONATHON: And a first name in a phone is how a role becomes a person.
 

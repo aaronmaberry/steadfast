@@ -5,9 +5,9 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm |
-| Spoken words | 1,904 (about 12:42 at 150 wpm, before laughs and pauses) |
+| Spoken words | 1,918 (about 12:47 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 27 lines (52% of words). JONATHON 25 lines (48% of words), 1 under 12 words (4.0%) |
+| Line balance | WES 30 lines (51% of words). JONATHON 28 lines (49% of words), 2 under 12 words (7.1%) |
 | Focus mark | Pick Up the Weight |
 | Scripture (NIV, verified 2026-10-19) | Spoken: John 15:13. Board only: Joshua 4:21 |
 | Board cues | 4 (none repeats spoken words) |
@@ -40,9 +40,9 @@ JONATHON: And I'll tell you who calls about pancakes, and why I need chocolate c
 
 ## SEGMENT 1 · Deputy and pancakes
 
-WES: Let's take the next few minutes on the living, then the dead, because I don't want this Friday to be only granite. I called from the truck. He said who died. I said nobody. I'm calling about the dog. He said, Wes. I told you at Christmas. Twice. I'd said that's a good name for a dog both times. Twenty-two minutes. He asked why I called. I said no reason. He said okay. That night a video. Deputy caught on the couch. Deputy says hi.
+WES: Let's take the next few minutes on the living, then the dead, because I don't want this Friday to be only granite. I called from the truck. He said who died. I said nobody. I'm calling about the dog. He said, Wes. I told you at Christmas. Twice. I'd said that's a good name for a dog both times. Twenty-two minutes. He asked why I called. I said no reason. He said okay. That night a video. Deputy caught on the couch. Deputy says hi. Did I sound like a man who'd been told twice?
 
-JONATHON: You finally asked. He'd already told you. That's embarrassing and also exactly how men work. I called Austin from my office. Voicemail. I was calling about the pancakes. How did the pancakes go.
+JONATHON: [laughs] You sounded like a man. He'd already told you. That's embarrassing and also exactly how men work. I called Austin from my office. Voicemail. I was calling about the pancakes. How did the pancakes go.
 
 WES: And he called back, or are you sitting on a voicemail and calling it faithfulness?
 
@@ -57,13 +57,13 @@ JONATHON: I missed my second name. Shane. I didn't call him. That's a half. I ca
 
 ## SEGMENT 2 · Chris and a pencil
 
-WES: We're about halfway. Tell the plate. I want the listener who thinks honor is a graphic to hear a name.
+WES: We're about halfway. Tell the plate. Can I ask you to say the name before we talk about honor as a graphic?
 
 JONATHON: Shane has a gum-sized brass plate on the model's bridge for Quartermaster Third Class Christen Christensen. Chris. Helmsman. Killed when a German shell hit the bridge at Cherbourg, June twenty-fifth, nineteen forty-four. He was twenty-one. The only man killed in action in the Texas's service. Shane's grandfather was aboard that day, in a gun mount. Everybody on that ship got to come home but one. Shane says evening, Chris, every time he sits down to work. Ruby says it too.
 
-WES: You left a tribute.
+WES: You left a tribute. Did Ruby ask to, or did you?
 
-JONATHON: Wednesday. Ruby and I left a line on Chris's memorial page. Thank you for steering. I grew up fifteen minutes from the Texas at San Jacinto. Fourth-grade field trip. I remember the gift shop and a cannon pencil. I didn't remember a twenty-one-year-old with a name. I had the souvenir. I didn't have the man. That's most of my Memorial Days until this week.
+JONATHON: We both did. Wednesday. Ruby and I left a line on Chris's memorial page. Thank you for steering. I grew up fifteen minutes from the Texas at San Jacinto. Fourth-grade field trip. I remember the gift shop and a cannon pencil. I didn't remember a twenty-one-year-old with a name. I had the souvenir. I didn't have the man. That's most of my Memorial Days until this week.
 
 WES: Most of mine too. We have granite on the courthouse lawn. First World War and the second on the front. Korea on the side. Vietnam on the back. I've never read the back. Monday I will, out loud, before the town is up. Phone flashlight if I have to. Names, not a feeling.
 
@@ -72,7 +72,7 @@ WES: Most of mine too. We have granite on the courthouse lawn. First World War a
 
 ## SEGMENT 3 · The Word
 
-WES: John fifteen, verse thirteen. A verse we put on graphics and then don't read a name.
+WES: John fifteen, verse thirteen. A verse we put on graphics and then don't read a name. You want to read it?
 
 JONATHON: "Greater love has no one than this: to lay down one’s life for one’s friends."
 
@@ -85,9 +85,9 @@ JONATHON: I can love a story about Chris and still not call Shane. That's the te
 
 ## SEGMENT 4 · Reading the names
 
-WES: Last few minutes. Tool is reading the names. Go to the stone in your town. Read the side you've never walked around. Out loud. If there's no stone, pick one name from a memorial page and say it at supper. Don't post a grave you weren't asked to post. The crew we will meet later in the summer doesn't do pictures. Learn that early.
+WES: Last few minutes. Tool is reading the names. Go to the stone in your town. Read the side you've never walked around. Out loud. If there's no stone, pick one name from a memorial page and say it at supper. Don't post a grave you weren't asked to post. The crew we will meet later in the summer doesn't do pictures. Learn that early. Are you actually calling Shane, or are you going to let Chris do the week for you?
 
-JONATHON: Ruby already says evening, Chris. That's her version of the tool. I won't turn it into a content plan. I'll say the name with her and I'll call the living man I skipped. Half isn't the report I want to keep giving.
+JONATHON: I'm calling Shane. Ruby already says evening, Chris. That's her version of the tool. I won't turn it into a content plan. I'll say the name with her and I'll call the living man I skipped. Half isn't the report I want to keep giving.
 
 WES: The mechanic said something Wednesday while I brought coffee and asked nothing. I go out to Fort Sam Monday morning. Early. Not clearly an invitation. I'll be at the gate of Fort Sam Houston National Cemetery with two coffees at six-thirty Monday. I'll tell you Tuesday what I was allowed to see.
 
@@ -113,41 +113,53 @@ JONATHON: I keep wanting a clean week. Pancakes and Shane and Chris and no half.
 
 ## SEGMENT · Sitting with it
 
-WES: I've watched men collect Memorial Day stories and never change a Thursday. Don't be that man this week. Read one name. Call one living man. Then tell one person you did, because a secret honor turns back into a mood by Tuesday.
+WES: I keep wanting to send a man home with a flag and call the week done. A flag isn't a name.
 
-JONATHON: I'm the man who collects stories. I've got a notes app with Chris in it and a half named Shane. The only ones that count are the ones that got a day and a voice.
+JONATHON: Wait, back up. Are you talking about me skipping Shane, or the guy who thinks his town has no stone so he's off the hook?
 
-WES: I want the listener who thinks this doesn't apply because his town has no stone. Then pick a memorial page. Say the name at supper. Quiet isn't settled. You already know that if you've sat through a polite holiday and called it peace.
+WES: Both. You can love a story about Chris and still not call Shane. Are you actually dialing him, or is the plate doing the week for you?
 
-JONATHON: My house can be loud and still be a cease-fire. Volume isn't the test. The test is whether Shane got a call, not whether I can tell you about a brass plate.
+JONATHON: I'm dialing him. The dead are safer. They don't say who calls about pancakes. Can I ask you something hard?
 
-WES: I'll check the stone on Monday, which is the only reason I trust myself. A public calendar is a kind of mercy for a man who likes his recliner and likes to call the recliner wisdom. Six-thirty. Two coffees. Front and back.
+WES: Go.
 
-JONATHON: I'll hold you to the gate, and I want somebody holding me to Shane. That's why I say the half out loud even when it makes me look late. Looking late is better than looking loyal and being dug in.
+JONATHON: Are you walking around the back of that granite Monday, or are you going to read the front again and call it honor?
 
-WES: A steadfast man does the small thing while it's still small. For me that's walking around granite I've treated like furniture. For you that's chips and a name. We forget it by Wednesday and start waiting to feel ready, and the ready never comes first.
+WES: [beat] Monday. Flashlight if I have to. Seven names, out loud, before the town is up. Then two coffees at a gate I didn't earn. Six-thirty. Fort Sam. Vietnam on the back. I've walked past the front for years. What are you actually doing besides evening, Chris?
 
-JONATHON: I forget it by Tuesday afternoon. Ruby doesn't. She already says evening, Chris. She has a better memory for what I said I'd do than any review I've ever run, and she doesn't care that I had a good reason to skip Shane.
+JONATHON: Shane. And mini chips to a man who asked for them. If I pick three I'll do none. One living call. Ruby already has the plate.
 
-WES: If this feels like too many names, pick one. One stone. One living man. One time. That's enough weight for a holiday weekend, and it's more than most of us will actually carry if we get proud of the flag.
+WES: That's fair, but— no, don't let Cherbourg skip the batter.
 
-JONATHON: I'll pick Shane. If I pick three I'll do none, and I already know that about myself from sales and from home. One living call is how a man like me gets free of his own notes app.
+JONATHON: [laughs] I won't. If I can talk about a shell on a bridge and forget chocolate chips, I've used the dead to skip the living. Will you stop me if I start a tribute speech and still have a half?
 
-WES: I've got a habit of saving the true sentence for a better room. There is no better room. The back of the stone is the room. The family room in Abilene is the room. The office where you asked about batter is the room. Say it there.
+WES: I'll stop you. You stop me if I make Abilene a scene. I'm going to sit in a family room. Deputy herded the couch in a video. That's not a speech.
 
-JONATHON: I've rehearsed in better rooms my whole adult life. The rehearsal is how I stay safe. Dani can hear the difference between a tribute and a Thursday. She stops me when I start handing people a plate before I've dialed.
+JONATHON: No, hold on. You've got a habit of stacking Monday at the stone and Saturday in Abilene until both feel deep and neither gets a time. Which one is Monday?
 
-WES: Some of you will try to make this spiritual so you don't have to be specific. Prayer is good. A name and a day is still required. Don't baptize delay and call it discernment. Chris has a date. Shane needs one too.
+WES: [laughs] The stone. Saturday is Abilene. I don't get the Christmases back when I said that's a good name and didn't ask. I get Monday. Are you leaving the half on the table, or are you pretending pancakes cleaned it?
 
-WES: The man who says he'll start after the holiday is lying to himself the same way I did walking past the front of that stone. There is always another holiday. Read the back inside this one, or you never will.
+JONATHON: I'm leaving the half. I missed Shane. That's a half. Looking late is better than looking loyal. Dani can hear the difference between a tribute and a Thursday. She stops me when I start handing people a plate before I've dialed.
 
-JONATHON: HVAC sales doesn't hand you a quiet Monday. If I wait for one I'll still be waiting when Theo has a license. I have to put Shane on a day that already has a meeting, and I have to buy the chips before I get cute about Cherbourg.
+WES: Good. The back of the stone is the work. The office where you asked about batter was the work. Don't wait for a quieter Monday. There isn't one.
+
+JONATHON: Then I put Shane on a day that already has a meeting, and I buy the chips before I get cute about Cherbourg. Does that sound like I'm turning a cemetery into a quota?
+
+WES: [laughs] It sounds like a man who knows his calendar. Put the living call inside the holiday, or the holiday will do your brotherhood and then go quiet until November.
+
+JONATHON: What are you picking, for real?
+
+WES: The back. Names, not a feeling. Then the gate with two coffees.
+
+JONATHON: Shane. And evening, Chris, with Ruby, without turning it into a plan. That's the whole takeaway. Honor the dead with their names. Honor the living with a Thursday. I keep wanting a clean week. I don't get a clean week. I get chips and a name and a man I still have to call.
+
+WES: A flashlight and a back side I have never read. Then sit down. Don't post a grave you weren't asked to post. The crew later this summer doesn't do pictures. Learn that early. Deputy says hi. That's twenty-two minutes I should've spent two Christmases ago.
 
 ---
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. Honor the dead with their names, and the living with a Thursday.
+WES: Carry this. Honor the dead with their names, and the living with a Thursday.
 
 JONATHON: And a plate the size of gum can still hold a whole man.
 

@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,800 spoken words, about 18:40). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (3,170 spoken words, about 21:08). Re-time them against the final edit before publishing.
 
 ---
 
@@ -40,13 +40,13 @@ Christian men podcast, calling, purpose, 2 Corinthians 5:15, faith when you don'
 |---|---|---|
 | 00:00 | Open | Ruby asks if Daddy is on fire for Jesus. "Some days." "Which days?" |
 | 00:56 | Which days | VBS week, Dani's "mine's some days too," the VP praise, two waters in the truck. |
-| 04:02 | The flat year | Jonathon's first year of faith, then a year of nothing. The flat year was when it took. |
-| 06:24 | The fire decade | Wes on fire for ten years. His wife: "Where are we going?" He would burn the house to feel warm. |
-| 08:57 | The Word | 2 Corinthians 5:15. No feeling in the verse. The fire is what He did. |
-| 11:17 | Some Saturdays | Virgil's pencil notebook. "Some Saturdays." Wes almost skips the barn. |
-| 13:45 | Pushback | The twenty-two who feels no call. The divorced dad. The quiet older man. The conference. |
-| 16:13 | What we're actually doing | Porch prayer seven of seven. The crew sheet through December. This week's challenge. |
-| 18:10 | Close | The fire is what He did. Some Saturdays. |
+| 04:13 | The flat year | Jonathon's first year of faith, then a year of nothing. The flat year was when it took. |
+| 06:41 | The fire decade | Wes on fire for ten years. His wife: "Where are we going?" He would burn the house to feel warm. |
+| 09:19 | The Word | 2 Corinthians 5:15. No feeling in the verse. The fire is what He did. |
+| 11:41 | Some Saturdays | Virgil's pencil notebook. "Some Saturdays." Wes almost skips the barn. |
+| 14:21 | Pushback | The twenty-two who feels no call. The divorced dad. The quiet older man. The conference. |
+| 16:57 | What we're actually doing | Porch prayer seven of seven. The crew sheet through December. This week's challenge. |
+| 20:38 | Close | The fire is what He did. Some Saturdays. |
 
 ---
 

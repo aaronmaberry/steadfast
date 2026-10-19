@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (3,020 spoken words, about 20:08). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,818 spoken words, about 18:47). Re-time them against the final edit before publishing.
 
 ---
 
@@ -34,13 +34,13 @@ Christian men podcast, daughters, Deuteronomy 6:7, fatherhood, Walk Steadfast, G
 |---|---|---|
 | 00:00 | Open | Open. |
 | 00:52 | Go on and a tape | Go on and a tape. |
-| 02:31 | Fifteen and the shoulder | Fifteen and the shoulder. |
-| 04:43 | The Word | The Word. |
-| 05:51 | The work voice | The work voice. |
-| 08:02 | Pushback | Pushback. |
-| 09:12 | This week's challenge | This week's challenge. |
-| 15:04 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
-| 19:44 | Close | Close. |
+| 02:34 | Fifteen and the shoulder | Fifteen and the shoulder. |
+| 04:46 | The Word | The Word. |
+| 05:56 | The work voice | The work voice. |
+| 08:07 | Pushback | Pushback. |
+| 09:22 | This week's challenge | This week's challenge. |
+| 12:48 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
+| 18:24 | Close | Close. |
 
 ---
 

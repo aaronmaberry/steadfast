@@ -16,88 +16,88 @@ E001 exception logged 2026-10-19 (Aaron): replace the earlier 40–45 min / 6,00
 
 | Ep | Title | Words | Runtime | Talk (W/J) | Check |
 |---|---|---|---|---|---|
-| E001 | The Man You Keep Saying You'll Be (launch) | 4,959 | 33:04 | 51 / 49 | PASS 0/0 |
-| E002 | Field Notes: The First Check | 2,199 | 14:40 | 53 / 47 | PASS 0/0 |
-| E003 | Nobody Ever Gave You the Sentence | 2,934 | 19:34 | 52 / 48 | PASS 0/0 |
-| E004 | Field Notes: The Sentence Test | 1,968 | 13:07 | 54 / 46 | PASS 0/0 |
-| E005 | What a Steadfast Man Looks Like | 3,173 | 21:09 | 52 / 48 | PASS 0/0 |
-| E006 | Field Notes: Saying It Out Loud | 2,204 | 14:42 | 50 / 50 | PASS 0/0 |
+| E001 | The Man You Keep Saying You'll Be (launch) | 4,965 | 33:06 | 51 / 49 | PASS 0/0 |
+| E002 | Field Notes: The First Check | 2,209 | 14:44 | 53 / 47 | PASS 0/0 |
+| E003 | Nobody Ever Gave You the Sentence | 2,946 | 19:38 | 51 / 49 | PASS 0/0 |
+| E004 | Field Notes: The Sentence Test | 2,002 | 13:21 | 54 / 46 | PASS 0/0 |
+| E005 | What a Steadfast Man Looks Like | 3,165 | 21:06 | 52 / 48 | PASS 0/0 |
+| E006 | Field Notes: Saying It Out Loud | 2,228 | 14:51 | 51 / 49 | PASS 0/0 |
 | E007 | Waiting Is Not Peace (locked pilot, copied word for word, no SLATE) | 3,138 | 20:55 | 52 / 48 | PASS 0/0 |
-| E008 | Field Notes: The Thing on the Counter | 1,930 | 12:52 | 53 / 47 | PASS 0/0 |
-| E009 | The Weight With Your Name on It | 3,042 | 20:17 | 50 / 50 | PASS 0/0 |
-| E010 | Field Notes: Not Your Load | 1,900 | 12:40 | 55 / 45 | PASS 0/0 |
-| E011 | Somebody Has to Step Out Ahead | 2,800 | 18:40 | 56 / 44 | PASS 0/0 |
-| E012 | Field Notes: Valentine's, Ash Wednesday, and Going First | 1,900 | 12:40 | 58 / 42 | PASS 0/0 |
-| E013 | The Prize That's Gone by Thursday | 2,800 | 18:40 | 58 / 42 | PASS 0/0 |
-| E014 | Field Notes: What Stuck | 1,925 | 12:50 | 56 / 44 | PASS 0/0 |
-| E015 | The Part That's Mine | 2,908 | 19:23 | 59 / 41 | PASS 0/0 |
-| E016 | Field Notes: Inside Job | 1,913 | 12:45 | 52 / 48 | PASS 0/0 |
-| E017 | Skip the House, Run the Room | 2,908 | 19:23 | 50 / 50 | PASS 0/0 |
-| E018 | Field Notes: Which Shape Are You | 1,908 | 12:43 | 55 / 45 | PASS 0/0 |
-| E019 | What Your Anger Is Guarding | 3,043 | 20:17 | 56 / 44 | PASS 0/0 |
-| E020 | Field Notes: Cooling Off Without Checking Out | 1,908 | 12:43 | 58 / 42 | PASS 0/0 |
-| E021 | The Itch and the Drift | 2,821 | 18:48 | 55 / 45 | PASS 0/0 |
-| E022 | Field Notes: Drift Check | 2,023 | 13:29 | 56 / 44 | PASS 0/0 |
-| E023 | Two Gardens | 2,802 | 18:41 | 53 / 47 | PASS 0/0 |
-| E024 | Field Notes: Good Friday | 1,911 | 12:44 | 57 / 43 | PASS 0/0 |
-| E025 | The Father Who Stays | 2,826 | 18:50 | 58 / 42 | PASS 0/0 |
-| E026 | Field Notes: Easter Week Report | 2,052 | 13:41 | 56 / 44 | PASS 0/0 |
-| E027 | The Empty Chair at Your Table | 2,810 | 18:44 | 56 / 44 | PASS 0/0 |
-| E028 | Field Notes: The Chair Report | 2,097 | 13:59 | 54 / 46 | PASS 0/0 |
-| E029 | When Your Dad Is Still Alive | 2,910 | 19:24 | 52 / 48 | PASS 0/0 |
-| E030 | Field Notes: Calling Him Back | 1,906 | 12:42 | 53 / 47 | PASS 0/0 |
-| E031 | When Home Never Handed You Off | 2,805 | 18:42 | 54 / 46 | PASS 0/0 |
-| E032 | Field Notes: Cutting the String | 1,985 | 13:14 | 54 / 46 | PASS 0/0 |
-| E033 | Leave Without Slamming the Door | 2,804 | 18:42 | 54 / 46 | PASS 0/0 |
-| E034 | Field Notes: The Door Report | 1,915 | 12:46 | 54 / 46 | PASS 0/0 |
-| E035 | Your Mom, Mother's Day, and Being a Grown Man | 2,800 | 18:40 | 55 / 45 | PASS 0/0 |
-| E036 | Field Notes: Mother's Day Field Notes | 1,902 | 12:41 | 54 / 46 | PASS 0/0 |
-| E037 | A Man With No Brothers | 2,856 | 19:02 | 54 / 46 | PASS 0/0 |
-| E038 | Field Notes: Season Review: The Father Who Stays | 1,974 | 13:10 | 53 / 47 | PASS 0/0 |
-| E039 | Ask the Man | 2,822 | 18:49 | 53 / 47 | PASS 0/0 |
-| E040 | Field Notes: The Ask Report | 1,900 | 12:40 | 53 / 47 | PASS 0/0 |
-| E041 | These Men Are My Brothers | 2,831 | 18:52 | 54 / 46 | PASS 0/0 |
-| E042 | Field Notes: Memorial Day | 1,908 | 12:43 | 54 / 46 | PASS 0/0 |
-| E043 | No Fixed Star | 2,873 | 19:09 | 54 / 46 | PASS 0/0 |
-| E044 | Field Notes: Finding North | 1,975 | 13:10 | 54 / 46 | PASS 0/0 |
-| E045 | Your Daughter Is Watching | 2,843 | 18:57 | 53 / 47 | PASS 0/0 |
-| E046 | Field Notes: The Daddy-Daughter Report | 1,956 | 13:02 | 54 / 46 | PASS 0/0 |
-| E047 | Give Your Son a Name | 2,814 | 18:46 | 53 / 47 | PASS 0/0 |
-| E048 | Field Notes: Father's Day When It's Complicated | 1,920 | 12:48 | 54 / 46 | PASS 0/0 |
-| E049 | Give Your Son a Hill | 2,832 | 18:53 | 54 / 46 | PASS 0/0 |
-| E050 | Field Notes: The Hill Report | 1,991 | 13:16 | 54 / 46 | PASS 0/0 |
-| E051 | A Day He Will Not Forget | 2,831 | 18:52 | 54 / 46 | PASS 0/0 |
-| E052 | Field Notes: Independence Day | 1,940 | 12:56 | 53 / 47 | PASS 0/0 |
-| E053 | Before Anything Went Wrong | 2,810 | 18:44 | 53 / 47 | PASS 0/0 |
-| E054 | Field Notes: Work It and Keep It | 1,927 | 12:51 | 54 / 46 | PASS 0/0 |
-| E055 | Some Saturdays | 2,800 | 18:40 | 52 / 48 | PASS 0/0 |
-| E056 | Field Notes: The Feeling Isn't the Fire | 2,018 | 13:27 | 56 / 44 | PASS 0/0 |
-| E057 | If There Is No Wife Yet | 2,800 | 18:40 | 56 / 44 | PASS 0/0 |
-| E058 | Field Notes: Not in the Lobby | 1,900 | 12:40 | 54 / 46 | PASS 0/0 |
-| E059 | Know Her | 2,940 | 19:36 | 52 / 48 | PASS 0/0 |
-| E060 | Field Notes: Study Her | 1,979 | 13:12 | 55 / 45 | PASS 0/0 |
-| E061 | Lay It Down | 2,806 | 18:42 | 53 / 47 | PASS 0/0 |
-| E062 | Field Notes: Laying It Down Report | 1,973 | 13:09 | 53 / 47 | PASS 0/0 |
-| E063 | What She Actually Needs | 2,824 | 18:50 | 54 / 46 | PASS 0/0 |
-| E064 | Field Notes: Her Need, Not Mine | 1,904 | 12:42 | 52 / 48 | PASS 0/0 |
-| E065 | The Bed Is a Covenant | 2,841 | 18:56 | 52 / 48 | PASS 0/0 |
-| E066 | Field Notes: Covenant Check | 1,914 | 12:46 | 55 / 45 | PASS 0/0 |
-| E067 | When Marriage Feels Like Roommates | 2,806 | 18:42 | 52 / 48 | PASS 0/0 |
-| E068 | Field Notes: Roommates No More | 2,022 | 13:29 | 55 / 45 | PASS 0/0 |
-| E069 | You Were Made for a Work | 2,880 | 19:12 | 52 / 48 | PASS 0/0 |
-| E070 | Field Notes: Labor Day | 1,962 | 13:05 | 53 / 47 | PASS 0/0 |
-| E071 | What You Build When Nobody Claps | 2,812 | 18:45 | 53 / 47 | PASS 0/0 |
-| E072 | Field Notes: The Unseen Shift | 1,929 | 12:52 | 55 / 45 | PASS 0/0 |
-| E073 | Feelings Are the Dash, Not the Wheel | 2,826 | 18:50 | 54 / 46 | PASS 0/0 |
-| E074 | Field Notes: Dash and Wheel | 1,991 | 13:16 | 55 / 45 | PASS 0/0 |
-| E075 | Every Season Still Counts | 2,819 | 18:48 | 53 / 47 | PASS 0/0 |
-| E076 | Field Notes: Season Swap | 1,960 | 13:04 | 54 / 46 | PASS 0/0 |
-| E077 | When the Job Goes Away | 2,860 | 19:04 | 53 / 47 | PASS 0/0 |
-| E078 | Field Notes: Between Jobs | 1,911 | 12:44 | 55 / 45 | PASS 0/0 |
-| E079 | Grief at the Table | 2,862 | 19:05 | 57 / 43 | PASS 0/0 |
-| E080 | Field Notes: Grief Report | 2,009 | 13:24 | 55 / 45 | PASS 0/0 |
+| E008 | Field Notes: The Thing on the Counter | 1,921 | 12:48 | 52 / 48 | PASS 0/0 |
+| E009 | The Weight With Your Name on It | 3,059 | 20:24 | 50 / 50 | PASS 0/0 |
+| E010 | Field Notes: Not Your Load | 1,940 | 12:56 | 54 / 46 | PASS 0/0 |
+| E011 | Somebody Has to Step Out Ahead | 2,805 | 18:42 | 55 / 45 | PASS 0/0 |
+| E012 | Field Notes: Valentine's, Ash Wednesday, and Going First | 1,989 | 13:16 | 55 / 45 | PASS 0/0 |
+| E013 | The Prize That's Gone by Thursday | 2,946 | 19:38 | 55 / 45 | PASS 0/0 |
+| E014 | Field Notes: What Stuck | 1,926 | 12:50 | 54 / 46 | PASS 0/0 |
+| E015 | The Part That's Mine | 2,869 | 19:08 | 58 / 42 | PASS 0/0 |
+| E016 | Field Notes: Inside Job | 1,951 | 13:00 | 53 / 47 | PASS 0/0 |
+| E017 | Skip the House, Run the Room | 2,864 | 19:06 | 50 / 50 | PASS 0/0 |
+| E018 | Field Notes: Which Shape Are You | 1,935 | 12:54 | 55 / 45 | PASS 0/0 |
+| E019 | What Your Anger Is Guarding | 3,163 | 21:05 | 55 / 45 | PASS 0/0 |
+| E020 | Field Notes: Cooling Off Without Checking Out | 2,177 | 14:31 | 57 / 43 | PASS 0/0 |
+| E021 | The Itch and the Drift | 2,984 | 19:54 | 54 / 46 | PASS 0/0 |
+| E022 | Field Notes: Drift Check | 2,166 | 14:26 | 54 / 46 | PASS 0/0 |
+| E023 | Two Gardens | 2,963 | 19:45 | 52 / 48 | PASS 0/0 |
+| E024 | Field Notes: Good Friday | 2,037 | 13:35 | 57 / 43 | PASS 0/0 |
+| E025 | The Father Who Stays | 2,987 | 19:55 | 55 / 45 | PASS 0/0 |
+| E026 | Field Notes: Easter Week Report | 2,172 | 14:29 | 56 / 44 | PASS 0/0 |
+| E027 | The Empty Chair at Your Table | 2,969 | 19:48 | 55 / 45 | PASS 0/0 |
+| E028 | Field Notes: The Chair Report | 2,235 | 14:54 | 52 / 48 | PASS 0/0 |
+| E029 | When Your Dad Is Still Alive | 2,937 | 19:35 | 51 / 49 | PASS 0/0 |
+| E030 | Field Notes: Calling Him Back | 1,983 | 13:13 | 52 / 48 | PASS 0/0 |
+| E031 | When Home Never Handed You Off | 2,893 | 19:17 | 54 / 46 | PASS 0/0 |
+| E032 | Field Notes: Cutting the String | 2,041 | 13:36 | 53 / 47 | PASS 0/0 |
+| E033 | Leave Without Slamming the Door | 2,898 | 19:19 | 53 / 47 | PASS 0/0 |
+| E034 | Field Notes: The Door Report | 1,937 | 12:55 | 55 / 45 | PASS 0/0 |
+| E035 | Your Mom, Mother's Day, and Being a Grown Man | 2,856 | 19:02 | 55 / 45 | PASS 0/0 |
+| E036 | Field Notes: Mother's Day Field Notes | 1,992 | 13:17 | 53 / 47 | PASS 0/0 |
+| E037 | A Man With No Brothers | 2,930 | 19:32 | 52 / 48 | PASS 0/0 |
+| E038 | Field Notes: Season Review: The Father Who Stays | 1,924 | 12:50 | 50 / 50 | PASS 0/0 |
+| E039 | Ask the Man | 2,800 | 18:40 | 54 / 46 | PASS 0/0 |
+| E040 | Field Notes: The Ask Report | 1,903 | 12:41 | 52 / 48 | PASS 0/0 |
+| E041 | These Men Are My Brothers | 2,862 | 19:05 | 50 / 50 | PASS 0/0 |
+| E042 | Field Notes: Memorial Day | 1,918 | 12:47 | 51 / 49 | PASS 0/0 |
+| E043 | No Fixed Star | 2,820 | 18:48 | 52 / 48 | PASS 0/0 |
+| E044 | Field Notes: Finding North | 1,974 | 13:10 | 53 / 47 | PASS 0/0 |
+| E045 | Your Daughter Is Watching | 2,818 | 18:47 | 53 / 47 | PASS 0/0 |
+| E046 | Field Notes: The Daddy-Daughter Report | 2,032 | 13:33 | 50 / 50 | PASS 0/0 |
+| E047 | Give Your Son a Name | 2,800 | 18:40 | 51 / 49 | PASS 0/0 |
+| E048 | Field Notes: Father's Day When It's Complicated | 1,929 | 12:52 | 50 / 50 | PASS 0/0 |
+| E049 | Give Your Son a Hill | 2,801 | 18:40 | 56 / 44 | PASS 0/0 |
+| E050 | Field Notes: The Hill Report | 1,930 | 12:52 | 54 / 46 | PASS 0/0 |
+| E051 | A Day He Will Not Forget | 2,807 | 18:43 | 53 / 47 | PASS 0/0 |
+| E052 | Field Notes: Independence Day | 1,946 | 12:58 | 50 / 50 | PASS 0/0 |
+| E053 | Before Anything Went Wrong | 2,826 | 18:50 | 54 / 46 | PASS 0/0 |
+| E054 | Field Notes: Work It and Keep It | 1,964 | 13:06 | 50 / 50 | PASS 0/0 |
+| E055 | Some Saturdays | 3,170 | 21:08 | 50 / 50 | PASS 0/0 |
+| E056 | Field Notes: The Feeling Isn't the Fire | 2,272 | 15:09 | 56 / 44 | PASS 0/0 |
+| E057 | If There Is No Wife Yet | 3,066 | 20:26 | 56 / 44 | PASS 0/0 |
+| E058 | Field Notes: Not in the Lobby | 2,109 | 14:04 | 55 / 45 | PASS 0/0 |
+| E059 | Know Her | 3,061 | 20:24 | 53 / 47 | PASS 0/0 |
+| E060 | Field Notes: Study Her | 2,103 | 14:01 | 55 / 45 | PASS 0/0 |
+| E061 | Lay It Down | 2,968 | 19:47 | 51 / 49 | PASS 0/0 |
+| E062 | Field Notes: Laying It Down Report | 2,127 | 14:11 | 52 / 48 | PASS 0/0 |
+| E063 | What She Actually Needs | 3,113 | 20:45 | 52 / 48 | PASS 0/0 |
+| E064 | Field Notes: Her Need, Not Mine | 2,066 | 13:46 | 50 / 50 | PASS 0/0 |
+| E065 | The Bed Is a Covenant | 3,057 | 20:23 | 51 / 49 | PASS 0/0 |
+| E066 | Field Notes: Covenant Check | 2,223 | 14:49 | 54 / 46 | PASS 0/0 |
+| E067 | When Marriage Feels Like Roommates | 3,073 | 20:29 | 50 / 50 | PASS 0/0 |
+| E068 | Field Notes: Roommates No More | 2,234 | 14:54 | 54 / 46 | PASS 0/0 |
+| E069 | You Were Made for a Work | 3,063 | 20:25 | 50 / 50 | PASS 0/0 |
+| E070 | Field Notes: Labor Day | 1,985 | 13:14 | 50 / 50 | PASS 0/0 |
+| E071 | What You Build When Nobody Claps | 3,164 | 21:06 | 51 / 49 | PASS 0/0 |
+| E072 | Field Notes: The Unseen Shift | 2,052 | 13:41 | 51 / 49 | PASS 0/0 |
+| E073 | Feelings Are the Dash, Not the Wheel | 2,821 | 18:48 | 53 / 47 | PASS 0/0 |
+| E074 | Field Notes: Dash and Wheel | 2,136 | 14:14 | 53 / 47 | PASS 0/0 |
+| E075 | Every Season Still Counts | 3,199 | 21:20 | 51 / 49 | PASS 0/0 |
+| E076 | Field Notes: Season Swap | 2,382 | 15:53 | 54 / 46 | PASS 0/0 |
+| E077 | When the Job Goes Away | 3,195 | 21:18 | 52 / 48 | PASS 0/0 |
+| E078 | Field Notes: Between Jobs | 2,198 | 14:39 | 55 / 45 | PASS 0/0 |
+| E079 | Grief at the Table | 3,190 | 21:16 | 54 / 46 | PASS 0/0 |
+| E080 | Field Notes: Grief Report | 2,329 | 15:32 | 53 / 47 | PASS 0/0 |
 
-**Tally:** 80 / 80 PASS (0 fail, 0 warn), re-checked 2026-10-19 after the conversation pass with `check_script.py --quiet --all`. E007 remains the locked pilot (word for word). Conversation pass: spoken contractions, no 3+ same-host runs except E007's locked stack, Jonathon short-line rate under 15%.
+**Tally:** 80 / 80 PASS (0 fail, 0 warn), re-checked 2026-10-19 after conversation pass 2 with `check_script.py --quiet --all`. E007 remains the locked pilot (word for word). Pass 2: host-to-host questions min 6 / avg 14.2 (was min 0 / avg 3.5); reused Sitting-with-it sermon stacks converted to live back-and-forth; max same-host run still 2 except E007; Jonathon short-line rate 5.5% (worst 14.7% on E046).
 
 ## Continuity ledger (overrides + on-air facts)
 

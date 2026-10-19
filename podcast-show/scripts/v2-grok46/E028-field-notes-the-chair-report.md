@@ -5,9 +5,9 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 2,126 (about 14:10 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,235 (about 14:54 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 26 lines (52% of words). JONATHON 24 lines (48% of words), 2 under 12 words (8.3%) |
+| Line balance | WES 28 lines (52% of words). JONATHON 25 lines (48% of words), 2 under 12 words (8.0%) |
 | Focus mark | Pick Up the Weight |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Ephesians 4:29. Board only: Psalm 34:18 |
 | Board cues | 5 (none repeats spoken words) |
@@ -88,6 +88,10 @@ WES: And then you asked Dani. I want the part you still don't agree on, because 
 
 JONATHON: She said, "She's seven. Far away is enough. You don't need to say left." I said she already has far away. She asked if I've got one. Dani said left is a big word for seven. I said it's the true word. Nobody won. We didn't settle it. She still thinks left was too much. I still think she's wrong. Respectfully. She's a nurse. She tells families hard things for a living. I'm telling it with her permission. She does not concede.
 
+WES: Wait, back up. You still don't agree, and you said left anyway. Did you tell her you were going to use the word?
+
+JONATHON: I told her. She does not concede. I said it anyway. That's the report. Unsettled, and said.
+
 [BOARD: Size the truth to the child.]
 
 WES: So what did you actually say, in the room, with the lights off, because the card isn't the girl.
@@ -110,11 +114,11 @@ WES: I know. I'm just saying is a child checking the chair in her own room. She 
 
 WES: We've got a little under eight minutes, and I want the verse, because the question this week is how you talk to your kids about your dad. Paul is talking about mouths, not fathers, and that's the right door.
 
-JONATHON: Ephesians four, twenty-nine. I read it on the floor after she rolled over. "Do not let any unwholesome talk come out of your mouths, but only what is helpful for building others up according to their needs, that it may benefit those who listen." According to their needs. Not my need to explain. Hers. She needed to know it was true, it wasn't scary, and I'm not leaving. That's what built her up.
+JONATHON: Ephesians four, twenty-nine. I read it on the floor after she rolled over. "Do not let any unwholesome talk come out of your mouths, but only what is helpful for building others up according to their needs, that it may benefit those who listen." According to their needs. Not my need to explain. Hers. She needed to know it was true, it wasn't scary, and I'm not leaving. That's what built her up. So which is it? My need to explain twenty-eight years, or her need to know she's safe?
 
 [BOARD: Psalm 34:18 (NIV) · "The Lord is close to the brokenhearted and saves those who are crushed in spirit."]
 
-WES: Unwholesome is two things in a kitchen. The trash talk about your dad. Kids hear your grandfather is a deadbeat and they hear something about half of themselves. And the other unwholesome. The fake-nice. Grandpa is just very busy. That's a lie in a clean shirt. Kids figure those out about age twelve. I gave my oldest a clean shirt at fourteen. Of course he did, buddy. True. Soft. Not the stack. Tuesday I gave him the stack. I can't get fourteen back. I can still talk at seven on Saturday.
+WES: Hers. Unwholesome is two things in a kitchen. The trash talk about your dad. Kids hear your grandfather is a deadbeat and they hear something about half of themselves. And the other unwholesome. The fake-nice. Grandpa is just very busy. That's a lie in a clean shirt. Kids figure those out about age twelve. I gave my oldest a clean shirt at fourteen. Of course he did, buddy. True. Soft. Not the stack. Tuesday I gave him the stack. I can't get fourteen back. I can still talk at seven on Saturday.
 
 JONATHON: A lie in a clean shirt is what I almost wrote on the first card. Far away and we don't see him. She already had the map. She asked if I've got a dad. My dad still has not written. A like is still the last thing. I used the like because it was true. I didn't dress it into a reunion. I wanted a paragraph from Louisiana. I got a heart and a girl who said she would be sad.
 
@@ -128,7 +132,9 @@ JONATHON: If your kids are older they can hold more. They might need your part t
 
 WES: And if your dad was dangerous, the sentence can be, my dad wasn't safe, and that's why you have not met him. You're safe with me. That's true. That's enough for a child. Give the true short line. Then stay for the next question. Stay is the part I failed at fourteen. Stay is the part I'm trying tomorrow night, with newspaper, with a boy who is coming even though he said he wouldn't.
 
-JONATHON: My sister on the lamp. I told her I wanted to replace it. She said, "Don't buy her a lamp. She'll think you're making a point. Take her to pick one out." Mom's birthday is May eighteenth. The plan is that weekend. I will walk a store. I didn't tell Ruby a lamp story. She got a sentence. The lamp is my anger. The sentence is her need. Those aren't the same job.
+JONATHON: My sister on the lamp. I told her I wanted to replace it. She said, "Don't buy her a lamp. She'll think you're making a point. Take her to pick one out." Mom's birthday is May eighteenth. The plan is that weekend. I will walk a store. I didn't tell Ruby a lamp story. She got a sentence. The lamp is my anger. The sentence is her need. Those aren't the same job. Can I ask you something hard? Are you actually going to talk at seven on Saturday, or is the little TV going to win again?
+
+WES: I'll talk. [laughs] He said he wasn't driving twenty minutes to watch me polish shoes, then he asked what time. That's a boy who wants a chair with words in it. I won't hand him a mute.
 
 [BOARD: Take her to choose the light.]
 
@@ -140,12 +146,12 @@ JONATHON: I still want a message. I still check. I still think left was the righ
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. One true sentence, sized for them. Then stop and let them ask.
+WES: Carry this. One true sentence, sized for them. Then stop and let them ask.
 
 JONATHON: And if your kids are holding a brush you forgot, ask before you tell.
 
 WES: Tuesday we sit with a dad who is still alive. Until then: one sentence. Then stop.
 
-JONATHON: Then go say it, and tell us how it went at walksteadfast.com, and find us everywhere at @steadfastwalk.
+JONATHON: Go say it, then tell us at walksteadfast.com, and find us at @steadfastwalk.
 
 [STING 2s]

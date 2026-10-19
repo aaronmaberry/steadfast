@@ -5,9 +5,9 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 3,036 (about 20:14 at 150 wpm, before laughs and pauses) |
+| Spoken words | 3,190 (about 21:16 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 56 lines (53% of words). JONATHON 53 lines (47% of words), 5 under 12 words (9.4%) |
+| Line balance | WES 56 lines (54% of words). JONATHON 53 lines (46% of words), 4 under 12 words (7.5%) |
 | Focus mark | Pick Up the Weight |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Romans 12:15; John 11:33. Board only: Psalm 34:18; John 11:35 |
 | Board cues | 4 |
@@ -52,7 +52,7 @@ WES: About a year of Saturdays at the place. My brother runs it. Fences and a ga
 
 [BOARD: He is not coming to check the fence.]
 
-JONATHON: That's sideways until a tailgate tells the truth. I pick a fight about a dishwasher the day after my birthday. Dani said you're always in a bad mood the day after. I had not named it grief for a living father.
+JONATHON: Wait, back up. First time you cried was fence pliers, and you'd already done a year of Saturdays. Were you working so you wouldn't have to feel it, or so he'd still recognize the place?
 
 ---
 
@@ -60,7 +60,7 @@ JONATHON: That's sideways until a tailgate tells the truth. I pick a fight about
 
 WES: Granddad died in 2014 at ninety-one. I was thirty-nine. At the diner Mr. Abernathy set his fork down, tapped twice. Where'd you put it. A man's going to put it somewhere. Better on a table than in a truck. Tell me one thing about him. I told the cedar Saturdays. Dad on the saw, me on the loppers, Granddad watching from the fence line, never helping, never leaving. We stayed till ten.
 
-JONATHON: After your dad died you skipped four Thursdays. He let you.
+JONATHON: After your dad died you skipped four Thursdays. Did you want him to chase you, or was the let-you the kindness?
 
 WES: Mr. Abernathy's funeral, church past the highway, linemen, about thirty men like me who'd never met. The diner owner gave me the mug. He'd want you to have it. It sat in a cabinet. I stayed away most of a year. When I went back I ordered his breakfast. Two eggs over medium, dry wheat toast. Same waitress. He'd be glad you came back. First time I cried about him.
 
@@ -86,7 +86,7 @@ JONATHON: "When Jesus saw her weeping, and the Jews who had come along with her 
 
 WES: Mourn with. Not improve. Not joke a gate. Sit. Weep if it comes. He was moved. Then he wept. That's permission, not a technique.
 
-JONATHON: I've got improved Dani's oven with questions. That's not mourn with. That's manage. The floor is mourn with.
+JONATHON: I've improved Dani's oven with questions. That's not mourn with. That's manage. Can you sit on a floor without turning it into a quieter quiz?
 
 [BOARD: John 11:35 (NIV) · "Jesus wept."]
 
@@ -102,7 +102,7 @@ JONATHON: She asked, is Grandma going to die. I said someday. She asked, will yo
 
 WES: Last few minutes on what we're actually doing. I take the afternoon off on the anniversary, a week from Thursday, about the fourteenth. Tailgate with my brother. One thing I miss. I want to pick up my youngest after school and bring him. He was six when Granddad died. You don't like that.
 
-JONATHON: I still don't. Leave the boy home the first time. Let two brothers say one thing without a sixteen-year-old managing their faces. I'm unsettled. I'm saying it so it doesn't become a quiet fight.
+JONATHON: I still don't. No, hold on. Are you bringing him so you don't have to cry in front of your brother? Leave the boy home the first time. Let two brothers say one thing without a sixteen-year-old managing their faces. I'm unsettled. I'm saying it so it doesn't become a quiet fight.
 
 WES: I'm unsettled too. I'll sit with it. I won't pretend I already know. I'm asking the boy if he wants to come, not drafting him.
 
@@ -122,248 +122,233 @@ JONATHON: I'll put date night on the day after, in pen. I'll tell her about stee
 
 ---
 
+---
+
 ## SEGMENT 6 · More on a 1
 
-WES: Stay on a crooked barn door a minute, because a man will hear the verse and look for a war. The war is a crooked barn door.
+WES: I didn't cry at the hospital. I went to work Monday. I spoke at the funeral. About a year of Saturdays at the place. Fences and a gate that didn't need it. That's a man putting it in a fence.
 
-JONATHON: I'll be real with you. I can talk about a crooked barn door for twenty minutes and still skip fence pliers tonight, which is why I need a man who will ask me tomorrow whether I did fence pliers. If I fail I will say I failed, not that the week got loud.
+JONATHON: Wait, back up. First time you cried was pliers in your hand, six months in. Were you working so you wouldn't feel it, or working so he'd still recognize the place?
 
-WES: I've walked past a crooked barn door so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up a crooked barn door before you write a speech about it.
+WES: Both. I wanted him to come check the work. She sat on the tailgate and said he is not going to. That's when it landed. I quit with the last fence half done.
 
-JONATHON: Yeah — I'll do the next small thing, and I'll tell the truth about it Friday.
-
+JONATHON: I pick a fight about a dishwasher the day after my birthday. I had not named it grief for a living father. I'm naming it so Dani doesn't have to guess from a mood.
 
 ---
 
 ## SEGMENT 7 · More on a 2
 
-WES: I keep a picture of a crooked barn door in my head when I want to quit. Not a stage. a crooked barn door.
+WES: The brother said well. About the barn door I rehung, the one Dad liked crooked since 1985. The door still hangs straight and bothers him. He won't fix it either. That's two sons keeping a fight with wood.
 
-JONATHON: I want credit for a crooked barn door and I want privacy for a diner mug.
+JONATHON: Should you hang it back crooked? Because I would call that honor, and it might just be a superstition you both refuse to admit.
 
-WES: If I need a prettier assignment than a crooked barn door, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like a crooked barn door, then tell one man.
+WES: I'm not hanging it crooked. I'm also not making it a shrine. Straight bothers him. Crooked bothered me. Grief will use either. The tailgate is better than the door.
 
-JONATHON: I'm doing a diner mug without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
-
+JONATHON: I'll put grief on a calendar, not in a hinge. If I start a fight with a dishwasher I will say the day after is grief, not that she loaded it wrong.
 
 ---
 
 ## SEGMENT 8 · More on a 3
 
-WES: I almost turned a crooked barn door into a testimony before the week was over. That's how I steal a gift.
+WES: Granddad died in 2014 at ninety-one. I was thirty-nine. At the diner Mr. Abernathy set his fork down, tapped twice. Where'd you put it. A man's going to put it somewhere. Better on a table than in a truck.
 
-JONATHON: I keep trying to upgrade a crooked barn door into a program.
+JONATHON: Where had you put it before he asked? Be honest. I put mine in a pipeline call and a loud joke, then I call that being fine.
 
-WES: I'm leaving a crooked barn door unnamed in the report so I don't get paid twice. Coming back to a crooked barn door counts. Narrating a crooked barn door does not.
+WES: In Saturdays that didn't need doing. In a truck. In four skipped Thursdays. He let me skip. Then he asked. Cedar Saturdays. Dad on the saw, me on the loppers, Granddad watching from the fence line, never helping, never leaving.
 
-JONATHON: She didn't ask for a program. She asked for an oven floor. I'm retiring the program and keeping an oven floor, even if an oven floor makes me feel small.
-
+JONATHON: I'll put it on a table. If I put it in a joke Dani will have to translate. I'm done making her translate a day after a birthday I refuse to name.
 
 ---
 
 ## SEGMENT 9 · More on a 4
 
-WES: My dad would have called a crooked barn door Tuesday. I've been wanting a letter for a crooked barn door.
+WES: The mug sat in a cupboard most of a year. I told myself I was honoring him by not using it. I was hiding a table.
 
-JONATHON: If I hide from a crooked barn door I will call it logistics.
+JONATHON: No, hold on. Is a mug in a cabinet respect, or a man hiding a table in a cupboard so he doesn't have to go back to eggs?
 
-WES: I'm retiring the letter. I'm doing a crooked barn door tired, and I'm not writing a paragraph on the way.
+WES: Hiding. Eggs and dry wheat was the first time I cried about him. Get the mug out of the cupboard. Don't make a shrine out of not going back.
 
-JONATHON: I'm done with that name. a crooked barn door is the work. the day after is how I prove I meant it. Ask me Friday about the day after and I won't joke.
-
+JONATHON: I'll take the mug out of the cupboard. If I leave it in I'll admit I'm hiding. Hiding is a kind of vent I pour on a dishwasher instead of a table.
 
 ---
 
 ## SEGMENT 10 · More on a 5
 
-WES: If a crooked barn door feels small, that's a clue you're close. Big feelings like a conference. a crooked barn door likes a kitchen.
+WES: Dani's oven. After a loss on her floor she comes home and cleans it. First year you asked three questions in a row. She said please stop. Now coffee on the counter, you on the kitchen floor where she can see you.
 
-JONATHON: Door likes a kitchen. Single men, a crooked barn door still belongs to you. Divorced men, macaroni theology still belongs to you. I don't get to keep these on a married shelf. I'm doing a crooked barn door and macaroni theology as a person, not as a title.
+JONATHON: That's mourn with. Did the three questions feel like love while you were asking them? Because I still want to improve a person who is just sad.
 
-WES: I've skipped kitchens for conferences. I'm late. I'm still going to a crooked barn door.
+WES: They felt like love. They were management. The floor is mourn with. Coffee is mourn with. A quiz is how a husband tries to be useful and makes the oven smaller.
 
-JONATHON: Hold on. If I miss it I'll say I missed it. I won't hide it in a loud week.
-
+JONATHON: I'll sit on the floor. If I start a quiz I will stop and pick up a rag or just stay. Stay is the harder one. I'm practicing stay.
 
 ---
 
 ## SEGMENT 11 · More on a 6
 
-WES: Stay on a crooked barn door a minute, because a man will hear the verse and look for a war. The war is a crooked barn door.
+WES: Jesus saw her weeping, and the ones with her weeping, and he was deeply moved in spirit and troubled. Then two words. He wept. I can't make a four-word religion out of two, so I needed the chest first.
 
-JONATHON: I'll be real with you. I can talk about a crooked barn door for twenty minutes and still skip a tailgate Thursday tonight, which is why I need a man who will ask me tomorrow whether I did a tailgate Thursday. If I fail I will say I failed, not that the week got loud.
+JONATHON: So which is it? Permission to cry, or permission to be moved and not perform the cry for a room that's watching?
 
-WES: I've walked past a crooked barn door so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up a crooked barn door before you write a speech about it.
+WES: Permission to be moved. Cry if it comes. Don't perform it. Don't refuse it to look stronger than he was. If you need to be stronger than that, you've chosen a smaller god.
 
-JONATHON: That's the one I keep walking past. Ask me Friday whether I picked it up.
-
+JONATHON: I'll let my chest move. If I perform a cry for Ruby I'll stop. She asked if I would cry in front of her. I said yes. Okay, then macaroni. That's enough theology for seven.
 
 ---
 
 ## SEGMENT 12 · More on a 7
 
-WES: I keep a picture of a crooked barn door in my head when I want to quit. Not a stage. a crooked barn door.
+WES: She wanted a yes she could trust, then macaroni. I wanted a longer talk. She didn't.
 
-JONATHON: I want credit for a crooked barn door and I want privacy for church-lot steering.
+JONATHON: [laughs] You wanted a seminar. She wanted a dad. Are you going to turn February into a seminar anyway, because I can feel a talk coming?
 
-WES: If I need a prettier assignment than a crooked barn door, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like a crooked barn door, then tell one man.
+WES: I wanted a seminar. She gave me a yes. I'll tell her in February, not on a porch in October. A reminder a week ahead: Dad calls next week. That's a table, not a speech.
 
-JONATHON: I'm doing church-lot steering without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
-
+JONATHON: I'll tell her in February. If I start a speech I will stop at yes. Yes is the whole thing. Macaroni can have the rest of the night.
 
 ---
 
 ## SEGMENT 13 · More on fence 8
 
-WES: I almost turned fence pliers into a testimony before the week was over. That's how I steal a gift.
+WES: Tailgate with my brother. One thing I miss. I want to bring the youngest. He was six when Granddad died.
 
-JONATHON: I keep trying to upgrade fence pliers into a program. She didn't ask for a program. She asked for a crooked barn door. I'm retiring the program and keeping a crooked barn door, even if a crooked barn door makes me feel small.
+JONATHON: I still don't love that. Are you bringing him so you don't have to cry in front of your brother? Leave him home the first time. Let two brothers say one thing without a sixteen-year-old managing their faces.
 
-WES: I'm leaving fence pliers unnamed in the report so I don't get paid twice. Coming back to fence pliers counts. Narrating fence pliers does not.
+WES: I'm unsettled too. I'll sit with it. I won't pretend I already know. I'm asking the boy if he wants to come, not drafting him. That's the line I can hold this week.
 
-JONATHON: I'm with you. I'll take the small one tonight and I won't write a speech on the way.
-
+JONATHON: I'll tell Dani before February that the day after is grief. We'll plan the evening on purpose. A fight about a dishwasher is a truck. A planned evening is a table.
 
 ---
 
 ## SEGMENT 14 · More on fence 9
 
-WES: My dad would have called fence pliers Tuesday. I've been wanting a letter for fence pliers.
+WES: Near, not finished. A pliers year. A day after you refuse to name. You don't have to hurry up.
 
-JONATHON: If I hide from fence pliers I will call it logistics. I'm done with that name. fence pliers is the work. a diner mug is how I prove I meant it. Ask me Friday about a diner mug and I won't joke.
+JONATHON: How long is it supposed to take? That's the table question I still want. I wanted a number so I could be done. Do you still want a number?
 
-WES: I'm retiring the letter. I'm doing fence pliers tired, and I'm not writing a paragraph on the way.
+WES: I want a number. The psalm does not give one. It gives a nearness. Nearness is better and harder. Hope isn't a hurry. Hope is a table you keep setting.
 
-JONATHON: Yeah — I'll do the next small thing, and I'll tell the truth about it Friday.
-
+JONATHON: I'll stop asking for a deadline. If I ask a man if he's over it I will unsay it and ask about the steak, or the exit.
 
 ---
 
 ## SEGMENT 15 · More on fence 10
 
-WES: If fence pliers feels small, that's a clue you're close. Big feelings like a conference. fence pliers likes a kitchen.
+WES: Put it where a brother can find you. Name one date. Tell one person the sideways thing so they don't have to guess from a dishwasher.
 
-JONATHON: Pliers likes a kitchen. Single men, fence pliers still belongs to you. Divorced men, an oven floor still belongs to you. I don't get to keep these on a married shelf. I'm doing fence pliers and an oven floor as a person, not as a title.
+JONATHON: That's fair, but— what if the brother doesn't want to be found? I can put it out and still be alone. Then I go back to a truck.
 
-WES: I've skipped kitchens for conferences. I'm late. I'm still going to fence pliers.
+WES: Then you put it out anyway. He let me skip four Thursdays. Then he asked. You don't control the ask. You control the table. Mug out. Date in pen. One true thing.
 
-JONATHON: Hold on. If I miss it I'll say I missed it. I won't hide it in a loud week.
-
+JONATHON: I'll put date night on the day after, in pen. I'll tell her about steering his truck in a church lot at seven, in his lap, him on the pedals. That's one thing I miss.
 
 ---
 
 ## SEGMENT 16 · More on fence 11
 
-WES: Stay on fence pliers a minute, because a man will hear the verse and look for a war. The war is fence pliers.
+WES: If he's alive and gone, name the day after. If he died, pick the anniversary and don't go to work like nothing happened. Don't improve the people who sit with you.
 
-JONATHON: I'll be real with you. I can talk about fence pliers for twenty minutes and still skip the day after tonight, which is why I need a man who will ask me tomorrow whether I did the day after. If I fail I will say I failed, not that the week got loud.
+JONATHON: Do you believe the alive-and-gone sentence for me, or is that a courtesy line? Because a living father you can't reach is a weird grief, and I still want it to count.
 
-WES: I've walked past fence pliers so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up fence pliers before you write a speech about it.
+WES: It counts. I watched you pick a fight with a dishwasher for years and call it a mood. That's grief wearing a kitchen. Name it. Plan the evening. Don't make her guess.
 
-JONATHON: That's the one I keep walking past. Ask me Friday whether I picked it up.
-
+JONATHON: I'll name it. If I call it a mood again I want you to say day after. Two words. I'll hate them for a minute. Then I'll put it in pen.
 
 ---
 
 ## SEGMENT 17 · More on fence 12
 
-WES: I keep a picture of fence pliers in my head when I want to quit. Not a stage. fence pliers.
+WES: I rehung a door and called it love. A tailgate told the truth. Put it on a table, not in a hinge.
 
-JONATHON: I want credit for fence pliers and I want privacy for macaroni theology.
+JONATHON: Ask me Friday whether I wrote the date in pen, and whether I told her the truck in the church lot, because I can do a calendar and still skip the sentence.
 
-WES: If I need a prettier assignment than fence pliers, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like fence pliers, then tell one man.
+WES: I'll ask. Pen without a sentence is a spreadsheet. A truck in a church lot is a table. Give her the truck. Let the dishwasher rest.
 
-JONATHON: I'm doing macaroni theology without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
-
+JONATHON: I'll give her the truck. If I skip the sentence I will say I skipped it. I won't hide it in a loud week or a region that needed me. Grief isn't a region.
 
 ---
 
 ## SEGMENT 18 · More on fence 13
 
-WES: I almost turned fence pliers into a testimony before the week was over. That's how I steal a gift.
+WES: Sit. Weep if it comes. That's permission, not a technique you laminate for a group.
 
-JONATHON: I keep trying to upgrade fence pliers into a program. She didn't ask for a program. She asked for a tailgate Thursday. I'm retiring the program and keeping a tailgate Thursday, even if a tailgate Thursday makes me feel small.
+JONATHON: I have improved Dani's oven with questions. Can I actually sit without turning the floor into another kind of quiz, just quieter?
 
-WES: I'm leaving fence pliers unnamed in the report so I don't get paid twice. Coming back to fence pliers counts. Narrating fence pliers does not.
+WES: Sit. Coffee. Visible. If a question rises, swallow it. If a tear comes, let it. If nothing comes, you still sat. Sitting is the work. Useful is sometimes the wreck.
 
-JONATHON: I'm with you. I'll take the small one tonight and I won't write a speech on the way.
-
+JONATHON: I'll sit. If a question rises I'll swallow it and drink the coffee. That's my whole plan. It's smaller than a speech. I'm trying to like small.
 
 ---
 
 ## SEGMENT 19 · More on fence 14
 
-WES: My dad would have called fence pliers Tuesday. I've been wanting a letter for fence pliers.
+WES: A diner. An oven floor. A tailgate. Put it where a brother can find you. I kept waiting for a cleaner hour. The tailgate was the hour.
 
-JONATHON: If I hide from fence pliers I will call it logistics. I'm done with that name. fence pliers is the work. church-lot steering is how I prove I meant it. Ask me Friday about church-lot steering and I won't joke.
+JONATHON: You still want a cleaner hour. I can hear it. Can you live with a tailgate that doesn't resolve the fence?
 
-WES: I'm retiring the letter. I'm doing fence pliers tired, and I'm not writing a paragraph on the way.
+WES: I can live with an unfinished fence. My brother finished it a month later without a word. That's mourn with too. Not every job is mine. Not every tear is a project.
 
-JONATHON: Yeah — I'll do the next small thing, and I'll tell the truth about it Friday.
-
+JONATHON: I'll let some jobs stay half done. If I finish them to look faithful I'll stop. Faithful is a date in pen and a sentence I actually say.
 
 ---
 
 ## SEGMENT 20 · More on a 15
 
-WES: If a diner mug feels small, that's a clue you're close. Big feelings like a conference. a diner mug likes a kitchen.
+WES: On Abernathy's day I order his breakfast every year. That's a date, not a mood. A list a man can keep when a feeling won't cooperate.
 
-JONATHON: Mug likes a kitchen. Single men, a diner mug still belongs to you. Divorced men, a crooked barn door still belongs to you. I don't get to keep these on a married shelf. I'm doing a diner mug and a crooked barn door as a person, not as a title.
+JONATHON: Is five dates a way to be a good son on paper, or do you actually show up on them when the week is ugly?
 
-WES: I've skipped kitchens for conferences. I'm late. I'm still going to a diner mug.
+WES: I have skipped. I'm naming that. This year I write them where I can see them. Dad's day. Dad's birthday. Granddad's. Abernathy's. My mother-in-law's, because she goes quiet every April.
 
-JONATHON: Hold on. If I miss it I'll say I missed it. I won't hide it in a loud week.
-
+JONATHON: I'll write February and November. Her birthday. The 61-year-old's mother. If I skip I will say I skipped, not that a region got loud. Regions always get loud.
 
 ---
 
 ## SEGMENT 21 · More on a 16
 
-WES: Stay on a diner mug a minute, because a man will hear the verse and look for a war. The war is a diner mug.
+WES: How's the okra. That's a table at supper.
 
-JONATHON: I'll be real with you. I can talk about a diner mug for twenty minutes and still skip fence pliers tonight, which is why I need a man who will ask me tomorrow whether I did fence pliers. If I fail I will say I failed, not that the week got loud.
+JONATHON: [laughs] Okra as liturgy. Are we going to make a program out of vegetables, or can a question at a door be enough?
 
-WES: I've walked past a diner mug so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up a diner mug before you write a speech about it.
+WES: A question at a door is enough. I don't need a program. I need to say the name like he said mine, and let it sit, and not improve it into a speech about fathers.
 
-JONATHON: That's the one I keep walking past. Ask me Friday whether I picked it up.
-
+JONATHON: I'll say one thing I miss without improving it. Truck. Pedals. Seven years old. Then I'll shut up. If I add a moral I've grabbed a wheel that isn't mine.
 
 ---
 
 ## SEGMENT 22 · More on a 17
 
-WES: I keep a picture of a diner mug in my head when I want to quit. Not a stage. a diner mug.
+WES: He's near. Being crushed isn't a failure to get over it. It's a location he already chose. You don't have to hurry a location. You set a table in it.
 
-JONATHON: I want credit for a diner mug and I want privacy for an oven floor.
+JONATHON: Will you still try to hurry the boy at the barn? Because quiet makes me nervous, and I fill it, and that's improve wearing care.
 
-WES: If I need a prettier assignment than a diner mug, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like a diner mug, then tell one man.
+WES: He asked, do I have to talk. No. Okay. I'll come. I don't get a seminar in a barn so I feel like a good father.
 
-JONATHON: I'm doing an oven floor without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
-
+JONATHON: I won't fill Ruby's February with a seminar. Yes. Then macaroni. If I start a second paragraph I will stop. She already has the theology. I need to keep it.
 
 ---
 
 ## SEGMENT 23 · More on a 18
 
-WES: I almost turned a diner mug into a testimony before the week was over. That's how I steal a gift.
+WES: If a child asks if you'll cry, say yes. One date. One true thing. That's a week that wanted a truck and got a table.
 
-JONATHON: I keep trying to upgrade a diner mug into a program. She didn't ask for a program. She asked for the day after. I'm retiring the program and keeping the day after, even if the day after makes me feel small.
+JONATHON: Ask me Friday whether the date is in pen, and whether I sat on a floor instead of a quiz, because I can do pen and still interrogate an oven.
 
-WES: I'm leaving a diner mug unnamed in the report so I don't get paid twice. Coming back to a diner mug counts. Narrating a diner mug does not.
+WES: I'll ask. Pen and a floor. Not a quiz. Not a hinge you fight with your brother. A tailgate. A mug out. A yes at macaroni.
 
-JONATHON: I'm with you. I'll take the small one tonight and I won't write a speech on the way.
+JONATHON: Pen. Floor. Truck sentence. Yes. If I skip I will say I skipped. I won't call it a loud week.
 
 
 ---
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. Put it on a table. Mourn with. Don't improve it.
+WES: Carry this. Put it on a table. Mourn with. Don't improve it.
 
 JONATHON: And if a child asks if you'll cry, say yes.
 
-WES: Friday we check the calendar. Until then: one date, one true thing.
+WES: Friday we check the calendar. One date, one true thing.
 
-JONATHON: Then go sit with it, and tell us how it went at walksteadfast.com, and find us everywhere at @steadfastwalk.
+JONATHON: Go sit with somebody, then tell us at walksteadfast.com, and find us at @steadfastwalk.
 
 [STING 2s]

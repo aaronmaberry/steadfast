@@ -5,9 +5,9 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 1,903 (about 12:41 at 150 wpm, before laughs and pauses) |
+| Spoken words | 1,940 (about 12:56 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 25 lines (55% of words). JONATHON 24 lines (45% of words), 1 under 12 words (4.2%) |
+| Line balance | WES 26 lines (54% of words). JONATHON 25 lines (46% of words), 0 under 12 words (0.0%) |
 | Focus mark | Pick Up the Weight |
 | Scripture (NIV, verified 2026-10-19) | Spoken: 1 Peter 5:7. Board only: Psalm 55:22 |
 | Board cues | 4 (none repeats spoken words) |
@@ -44,7 +44,7 @@ JONATHON: And I'll tell you what Dani said after she took the garage back.
 
 ## SEGMENT 1 · Check the box
 
-WES: Let's take the next few minutes on what we actually did. Knees first, because I already used the funny picture.
+WES: Let's take the next few minutes on what we actually did. Knees first, because I already used the funny picture. You want the diagnosis or the screenshot?
 
 JONATHON: Knees first, and then the part you sat with in the truck, because a thumbs-up isn't a diagnosis.
 
@@ -68,7 +68,7 @@ JONATHON: She signs your name better than you do, and you got the credit. Yeah, 
 
 WES: Wednesday night we put every birthday in my phone. Reminder a week before. My little brother's is March eleventh. I'm buying the card myself. I'm signing it myself. He's going to think somebody else wrote it. He might be right about the handwriting.
 
-JONATHON: And the other pile. What are you carrying that's not yours?
+JONATHON: And the other pile. No, hold on. What are you carrying that's not yours, because I can already hear you picking the articles back up?
 
 WES: My oldest son's job. He's twenty-one, he's in an apprenticeship, and he's deciding whether to stay after he tops out. I've been sending articles. I've been asking every time he calls. I've been lying awake running numbers on a job that's not mine. I wrote it down. "His job. His." That's all I did so far. Friday is the tool, and I need the tool, because I can feel myself picking the articles back up already. I've got a draft in my phone I haven't sent. That counts as carrying it.
 
@@ -76,7 +76,7 @@ WES: My oldest son's job. He's twenty-one, he's in an apprenticeship, and he's d
 
 ## SEGMENT 2 · The kitchen table
 
-WES: Box checked on my side. Now you, and I want Wednesday night first.
+WES: Box checked on my side. Now you. What did Wednesday night actually cost, not the tidy version?
 
 JONATHON: After bath, Dani and I sat at the kitchen table and decided who raises the kids. Two hours. There was crying. Both of us. You sit there and you say out loud, "If we both died," and then you have to keep talking. We picked Dani's parents for now, because the kids know them and they're close. My sister as the backup. We'll look at it again in five years, because her parents are in their seventies and that's the honest thing. Then Dani said, "Okay. Good." And went to bed. About a minute later she came back out and said, "Thank you." And went back to bed.
 
@@ -84,7 +84,7 @@ WES: [quietly] That's the whole thing. That's what she was waiting for. Three ye
 
 JONATHON: The lawyer was Thursday at four-thirty, and it was the most boring hour of my life, and I loved it. We sign on the eighteenth. Then she showed me the spreadsheet. She bought yellow sticky notes on purpose, because she heard you. I know where the mortgage comes out. It's the third. I know the password. I'm not saying it here.
 
-WES: Please don't. I don't need your password on a Friday. Then the question.
+WES: Please don't. I don't need your password on a Friday. Then the question. What did she say was yours?
 
 JONATHON: "What do you carry around here that's really mine?" She said, "The garage." Then, "No, wait. The garage is mine. I'm the one who wanted the shelves." She thought a second. Then she said, "Your mom. I'm the one who calls her back." My mom calls on Sundays. I miss it. I see it and I think I'll call later. Dani calls her back. Every week. For years. Because she doesn't want my mom to feel forgotten.
 
@@ -118,7 +118,11 @@ JONATHON: So the stuff that isn't mine, and isn't anybody's I can hand it to, go
 
 WES: That part goes to God. The sentence I've been working on for my son is, "That's your call. I trust you. And if you want to talk it through, I'm here." Then I don't send him any articles. The articles are me taking it back.
 
-JONATHON: No articles. I'll hold you to that, because you will find a very helpful link by Sunday if nobody says it twice.
+JONATHON: No articles. Wait, are you actually going to delete that draft, or am I going to get a "helpful link" by Sunday?
+
+WES: I'm deleting the draft. If I send it, you can screenshot that too.
+
+JONATHON: [laughs] I will. That's the only reason I trust you on this one.
 
 ---
 
@@ -126,7 +130,7 @@ JONATHON: No articles. I'll hold you to that, because you will find a very helpf
 
 WES: Last few minutes on a tool you can use tonight. I'm drawing a line down a legal pad. Left side, "Mine." Right side, "Not mine."
 
-JONATHON: Very high-tech. Tell me the rule, because if you leave this fuzzy I will write three things and call it done.
+JONATHON: Very high-tech. What's the rule, because if you leave this fuzzy I will write three things and call it done?
 
 WES: Sit down for ten minutes. Use the chicken if you have to. Write everything you're carrying. Everything on your mind, on your calendar, keeping you up at two in the morning. Put each one in a column. If you can't tell, run the test from Tuesday. If I carry it, does somebody else get lighter? Yes, left. No, probably right. Don't cheat and put the hard ones in the middle. There is no middle. The middle is how the dashboard light stays on.
 
@@ -144,11 +148,11 @@ WES: Look around your house this week. If you're a divorced dad, half your right
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. If it isn't yours, it still belongs to somebody. Hand it back, or hand it up. Don't throw it on the floor and walk away like that's holiness.
+WES: Carry this. If it isn't yours, it still belongs to somebody. Hand it back, or hand it up.
 
 JONATHON: And sometimes you're so busy with the part that isn't yours, you drop the part that is.
 
-WES: Tuesday we talk about going first. Until then: two columns. A name on every single line.
+WES: Tuesday we talk about going first. Until then: two columns. A name on every line.
 
 JONATHON: Then go draw the line, and tell us how it went at walksteadfast.com, and find us everywhere at @steadfastwalk.
 

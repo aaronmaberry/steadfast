@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,072 spoken words, about 13:49). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,234 spoken words, about 14:54). Re-time them against the final edit before publishing.
 
 ---
 
@@ -35,26 +35,26 @@ Christian men podcast, marriage, 1 Corinthians 13:4, Field Notes, Walk Steadfast
 |---|---|---|
 | 00:00 | Open | Open |
 | 00:44 | The duck | The duck |
-| 01:46 | Rain boots | Rain boots |
-| 02:21 | The Word | The Word |
-| 03:05 | Finish something | Finish something |
-| 04:12 | Lead | Lead |
-| 05:06 | Catfish booth | Catfish booth |
-| 05:33 | Porch ten | Porch ten |
-| 05:57 | Cookies | Cookies |
-| 06:20 | Hold that | Hold that |
-| 06:41 | Long fall | Long fall |
-| 06:58 | What we failed | What we failed |
-| 07:16 | More on the 1 | More on the 1 |
-| 08:06 | More on the 2 | More on the 2 |
-| 08:46 | More on the 3 | More on the 3 |
-| 09:28 | More on the 4 | More on the 4 |
-| 10:04 | More on the 5 | More on the 5 |
-| 10:43 | More on the 6 | More on the 6 |
-| 11:33 | More on the 7 | More on the 7 |
-| 12:13 | More on the 8 | More on the 8 |
-| 12:55 | More on the 9 | More on the 9 |
-| 13:28 | Close | Close |
+| 01:58 | Rain boots | Rain boots |
+| 02:36 | The Word | The Word |
+| 03:27 | Finish something | Finish something |
+| 04:49 | Lead | Lead |
+| 05:50 | Catfish booth | Catfish booth |
+| 06:26 | Porch ten | Porch ten |
+| 07:02 | Cookies | Cookies |
+| 07:36 | Hold that | Hold that |
+| 08:09 | Long fall | Long fall |
+| 08:38 | What we failed | What we failed |
+| 08:56 | More on the 1 | More on the 1 |
+| 09:33 | More on the 2 | More on the 2 |
+| 10:12 | More on the 3 | More on the 3 |
+| 10:48 | More on the 4 | More on the 4 |
+| 11:23 | More on the 5 | More on the 5 |
+| 11:58 | More on the 6 | More on the 6 |
+| 12:31 | More on the 7 | More on the 7 |
+| 13:12 | More on the 8 | More on the 8 |
+| 13:50 | More on the 9 | More on the 9 |
+| 14:38 | Close | Close |
 
 ---
 

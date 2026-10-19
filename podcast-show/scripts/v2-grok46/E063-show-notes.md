@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,821 spoken words, about 18:48). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (3,113 spoken words, about 20:45). Re-time them against the final edit before publishing.
 
 ---
 
@@ -35,19 +35,19 @@ Christian men podcast, marriage, 1 Corinthians 10:24, what she needs, Walk Stead
 |---|---|---|
 | 00:00 | Open | Open |
 | 00:50 | The kitchen alone | The kitchen alone |
-| 02:28 | The living room | The living room |
-| 04:09 | Curtains and a rabbit | Curtains and a rabbit |
-| 05:29 | The Word | The Word |
-| 06:31 | Pushback | Pushback |
-| 07:56 | The challenge | The challenge |
-| 09:09 | Mother and the barn | Mother and the barn |
-| 10:24 | The scan week | The scan week |
-| 11:46 | Thursday night | Thursday night |
-| 13:03 | Men who fix feelings | Men who fix feelings |
-| 14:18 | The doorway hour | The doorway hour |
-| 15:43 | Chicken and rice | Chicken and rice |
-| 17:11 | What we're actually doing | What we're actually doing |
-| 18:26 | Close | Close |
+| 02:47 | The living room | The living room |
+| 04:34 | Curtains and a rabbit | Curtains and a rabbit |
+| 06:14 | The Word | The Word |
+| 07:25 | Pushback | Pushback |
+| 09:08 | The challenge | The challenge |
+| 10:31 | Mother and the barn | Mother and the barn |
+| 11:53 | The scan week | The scan week |
+| 13:24 | Thursday night | Thursday night |
+| 14:45 | Men who fix feelings | Men who fix feelings |
+| 16:03 | The doorway hour | The doorway hour |
+| 17:32 | Chicken and rice | Chicken and rice |
+| 19:08 | What we're actually doing | What we're actually doing |
+| 20:28 | Close | Close |
 
 ---
 

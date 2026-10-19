@@ -5,9 +5,9 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm |
-| Spoken words | 1,947 (about 12:59 at 150 wpm, before laughs and pauses) |
+| Spoken words | 1,992 (about 13:17 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 24 lines (53% of words). JONATHON 23 lines (47% of words), 1 under 12 words (4.3%) |
+| Line balance | WES 25 lines (53% of words). JONATHON 24 lines (47% of words), 1 under 12 words (4.2%) |
 | Focus mark | Work for God's Pay |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Proverbs 31:28. Board only: Proverbs 1:8 |
 | Board cues | 4 (none repeats spoken words) |
@@ -126,18 +126,22 @@ WES: I've watched men collect stories like this and never change a Tuesday. Don'
 
 JONATHON: I'm the man who collects stories. I've got a notes app full of them. The only ones that count are the ones that got a day and a time and a person who knows I said I would do it.
 
-WES: Before we go I want the listener who thinks this does not apply because his house is quieter. Quiet isn't settled. You already know that if you have sat through a polite holiday and called it peace.
+WES: Wait, back up. A man might think this doesn't apply because his house is quieter. Quieter than a polite holiday he called peace?
 
-JONATHON: My house can be loud and still be a cease-fire. Volume isn't the test. The test is whether the true thing got said to the person who had to hear it, not to a mug at this table.
+JONATHON: My house can be loud and still be a cease-fire. Volume isn't the test. The test is whether the true thing got said to her, not to a mug. Can I ask you something hard? Are the six lines written, or still in your head because the crust might be store-bought?
+
+WES: They're written. Clumsy. She can name the crust. So which is it for you? Six honest lines before Sunday, or another cease-fire with pie on it?
+
+JONATHON: [laughs] Six lines. If I wait for a better note I won't write. That's fair, but— I still want the lobby speech. I won't give it. The note is the honor.
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. Call her blessed while she can still hear it. Or tell the true story if she can't, and tell it small.
+WES: Carry this. Call her blessed while she can still hear it. Or tell the true story if she can't, and tell it small.
 
 JONATHON: And a store crust still counts if you stand there and make it, and you let her name the crust without a defense.
 
 WES: Tuesday we talk about a man with no brothers. Until then: one note, six lines, in your own hand, before Sunday.
 
-JONATHON: Then go write those six honest lines, and tell us how it went at walksteadfast.com, and find us everywhere at @steadfastwalk.
+JONATHON: Go write those six honest lines, then tell us at walksteadfast.com, and find us at @steadfastwalk.
 
 [STING 2s]

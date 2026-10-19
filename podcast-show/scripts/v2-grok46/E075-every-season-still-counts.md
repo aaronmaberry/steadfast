@@ -5,9 +5,9 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 3,106 (about 20:42 at 150 wpm, before laughs and pauses) |
+| Spoken words | 3,199 (about 21:20 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 58 lines (50% of words). JONATHON 57 lines (50% of words), 1 under 12 words (1.8%) |
+| Line balance | WES 57 lines (51% of words). JONATHON 56 lines (49% of words), 1 under 12 words (1.8%) |
 | Focus mark | Pick Up the Weight |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Proverbs 20:29. Board only: Titus 2:2; Psalm 92:14 |
 | Board cues | 4 |
@@ -52,19 +52,19 @@ WES: I kept the speech about staying. On the drive the boy said he's eighty-one 
 
 [BOARD: Hand the tool. Keep the speech.]
 
-JONATHON: That's gray hair teaching strength without a lecture. I've got lectured 24-year-olds with less in my hands.
+JONATHON: Wait, back up. Did you actually keep the speech, or did you leak it on the drive and call it debrief? I've leaked speeches in a truck with a 24-year-old in the next seat.
 
 ---
 
 ## SEGMENT 2 · When Theo's in school
 
-WES: You have a phrase. I want to hear it, because I've been using one of my own to store a season I should have been living.
+WES: You have a phrase. What is it, for real, not the cute porch version? I've been using one of my own to store a season I should have been living.
 
 JONATHON: When Theo's in school. Kindergarten next August. We haven't had family over for supper in about four years. Sunday I asked a couple from class, three kids under six. Spaghetti for nine. Theo threw a meatball. Milk on the couch. The husband said everybody's waiting for their kids to be older. We stayed till ten. They're coming back in two weeks.
 
 WES: You retired a lobby. Good. I've been a good ghost at work. Writing a review self-summary I could not name anything I had started. I don't know the youngest man on my floor's name. Retirement is more than ten years out if I do it right. The youngest has two years at home.
 
-JONATHON: A good ghost is a season you treat like a waiting room. The verse won't let you.
+JONATHON: A good ghost is a season you treat like a waiting room. Can you even name the youngest man on your floor, or is that still a rumor you'll fix after October?
 
 ---
 
@@ -98,7 +98,7 @@ WES: Thursday the older one said, I've got three years. I don't want to spend th
 
 [BOARD: Psalm 92:14 (NIV) · "They will still bear fruit in old age, they will stay fresh and green,"]
 
-JONATHON: I asked the 61-year-old for one thing I'm doing wrong as a manager. That's how I stop being a ghost to the men I lead.
+JONATHON: Can I ask you something hard? Are you picking the youngest for lunch because you like him, or because the verse is staring at you? I asked the 61-year-old for one thing I'm doing wrong as a manager. I didn't defend myself in the first minute.
 
 ---
 
@@ -114,278 +114,257 @@ JONATHON: I'll host again in two weeks. I'll walk the wagon. I'll ask the 61-yea
 
 ---
 
+---
+
 ## SEGMENT 6 · More on the 1
 
-WES: Stay on the three-eighths a minute, because a man will hear the verse and look for a war. The war is the three-eighths.
+WES: I wanted a sermon under a widow's car. I handed a wrench. I'm still learning the wrench is the sermon, and the speech can wait in the truck where it can't wreck a Saturday.
 
-JONATHON: I'll be real with you. I can talk about the three-eighths for twenty minutes and still skip a thrown meatball tonight, which is why I need a man who will ask me tomorrow whether I did a thrown meatball. If I fail I will say I failed, not that the week got loud.
+JONATHON: Wait, back up. Did you actually keep the speech, or did you leak it on the drive and call it debrief? I leak speeches in a truck and call them love.
 
-WES: I've walked past the three-eighths so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up the three-eighths before you write a speech about it.
+WES: I kept it. He said the lady gets to work Monday. That was his sermon. Mine would have been about staying, and it would have made him smaller.
 
-JONATHON: Yeah — I'll do the next small thing, and I'll tell the truth about it Friday.
-
+JONATHON: I've lectured 24-year-olds with less in my hands than a three-eighths. I'm retiring the lecture. If I start one I will stop and ask for a tool instead.
 
 ---
 
 ## SEGMENT 7 · More on the 2
 
-WES: I keep a picture of the three-eighths in my head when I want to quit. Not a stage. the three-eighths.
+WES: He's twenty-one. Monthly. Rear brakes. Real life starts when he tops out, about a year and a half. Gray hair under a car already has a real life. He saw it. I almost missed it talking.
 
-JONATHON: I want credit for the three-eighths and I want privacy for when I can't.
+JONATHON: So which is it? Is topping out a date, or a lobby you taught him to wait in? Because I taught Theo a lobby called when he's in school.
 
-WES: If I need a prettier assignment than the three-eighths, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like the three-eighths, then tell one man.
+WES: It's a date for a raise. It is not a date for becoming a man. Eighty-one under a car already answered that, and I almost drowned it in opinions.
 
-JONATHON: I'm doing when I can't without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
-
+JONATHON: I'll stop storing life in August. This year's gym is a walk with a wagon after supper. I already have a five-year-old. Pancake is on a Saturday we actually have.
 
 ---
 
 ## SEGMENT 8 · More on the 3
 
-WES: I almost turned the three-eighths into a testimony before the week was over. That's how I steal a gift.
+WES: You hadn't had family over in four years. Sunday you asked a couple from class. Spaghetti for nine. Theo threw a meatball. Milk on the couch. Nobody left. That's a season that counted.
 
-JONATHON: I keep trying to upgrade the three-eighths into a program. She didn't ask for a program. She asked for a wagon walk. I'm retiring the program and keeping a wagon walk, even if a wagon walk makes me feel small.
+JONATHON: [laughs] The milk is still in the cushion, I think. Did staying till ten feel like leadership, or like you finally stopped waiting for a cleaner house?
 
-WES: I'm leaving the three-eighths unnamed in the report so I don't get paid twice. Coming back to the three-eighths counts. Narrating the three-eighths does not.
+WES: Leadership is a big word for spaghetti. You retired a lobby. The husband said everybody's waiting for their kids to be older. You didn't. They're coming back in two weeks.
 
-JONATHON: Hold on. If I miss it I'll say I missed it. I won't hide it in a loud week.
-
+JONATHON: I'll host again. If I cancel because the house isn't pretty I will say I cancelled from fear, not from logistics. Fear likes a mop. I'm putting the mop down after people sit.
 
 ---
 
 ## SEGMENT 9 · More on the 4
 
-WES: My dad would have called the three-eighths Tuesday. I've been wanting a letter for the three-eighths.
+WES: I was a good ghost at work. Writing a review self-summary I could not name anything I had started. I don't know the youngest man on my floor. That's a waiting room with a badge.
 
-JONATHON: If I hide from the three-eighths I will call it logistics. I'm done with that name. the three-eighths is the work. a good ghost is how I prove I meant it. Ask me Friday about a good ghost and I won't joke.
+JONATHON: Can you even pick him out of a lineup, or is he still a rumor you tell yourself you'll fix after October's review?
 
-WES: I'm retiring the letter. I'm doing the three-eighths tired, and I'm not writing a paragraph on the way.
+WES: I can pick him. Two years at home. I have been too proud to walk ten yards. Pride called itself being busy. Busy is how a ghost stays employed.
 
-JONATHON: That's the one I keep walking past. Ask me Friday whether I picked it up.
-
+JONATHON: I only text the reps who are winning. The others hear from me when something's wrong. That's a ghost with a region title. I'm walking toward the quiet ones this week.
 
 ---
 
 ## SEGMENT 10 · More on the 5
 
-WES: If the three-eighths feels small, that's a clue you're close. Big feelings like a conference. the three-eighths likes a kitchen.
+WES: Sunday I asked the youngest to teach me to weld. He said I would have to wear the hood right. Then, slow down at the end. That's glory in a visor, and I wanted to skip to competent.
 
-JONATHON: Eighths likes a kitchen. Single men, the three-eighths still belongs to you. Divorced men, contractor breakfast still belongs to you. I don't get to keep these on a married shelf. I'm doing the three-eighths and contractor breakfast as a person, not as a title.
+JONATHON: Did slowing down at the end make you mad? Because I get mad when a younger man knows something I don't, and I cover it with a joke.
 
-WES: I've skipped kitchens for conferences. I'm late. I'm still going to the three-eighths.
+WES: It made me small in the right way. I wanted a bead that looked like I'd always known. He made me earn an ugly one. That's this year, not a later one.
 
-JONATHON: I'm with you. I'll take the small one tonight and I won't write a speech on the way.
-
+JONATHON: I'll ask the 24-year-old to show me the new software without faking I already get it. Faking it a year is how the 61-year-old went dead in a cubicle.
 
 ---
 
 ## SEGMENT 11 · More on the 6
 
-WES: Stay on the three-eighths a minute, because a man will hear the verse and look for a war. The war is the three-eighths.
+WES: My mother is seventy-eight. Monthly pot roast. I asked when she was going to let somebody else do this. She said when I can't. That's splendor with a Dutch oven.
 
-JONATHON: I'll be real with you. I can talk about the three-eighths for twenty minutes and still skip hood worn right tonight, which is why I need a man who will ask me tomorrow whether I did hood worn right. If I fail I will say I failed, not that the week got loud.
+JONATHON: No, hold on. Were you asking because you were worried, or because you wanted her season to look more like a farewell tour you could manage?
 
-WES: I've walked past the three-eighths so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up the three-eighths before you write a speech about it.
+WES: Both. I wanted to be useful. She wanted to keep her table. When I can't is a season that still counts. I'm not taking the roast from her to feel like a good son.
 
-JONATHON: Yeah — I'll do the next small thing, and I'll tell the truth about it Friday.
-
+JONATHON: Dani's dad is seventy-four and one-word answers. I used to wait for a better conversation. The water was there the whole time. I'm done waiting for his personality to change.
 
 ---
 
 ## SEGMENT 12 · More on the 7
 
-WES: I keep a picture of the three-eighths in my head when I want to quit. Not a stage. the three-eighths.
+WES: Strength isn't a waiting room for gray. Gray isn't a consolation prize. Splendor is an 81-year-old asking for a three-eighths. Glory is a 21-year-old who can see Monday.
 
-JONATHON: I want credit for the three-eighths and I want privacy for two years at home.
+JONATHON: I've got a 61-year-old riding it out, three years left, and a 24-year-old just paying dues. One cubicle wall. Which one are you more afraid of becoming?
 
-WES: If I need a prettier assignment than the three-eighths, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like the three-eighths, then tell one man.
+WES: The dead three years. I can already feel them from here. A contractor breakfast in October is how he woke up. I want that more than a clean self-summary.
 
-JONATHON: I'm doing two years at home without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
-
+JONATHON: I asked the 61-year-old for one thing I'm doing wrong as a manager. He took a breath like I'd handed him a live wire. I didn't defend myself in the first minute.
 
 ---
 
 ## SEGMENT 13 · More on a 8
 
-WES: I almost turned a thrown meatball into a testimony before the week was over. That's how I steal a gift.
+WES: Tuesday the veteran took the kid to a twenty-year contractor. He knew the grandkids' names. The kid figured out their new software in five minutes. The veteran had been faking it a year.
 
-JONATHON: I keep trying to upgrade a thrown meatball into a program. She didn't ask for a program. She asked for the three-eighths. I'm retiring the program and keeping the three-eighths, even if the three-eighths makes me feel small.
+JONATHON: That's fair, but— is faking software the same sin as storing a year in August? Because both are a man refusing the season he's standing in.
 
-WES: I'm leaving a thrown meatball unnamed in the report so I don't get paid twice. Coming back to a thrown meatball counts. Narrating a thrown meatball does not.
+WES: Same family. One hides incompetence. One hides life. Both steal Monday from a widow who needed brakes, and from a boy who needed a real table.
 
-JONATHON: Hold on. If I miss it I'll say I missed it. I won't hide it in a loud week.
-
+JONATHON: I'll stop faking the part of the calendar I don't like. If I don't know a name ten yards away I will ask it like a man, not like a manager collecting trivia.
 
 ---
 
 ## SEGMENT 14 · More on a 9
 
-WES: My dad would have called a thrown meatball Tuesday. I've been wanting a letter for a thrown meatball.
+WES: Titus isn't a farewell tour. Older men first, because if they go soft the whole house goes soft. Endurance is a lunch, not a plaque at a retirement sheet cake.
 
-JONATHON: If I hide from a thrown meatball I will call it logistics.
+JONATHON: So teach means I don't get to check out at 61 and call it paying dues in reverse?
 
-WES: I'm retiring the letter. I'm doing a thrown meatball tired, and I'm not writing a paragraph on the way.
+WES: Teach means stay sound. Temperate. Self-controlled. Love and endurance. That's a pot roast and a wrench and a name you should have asked two years ago.
 
-JONATHON: I'm done with that name. a thrown meatball is the work. when I can't is how I prove I meant it. Ask me Friday about when I can't and I won't joke.
-
+JONATHON: I'll stay in. If I start riding it out I want you to say so out loud, not wait until I've spent three years dead and called it professionalism.
 
 ---
 
 ## SEGMENT 15 · More on a 10
 
-WES: If a thrown meatball feels small, that's a clue you're close. Big feelings like a conference. a thrown meatball likes a kitchen.
+WES: Late fruit is not a slogan. It's an 81-year-old under a car and a 78-year-old who won't give up a roast. A bead I haven't earned yet is enough green for me.
 
-JONATHON: Meatball likes a kitchen. Single men, a thrown meatball still belongs to you. Divorced men, a wagon walk still belongs to you. I don't get to keep these on a married shelf. I'm doing a thrown meatball and a wagon walk as a person, not as a title.
+JONATHON: [laughs] You're going to burn a hole in a coupon and call it discipleship. Are you actually going to wear the hood, or buy a machine and hide?
 
-WES: I've skipped kitchens for conferences. I'm late. I'm still going to a thrown meatball.
+WES: I'm wearing the hood. Slow down at the end. That's the whole class. I don't need a shop. I need a son who still lets me be a student.
 
-JONATHON: That's the one I keep walking past. Ask me Friday whether I picked it up.
-
+JONATHON: I'll walk the wagon. If I skip it because a meeting ran long I will say I skipped a season, not that the week got loud. The week is always loud.
 
 ---
 
 ## SEGMENT 16 · More on a 11
 
-WES: Stay on a thrown meatball a minute, because a man will hear the verse and look for a war. The war is a thrown meatball.
+WES: If you're 22, your season counts without topping out. If you're 62, your season counts without a farewell tour. If you're divorced, you can still sit at a table that isn't a waiting room.
 
-JONATHON: I'll be real with you. I can talk about a thrown meatball for twenty minutes and still skip a good ghost tonight, which is why I need a man who will ask me tomorrow whether I did a good ghost. If I fail I will say I failed, not that the week got loud.
+JONATHON: Do you believe that for the divorced man, or is that a sentence you put in for fairness? Because HVAC will hand me a lonely Saturday and I will call it logistics.
 
-WES: I've walked past a thrown meatball so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up a thrown meatball before you write a speech about it.
+WES: I believe it. A table is a table. Spaghetti for nine was not a married flex. It was a house that stopped waiting. Divorced men can boil water and ask somebody over.
 
-JONATHON: I'm with you. I'll take the small one tonight and I won't write a speech on the way.
-
+JONATHON: I'll ask a man who eats alone. Not a project. A plate. If I make it a program I've turned a season into a brand, and I'm trying to quit that.
 
 ---
 
 ## SEGMENT 17 · More on a 12
 
-WES: I keep a picture of a thrown meatball in my head when I want to quit. Not a stage. a thrown meatball.
+WES: Look around the house. The youngest has two years. I can learn a bead. I can learn a name.
 
-JONATHON: I want credit for a thrown meatball and I want privacy for contractor breakfast.
+JONATHON: What are you picking, the lunch or the hood, because if you pick four you'll do a speech about all four and none of the work?
 
-WES: If I need a prettier assignment than a thrown meatball, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like a thrown meatball, then tell one man.
+WES: Lunch with the youngest man on the floor. Monthly. A name. I'm not storing that in October. October can have the review. This week can have a sandwich.
 
-JONATHON: I'm doing contractor breakfast without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
-
+JONATHON: I'm picking the wagon and the hard question to the 61-year-old. If I defend myself in the first minute I've gone back to being a ghost with a clipboard.
 
 ---
 
 ## SEGMENT 18 · More on a 13
 
-WES: I almost turned a thrown meatball into a testimony before the week was over. That's how I steal a gift.
+WES: Handing a tool is how gray hair teaches without a lecture. I wanted a talk about staying. The widow said you boys are a blessing. That was enough sentence for a Saturday.
 
-JONATHON: I keep trying to upgrade a thrown meatball into a program. She didn't ask for a program. She asked for hood worn right. I'm retiring the program and keeping hood worn right, even if hood worn right makes me feel small.
+JONATHON: Did the blessing make you proud in a way you need to confess? Because I get high on being useful and then I want a story.
 
-WES: I'm leaving a thrown meatball unnamed in the report so I don't get paid twice. Coming back to a thrown meatball counts. Narrating a thrown meatball does not.
+WES: It made me proud. I'm naming it so it doesn't become a speech I give later. The blessing belonged to her mouth. I don't get to laminate it.
 
-JONATHON: Yeah — I'll do the next small thing, and I'll tell the truth about it Friday.
-
+JONATHON: I'll let a blessing sit. If I retell it as my leadership I will stop and say I stole it.
 
 ---
 
 ## SEGMENT 19 · More on a 14
 
-WES: My dad would have called a thrown meatball Tuesday. I've been wanting a letter for a thrown meatball.
+WES: When Theo's in school was a theft of this year. You caught it three times. Retirement is a walk you actually take.
 
-JONATHON: If I hide from a thrown meatball I will call it logistics.
+JONATHON: I caught it in my own mouth like a man catching a lie. Can you retire a phrase the same week you catch it, or do you need a campaign?
 
-WES: I'm retiring the letter. I'm doing a thrown meatball tired, and I'm not writing a paragraph on the way.
+WES: Same week. Campaigns are how ghosts stay busy. A wagon after supper is how a year stops being stored in August.
 
-JONATHON: I'm done with that name. a thrown meatball is the work. two years at home is how I prove I meant it. Ask me Friday about two years at home and I won't joke.
-
+JONATHON: I'll walk tonight even if it looks small. Small is the point. August is a liar. I already have a five-year-old who will not be five in August.
 
 ---
 
 ## SEGMENT 20 · More on when 15
 
-WES: If when I can't feels small, that's a clue you're close. Big feelings like a conference. when I can't likes a kitchen.
+WES: I keep wanting this season to wait until I've got a cleaner sentence. The three-eighths was the sentence. I almost missed it talking. That's the whole confession.
 
-JONATHON: Can't likes a kitchen. Single men, when I can't still belongs to you. Divorced men, the three-eighths still belongs to you. I don't get to keep these on a married shelf. I'm doing when I can't and the three-eighths as a person, not as a title.
+JONATHON: That's fair, but— you still want a cleaner sentence right now. I can hear you reaching for one. Can you live with an ugly bead?
 
-WES: I've skipped kitchens for conferences. I'm late. I'm still going to when I can't.
+WES: I can live with an ugly bead. Clean sentences are how I delay a lunch.
 
-JONATHON: Hold on. If I miss it I'll say I missed it. I won't hide it in a loud week.
-
+JONATHON: I'll live with ugly. If I start polishing I'll ask you to interrupt me. Polishing is a waiting room with better lighting.
 
 ---
 
 ## SEGMENT 21 · More on when 16
 
-WES: Stay on when I can't a minute, because a man will hear the verse and look for a war. The war is when I can't.
+WES: A 24-year-old with nine months can still teach a man with thirty-five years, if the older one will sit down and stop faking.
 
-JONATHON: I'll be real with you. I can talk about when I can't for twenty minutes and still skip a thrown meatball tonight, which is why I need a man who will ask me tomorrow whether I did a thrown meatball. If I fail I will say I failed, not that the week got loud.
+JONATHON: Would you sit down, or would you smile and google it later so you never have to be the student in the cubicle?
 
-WES: I've walked past when I can't so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up when I can't before you write a speech about it.
+WES: I have googled it later. That's the ghost. This week I ask. If I don't know, I say I don't know. That's temperate. That's not a performance review.
 
-JONATHON: That's the one I keep walking past. Ask me Friday whether I picked it up.
-
+JONATHON: I'll ask the kid to show me. If I feel dumb I will stay dumb for five minutes. Five minutes is cheaper than a year of faking it.
 
 ---
 
 ## SEGMENT 22 · More on when 17
 
-WES: I keep a picture of when I can't in my head when I want to quit. Not a stage. when I can't.
+WES: Contractor breakfast in October is splendor waking up. Three years is still a season. Dead is optional.
 
-JONATHON: I want credit for when I can't and I want privacy for a wagon walk.
+JONATHON: Are you going to invite yourself to that breakfast, or is that his, and your job is a sandwich on your own floor?
 
-WES: If I need a prettier assignment than when I can't, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like when I can't, then tell one man.
+WES: His breakfast. My sandwich. I don't get to steal his waking-up and call it mentoring. Mentoring is a name and a monthly table I actually keep.
 
-JONATHON: I'm doing a wagon walk without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
-
+JONATHON: I'll keep my table. If I start collecting other men's stories for a speech I'll stop. I want a year that counts, not a highlight reel.
 
 ---
 
 ## SEGMENT 23 · More on when 18
 
-WES: I almost turned when I can't into a testimony before the week was over. That's how I steal a gift.
+WES: Pancake Saturday is the meal you can actually eat. I was waiting for a better kitchen. I'm done waiting.
 
-JONATHON: I keep trying to upgrade when I can't into a program. She didn't ask for a program. She asked for a good ghost. I'm retiring the program and keeping a good ghost, even if a good ghost makes me feel small.
+JONATHON: [laughs] You and me both. I wait for the region to go quiet, and it never does. Is a loud pancake still a pancake?
 
-WES: I'm leaving when I can't unnamed in the report so I don't get paid twice. Coming back to when I can't counts. Narrating when I can't does not.
+WES: It's the only kind. Loud milk on a couch is a season. I'm done calling the mess a reason to wait.
 
-JONATHON: I'm with you. I'll take the small one tonight and I won't write a speech on the way.
-
+JONATHON: I'll make the loud pancake. If Theo throws a meatball I will laugh and stay. Leaving is how I used to prove I was overwhelmed. Staying is the work.
 
 ---
 
 ## SEGMENT 24 · More on when 19
 
-WES: My dad would have called when I can't Tuesday. I've been wanting a letter for when I can't.
+WES: I will learn a name ten yards away I've been too proud to ask. Pride is a ghost's favorite coat. I'm taking it off even if October is watching.
 
-JONATHON: If I hide from when I can't I will call it logistics.
+JONATHON: Will October's reviewer count the lunch? Because if he won't, will you still do it, or does unseen still scare you?
 
-WES: I'm retiring the letter. I'm doing when I can't tired, and I'm not writing a paragraph on the way.
+WES: He may not count it. That's why it counts. A lunch that makes a self-summary prettier is a clap. A lunch that doesn't is a season.
 
-JONATHON: I'm done with that name. when I can't is the work. contractor breakfast is how I prove I meant it. Ask me Friday about contractor breakfast and I won't joke.
-
+JONATHON: I'll do the thing that doesn't photograph. A wagon. A hard question. A name. If I need a photo I've gone back to dues I don't even believe in.
 
 ---
 
 ## SEGMENT 25 · More on when 20
 
-WES: If when I can't feels small, that's a clue you're close. Big feelings like a conference. when I can't likes a kitchen.
+WES: Hand the wrench. Keep the speech in the truck. Eat with somebody twenty years off and learn the name.
 
-JONATHON: Can't likes a kitchen. Single men, when I can't still belongs to you. Divorced men, hood worn right still belongs to you. I don't get to keep these on a married shelf. I'm doing when I can't and hood worn right as a person, not as a title.
+JONATHON: Ask me Friday whether I walked the wagon and whether I asked the 61-year-old the hard thing without defending myself in the first minute.
 
-WES: I've skipped kitchens for conferences. I'm late. I'm still going to when I can't.
+WES: I'll ask. Don't hide the old phrase inside a joke. A joke is how a lobby comes back wearing a smile.
 
-JONATHON: Yeah — I'll do the next small thing, and I'll tell the truth about it Friday.
+JONATHON: I won't hide it. Wagon. Hard question. Sandwich. If I skip I will say I skipped, not that kindergarten will make me a real host next year.
 
-
-WES: I've got one more minute and I want it on you. Pick the name you walk past. Ask it. Then eat. Don't wait for a later season to become a man who knows the people on his own floor.
-
-JONATHON: Hold on. If I miss it I'll say I missed it. I won't hide it in a loud week.
 
 ---
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. This season counts. Don't store it in a later one.
+WES: Carry this. This season counts. Don't store it in a later one.
 
-JONATHON: And if you have been a ghost, learn a name ten yards away.
+JONATHON: And if you've been a ghost, learn a name ten yards away.
 
-WES: Friday we check the lunch and the phrase. Until then: one table, two generations.
+WES: Friday we check the lunch and the phrase. One table, two generations.
 
-JONATHON: Then go sit down with somebody, and tell us how it went at walksteadfast.com, and find us everywhere at @steadfastwalk.
+JONATHON: Go sit down with somebody, then tell us at walksteadfast.com, and find us at @steadfastwalk.
 
 [STING 2s]

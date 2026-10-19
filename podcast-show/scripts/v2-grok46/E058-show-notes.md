@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (1,939 spoken words, about 12:56). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,109 spoken words, about 14:04). Re-time them against the final edit before publishing.
 
 ---
 
@@ -38,10 +38,10 @@ Christian men podcast, Field Notes, Walk Steadfast, singleness, 1 Peter 4:10, ap
 |---|---|---|
 | 00:00 | Open | He noticed I didn't ask about girls. |
 | 00:53 | Check the box | Work text. Theo's morning. "thanks wes." |
-| 03:50 | The boot | Attic, wasps, the sound man, Wes at twenty-three. |
-| 06:58 | The Word | 1 Peter 4:10. The gift is already received. |
-| 08:52 | From the table | Stop dating to focus on God? Four-line Tuesday. |
-| 12:30 | Close | Use the gift. Ask a real question. |
+| 03:56 | The boot | Attic, wasps, the sound man, Wes at twenty-three. |
+| 07:07 | The Word | 1 Peter 4:10. The gift is already received. |
+| 09:03 | From the table | Stop dating to focus on God? Four-line Tuesday. |
+| 13:38 | Close | Use the gift. Ask a real question. |
 
 ---
 

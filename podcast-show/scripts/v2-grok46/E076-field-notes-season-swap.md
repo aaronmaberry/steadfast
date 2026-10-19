@@ -5,9 +5,9 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 2,156 (about 14:22 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,382 (about 15:53 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 43 lines (50% of words). JONATHON 40 lines (50% of words), 1 under 12 words (2.5%) |
+| Line balance | WES 43 lines (54% of words). JONATHON 40 lines (46% of words), 1 under 12 words (2.5%) |
 | Focus mark | Pick Up the Weight |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Titus 2:2. Board only: Proverbs 20:29; Psalm 92:14 |
 | Board cues | 3 |
@@ -56,13 +56,13 @@ WES: I've been forty feet from a man for two years. That's a kind of death I cal
 
 ## SEGMENT 2 · Bottom three
 
-WES: You texted.
+WES: You texted. Did the bottom three actually write back, or did you get silence and call it a try so you could feel clean?
 
 JONATHON: Tuesday, how's your week going, to the bottom three. One called back about his daughter's volleyball. That's a name I should have had a year ago. I caught when Theo's in school three times. This year's gym is a walk with Theo in the wagon after supper. I already have a five-year-old. I'm not storing him.
 
 WES: My wife is at her sister's. The youngest and I eat at the counter. Frozen pizza twice. Welding and one girl, which is his. Second lesson Wednesday. The same bead six times. I put that's not bad on a sticky note on the fridge.
 
-JONATHON: That's what you see. Not a speech. A note. I needed that more than a mentoring packet.
+JONATHON: That's what you see. Not a speech. A note. Did putting that's not bad on a fridge feel like a gold star, or like a father who finally saw a bead?
 
 ---
 
@@ -76,7 +76,7 @@ JONATHON: "Teach the older men to be temperate, worthy of respect, self-controll
 
 WES: Teach. Not retire. Sound in endurance is a lunch in October. I once ran a printed-question mentoring lunch that turned into a performance review. Mr. Abernathy found me. I didn't find him with a packet.
 
-JONATHON: I printed questions once. It became a review. I'm asking how's your week and then shutting up. That's the only packet I trust now.
+JONATHON: I printed questions once. It became a review. Is shutting up after how's your week actually possible for a sales guy, or am I about to add a third question and call it care?
 
 WES: Context in two sentences. Titus is ordering a church by season. Older men first, because if they go soft the whole house goes soft. Endurance isn't a farewell tour.
 
@@ -92,200 +92,189 @@ JONATHON: Dani's dad is seventy-four. Years of one-word answers. I watched golf 
 
 WES: Last few minutes. Walk the forty feet. Text the bottom three. Hand a wrench. Don't print a packet.
 
-JONATHON: I'll keep how's your week. If I say the old phrase I will stop and name it as a skip.
+JONATHON: I'll keep how's your week. If I say the old phrase, will you stop me, or are we both going to pretend we didn't hear it? Name it as a skip.
+
+---
 
 ---
 
 ## SEGMENT 5 · More on forty 1
 
-WES: Stay on forty feet a minute, because a man will hear the verse and look for a war. The war is forty feet.
+WES: I learned a name forty feet away. Twenty-eight. Two years in. Lunch Wednesday. He asked how to tell a man above him no without losing the man. I almost said I was busy.
 
-JONATHON: I'll be real with you. I can talk about forty feet for twenty minutes and still skip bottom-three texts tonight, which is why I need a man who will ask me tomorrow whether I did bottom-three texts. If I fail I will say I failed, not that the week got loud.
+JONATHON: Wait, back up. Busy doing what? Because I say busy when I mean I only talk to the reps who are already winning.
 
-WES: I've walked past forty feet so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up forty feet before you write a speech about it.
+WES: Busy being a ghost. First time in about ten years someone at work asked me for something outside the job. I walked it. I'm glad I didn't hide in a calendar.
 
-JONATHON: Yeah — I'll do the next small thing, and I'll tell the truth about it Friday.
-
+JONATHON: I'll walk toward the quiet ones. If I only text winners I've built a region that never tells me the truth. That's a kind of death I called leadership.
 
 ---
 
 ## SEGMENT 6 · More on forty 2
 
-WES: I keep a picture of forty feet in my head when I want to quit. Not a stage. forty feet.
+WES: I told him the two times I did it right. He said can we do this again. October. That's not a mentoring packet. That's a sandwich on a calendar so I can't pretend I forgot.
 
-JONATHON: I want credit for forty feet and I want privacy for a wagon walk.
+JONATHON: Did putting October on the calendar feel like a gold star? Because I can feel a star growing on a lunch, and that is the old receipt again.
 
-WES: If I need a prettier assignment than forty feet, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like forty feet, then tell one man.
+WES: It felt like a star. I'm naming it so the lunch stays a lunch. If I need a star I will say so Friday instead of laminating a report about the 28-year-old.
 
-JONATHON: I'm doing a wagon walk without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
-
+JONATHON: I'll name the star on my own texts. How's your week is not a performance review. If I turn it into one I will shut up and start over like a man.
 
 ---
 
 ## SEGMENT 7 · More on forty 3
 
-WES: I almost turned forty feet into a testimony before the week was over. That's how I steal a gift.
+WES: Tuesday, how's your week, to the bottom three. One called back about his daughter's volleyball. That's a name I should have had a year ago. You caught the old phrase three times.
 
-JONATHON: I keep trying to upgrade forty feet into a program. She didn't ask for a program. She asked for sticky-note bead. I'm retiring the program and keeping sticky-note bead, even if sticky-note bead makes me feel small.
+JONATHON: I caught when Theo's in school in my own mouth like a man catching a lie. Did hearing volleyball make you want a packet, or a second text that isn't a metric?
 
-WES: I'm leaving forty feet unnamed in the report so I don't get paid twice. Coming back to forty feet counts. Narrating forty feet does not.
+WES: A second text. Packets turn a daughter into a talking point. I once ran a printed-question lunch that became a review. Mr. Abernathy found me. I didn't find him with paper.
 
-JONATHON: Hold on. If I miss it I'll say I missed it. I won't hide it in a loud week.
-
+JONATHON: I printed questions once. It became a review. I'm asking how's your week and then shutting up. That's the only packet I trust, and I still want to add a third question.
 
 ---
 
 ## SEGMENT 8 · More on forty 4
 
-WES: My dad would have called forty feet Tuesday. I've been wanting a letter for forty feet.
+WES: My wife is at her sister's. The youngest and I eat at the counter. Frozen pizza twice. Welding and one girl, which is his. Second lesson Wednesday. The same bead six times.
 
-JONATHON: If I hide from forty feet I will call it logistics. I'm done with that name. forty feet is the work. sixteenth-hole brother is how I prove I meant it. Ask me Friday about sixteenth-hole brother and I won't joke.
+JONATHON: That's fair, but— is that's not bad on a sticky note a clap you gave yourself, or a father finally seeing a bead?
 
-WES: I'm retiring the letter. I'm doing forty feet tired, and I'm not writing a paragraph on the way.
+WES: Both. I wanted a clap. I also wanted him to see I saw it. The note on the fridge is what you see, not a speech. I needed that more than a mentoring packet too.
 
-JONATHON: That's the one I keep walking past. Ask me Friday whether I picked it up.
-
+JONATHON: [laughs] I needed the note more than a packet. If I start a packet this week stop me. Packets are how I hide from a wagon after supper.
 
 ---
 
 ## SEGMENT 9 · More on forty 5
 
-WES: If forty feet feels small, that's a clue you're close. Big feelings like a conference. forty feet likes a kitchen.
+WES: Titus says teach. Not retire. Sound in endurance is a lunch in October. Older men first, because if they go soft the whole house goes soft. I had gone soft at forty feet.
 
-JONATHON: Feet likes a kitchen. Single men, forty feet still belongs to you. Divorced men, black coffee one sugar still belongs to you. I don't get to keep these on a married shelf. I'm doing forty feet and black coffee one sugar as a person, not as a title.
+JONATHON: So which is it? Were you soft, or scared the 28-year-old would find out you don't have a formula for telling a man no?
 
-WES: I've skipped kitchens for conferences. I'm late. I'm still going to forty feet.
+WES: Scared. Soft is the costume. Two stories from my own mouth was all I had. That was enough. Formulas are how ghosts stay useful without being present.
 
-JONATHON: I'm with you. I'll take the small one tonight and I won't write a speech on the way.
-
+JONATHON: I'll tell two stories and shut up. If I reach for a formula I will put the phone down. HVAC loves a formula. A volleyball dad does not need one.
 
 ---
 
 ## SEGMENT 10 · More on forty 6
 
-WES: Stay on forty feet a minute, because a man will hear the verse and look for a war. The war is forty feet.
+WES: The mechanic on Saturday. I asked how he learned all this. He said, same way you're. Somebody handed me wrenches. Black coffee, one sugar. That's a whole school in a cup.
 
-JONATHON: I'll be real with you. I can talk about forty feet for twenty minutes and still skip a printed packet tonight, which is why I need a man who will ask me tomorrow whether I did a printed packet. If I fail I will say I failed, not that the week got loud.
+JONATHON: Did you want a longer answer? Because I want older men to give me a seminar, and then I get bored when they hand me a wrench and a cup.
 
-WES: I've walked past forty feet so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up forty feet before you write a speech about it.
+WES: I wanted a seminar. He gave me a lineage. Somebody handed him wrenches. I'm supposed to hand some. That's late fruit, not a farewell tour with a projector.
 
-JONATHON: Yeah — I'll do the next small thing, and I'll tell the truth about it Friday.
-
+JONATHON: I'll hand a wrench. If I wait to feel wise I'll never hand it. Wisdom is coffee, one sugar, and a boy who still lets you stand there.
 
 ---
 
 ## SEGMENT 11 · More on forty 7
 
-WES: I keep a picture of forty feet in my head when I want to quit. Not a stage. forty feet.
+WES: Dani's dad is seventy-four. Years of one-word answers. You watched golf with him on Sundays. The third Sunday he said that kid on sixteen reminds me of my brother, then twenty minutes.
 
-JONATHON: I want credit for forty feet and I want privacy for frozen-pizza counter.
+JONATHON: No, hold on. Was I doing the Sundays so he would finally talk, or so I could say I tried? Because trying can be a receipt too.
 
-WES: If I need a prettier assignment than forty feet, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like forty feet, then tell one man.
+WES: You stayed. The water was there the whole time. Twenty minutes about a brother is fruit. The hole can wait. You almost left after one-word Sundays and called it respect.
 
-JONATHON: I'm doing frozen-pizza counter without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
-
+JONATHON: I'll stay for the boring Sundays. If he never talks I still sat. Sitting is not a tactic. It's how you stop treating an older man like a vending machine for stories.
 
 ---
 
 ## SEGMENT 12 · More on bottom-three 8
 
-WES: I almost turned bottom-three texts into a testimony before the week was over. That's how I steal a gift.
+WES: Forty feet is a short walk until you never take it. I had never taken it. Two years. That's a kind of death I called being busy. I walked it this week. A name. A sandwich.
 
-JONATHON: I keep trying to upgrade bottom-three texts into a program. She didn't ask for a program. She asked for forty feet. I'm retiring the program and keeping forty feet, even if forty feet makes me feel small.
+JONATHON: Are you going to walk it again in October, or was this a one-time repentance you can put in a self-summary?
 
-WES: I'm leaving bottom-three texts unnamed in the report so I don't get paid twice. Coming back to bottom-three texts counts. Narrating bottom-three texts does not.
+WES: October is already on the calendar so I can't pretend. If I cancel I will say I cancelled. I won't call it a busy season. Busy is the old death.
 
-JONATHON: Hold on. If I miss it I'll say I missed it. I won't hide it in a loud week.
-
+JONATHON: I'll put three names on my week. Bottom three. If I only call the winning reps I will tell you I did it again. I want a man who will not nod at that.
 
 ---
 
 ## SEGMENT 13 · More on bottom-three 9
 
-WES: My dad would have called bottom-three texts Tuesday. I've been wanting a letter for bottom-three texts.
+WES: I keep wanting a bigger assignment than forty feet, and then I don't walk the forty. Forty feet was the whole job this week. I'm trying to let that be enough.
 
-JONATHON: If I hide from bottom-three texts I will call it logistics. I'm done with that name. bottom-three texts is the work. a wagon walk is how I prove I meant it. Ask me Friday about a wagon walk and I won't joke.
+JONATHON: [laughs] You sound like me waiting for a quieter region. Is enough going to feel like failure on Thursday when nobody claps for a sandwich?
 
-WES: I'm retiring the letter. I'm doing bottom-three texts tired, and I'm not writing a paragraph on the way.
+WES: It will feel like failure. I'm telling you now so Thursday doesn't get to surprise me. A sandwich is the assignment. Claps are a different religion.
 
-JONATHON: That's the one I keep walking past. Ask me Friday whether I picked it up.
-
+JONATHON: I'll eat the failure and still send how's your week. If I need a clap I will say so instead of upgrading a volleyball story into a leadership win.
 
 ---
 
 ## SEGMENT 14 · More on bottom-three 10
 
-WES: If bottom-three texts feels small, that's a clue you're close. Big feelings like a conference. bottom-three texts likes a kitchen.
+WES: Endurance isn't a farewell tour. It's black coffee and a second lesson on the same bead. I put that's not bad on a fridge. That's the only report I trust this week.
 
-JONATHON: Texts likes a kitchen. Single men, bottom-three texts still belongs to you. Divorced men, sticky-note bead still belongs to you. I don't get to keep these on a married shelf. I'm doing bottom-three texts and sticky-note bead as a person, not as a title.
+JONATHON: Will you take the note down if it starts feeling like a plaque? Because I would laminate it by Friday and call it culture.
 
-WES: I've skipped kitchens for conferences. I'm late. I'm still going to bottom-three texts.
+WES: I'll take it down if I start glancing at it for a feeling. The bead was his. The note was me seeing. Seeing doesn't need to live on a fridge forever.
 
-JONATHON: I'm with you. I'll take the small one tonight and I won't write a speech on the way.
-
+JONATHON: I'll see Theo's walk without photographing it. If I photograph it I've cashed it. Eyes on the wagon. Phone in a pocket. That's my endurance this week.
 
 ---
 
 ## SEGMENT 15 · More on bottom-three 11
 
-WES: Stay on bottom-three texts a minute, because a man will hear the verse and look for a war. The war is bottom-three texts.
+WES: Glory is strength. Splendor is gray. Both at the same table. A 28-year-old asking how to say no, and an 81-year-old handing wrenches. I don't get to skip either chair.
 
-JONATHON: I'll be real with you. I can talk about bottom-three texts for twenty minutes and still skip sixteenth-hole brother tonight, which is why I need a man who will ask me tomorrow whether I did sixteenth-hole brother. If I fail I will say I failed, not that the week got loud.
+JONATHON: Which chair do you skip when you're tired, the young one or the old one? Be honest. I skip the losing reps and the quiet father-in-law.
 
-WES: I've walked past bottom-three texts so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up bottom-three texts before you write a speech about it.
+WES: I skip the young one. Pride. I skip the old one when I want a seminar. Both skips are a ghost. This week I sit in both even if I feel useless.
 
-JONATHON: Yeah — I'll do the next small thing, and I'll tell the truth about it Friday.
-
+JONATHON: I'll sit in both. Bottom three and a Sunday of golf. If I skip I will name the skip, not the weather. Weather is a costume I have used for years.
 
 ---
 
 ## SEGMENT 16 · More on bottom-three 12
 
-WES: I keep a picture of bottom-three texts in my head when I want to quit. Not a stage. bottom-three texts.
+WES: Mr. Abernathy found me. I didn't find him with a packet. That's the whole difference between a lunch and a program. I'm done printing questions that turn into reviews.
 
-JONATHON: I want credit for bottom-three texts and I want privacy for black coffee one sugar.
+JONATHON: Did the printed lunch fail because the questions were bad, or because you were performing being a mentor?
 
-WES: If I need a prettier assignment than bottom-three texts, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like bottom-three texts, then tell one man.
+WES: I was performing. The questions were fine. I wanted to look like a man who develops people. He wanted a man. Those aren't the same appointment.
 
-JONATHON: I'm doing black coffee one sugar without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
-
+JONATHON: I'll be a man. How's your week, then quiet. If I perform I will feel it in my throat like a close. I'll swallow the close and stay on the volleyball.
 
 ---
 
 ## SEGMENT 17 · More on bottom-three 13
 
-WES: I almost turned bottom-three texts into a testimony before the week was over. That's how I steal a gift.
+WES: This year's gym is a walk with Theo in the wagon after supper. I already have a five-year-old. I'm not storing him in a later season that will not come back.
 
-JONATHON: I keep trying to upgrade bottom-three texts into a program. She didn't ask for a program. She asked for a printed packet. I'm retiring the program and keeping a printed packet, even if a printed packet makes me feel small.
+JONATHON: Ask me Friday whether I walked, and whether I said the old phrase even as a joke, because a joke is how a lobby sneaks in the side door.
 
-WES: I'm leaving bottom-three texts unnamed in the report so I don't get paid twice. Coming back to bottom-three texts counts. Narrating bottom-three texts does not.
+WES: I'll ask. Don't store him. Don't store the 28-year-old either. October is a sandwich, not a waiting room you get to feel holy about.
 
-JONATHON: Hold on. If I miss it I'll say I missed it. I won't hide it in a loud week.
-
+JONATHON: I won't store them. Wagon. Bottom three. If I skip I will say I skipped, not that kindergarten will finally make me a host worth inviting people to.
 
 ---
 
 ## SEGMENT 18 · More on bottom-three 14
 
-WES: My dad would have called bottom-three texts Tuesday. I've been wanting a letter for bottom-three texts.
+WES: Walk the forty feet. Text the bottom three. Hand a wrench. Don't print a packet. If an older man starts on his brother, let the hole wait. That's the box.
 
-JONATHON: If I hide from bottom-three texts I will call it logistics. I'm done with that name. bottom-three texts is the work. frozen-pizza counter is how I prove I meant it. Ask me Friday about frozen-pizza counter and I won't joke.
+JONATHON: What are you picking, the sandwich or the sticky note, because if you pick the whole religion you'll preach and not walk the forty?
 
-WES: I'm retiring the letter. I'm doing bottom-three texts tired, and I'm not writing a paragraph on the way.
+WES: The sandwich in October, already dated. And the forty I already walked, again, so it doesn't become a testimony I tell instead of a floor I keep walking.
 
-JONATHON: That's the one I keep walking past. Ask me Friday whether I picked it up.
+JONATHON: I'm picking how's your week and the wagon. If I start a packet, stop me. I mean it. Stop me mid-sentence. I will thank you later and hate you for a minute.
 
 
 ---
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. Walk the forty feet. Don't print a packet.
+WES: Carry this. Walk the forty feet. Don't print a packet.
 
 JONATHON: And if an older man starts on his brother, let the hole wait.
 
-WES: Tuesday we talk about when the job goes. Until then: one name, one lunch.
+WES: Tuesday we talk about when the job goes. One name, one lunch.
 
-JONATHON: Then go ask the name, and tell us how it went at walksteadfast.com, and find us everywhere at @steadfastwalk.
+JONATHON: Go ask the name, then tell us at walksteadfast.com, and find us at @steadfastwalk.
 
 [STING 2s]

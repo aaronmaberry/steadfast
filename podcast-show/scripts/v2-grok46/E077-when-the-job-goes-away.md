@@ -5,9 +5,9 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,995 (about 19:58 at 150 wpm, before laughs and pauses) |
+| Spoken words | 3,195 (about 21:18 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 58 lines (50% of words). JONATHON 55 lines (50% of words), 3 under 12 words (5.5%) |
+| Line balance | WES 58 lines (52% of words). JONATHON 55 lines (48% of words), 2 under 12 words (3.6%) |
 | Focus mark | Stop Waiting |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Matthew 6:34. Board only: Matthew 6:33; Philippians 4:6 |
 | Board cues | 4 |
@@ -48,7 +48,7 @@ WES: Pull up a chair. Let's take the next few minutes in a truck on a new street
 
 JONATHON: Thursday. New-construction slowdown. I wouldn't do it on video. I drove. No drywall. I said it's not about your work. He said, did I do something wrong. No. Can I finish the job I'm on. He finished through Friday. The line was set. I made seven calls from the truck. Two interviews next week. Saturday his wife said he's okay, he's mad, he'll be okay.
 
-WES: You will call weekly. Not any luck.
+WES: You will call weekly. Not any luck. Can you actually do that without turning it into a pipeline report you get to feel good about?
 
 JONATHON: Never any luck. Lunch before the end of October. The other installer is twenty-six. Two years. He said I'll be fine, my cousin's been trying to get me on his crew.
 
@@ -66,7 +66,7 @@ JONATHON: She lost the front desk at a dental office when I was about thirteen. 
 
 WES: I spent 2009 in next year over layoff rumors. I wasn't cut. I can't remember one thing my daughter, seven, did that fall. That's what worry stole. A year of a seven-year-old.
 
-JONATHON: That's tomorrow eating a child. The verse won't let you.
+JONATHON: That's tomorrow eating a child. Do you even remember her second-grade teacher that fall, or did worry eat the whole year?
 
 ---
 
@@ -74,7 +74,7 @@ JONATHON: That's tomorrow eating a child. The verse won't let you.
 
 WES: 2019 they moved my title and my desk by the copier. I started saying I work, same as you, that year. Sunday my oldest called. I'm staying. At least through topping out. He had read his foreman's page about ten times. I wanted you to hear it from me first. I said thank you for telling me. That's a good decision, and it's yours. Then I went to the porch. My opinions were on a folded notepad in the glove box since May. I will throw them away unread.
 
-JONATHON: I would have read them to him. That's a speech wearing a glove box.
+JONATHON: No, hold on. You folded opinions in May and you're proud of unread. Are you sure that's love, or is it a man hiding from his own mouth?
 
 [BOARD: Throw the speech away unread.]
 
@@ -98,7 +98,7 @@ WES: Context in two sentences. Jesus has just talked about birds and lilies and 
 
 [BOARD: Philippians 4:6 (NIV) · "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God."]
 
-JONATHON: I've been anxious about a region like it was my name. A region isn't a name. A sticky note is closer.
+JONATHON: I've been anxious about a region like it was my name. Can a sticky note actually dethrone a title, or am I going to peek at the org chart by Thursday?
 
 ---
 
@@ -114,274 +114,257 @@ JONATHON: I'll buy lunch. I'll keep the sticky note where a title used to live i
 
 ---
 
+---
+
 ## SEGMENT 6 · More on a 1
 
-WES: Stay on a house with no drywall a minute, because a man will hear the verse and look for a war. The war is a house with no drywall.
+WES: HR wanted a screen. You refused the video and drove to a house with no drywall. He asked if he did something wrong. Then he asked if he could finish the job. That's a man.
 
-JONATHON: I'll be real with you. I can talk about a house with no drywall for twenty minutes and still skip library work clothes tonight, which is why I need a man who will ask me tomorrow whether I did library work clothes. If I fail I will say I failed, not that the week got loud.
+JONATHON: Wait, back up. Did driving feel like leadership, or like you couldn't bear to be the face on a laptop? Because I can hide behind a screen and call it policy.
 
-WES: I've walked past a house with no drywall so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up a house with no drywall before you write a speech about it.
+WES: Both. I didn't want to be a coward. I also didn't want to see his kitchen. Seeing it was the point. The line was set. He finished through Friday.
 
-JONATHON: Yeah — I'll do the next small thing, and I'll tell the truth about it Friday.
-
+JONATHON: I'll drive. If I take a video because it's cleaner I will say I chose clean over a man. Clean is how a region stays comfortable while a house has no walls.
 
 ---
 
 ## SEGMENT 7 · More on a 2
 
-WES: I keep a picture of a house with no drywall in my head when I want to quit. Not a stage. a house with no drywall.
+WES: You made seven calls from the truck. Two interviews next week. Saturday his wife said he's okay, he's mad, he'll be okay. That's a household telling the truth without a script.
 
-JONATHON: I want credit for a house with no drywall and I want privacy for a glove-box notepad.
+JONATHON: Should I have gone inside when she said that, or is a driveway the right room so I don't turn their kitchen into my ministry?
 
-WES: If I need a prettier assignment than a house with no drywall, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like a house with no drywall, then tell one man.
+WES: Driveway. You will call weekly. Not any luck. Lunch before the end of October. That's mourn with, not manage. Luck is a question that makes a man smaller.
 
-JONATHON: I'm doing a glove-box notepad without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
-
+JONATHON: Never any luck. I'll ask how he's. If I slip into pipeline talk I will come back and unsay it like a man who knows a name isn't a ticket.
 
 ---
 
 ## SEGMENT 8 · More on a 3
 
-WES: I almost turned a house with no drywall into a testimony before the week was over. That's how I steal a gift.
+WES: The other installer is twenty-six. Two years. He said I'll be fine, my cousin's been trying to get me on his crew. That's a younger man with a next step. Still call him.
 
-JONATHON: I keep trying to upgrade a house with no drywall into a program.
+JONATHON: That's fair, but— if he's fine, is calling him a way for me to feel like I didn't cut him? Because I can turn care into guilt-management.
 
-WES: I'm leaving a house with no drywall unnamed in the report so I don't get paid twice. Coming back to a house with no drywall counts. Narrating a house with no drywall does not.
+WES: Call him anyway. Fine is a costume. A cousin's crew is a mercy. He still had a Friday with your company's name on the work. Let him complete that Friday, then stay human.
 
-JONATHON: She didn't ask for a program. She asked for three I'm lines. I'm retiring the program and keeping three I'm lines, even if three I'm lines makes me feel small.
-
+JONATHON: I'll call. If I skip the fine one I will admit I only chase the men who look wrecked. Wrecked is not the only kind of man who needs a lunch.
 
 ---
 
 ## SEGMENT 9 · More on a 4
 
-WES: My dad would have called a house with no drywall Tuesday. I've been wanting a letter for a house with no drywall.
+WES: Your mother lost the front desk at a dental office when you were about thirteen. A computer system. For six weeks she dressed for work and went to the library. You learned it two years ago by phone.
 
-JONATHON: If I hide from a house with no drywall I will call it logistics.
+JONATHON: Did hearing that late make you mad at her for hiding it, or mad at yourself for being a kid who needed the costume?
 
-WES: I'm retiring the letter. I'm doing a house with no drywall tired, and I'm not writing a paragraph on the way.
+WES: Mad at the costume, then proud. She wasn't going to let you kids see her sit home. Then a pharmacy for eighteen years. That's a name that outlived a badge.
 
-JONATHON: I'm done with that name. a house with no drywall is the work. any-luck question is how I prove I meant it. Ask me Friday about any-luck question and I won't joke.
-
+JONATHON: I carried we don't have enough for years from a night I saw her crying over bills. A sticky note is how I put that down. I'm still putting it down.
 
 ---
 
 ## SEGMENT 10 · More on a 5
 
-WES: If a house with no drywall feels small, that's a clue you're close. Big feelings like a conference. a house with no drywall likes a kitchen.
+WES: I spent 2009 in next year over layoff rumors. I wasn't cut. I can't remember one thing my daughter, seven, did that fall. That's what worry stole. A year of a seven-year-old.
 
-JONATHON: Drywall likes a kitchen. Single men, a house with no drywall still belongs to you. Divorced men, a seven-year-old fall still belongs to you. I don't get to keep these on a married shelf. I'm doing a house with no drywall and a seven-year-old fall as a person, not as a title.
+JONATHON: Do you even remember her teacher that fall, or did tomorrow eat the whole year? Because I would have called that being responsible.
 
-WES: I've skipped kitchens for conferences. I'm late. I'm still going to a house with no drywall.
+WES: I remember the rumors. I don't remember her. That's the indictment. Each day had a seven-year-old. I gave the days to a maybe. I'm not doing that again.
 
-JONATHON: Hold on. If I miss it I'll say I missed it. I won't hide it in a loud week.
-
+JONATHON: That's tomorrow eating a child. I'll write three I'm sentences that would still be true if the badge went. If I skip them I will say I skipped a girl I don't want to forget.
 
 ---
 
 ## SEGMENT 11 · More on a 6
 
-WES: Stay on a house with no drywall a minute, because a man will hear the verse and look for a war. The war is a house with no drywall.
+WES: 2019 they moved my title and my desk by the copier. I started saying I work, same as you, that year. The copier was a mercy. It stripped a name I had confused for me.
 
-JONATHON: I'll be real with you. I can talk about a house with no drywall for twenty minutes and still skip sticky-note name tonight, which is why I need a man who will ask me tomorrow whether I did sticky-note name. If I fail I will say I failed, not that the week got loud.
+JONATHON: No, hold on. Is I work same as you a humility, or a man still bargaining to be seen as useful?
 
-WES: I've walked past a house with no drywall so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up a house with no drywall before you write a speech about it.
+WES: Both. Humility on a good day. Bargaining on a bad one. Sunday my oldest called. I'm staying, at least through topping out. I said thank you. Then I went to the porch.
 
-JONATHON: That's the one I keep walking past. Ask me Friday whether I picked it up.
-
+JONATHON: I would have read him the glove-box speech. That's heat wearing paper. You threw it away unread. I don't totally buy unread yet, but I'm trying.
 
 ---
 
 ## SEGMENT 12 · More on a 7
 
-WES: I keep a picture of a house with no drywall in my head when I want to quit. Not a stage. a house with no drywall.
+WES: My opinions were on a folded notepad in the glove box since May. I will throw them away unread. That's the only way that speech can die. Reading it would have been a second job loss, his.
 
-JONATHON: I want credit for a house with no drywall and I want privacy for finish through Friday.
+JONATHON: Are you sure unread is love? Because I think unread can also be a father hiding from his own mouth so he can look gentle.
 
-WES: If I need a prettier assignment than a house with no drywall, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like a house with no drywall, then tell one man.
+WES: It can be hiding. I'm naming that. The porch was for me. He got thank you and it's yours. That's enough sentence. My opinions were never his assignment.
 
-JONATHON: I'm doing finish through Friday without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
-
+JONATHON: I'll throw my speech away. If I fish it out of a bin I will tell you I fished it. I want a man who will not clap for the fishing.
 
 ---
 
 ## SEGMENT 13 · More on library 8
 
-WES: I almost turned library work clothes into a testimony before the week was over. That's how I steal a gift.
+WES: Tomorrow stole 2009. Each day has a seven-year-old, a Friday to finish, a library table. Worry is how you miss the day you still have. Jesus is not asking you to help tomorrow.
 
-JONATHON: I keep trying to upgrade library work clothes into a program. She didn't ask for a program. She asked for a house with no drywall. I'm retiring the program and keeping a house with no drywall, even if a house with no drywall makes me feel small.
+JONATHON: So which is it, seek first and the bills wait, or seek first and still fill out applications in work clothes like your mom?
 
-WES: I'm leaving library work clothes unnamed in the report so I don't get paid twice. Coming back to library work clothes counts. Narrating library work clothes does not.
+WES: Work clothes. Seek first is not a nap. It's a direction. Birds and lilies are not unemployment advice. They're an order. First is a kingdom, then a library table.
 
-JONATHON: I'm with you. I'll take the small one tonight and I won't write a speech on the way.
-
+JONATHON: I'll seek first and still make the calls. If I baptize sitting on a couch as faith I want you to say so. Sitting can be fear with a verse taped to it.
 
 ---
 
 ## SEGMENT 14 · More on library 9
 
-WES: My dad would have called library work clothes Tuesday. I've been wanting a letter for library work clothes.
+WES: I wrote regional manager first on my three and crossed it out. I'm Dani's husband. I'm Ruby and Theo's dad. I'm a man God went looking for at twenty-nine. That's on a sticky note in the truck.
 
-JONATHON: If I hide from library work clothes I will call it logistics.
+JONATHON: [laughs] You watched me cross a title like it was a conversion. Did crossing it actually move it out of my chest, or just off the paper?
 
-WES: I'm retiring the letter. I'm doing library work clothes tired, and I'm not writing a paragraph on the way.
+WES: Paper first. Chest later. Crossing it is a start. A title will crawl back. That's why it lives in a console where I can see the ink, not in a speech I give on a porch.
 
-JONATHON: I'm done with that name. library work clothes is the work. a glove-box notepad is how I prove I meant it. Ask me Friday about a glove-box notepad and I won't joke.
-
+JONATHON: I'll keep the sticky note where a title used to live in my head. If I add the title back in small letters I will tell you. Small letters are how I lie.
 
 ---
 
 ## SEGMENT 15 · More on library 10
 
-WES: If library work clothes feels small, that's a clue you're close. Big feelings like a conference. library work clothes likes a kitchen.
+WES: Take the worry to him with thanks, in the actual room you're in, not the one in your head. A region isn't a name. A sticky note is closer.
 
-JONATHON: Clothes likes a kitchen. Single men, library work clothes still belongs to you. Divorced men, three I'm lines still belongs to you. I don't get to keep these on a married shelf. I'm doing library work clothes and three I'm lines as a person, not as a title.
+JONATHON: Wait, I almost turned that into a technique. Is prayer how I stop feeling, or how I tell the truth about a cut without making it my god?
 
-WES: I've skipped kitchens for conferences. I'm late. I'm still going to library work clothes.
+WES: Tell the truth. Feeling can ride. It can't own the week. Present the request. Then finish Friday's job. Then call a man and don't ask any luck.
 
-JONATHON: Yeah — I'll do the next small thing, and I'll tell the truth about it Friday.
-
+JONATHON: I won't ask any luck. I'll present the request and buy lunch. If I start managing his feelings I'll stop and ask about Monday, or the thirteen-year-old, or tomatoes.
 
 ---
 
 ## SEGMENT 16 · More on library 11
 
-WES: Stay on library work clothes a minute, because a man will hear the verse and look for a war. The war is library work clothes.
+WES: If you still have the job, talk through the if with your wife before you need it. I waited. She had a plan in her head since 2019.
 
-JONATHON: I'll be real with you. I can talk about library work clothes for twenty minutes and still skip any-luck question tonight, which is why I need a man who will ask me tomorrow whether I did any-luck question. If I fail I will say I failed, not that the week got loud.
+JONATHON: Did you avoid the conversation because you thought talking about losing the job would make it happen? Because I treat some talks like hexes.
 
-WES: I've walked past library work clothes so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up library work clothes before you write a speech about it.
+WES: Yes. Superstition in a grown man. Asking didn't summon a layoff. It summoned a keel. Stubborn, she said. That one's going to get you through October.
 
-JONATHON: Hold on. If I miss it I'll say I missed it. I won't hide it in a loud week.
-
+JONATHON: I'll ask Dani the if this week. If I joke it off I will come back and ask it straight. Jokes are how I keep a title on the paper in small letters.
 
 ---
 
 ## SEGMENT 17 · More on library 12
 
-WES: I keep a picture of library work clothes in my head when I want to quit. Not a stage. library work clothes.
+WES: If you don't have the job, get up and go to the library in clothes that tell the truth about you. That's not theater. That's a man who still has a name at 8 a.m.
 
-JONATHON: I want credit for library work clothes and I want privacy for a seven-year-old fall.
+JONATHON: Is the costume kindness to kids, or a lie they have to unlearn later? You learned it by phone two years ago. That's a late bill.
 
-WES: If I need a prettier assignment than library work clothes, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like library work clothes, then tell one man.
+WES: Kindness and a cost. She kept you from watching her sit. You also inherited we don't have enough. Both can be true. Tell a true small sentence if a boy asks.
 
-JONATHON: I'm doing a seven-year-old fall without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
-
+JONATHON: If a boy asks why I'm not at work I will not give him a speech to carry. A few days off is better than a theology he has to manage at thirteen.
 
 ---
 
 ## SEGMENT 18 · More on library 13
 
-WES: I almost turned library work clothes into a testimony before the week was over. That's how I steal a gift.
+WES: If you're 22, your name isn't topping out. I wanted my oldest to hear that from me without the glove-box notes. Thank you for telling me. That's a good decision, and it's yours.
 
-JONATHON: I keep trying to upgrade library work clothes into a program. She didn't ask for a program. She asked for sticky-note name. I'm retiring the program and keeping sticky-note name, even if sticky-note name makes me feel small.
+JONATHON: Could you actually keep your opinions on the porch, or did they leak in your voice? Because I leak in my voice and call it tone.
 
-WES: I'm leaving library work clothes unnamed in the report so I don't get paid twice. Coming back to library work clothes counts. Narrating library work clothes does not.
+WES: They leaked in my body. I went to the porch so they wouldn't leak on him. That's the work. The notepad dies unread. He gets a father, not a foreman in the driveway.
 
-JONATHON: That's the one I keep walking past. Ask me Friday whether I picked it up.
-
+JONATHON: I'll give a father. If I start foreman I will stop mid-sentence. He can have his crew. I can have a sticky note. Those are different jobs.
 
 ---
 
 ## SEGMENT 19 · More on library 14
 
-WES: My dad would have called library work clothes Tuesday. I've been wanting a letter for library work clothes.
+WES: Three I'm sentences out loud to someone who loves you. Then a call that isn't luck. I forgot a seven-year-old proving the job was never the name.
 
-JONATHON: If I hide from library work clothes I will call it logistics.
+JONATHON: What are you picking, the three sentences or the unread bin, because if you pick both as a brand you'll do a speech and skip the table?
 
-WES: I'm retiring the letter. I'm doing library work clothes tired, and I'm not writing a paragraph on the way.
+WES: The table with my wife. Three I'm answers, read to her. Then the bin Monday. Unread. That's the order. Speech dies after the true name lives.
 
-JONATHON: I'm done with that name. library work clothes is the work. finish through Friday is how I prove I meant it. Ask me Friday about finish through Friday and I won't joke.
-
+JONATHON: I'm picking lunch and the sticky note. If I ask any luck I will unsay it the same day. Same day, not a later, better honesty.
 
 ---
 
 ## SEGMENT 20 · More on a 15
 
-WES: If a glove-box notepad feels small, that's a clue you're close. Big feelings like a conference. a glove-box notepad likes a kitchen.
+WES: Let him complete Friday's house while the work still carries his name. A house with no drywall. A Friday he already owned.
 
-JONATHON: Notepad likes a kitchen. Single men, a glove-box notepad still belongs to you. Divorced men, a house with no drywall still belongs to you. I don't get to keep these on a married shelf. I'm doing a glove-box notepad and a house with no drywall as a person, not as a title.
+JONATHON: Did letting him finish make the cut kinder, or did it just make you able to sleep? I need you to say which.
 
-WES: I've skipped kitchens for conferences. I'm late. I'm still going to a glove-box notepad.
+WES: It made me able to sleep, and it was still right. Both. Kinder isn't the test. His name was on that house through Friday. I don't get to snatch it for my comfort.
 
-JONATHON: I'm with you. I'll take the small one tonight and I won't write a speech on the way.
-
+JONATHON: I'll let a man finish. If I snatch work to make a spreadsheet cleaner I will say I chose the spreadsheet. I'm trying not to choose it.
 
 ---
 
 ## SEGMENT 21 · More on a 16
 
-WES: Stay on a glove-box notepad a minute, because a man will hear the verse and look for a war. The war is a glove-box notepad.
+WES: Seven calls from a truck is work. Kingdom first doesn't cancel a phone. It orders it. First is a direction, not a feeling I wait to catch.
 
-JONATHON: I'll be real with you. I can talk about a glove-box notepad for twenty minutes and still skip library work clothes tonight, which is why I need a man who will ask me tomorrow whether I did library work clothes. If I fail I will say I failed, not that the week got loud.
+JONATHON: Can you live with direction without a feeling? Because I wait to feel faithful before I dial, and then it's Thursday and I didn't dial.
 
-WES: I've walked past a glove-box notepad so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up a glove-box notepad before you write a speech about it.
+WES: I can live with it. Feelings ride. They don't get the ignition. Dial. Then pray. Then dial again. That's petition with a phone in your hand, not a mood.
 
-JONATHON: Yeah — I'll do the next small thing, and I'll tell the truth about it Friday.
-
+JONATHON: I'll dial before I feel it. If I wait for the region to calm down I'll still be waiting when Ruby has a license. I'm done asking a calendar to make me brave.
 
 ---
 
 ## SEGMENT 22 · More on a 17
 
-WES: I keep a picture of a glove-box notepad in my head when I want to quit. Not a stage. a glove-box notepad.
+WES: I work, same as you, is a sentence I needed by a copier. Titles move. Copiers stay. A man stays.
 
-JONATHON: I want credit for a glove-box notepad and I want privacy for three I'm lines.
+JONATHON: Ask me Friday whether the sticky note still has the title in the margins, because I am sneaky with margins.
 
-WES: If I need a prettier assignment than a glove-box notepad, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like a glove-box notepad, then tell one man.
+WES: I'll ask. Margins count. A title in a margin is still a god. Cross it again. Ink is cheap. A chest is not.
 
-JONATHON: I'm doing three I'm lines without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
-
+JONATHON: I'll cross it again if it crawls back. Then I'll buy lunch. Then I won't ask any luck. That's the whole religion of a Friday that used to belong to a region.
 
 ---
 
 ## SEGMENT 23 · More on a 18
 
-WES: I almost turned a glove-box notepad into a testimony before the week was over. That's how I steal a gift.
+WES: A video call is a way to keep your own kitchen clean. You drove. No drywall. Did I do something wrong. No. Can I finish. Yes. That's the whole pastoral work of a Thursday.
 
-JONATHON: I keep trying to upgrade a glove-box notepad into a program. She didn't ask for a program. She asked for any-luck question. I'm retiring the program and keeping any-luck question, even if any-luck question makes me feel small.
+JONATHON: I don't totally buy that I can do that every time. Next cut might be three men. Will I still drive, or will I hide in policy because the calendar is ugly?
 
-WES: I'm leaving a glove-box notepad unnamed in the report so I don't get paid twice. Coming back to a glove-box notepad counts. Narrating a glove-box notepad does not.
+WES: Drive when you can. If you can't, don't lie on video like it's the same. Say it isn't the same. Then still refuse any luck. Then still buy lunch.
 
-JONATHON: Hold on. If I miss it I'll say I missed it. I won't hide it in a loud week.
-
+JONATHON: I'll tell the truth about the room I'm in. If I hide in policy I want you to ask me which kitchen I protected. I want it to sting. That's how I stay a man.
 
 ---
 
 ## SEGMENT 24 · More on a 19
 
-WES: My dad would have called a glove-box notepad Tuesday. I've been wanting a letter for a glove-box notepad.
+WES: Sunday we talk through what we would do if my job went. I will write three I'm answers and read them to her. That's six years late and still on time if I do it.
 
-JONATHON: If I hide from a glove-box notepad I will call it logistics.
+JONATHON: Will you let her plan be smarter than yours? Because I hate when Dani is ahead of me, and I cover it with a joke about stubborn.
 
-WES: I'm retiring the letter. I'm doing a glove-box notepad tired, and I'm not writing a paragraph on the way.
+WES: Her plan has had six years to get smart. Stubborn is a keel. I'll listen. If I argue in the first minute I've gone back to being a title.
 
-JONATHON: I'm done with that name. a glove-box notepad is the work. a seven-year-old fall is how I prove I meant it. Ask me Friday about a seven-year-old fall and I won't joke.
-
+JONATHON: I'll listen past the first minute. If I joke stubborn I will unsay the joke and ask her to say it again. I want the keel, not the laugh track.
 
 ---
 
 ## SEGMENT 25 · More on a 20
 
-WES: If a glove-box notepad feels small, that's a clue you're close. Big feelings like a conference. a glove-box notepad likes a kitchen.
+WES: Write the three. Read them. Then live the day you still have. Don't ask any luck. Ask how he's.
 
-JONATHON: Notepad likes a kitchen. Single men, a glove-box notepad still belongs to you. Divorced men, sticky-note name still belongs to you. I don't get to keep these on a married shelf. I'm doing a glove-box notepad and sticky-note name as a person, not as a title.
+JONATHON: Ask me Friday whether I bought lunch and whether the sticky note is still honest, not decorated.
 
-WES: I've skipped kitchens for conferences. I'm late. I'm still going to a glove-box notepad.
+WES: I'll ask. Don't decorate it. A decorated I'm is a title in nicer ink. Cross what isn't true. Keep what would survive a copier.
 
-JONATHON: That's the one I keep walking past. Ask me Friday whether I picked it up.
+JONATHON: I won't decorate it. Husband. Dad. A man God went looking for. Then a lunch. Then no luck. That's the box, and I will still try to add a region in the corner.
 
 
 ---
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. The job was never your name. Tomorrow can carry itself.
+WES: Carry this. The job was never your name. Tomorrow can carry itself.
 
 JONATHON: And don't ask any luck. Ask how he's.
 
-WES: Friday we check the three sentences. Until then: write them. Read them.
+WES: Friday we check the three sentences. Write them. Read them.
 
-JONATHON: Then go live today, and tell us how it went at walksteadfast.com, and find us everywhere at @steadfastwalk.
+JONATHON: Go live today, then tell us at walksteadfast.com, and find us at @steadfastwalk.
 
 [STING 2s]

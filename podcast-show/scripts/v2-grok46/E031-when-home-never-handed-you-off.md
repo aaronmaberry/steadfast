@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,813 (about 18:45 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,893 (about 19:17 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 34 lines (54% of words). JONATHON 29 lines (46% of words), 1 under 12 words (3.4%) |
 | Focus mark | Pick Up the Weight |
@@ -52,9 +52,9 @@ WES: I came home every weekend the first semester with laundry. She did it witho
 
 JONATHON: I made a list this week of the men who almost counted me in. My mom called me man of the house. That was a job, not a handoff. The pitching coach said, "Never let them see you hurt." The Beaumont manager, same tie every Monday, his best line was "Not bad, kid." The thing I worked for called me kid.
 
-WES: And last month you said it to your own rep.
+WES: And last month you said it to your own rep. Did you hear the old manager in your mouth before he floated out, or after?
 
-JONATHON: I did. Thirty-one. Good at his job. I looked over his screen and said, "Not bad." He floated out of the office. I had become the tie. I sat there and thought, nobody ever told me I was a man. They told me I was useful.
+JONATHON: After. Thirty-one. Good at his job. I looked over his screen and said, "Not bad." He floated out of the office. I had become the tie. I sat there and thought, nobody ever told me I was a man. They told me I was useful.
 WES: [laughs] They told you you were useful. All right. Those aren't the same sentence as a blessing. Keep going.
 JONATHON: Those aren't the same sentence. I can still hear the Beaumont office, the same Monday tie, the way I waited on those two words like they were a blessing. They were a grade. A grade keeps you coming back. A blessing lets you leave.
 
@@ -68,11 +68,11 @@ WES: I did a version of that with my own boys. I handed them chores and called i
 
 ## SEGMENT 2 · The capacitor
 
-WES: Tell them about Saturday, because that's the picture.
+WES: Tell them about Saturday, because that's the picture. Where were you when she called?
 
-JONATHON: My mom called. "The man's coming at ten. Can you be on the phone?" I took the FaceTime in the Bluebonnets dugout, three and a half hours away. The AC man took the phone and talked to me, not to her, in the house she has owned twenty-two years.
-WES: In the house she has owned twenty-two years. That's the bump. The AC man talked to you, not to her. Keep going.
-JONATHON: She looked relieved. I've sat at the dealership desk in Pasadena for every car she has bought since I was sixteen. I don't know how to be her son. I only know how to be her guy.
+JONATHON: Dugout. My mom called. "The man's coming at ten. Can you be on the phone?" I took the FaceTime in the Bluebonnets dugout, three and a half hours away. The AC man took the phone and talked to me, not to her, in the house she has owned twenty-two years.
+WES: In the house she has owned twenty-two years. That's the bump. The AC man talked to you, not to her. What did you do with your hands while he talked past her?
+JONATHON: I held the phone like a desk. She looked relieved. I've sat at the dealership desk in Pasadena for every car she has bought since I was sixteen. I don't know how to be her son. I only know how to be her guy.
 
 WES: That's a kind sentence and a hard one. She's not the villain. She asked the person who has always answered. You answered because that's how you love her. The string isn't her fault alone.
 
@@ -104,29 +104,29 @@ JONATHON: "Why were you searching for me?" he asked. "Didn't you know I had to b
 
 WES: Quick context. He's not slamming a door on Mary and Joseph. The next line has him going home under their roof again. He names a Father and a house that aren't Joseph's shop, and then he honors the people who raised him. Leaving and honoring in the same breath. That's the tension.
 
-JONATHON: So he's not cruel to his mother. He's clear. I've been useful and unclear. I've come home for every capacitor and called that honor. It was fear. If I'm not her guy, I don't know what I'm for. I keep thinking a good son never disappoints his mother. A grown son will disappoint her a little on the way to being honest. I hate that sentence and I think it's true.
+JONATHON: So he's not cruel to his mother. He's clear. I've been useful and unclear. I've come home for every capacitor and called that honor. It was fear. If I'm not her guy, I don't know what I'm for. So which is it? Stay useful at twelve, or name your own house and still drive to Pasadena?
 
-WES: You're her son. That's a different job. A son calls. A son eats. A son does not have to run the service call from a dugout three hours away. Joseph still got a son who came home. He didn't get a son who stayed twelve and useful forever. I think a lot of us stay twelve on purpose. Twelve is needed. Grown is chosen. Needed feels safer, because if they still need you they can't leave, and you can't be left.
+WES: Name your own house. You're her son. That's a different job. A son calls. A son eats. A son does not have to run the service call from a dugout three hours away. Joseph still got a son who came home. He didn't get a son who stayed twelve and useful forever. I think a lot of us stay twelve on purpose. Twelve is needed. Grown is chosen. Needed feels safer, because if they still need you they can't leave, and you can't be left.
 
 [BOARD: 1 Corinthians 13:11 (NIV) · "When I became a man, I put the ways of childhood behind me."]
 
-JONATHON: Okay, but Luke is the Son of God in the temple. I'm a sales guy whose mom needs a capacitor. If I use this verse to stop showing up, I become the man who left with a lamp. I won't do that.
+JONATHON: I don't totally buy a clean handoff yet. Luke is the Son of God in the temple. I'm a sales guy whose mom needs a capacitor. If I use this verse to stop showing up, I become the man who left with a lamp. I won't do that. Wait, back up. Are you telling me to skip the service call, or to stop running it from a dugout?
 
-WES: Good. Nobody is asking you to leave with a lamp. We're asking you to stop confusing showing up with staying in charge. Jesus named the Father's house and then went to Nazareth. You can name your own house, Dani and the kids, and still drive to Pasadena for pot pie.
+WES: Stop running it from the dugout. Nobody is asking you to leave with a lamp. We're asking you to stop confusing showing up with staying in charge. Jesus named the Father's house and then went to Nazareth. You can name your own house, Dani and the kids, and still drive to Pasadena for pot pie.
 
 ---
 
 ## SEGMENT 4 · Pushback
 
-WES: Jonathon, push. I can hear the men who think we're telling them to drop their mothers.
+WES: Jonathon, push. I can hear the men who think we're telling them to drop their mothers. Go ahead.
 
-JONATHON: The guy whose mom is a widow and actually needs him. "You want me to tell her to talk to the AC man? She will get taken." That's a real fear. I've sat at those desks because I've watched men talk past her.
+JONATHON: Yeah, here's my problem. The guy whose mom is a widow and actually needs him. "You want me to tell her to talk to the AC man? She will get taken." That's a real fear. I've sat at those desks because I've watched men talk past her.
 
 WES: Then you teach her the questions, and you stay on the porch, not on the phone. Honor isn't doing the conversation for her every time. Honor is making sure she's not alone in a room with a stranger if she does not want to be, and then letting her speak. If she can't, you're there. If she can, you stop stealing the sentence.
 
-JONATHON: Next is the guy who lives ten minutes away. He thinks this does not apply. He sees her every Sunday. I lived that. I bought a house with a better yard that happened to be ten minutes from her. Seeing her isn't the same as being handed off. You can eat roast every week and still be the man of a house that's not yours. Distance isn't the test. The test is whether you can sit at her table without running her life.
+JONATHON: That's fair, but— next is the guy who lives ten minutes away. He thinks this does not apply. He sees her every Sunday. I lived that. I bought a house with a better yard that happened to be ten minutes from her. Seeing her isn't the same as being handed off. You can eat roast every week and still be the man of a house that's not yours. Distance isn't the test. Wait, back up. Are we saying Sunday roast is a hide if you still run the table?
 
-WES: The single guy whose mom still does his laundry. He thinks he's being a good son by letting her. He's being a boy who is convenient. I did my own wash after that first semester because I got tired of the drive, not because I got holy. Sometimes the handoff starts as laziness and then becomes a life. Take the life. Leave the excuse.
+WES: If you still run the table, yes. The single guy whose mom still does his laundry. He thinks he's being a good son by letting her. He's being a boy who is convenient. I did my own wash after that first semester because I got tired of the drive, not because I got holy. Sometimes the handoff starts as laziness and then becomes a life. Take the life. Leave the excuse.
 
 JONATHON: Put your own laundry in. Call her about her week, not about your socks. If the only reason you go home is a basket, you have not been handed off. You have been folded.
 
@@ -158,9 +158,9 @@ WES: A Saturday is enough. My brother does not know he's teaching you yet. He wi
 
 ## SEGMENT 6 · This week's challenge
 
-WES: So here is your challenge. If your mom still calls you for the capacitor, pick one job this week and hand it back. Not all of them. One. Tell her you want to come eat, and you want her to talk to the man, and then you want her to call you after. Write the sentence before you dial so you don't slide back into being the guy the minute she sounds tired.
+WES: So here is your challenge. If your mom still calls you for the capacitor, pick one job this week and hand it back. Not all of them. One. Tell her you want to come eat, and you want her to talk to the man, and then you want her to call you after. Write the sentence before you dial so you don't slide back into being the guy the minute she sounds tired. Can I ask you something hard? Will you hand it back this Sunday, or slide the minute she sounds tired?
 
-JONATHON: Married men, tell your wife which job you're handing back, because she has probably been covering your mom's calls for years. I've got a confession for Friday, and it's not pretty. For about ten years Dani has returned Sunday calls I didn't want to sit through. I let her be the voice so I could stay the guy. Single men, put your own laundry in and ask your mom one question about her week that's not about a bill.
+JONATHON: I'll hand it back. That's fair, but— I've got a confession for Friday, and it's not pretty. For about ten years Dani has returned Sunday calls I didn't want to sit through. I let her be the voice so I could stay the guy. Married men, tell your wife which job you're handing back. Single men, put your own laundry in and ask your mom one question about her week that's not about a bill.
 
 WES: If your mom has died, ask somebody who knew her what she wanted for you when you left. Write it down. If she never said it, write the sentence you needed and stop waiting for a ghost to say it. Then live the sentence. Don't use the missing ceremony as a reason to stay twelve.
 
@@ -170,12 +170,12 @@ JONATHON: And if you're the dad of a son who is about to leave, say the sentence
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry out of here. Useful isn't a handoff. A son can come home without running the house.
+WES: Carry this. Useful isn't a handoff. A son can come home without running the house.
 
 JONATHON: And you can learn the thing nobody taught you. A seven-year-old already knew that, and she said it without making it a project.
 
 WES: Friday I'll tell you whether she talked to the AC man, and whether I kept my mouth shut about the last truck Saturday. Until then: one job, handed back.
 
-JONATHON: Then go make the Sunday call, and tell us how it went at walksteadfast.com, and find us everywhere at @steadfastwalk.
+JONATHON: Go make the Sunday call, then tell us at walksteadfast.com, and find us at @steadfastwalk.
 
 [STING 2s]

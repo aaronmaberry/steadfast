@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 2,058 (about 13:43 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,136 (about 14:14 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 39 lines (53% of words). JONATHON 36 lines (47% of words), 1 under 12 words (2.8%) |
 | Focus mark | Stop Waiting |
@@ -46,7 +46,7 @@ JONATHON: And I'll tell you the black folder with her name on it.
 
 WES: Let's take the next few minutes on a table, because Friday is the receipt. Night one I said good. She waited. Then I said worried. October. Her word: homesick. For when the kids were little and loud. She leaves for her sister's next week. Wednesday I was short. I called the man I had been short with. It wasn't about you. He said he figured I had something going on. Thursday glad.
 
-JONATHON: You named it. You repaired a mouth. You didn't give full vent and call it honesty.
+JONATHON: Wait, back up. Did naming worried actually repair Wednesday, or did the phone call do that? Because I can name a word and still leave a man hanging.
 
 [BOARD: Waiting on a word is a kindness.]
 
@@ -56,7 +56,7 @@ WES: I cried at my daughter's wedding two years ago, father-daughter dance. The 
 
 ## SEGMENT 2 · Choir Night
 
-WES: First Tuesday. Tell it.
+WES: First Tuesday. Tell it. Did Choir Night stay a cute name, or did you actually listen when she got home?
 
 JONATHON: Ruby's whiteboard menu. Breakfast for supper. Scrambled eggs, cinnamon toast, orange juice in the two wedding wine glasses. Theo named it Choir Night and sang sounds through the bath. Text at seven-thirty. Both kids asleep by eight-forty. Dani home at nine-forty. How was it first. Twenty-five minutes of listening. With permission, one line: she held up a black folder. They gave me a folder with my name on it.
 
@@ -76,7 +76,7 @@ JONATHON: "Fools give full vent to their rage, but the wise bring calm in the en
 
 WES: Full vent is a truck at nine. Calm is keys on a table. Wise is a fork waiting. I've been a fool with a phone voice and called it being direct.
 
-JONATHON: I held a reply to a VP till two, then sent three lines and a plan. Irritated, then embarrassed underneath. That's vent delayed until it had a wheel.
+JONATHON: That's fair, but— hold on. Is a note at two still heat if it sat in drafts all afternoon? I held a VP reply till two, then sent three lines and a plan. Irritated, then embarrassed underneath.
 
 WES: Context in two sentences. Proverbs isn't asking you to fake calm. It's asking you not to pour the whole tank on the people in the room. Name it. Then bring calm.
 
@@ -86,7 +86,7 @@ WES: Context in two sentences. Proverbs isn't asking you to fake calm. It's aski
 
 WES: Austin. Saturday his son struck out to end a game and cried in the truck. Austin didn't say his father's quit crying line. He cried alone at a gas station after the drop-off. First time since March.
 
-JONATHON: With Theo I said that hurt, not you're okay. You're okay is a lie we tell so we can leave the feeling. That hurt is two words and a stay.
+JONATHON: No, hold on. Did you want Austin to stay in the truck, or is the gas station the honest version? With Theo I said that hurt, not you're okay. You're okay is a lie we tell so we can leave. That hurt is two words and a stay.
 
 [BOARD: James 1:19 (NIV) · "My dear brothers and sisters, take note of this: Everyone should be quick to listen, slow to speak and slow to become angry,"]
 
@@ -96,170 +96,161 @@ JONATHON: I'll ask how was it first. I'll say that hurt when it hurts. If I say 
 
 ---
 
+---
+
 ## SEGMENT 5 · More on a 1
 
-WES: Stay on a fork in the air a minute, because a man will hear the verse and look for a war. The war is a fork in the air.
+WES: Night one I said good like a man who wanted the table to move on. She left the fork in the air. That wait was the whole kindness, and I almost talked over it.
 
-JONATHON: I'll be real with you. I can talk about a fork in the air for twenty minutes and still skip Choir Night glasses tonight, which is why I need a man who will ask me tomorrow whether I did Choir Night glasses. If I fail I will say I failed, not that the week got loud.
+JONATHON: Wait, back up. If she hadn't waited, would you have stayed on good all week and called it being easy to live with?
 
-WES: I've walked past a fork in the air so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up a fork in the air before you write a speech about it.
+WES: Yeah. Good is how I hide October. The fork made me say worried. Then homesick sat down like it had been in the chair the whole time.
 
-JONATHON: Yeah — I'll do the next small thing, and I'll tell the truth about it Friday.
-
+JONATHON: [laughs] I hide behind fine at breakfast. I'm asking Dani the word first tonight, and if she says tired I'm going to wait like that fork instead of selling a fix.
 
 ---
 
 ## SEGMENT 6 · More on a 2
 
-WES: I keep a picture of a fork in the air in my head when I want to quit. Not a stage. a fork in the air.
+WES: She leaves for her sister's next week. Homestick for when the kids were little and loud. I wanted to tidy the house so she wouldn't miss a thing. That's a speech wearing a sponge.
 
-JONATHON: I want credit for a fork in the air and I want privacy for a pocket square.
+JONATHON: That's fair, but— aren't you trying to win the week so she doesn't leave with a true word still stuck in her throat?
 
-WES: If I need a prettier assignment than a fork in the air, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like a fork in the air, then tell one man.
+WES: That's the tell. I called a man Wednesday because I was short. Repair the mouth first. Then the trip. The trip isn't the enemy. The costume is.
 
-JONATHON: I'm doing a pocket square without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
-
+JONATHON: I'll repair a short mouth before I pack a bag. Sales will hand me a reason to skip. I'm not taking the reason, even if the calendar looks holy.
 
 ---
 
 ## SEGMENT 7 · More on a 3
 
-WES: I almost turned a fork in the air into a testimony before the week was over. That's how I steal a gift.
+WES: I didn't cry at any birth. I cried on a father-daughter dance. He handed me a pocket square mid-song like he'd packed for me. I still have it in a drawer.
 
-JONATHON: I keep trying to upgrade a fork in the air into a program.
+JONATHON: No, hold on. Are you telling that so we'll call you tender, or because a dash can be wet and still not get the wheel?
 
-WES: I'm leaving a fork in the air unnamed in the report so I don't get paid twice. Coming back to a fork in the air counts. Narrating a fork in the air does not.
+WES: Because I used to think wet meant weak. The square was a kindness. The feeling sat. The dance kept going. That's a wheel, not a verdict on manhood.
 
-JONATHON: She didn't ask for a program. She asked for a gas-station cry. I'm retiring the program and keeping a gas-station cry, even if a gas-station cry makes me feel small.
-
+JONATHON: I almost cried at Ruby's program and swallowed it so I could look like the dad with a plan. Next time I'll let it sit and wash the pan later.
 
 ---
 
 ## SEGMENT 8 · More on a 4
 
-WES: My dad would have called a fork in the air Tuesday. I've been wanting a letter for a fork in the air.
+WES: I once drove a nine-year-old home from a bases-loaded strikeout. I wanted a lesson. I gave him the drive and a drink. I remember the quiet more than any sentence I almost made.
 
-JONATHON: If I hide from a fork in the air I will call it logistics.
+JONATHON: Did you want the lesson because you were embarrassed in the stands? Because I write speeches when I'm embarrassed and call them parenting.
 
-WES: I'm retiring the letter. I'm doing a fork in the air tired, and I'm not writing a paragraph on the way.
+WES: Yes. Embarrassment wanted to drive. Love sat shotgun and bought a drink. I'm learning the difference late, and I still reach for a lesson in the first mile.
 
-JONATHON: I'm done with that name. a fork in the air is the work. three lines at two is how I prove I meant it. Ask me Friday about three lines at two and I won't joke.
-
+JONATHON: That's why I said that hurt to Theo. I wanted you're okay so I could go wash dishes. I'm staying. Dishes can wait for a boy who just missed.
 
 ---
 
 ## SEGMENT 9 · More on a 5
 
-WES: If a fork in the air feels small, that's a clue you're close. Big feelings like a conference. a fork in the air likes a kitchen.
+WES: Breakfast for supper in wedding wine glasses is a liturgy. Theo named it Choir Night. You could have turned the folder into a close. You didn't. That's the report.
 
-JONATHON: Air likes a kitchen. Single men, a fork in the air still belongs to you. Divorced men, that hurt not okay still belongs to you. I don't get to keep these on a married shelf. I'm doing a fork in the air and that hurt not okay as a person, not as a title.
+JONATHON: Wait, back up. Did I almost turn the folder into a pep talk the second she held it up? Because I felt a sales close rising in my throat like a demo.
 
-WES: I've skipped kitchens for conferences. I'm late. I'm still going to a fork in the air.
+WES: You felt it. You sat on it. How was it first is a stay, not a close. Twenty-five minutes of listening is the wheel. The folder stays hers.
 
-JONATHON: Hold on. If I miss it I'll say I missed it. I won't hide it in a loud week.
-
+JONATHON: I'll ask how was it first even if the close is sitting there like a demo unit. The folder is hers. My throat can wait until she actually asks.
 
 ---
 
 ## SEGMENT 10 · More on a 6
 
-WES: Stay on a fork in the air a minute, because a man will hear the verse and look for a war. The war is a fork in the air.
+WES: Full vent is a truck at nine. You held a VP note till two. That's not fake peace. That's a man who didn't pour the tank on a person who didn't cause it.
 
-JONATHON: I'll be real with you. I can talk about a fork in the air for twenty minutes and still skip worried and glad tonight, which is why I need a man who will ask me tomorrow whether I did worried and glad. If I fail I will say I failed, not that the week got loud.
+JONATHON: I don't totally buy that yet. Is delayed heat still honesty, or is it a man hiding until the feeling looks professional enough for a region?
 
-WES: I've walked past a fork in the air so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up a fork in the air before you write a speech about it.
+WES: Both can be true. Two is better than nine. Three lines and a plan is a wheel. A paragraph of heat is a wreck you make somebody else clean up.
 
-JONATHON: That's the one I keep walking past. Ask me Friday whether I picked it up.
-
+JONATHON: I'll keep the three lines. If I write a paragraph of heat I will leave it till morning, then send the plan, not the wreck I wanted to be known for.
 
 ---
 
 ## SEGMENT 11 · More on a 7
 
-WES: I keep a picture of a fork in the air in my head when I want to quit. Not a stage. a fork in the air.
+WES: Austin cried at a gas station after the drop-off. First time since March. He didn't dump his father's quit-crying line on a boy who had just struck out.
 
-JONATHON: I want credit for a fork in the air and I want privacy for a black folder.
+JONATHON: Can I be honest? I wanted him to stay in the truck. The gas station feels like he left the boy alone with the feeling and went to be a man somewhere else.
 
-WES: If I need a prettier assignment than a fork in the air, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like a fork in the air, then tell one man.
+WES: He didn't leave the boy. He didn't make the boy manage a father's chest. Two rooms. That's not a cop-out. That's refusing to drive mad on a child's night.
 
-JONATHON: I'm doing a black folder without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
-
+JONATHON: That's fair, but— I still want a driveway I can cry in. I'll try the driveway first. If I can't, I won't fake a lesson in the truck just to look present.
 
 ---
 
 ## SEGMENT 12 · More on Choir 8
 
-WES: I almost turned Choir Night glasses into a testimony before the week was over. That's how I steal a gift.
+WES: A man can talk to his own chest before he talks to a table. Afraid was a porch word. Worried was a table word. They aren't the same room, and I kept mixing them.
 
-JONATHON: I keep trying to upgrade Choir Night glasses into a program. She didn't ask for a program. She asked for a fork in the air. I'm retiring the program and keeping a fork in the air, even if a fork in the air makes me feel small.
+JONATHON: So which is it? Name it at supper, or take the hot word outside and bring a calmer man back in so the kids don't have to ride it?
 
-WES: I'm leaving Choir Night glasses unnamed in the report so I don't get paid twice. Coming back to Choir Night glasses counts. Narrating Choir Night glasses does not.
+WES: Porch first if it's hot. Then supper. October is hot. Homestick can sit at the table. I almost did it backwards and called the backwards version honesty.
 
-JONATHON: I'm with you. I'll take the small one tonight and I won't write a speech on the way.
-
+JONATHON: I'll take left out to the porch before I turn her folder into my abandonment story. Then I'll come in with a shorter mouth and ask how was it first.
 
 ---
 
 ## SEGMENT 13 · More on Choir 9
 
-WES: My dad would have called Choir Night glasses Tuesday. I've been wanting a letter for Choir Night glasses.
+WES: James wants a closed mouth before a hot one. A fork in the air is that. Not upgrading the folder is that. Not grabbing a quit text at six is that.
 
-JONATHON: If I hide from Choir Night glasses I will call it logistics.
+JONATHON: [laughs] You just stacked three tests like a checklist. Are you going to live them at supper, or only while we're sitting in these chairs?
 
-WES: I'm retiring the letter. I'm doing Choir Night glasses tired, and I'm not writing a paragraph on the way.
+WES: Supper. One word. Then hers. Then I shut up. If I add a paragraph I've grabbed the wheel again and called it being thorough.
 
-JONATHON: I'm done with that name. Choir Night glasses is the work. a pocket square is how I prove I meant it. Ask me Friday about a pocket square and I won't joke.
-
+JONATHON: I'll shut up after how was it. If I start a paragraph she can put a hand up, and I'll stop like a man who can read his own dash without a speech.
 
 ---
 
 ## SEGMENT 14 · More on Choir 10
 
-WES: If Choir Night glasses feels small, that's a clue you're close. Big feelings like a conference.
+WES: I walked past the back door again. Dust on the plane. Same lift. Same shove. I said Saturday like a man who believes his mouth more than his hands.
 
-JONATHON: Feelings like a conference. Single men, Choir Night glasses still belongs to you. Divorced men, a gas-station cry still belongs to you. I don't get to keep these on a married shelf. I'm doing Choir Night glasses and a gas-station cry as a person, not as a title.
+JONATHON: If you say Saturday again, do you want me to ask for a date, or do you want me to nod like a friend who lets you stay unfinished forever?
 
-WES: Choir Night glasses likes a kitchen. I've skipped kitchens for conferences. I'm late. I'm still going to Choir Night glasses.
+WES: Ask for a date. I still might not hang it. Dust is honest. Saturday as a mood is a story I tell so I can walk to the porch and feel faithful.
 
-JONATHON: Yeah — I'll do the next small thing, and I'll tell the truth about it Friday.
-
+JONATHON: I'll ask for a date. You can keep not hanging it. Just don't sell me Saturday like it's already wood. I want a day, not a feeling wearing work gloves.
 
 ---
 
 ## SEGMENT 15 · More on Choir 11
 
-WES: Stay on Choir Night glasses a minute, because a man will hear the verse and look for a war. The war is Choir Night glasses.
+WES: Homestick isn't a problem to solve before she drives to her sister's. It's a dash. I can hear it without buying tickets back to a louder year I can't return.
 
-JONATHON: I'll be real with you. I can talk about Choir Night glasses for twenty minutes and still skip three lines at two tonight, which is why I need a man who will ask me tomorrow whether I did three lines at two. If I fail I will say I failed, not that the week got loud.
+JONATHON: Are you going to try to make the house loud again so she won't miss it? Because that's a sales move, and I would do it and call it love.
 
-WES: I've walked past Choir Night glasses so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up Choir Night glasses before you write a speech about it.
+WES: I thought about extra noise. That's managing her chest. I'm going to say I heard homesick and ask what she wants this week. Then I'm going to shut up.
 
-JONATHON: Hold on. If I miss it I'll say I missed it. I won't hide it in a loud week.
-
+JONATHON: I'll ask Dani what she misses that isn't a complaint. If I turn it into a project I've grabbed the wheel and put a bow on a word she wasn't done saying.
 
 ---
 
 ## SEGMENT 16 · More on Choir 12
 
-WES: I keep a picture of Choir Night glasses in my head when I want to quit. Not a stage.
+WES: One word a night. Repair the short mouth. Two words with a boy. Don't take a quit the same hour. That's the whole box, and I will still try to add a sermon.
 
-JONATHON: I want credit for Choir Night glasses and I want privacy for that hurt not okay.
+JONATHON: Ask me Friday whether I said left out out loud, not in a notes app, and whether how was it actually came first when she walked in tired.
 
-WES: Choir Night glasses. If I need a prettier assignment than Choir Night glasses, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like Choir Night glasses, then tell one man.
+WES: I'll ask. Don't hide left out inside nervous. Nervous is a costume. Left out is a dash you can read without turning her week into your old story.
 
-JONATHON: I'm doing that hurt not okay without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
+JONATHON: I won't hide it. Left out. Then the short text. Then her folder without my abandonment story riding shotgun like it paid rent.
 
 
 ---
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. Name the word. Then bring calm.
+WES: Carry this. Name the word. Then bring calm.
 
-JONATHON: And if a boy cries, don't say he's okay. Say it hurt.
+JONATHON: And if a boy cries, don't tell him he's fine. Say it hurt.
 
-WES: Tuesday we talk about every season. Until then: one word a night.
+WES: Tuesday we talk about every season. One word a night till then.
 
-JONATHON: Then go say the word, and tell us how it went at walksteadfast.com, and find us everywhere at @steadfastwalk.
+JONATHON: Go say the word, then tell us at walksteadfast.com, and find us at @steadfastwalk.
 
 [STING 2s]

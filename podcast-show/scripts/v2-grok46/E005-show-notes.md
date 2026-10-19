@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (3,172 spoken words, about 21:09). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (3,165 spoken words, about 21:06). Re-time them against the final edit before publishing.
 
 ---
 

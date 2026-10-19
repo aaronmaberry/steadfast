@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,997 spoken words, about 19:59). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (3,063 spoken words, about 20:25). Re-time them against the final edit before publishing.
 
 ---
 
@@ -35,33 +35,33 @@ Christian men podcast, work, Ephesians 2:10, Labor Day, Walk Steadfast, handiwor
 |---|---|---|
 | 00:00 | Open | Open |
 | 00:46 | The attic | The attic |
-| 02:13 | Warranties and foil | Warranties and foil |
-| 03:11 | Cedar | Cedar |
-| 04:28 | The Word | The Word |
-| 05:36 | Pushback | Pushback |
-| 07:01 | The challenge | The challenge |
-| 07:52 | Flashlight | Flashlight |
-| 08:17 | Names at six | Names at six |
-| 08:38 | Bead | Bead |
-| 09:00 | Foil | Foil |
-| 09:20 | Sleepwalk | Sleepwalk |
-| 09:38 | Pancake Saturday | Pancake Saturday |
-| 09:58 | What I'm actually doing | What I'm actually doing |
-| 10:14 | Boss twice | Boss twice |
-| 10:30 | More on the 1 | More on the 1 |
-| 11:21 | More on the 2 | More on the 2 |
-| 12:00 | More on the 3 | More on the 3 |
-| 12:42 | More on the 4 | More on the 4 |
-| 13:17 | More on the 5 | More on the 5 |
-| 13:56 | More on the 6 | More on the 6 |
-| 14:46 | More on the 7 | More on the 7 |
-| 15:24 | More on the 8 | More on the 8 |
-| 16:06 | More on the 9 | More on the 9 |
-| 16:39 | More on the 10 | More on the 10 |
-| 17:18 | More on the 11 | More on the 11 |
-| 18:13 | More on the 12 | More on the 12 |
-| 18:55 | More on the 13 | More on the 13 |
-| 19:35 | Close | Close |
+| 02:30 | Warranties and foil | Warranties and foil |
+| 03:39 | Cedar | Cedar |
+| 04:59 | The Word | The Word |
+| 06:15 | Pushback | Pushback |
+| 08:06 | The challenge | The challenge |
+| 09:06 | Flashlight | Flashlight |
+| 09:43 | Names at six | Names at six |
+| 10:15 | Bead | Bead |
+| 10:46 | Foil | Foil |
+| 11:19 | Sleepwalk | Sleepwalk |
+| 11:50 | Pancake Saturday | Pancake Saturday |
+| 12:11 | What I'm actually doing | What I'm actually doing |
+| 12:27 | Boss twice | Boss twice |
+| 12:43 | More on the 1 | More on the 1 |
+| 13:09 | More on the 2 | More on the 2 |
+| 13:39 | More on the 3 | More on the 3 |
+| 14:15 | More on the 4 | More on the 4 |
+| 14:45 | More on the 5 | More on the 5 |
+| 15:20 | More on the 6 | More on the 6 |
+| 15:54 | More on the 7 | More on the 7 |
+| 16:30 | More on the 8 | More on the 8 |
+| 17:06 | More on the 9 | More on the 9 |
+| 17:41 | More on the 10 | More on the 10 |
+| 18:12 | More on the 11 | More on the 11 |
+| 18:42 | More on the 12 | More on the 12 |
+| 19:12 | More on the 13 | More on the 13 |
+| 20:06 | Close | Close |
 
 ---
 

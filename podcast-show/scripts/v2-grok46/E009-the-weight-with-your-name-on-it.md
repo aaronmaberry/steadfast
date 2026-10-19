@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 3,044 (about 20:18 at 150 wpm, before laughs and pauses) |
+| Spoken words | 3,059 (about 20:24 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 42 lines (50% of words). JONATHON 38 lines (50% of words), 2 under 12 words (5.3%) |
 | Focus mark | Pick Up the Weight |
@@ -204,9 +204,9 @@ JONATHON: Part one. Find one weight with your name on it that you've been lettin
 
 WES: Part two. Find one thing you're carrying that isn't yours. You don't have to set it down yet. Name it, and write down whose it actually is. Friday we've got a tool for the setting-down part.
 
-JONATHON: Married men, ask your wife this on a calm night, not while she's in the middle of carrying it. "What do you carry around here that's really mine?" Then don't argue with the answer. Write it down.
+JONATHON: Married men, ask your wife this on a calm night, not while she's in the middle of carrying it. "What do you carry around here that's really mine?" Then don't argue with the answer. Write it down. Did you ask yours yet, or are you waiting for a calmer night than this one?
 
-WES: If you live alone, nobody's carrying it for you. It's just sitting there. Start with the budget, the doctor, and your emergency contact. If you had to think about the contact, that's your duffel.
+WES: I asked. She said birthdays. Twenty-seven years. If you live alone, nobody's carrying it for you. It's just sitting there. Start with the budget, the doctor, and your emergency contact. If you had to think about the contact, that's your duffel.
 
 JONATHON: And if you're a parent, look for the dent. What have you been paying for that your kid should be carrying? Age-appropriate. Don't hand a six-year-old the mortgage. Theo would lose the mortgage in the backyard and then ask for a snack.
 
@@ -216,7 +216,7 @@ WES: Divorced dads, the weight with your name on it's your time with your kids a
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry out of here. Every man carries his own duffel. Nobody carries a couch alone. Pick up the weight with your name on it.
+WES: Carry this. Every man carries his own duffel. Nobody carries a couch alone. Pick up the weight with your name on it.
 
 JONATHON: And if the light's been on so long you stopped seeing it, that's probably the one.
 

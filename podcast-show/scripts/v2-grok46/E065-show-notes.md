@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,815 spoken words, about 18:46). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (3,057 spoken words, about 20:23). Re-time them against the final edit before publishing.
 
 ---
 
@@ -35,20 +35,20 @@ Christian men podcast, marriage, Hebrews 13:4, covenant, Walk Steadfast, purity,
 |---|---|---|
 | 00:00 | Open | Open |
 | 00:42 | At work | At work |
-| 02:03 | The fence | The fence |
-| 03:35 | The older man | The older man |
-| 05:02 | The Word | The Word |
-| 06:17 | Pushback | Pushback |
-| 07:39 | The challenge | The challenge |
-| 08:35 | Socks in the garage | Socks in the garage |
-| 09:45 | The buzz | The buzz |
-| 10:54 | Hard years | Hard years |
-| 11:59 | Recliner | Recliner |
-| 13:08 | What men ask us | What men ask us |
-| 14:24 | Same night | Same night |
-| 15:44 | Youth and a fountain | Youth and a fountain |
-| 17:06 | Accountability | Accountability |
-| 18:22 | Close | Close |
+| 02:28 | The fence | The fence |
+| 04:22 | The older man | The older man |
+| 06:18 | The Word | The Word |
+| 07:41 | Pushback | Pushback |
+| 09:13 | The challenge | The challenge |
+| 10:11 | Socks in the garage | Socks in the garage |
+| 11:28 | The buzz | The buzz |
+| 12:52 | Hard years | Hard years |
+| 14:03 | Recliner | Recliner |
+| 15:20 | What men ask us | What men ask us |
+| 16:41 | Same night | Same night |
+| 17:47 | Youth and a fountain | Youth and a fountain |
+| 18:46 | Accountability | Accountability |
+| 20:04 | Close | Close |
 
 ---
 

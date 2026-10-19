@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,835 spoken words, about 18:54). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,963 spoken words, about 19:45). Re-time them against the final edit before publishing.
 
 ---
 
@@ -36,12 +36,12 @@ Christian men podcast, Holy Week, 1 Corinthians 15:45, fatherhood, Walk Steadfas
 |---|---|---|
 | 00:00 | Open | Lost by one. Still brave. |
 | 00:53 | The last out | Dirt on a knee. Do you have a dad? |
-| 04:57 | The report that could wait | Four o'clock. A barn date after Easter. |
-| 08:52 | The Word | First Adam. Last Adam. |
-| 10:48 | Pushback | Dangerous doors stay shut. Delay is not a plan. |
-| 13:17 | What we're actually doing | Sunday night. Tuesday call. |
-| 15:41 | This week's challenge | One hiding place. One walk. |
-| 18:29 | Close | Hide, or walk out. |
+| 05:13 | The report that could wait | Four o'clock. A barn date after Easter. |
+| 09:18 | The Word | First Adam. Last Adam. |
+| 11:21 | Pushback | Dangerous doors stay shut. Delay is not a plan. |
+| 14:00 | What we're actually doing | Sunday night. Tuesday call. |
+| 16:24 | This week's challenge | One hiding place. One walk. |
+| 19:24 | Close | Hide, or walk out. |
 
 ---
 

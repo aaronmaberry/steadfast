@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm |
-| Spoken words | 1,947 (about 12:59 at 150 wpm, before laughs and pauses) |
+| Spoken words | 1,937 (about 12:55 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 19 lines (55% of words). JONATHON 18 lines (45% of words), 1 under 12 words (5.6%) |
 | Focus mark | Go First |
@@ -108,12 +108,12 @@ JONATHON: Mine is already on a calendar. That's the only reason I trust it. A mo
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. A gentle no can keep a family. A harsh yes will wreck one.
+WES: Carry this. A gentle no can keep a family. A harsh yes will wreck one.
 
 JONATHON: And let me check with Dani isn't a no. Say it in your own mouth.
 
 WES: Tuesday we talk about your mom and Mother's Day. Until then: thank you, no, I love you.
 
-JONATHON: Then go say it, and tell us how it went at walksteadfast.com, and find us everywhere at @steadfastwalk.
+JONATHON: Go say it, then tell us at walksteadfast.com, and find us at @steadfastwalk.
 
 [STING 2s]

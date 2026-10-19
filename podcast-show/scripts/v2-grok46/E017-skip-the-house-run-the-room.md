@@ -5,9 +5,9 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,881 (about 19:12 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,864 (about 19:06 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 30 lines (50% of words). JONATHON 26 lines (50% of words), 1 under 12 words (3.8%) |
+| Line balance | WES 31 lines (50% of words). JONATHON 27 lines (50% of words), 1 under 12 words (3.7%) |
 | Focus mark | Stop Waiting |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Proverbs 14:12. Board only: Proverbs 27:23; Colossians 3:17 |
 | Board cues | 5 (none repeats spoken words) |
@@ -44,7 +44,7 @@ JONATHON: And I'll tell you why a metal roof is a better sermon than most of the
 
 ## SEGMENT 1 · The coach voice
 
-WES: Let's take the next few minutes on the first shape, because a four-year-old already named it. Coach-pitch is back. You first.
+WES: Let's take the next few minutes on the first shape, because a four-year-old already named it. Coach-pitch is back. How loud were you at practice, and how quiet were you on the couch?
 
 JONATHON: The Bluebonnets. Zero and six last fall. Undefeated in losing. Saturday was the first practice. Twelve kids, a bucket of balls, and me. I learned every name and one fact ahead of the first throw. Harper has a lizard. One of the twins is scared of the ball. The other one isn't. A boy cried because his glove was the wrong color, and I sat him on a bucket and talked him down in about ninety seconds. I'm loud and fun and everybody gets a high five. I can feel the parents thinking I'm the best dad on the field.
 
@@ -52,11 +52,11 @@ WES: Then you went home.
 
 JONATHON: Noon. Couch. Phone. Somebody pulled a plug. About two o'clock Theo comes over with his glove. He is four. He's not on the team. He just wants to throw. I said, "Not now, buddy," without looking up. He stood there and asked why I only do the coach voice at practice. Dani said from the kitchen, "Daddy's tired, bud. He coached all morning." She was covering. She was kind. She was wrong. I wasn't tired. I would have coached two more hours if somebody in the bleachers had asked. I was done performing. There was nobody in the bleachers in my living room.
 
-WES: That's skip the house. It almost never looks like a man who is never home. You were home. You skipped it from four feet away. You had plenty of energy. You spent it where there was an audience.
+WES: That's skip the house. Wait, back up. You were home. You skipped it from four feet away. Did you have energy left, or did you spend it where there was an audience?
 
 JONATHON: I bring that voice to sales meetings. I bring it to the men's breakfast. I bring it to my VP. The people who get the leftovers are two kids under four feet and Dani when she is awake. I know when it started. I was nine. The week my dad left, my mom said I was the man of the house. I figured out that if I was loud and funny and on, she would laugh, and the house felt less empty. So I was on. For her. I can feel that being a because. I'm not using it. It's where it started. It's not why I said not now to Theo.
 
-WES: That's the last sentence. Keep it. Sunday you did something different. Tell that too, because I don't want a man to hear the couch and quit.
+WES: That's the last sentence. Keep it. Sunday you did something different. What did you actually do, because I don't want a man to hear the couch and quit?
 
 JONATHON: Sunday I did twenty minutes of catch in the backyard with the full coach voice. Theo threw the ball over the fence and we knocked on the neighbor's door to get it. He thought that was the best part. Monday I was back on the couch. So I'm not a new man. I'm a man who did one contrary afternoon and then sat down again. That's still the assignment. One afternoon. Not a personality transplant.
 
@@ -96,7 +96,7 @@ WES: Middle shape. Run the room. You have a man for this.
 
 JONATHON: Our contractor. Sixty. Twenty guys. You want him on a job site. Everybody knows the next move, nobody stands around, every decision is fast and his. For thirty years he ran his house the same way. Vacation, car, church, school. Fast, and his. He thought that was leading. About ten years ago he is laying out a roof in the kitchen and she sets down a dish towel and says, "I'm not on your crew." He said it was a two-by-four. She had been on his crew twenty years without being asked if she wanted the job. He sat in the truck an hour. Did not start it. Came back in and asked what kind of roof she wanted. She said, "Metal. I've wanted metal for six years." He had been about to put shingles on it again. They have a metal roof now. He says it's the best roof he has ever put on, and he didn't pick it.
 
-WES: Then he wanted to teach. After twenty years of being the boss, he wanted a room that could talk back.
+WES: Then he wanted to teach. After twenty years of being the boss, he wanted a room that could talk back. Do you hear yourself in that kitchen, or is that only him?
 
 JONATHON: He wants to sell in five years and teach welding. I asked why. He said, "I've been the boss my whole life. I'd like to work with somebody who's allowed to talk back." Yeah, and— that sentence has been living in my phone. I run rooms. I run sales meetings. I run the Bluebonnets. I can feel myself deciding the vacation, the church night, the tone of the kitchen, and calling it care. Dani isn't on my crew. If I forget that I will get a dish towel someday, and I will deserve it.
 
@@ -152,23 +152,27 @@ WES: Text is enough. One man asking which shape. Not a crowd. A crowd is how the
 
 ## SEGMENT 6 · This week's challenge
 
-WES: Last few minutes. Ask one person which shape they see. Skip the house. Run the room. Wear the job as your name. Write the answer down. Don't argue in the first ten minutes. Then do one contrary act this week. If you skip the house, give the living room the voice you save for the bleachers. Twenty minutes. Full voice. If you run the room, ask a question you don't already have the answer to, and let the answer stand. If you wear the job, tell one person who you are without the title, and then ask them a question about their Tuesday.
+WES: Last few minutes. Ask one person which shape they see. Skip the house. Run the room. Wear the job as your name. Write the answer down. Don't argue in the first ten minutes. Then do one contrary act this week.
 
-JONATHON: I'm asking Dani again, cleaner. Not "do I run the room sometimes." I'm asking, "Which one do you live with." Then I'm doing catch with Theo before I sit down. Not after. Before. If I do it after I will negotiate myself back onto the couch. My nephew is asking his roommate a question he does not know the answer to. I told him to text me what he heard, not what he meant to hear.
+JONATHON: Who are you asking? Because if you ask your wife a clean question and then explain 2019, you've run the room again.
 
-WES: I'm asking my wife the same clean question, and I already know she has a vote. I'm also asking my oldest by text, because he saw the 2019 version and he is twenty-one now and he might remember a year I have polished. If he says the job, I won't explain the slide. I will write it down. Explanation is how I run the room with a man who isn't even here.
+WES: I'm asking my wife, and I already know she has a vote. I'm also asking my oldest by text, because he saw the 2019 version. If he says the job, I won't explain the slide. Who are you asking, and when are you doing catch?
 
-JONATHON: And if nobody will answer you, ask God and sit still for ten minutes. The first shape that makes your stomach tight is the assignment. Don't shop for a nicer one. A nicer one is how we stay in charge of the confession. Then tell one man. Thursday I will text you "Did you ask." I want a sentence.
+JONATHON: Dani, cleaner. Not "do I run the room sometimes." "Which one do you live with." Then catch with Theo before I sit down. Not after. Before. If I do it after I will negotiate myself back onto the couch. My nephew is asking his roommate a question he does not know the answer to.
+
+WES: If you skip the house, give the living room the voice you save for the bleachers. Twenty minutes. Full voice. If you run the room, ask a question you don't already have the answer to, and let the answer stand. If you wear the job, tell one person who you are without the title.
+
+JONATHON: And if nobody will answer you, ask God and sit still for ten minutes. The first shape that makes your stomach tight is the assignment. Don't shop for a nicer one. Thursday I will text you "Did you ask." I want a sentence. Can you give me one this time, or am I getting another K?
 
 [BOARD: Colossians 3:17 (NIV) · "And whatever you do, whether in word or deed, do it all in the name of the Lord Jesus, giving thanks to God the Father through him."]
 
-WES: Whatever you do. Word or deed. The name you wear to work and the name you wear on the couch. Both of them. Don't wait until you feel like a different man. Stop waiting. One question. One contrary hour. Friday we will tell you what we heard, and I will tell you whether the fan stopped clicking.
+WES: You'll get a sentence. Not a K. Whatever you do, word or deed, the name you wear to work and the name you wear on the couch. Both of them. Don't wait until you feel like a different man. Stop waiting. One question. One contrary hour. Friday we will tell you what we heard, and I will tell you whether the fan stopped clicking.
 
 ---
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. The way that looks right may be skipping the house, running the room, or wearing a title. Ask which one they see.
+WES: Carry this. The way that looks right may be skipping the house, running the room, or wearing a title. Ask which one they see.
 
 JONATHON: And if a four-year-old already named it, believe him. Then give him the voice anyway.
 

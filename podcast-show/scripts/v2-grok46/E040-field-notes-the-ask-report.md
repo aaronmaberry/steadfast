@@ -5,9 +5,9 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm |
-| Spoken words | 1,900 (about 12:40 at 150 wpm, before laughs and pauses) |
+| Spoken words | 1,903 (about 12:41 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 28 lines (53% of words). JONATHON 26 lines (47% of words), 1 under 12 words (3.8%) |
+| Line balance | WES 29 lines (52% of words). JONATHON 27 lines (48% of words), 1 under 12 words (3.7%) |
 | Focus mark | Stop Waiting |
 | Scripture (NIV, verified 2026-10-19) | Spoken: James 1:19. Board only: Proverbs 18:13 |
 | Board cues | 4 (none repeats spoken words) |
@@ -115,37 +115,41 @@ JONATHON: Honestly, I will try to add the speech anyway. Somebody should stop me
 
 ## SEGMENT · Sitting with it
 
-WES: I want this back in your house, not in ours. Pick the one door that's yours. Not your brother's. Not a man on a screen. Yours. Put a day on it before supper, even if the day is tomorrow and the sentence is clumsy.
+WES: Wait, back up. A no to the table can still be a yes to the coffee. Did you actually ask, or did you only pick a later?
 
-JONATHON: Mine is already on a calendar. That's the only reason I trust it. A mood isn't a plan, and I've used moods for years to sound wise while I stayed still. I don't want to sound wise. I want to be on time.
+JONATHON: I asked. I got a no to the table and a yes to the coffee. That's fair, but— I still wanted the bigger room. Can I ask you something hard? Are you going to keep the small kindness, or dress the no into a speech?
 
-WES: If you fail the first try, the second try still counts. I've got to say that every time or I will use the miss as a way out and then tell a story about the miss like the story was the obedience.
+WES: Keep the small kindness. Later isn't never unless I make it never. So which is it this week? One ask, or a notes app full of almosts?
 
-JONATHON: I used the first miss as a way out for most of my twenties. I'm trying not to do that at thirty-seven. It's harder than any capacitor, and it's also more ordinary than I want to admit at this table.
+JONATHON: [laughs] One. If I pick three I'll do none. I already know that from sales and from home. No, hold on. Your house can be quiet after a polite no and you can still call it peace. Is quiet settled?
 
-WES: I've watched men collect stories like this and never change a Tuesday. Don't be that man this week. Change one Tuesday. Then tell one person you did, because a secret obedience turns back into a mood by Thursday.
+WES: Quiet isn't settled. A polite holiday can look like peace. The test is whether the true thing got said to the man, not to a mug. I've sat through a quiet no and called it settled before. It wasn't.
 
-JONATHON: I'm the man who collects stories. I've got a notes app full of them. The only ones that count are the ones that got a day and a time and a person who knows I said I would do it.
+JONATHON: Then I pick the coffee. One name. One time. Looking late with a yes to coffee is better than looking peaceful with a list I never used.
 
-WES: I want the listener who thinks this does not apply because his house is quieter. Quiet isn't settled. You already know that if you have sat through a polite holiday and called it peace.
+WES: Four words from Dani's dad. Are you going to decide ahead of time they're enough, or write a novel after?
 
-JONATHON: My house can be loud and still be a cease-fire. Volume isn't the test. The test is whether the true thing got said to the person who had to hear it, not to a mug at this table.
+JONATHON: Ahead of time. If I decide after I'll call it a miss. That's the whole trap. I used the first miss as a way out for most of my twenties. I'm trying not to do that at thirty-seven.
 
-WES: I will check this on Friday, which is the only reason I trust myself. A public calendar is a kind of mercy for a man who likes his recliner and likes to call the recliner wisdom.
+WES: Second try still counts. I keep wanting the no under the van to resolve into formica. It won't. Black, one sugar is still a yes to the man.
 
-JONATHON: I will hold you to it, and I want somebody holding me. That's why I say the time out loud even when it makes me look late. Looking late is better than looking peaceful and being dug in.
+JONATHON: Then coffee is the door that's mine. Not a man on a screen. A day before supper. If I pick three I'll do none, and I already know that from sales. One is how I get free of the notes app.
 
-WES: A steadfast man does the small thing while it's still small. That's the whole show, said again, because we forget it by Wednesday and start waiting to feel ready, and the ready never comes first.
+WES: Wait, back up. You wanted a notepad page from Dani's dad. Four words. Will you take four words, or start the novel?
 
-JONATHON: I forget it by Tuesday afternoon. Ruby does not. She has a better memory for what I said I would do than any review I've ever run, and she does not care that I had a good reason.
+JONATHON: Four words. I already said ahead of time. That's fair, but— I still want the bigger table and a man who picks me.
 
-WES: If this feels like too many stories, pick one. One house. One name. One time. That's enough weight for seven days, and it's more than most of us will actually carry if we get proud of the list.
+WES: He may not pick you. You asked. That's the grown thing. I don't totally buy that later is never. Later becomes never when I make it never.
 
-JONATHON: I will pick one. If I pick three I will do none, and I already know that about myself from sales and from home. One is how a man like me gets free of his own notes app.
+JONATHON: Then I'll put a day on the coffee before supper. If I fail the first try, second try still counts. Can I ask you something? Black, one sugar. Are you going to keep that kindness, or dress it into a speech about a diner you didn't get?
+
+WES: Keep it. The diner can wait. The man can't if I turn a no into a story I tell instead of a yes I live. A notepad page is enough if I don't make it a miss in my head. Black, one sugar, said on time, is the whole report I trust this week, and I won't dress it up. One honest ask is enough. I already know how to write almosts.
+
+JONATHON: Then four words. Coffee. A day. I won't add a fourth sentence and get cute. Looking late with a yes is better than looking peaceful with a list.
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. A no to the table can still be a yes to the coffee.
+WES: Carry this. A no to the table can still be a yes to the coffee.
 
 JONATHON: And later isn't the same as never unless you make it never.
 

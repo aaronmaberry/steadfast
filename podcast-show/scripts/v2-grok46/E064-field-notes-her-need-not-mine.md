@@ -5,9 +5,9 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 1,902 (about 12:41 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,066 (about 13:46 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 36 lines (52% of words). JONATHON 34 lines (48% of words), 2 under 12 words (5.9%) |
+| Line balance | WES 37 lines (50% of words). JONATHON 35 lines (50% of words), 2 under 12 words (5.7%) |
 | Focus mark | Pick Up the Weight |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Ephesians 4:32. Board only: 1 Corinthians 10:24; Philippians 2:4 |
 | Board cues | 4 |
@@ -36,8 +36,6 @@ WES: This is Walk Steadfast. I'm Wes Hart.
 
 JONATHON: And I'm Jonathon. Friday we check the box. We don't dress it up.
 
-WES: We don't. That's the deal this Friday, and I'm holding both of us to the box. No dressing it up.
-
 WES: Tuesday we asked you to ask company or quiet and believe the answer. If you tried it, stay. Before we're done I'll tell you what my mother said about the barn, and he will tell you about a four-minute call with his dad.
 
 JONATHON: And I'll tell you the text I deleted at lunch.
@@ -46,17 +44,17 @@ JONATHON: And I'll tell you the text I deleted at lunch.
 
 ## SEGMENT 1 · Audition night
 
-WES: Let's take the next few minutes on Thursday, because Friday is the receipt. You go first. I already used the driveway.
+WES: Let's take the next few minutes on Thursday, because Friday is the receipt. You go first. I already used the driveway. Did you send the heart?
 
 JONATHON: I typed "Thinking about you" at lunch and deleted it. I texted Wes instead. "Is a heart a text." He wrote back K. Spaghetti. Ruby set a glass of water with ice by Dani's plate. Theo in pajamas by seven. I stayed in the kitchen. I didn't go to the window.
 
 WES: Ruby asked why.
 
-JONATHON: "She's finishing something." "Finishing what?" "Her day." Dani ate two plates. About ten-forty, lights off, she said, "I sang it the way I sing it in the car." Then, "They call in two weeks." I put my hand on her back. Tuesday she had added, "And don't hover."
+JONATHON: "She's finishing something." "Finishing what?" "Her day." Dani ate two plates. About ten-forty, lights off, she said, "I sang it the way I sing it in the car." Then, "They call in two weeks." I put my hand on her back. Tuesday she had added, "And don't hover." Wait— did I hover by telling the whole night like a speech?
+
+WES: You believed the sock. That's the receipt. Telling a brother isn't hovering. Going to the window is.
 
 [BOARD: A driveway can be a room she asked for.]
-
-WES: You believed the sock. That's the receipt.
 
 JONATHON: I wanted to upgrade "the way I sing it in the car" into a speech about courage. I didn't. I put my hand on her back. That's the most Christian thing I've done this week.
 
@@ -66,23 +64,25 @@ JONATHON: I wanted to upgrade "the way I sing it in the car" into a speech about
 
 WES: Tuesday PT. Leg presses. I asked my mother, "When you were sick, did you want Dad in the house or in the barn?" She said, "The barn. Your daddy hovering would've killed me faster than the flu." Then she said, "He knew I wanted the barn. He asked me once, when you were a baby." Then, "Ask her, not me. I'm not her." Then ten more reps.
 
-JONATHON: So the barn was the sock. You have been angry at a man who asked once and obeyed.
+JONATHON: Wait, back up. The barn was the sock? You have been angry at a man who asked once and obeyed.
 
 WES: I've been preaching a porch as if it were a sin. Sometimes the porch is obedience. The sin isn't asking. He asked once. I never asked.
 
-JONATHON: That's the whole tool. Ask. Repeat. Do. Your dad did it when you were a baby. You're late. You can still start.
+JONATHON: That's the whole tool. Ask. Repeat. Do. Your dad did it when you were a baby. You're late. You can still start. Did she let you sit in that, or did you try to tidy it in the car?
 
-WES: My wife's ask for the scan: next Thursday. The friend's husband can't get off. I drive. She sits in the back with her friend. I repeated it. She corrected me. "Come in. Sit with us. Just don't make jokes to the nurses." So company, in the room, mouth shut.
+WES: I tried to tidy it. I wanted a theory about men. She gave me ten more reps. My wife's ask for the scan: next Thursday. The friend's husband can't get off. I drive. She sits in the back with her friend. I repeated it. She corrected me. "Come in. Sit with us. Just don't make jokes to the nurses." So company, in the room, mouth shut.
 
 [BOARD: Say her sentence until she nods.]
 
-JONATHON: You wanted to stay in the truck and call that respect. She named the chair. Believe the chair.
+JONATHON: You wanted to stay in the truck and call that respect. She named the chair. Believe the chair. Are you going to make a joke anyway when the hallway gets quiet?
+
+WES: I'm going to nod. That's the fence.
 
 ---
 
 ## SEGMENT 3 · The Word
 
-WES: We're about halfway, and I want one verse for the man who hovers and calls it kindness. Ephesians four, verse thirty-two.
+WES: We're about halfway, and I want one verse for the man who hovers and calls it kindness. Ephesians four, verse thirty-two. You want to read it?
 
 JONATHON: "Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you."
 
@@ -90,9 +90,9 @@ JONATHON: "Be kind and compassionate to one another, forgiving each other, just 
 
 WES: Kind isn't a feeling in your chest. Kind is a driveway you don't interrupt. Kind is a barn you walk to because she asked. Kind is a chair without jokes.
 
-JONATHON: Compassionate is my hand on her back and my mouth closed. I wanted to be useful. Useful was a rabbit.
+JONATHON: Compassionate is my hand on her back and my mouth closed. I wanted to be useful. Useful was a rabbit. Does that sound like I'm arguing with Paul?
 
-WES: Context in two sentences. Paul is telling a church to put the old life away. Hovering was my old life wearing concern. Forgiving each other includes forgiving the Thursday you sat in a kitchen alone, and not making her pay interest.
+WES: [laughs] It sounds like you're listening. Context in two sentences. Paul is telling a church to put the old life away. Hovering was my old life wearing concern. Forgiving each other includes forgiving the Thursday you sat in a kitchen alone, and not making her pay interest.
 
 JONATHON: I've got to forgive myself for the clap without turning that into a speech she has to hear. That's my work, not hers.
 
@@ -100,13 +100,13 @@ JONATHON: I've got to forgive myself for the clap without turning that into a sp
 
 ## SEGMENT 4 · Redfish
 
-WES: Your dad. You called.
+WES: Your dad. You called. What did you actually say?
 
 JONATHON: Wednesday on the drive home. Voicemail. "Nothing's wrong. Ruby wants to know if you like fish." He called back Thursday at lunch. About four minutes. "Got your message. Everything all right?" I said yes. He said, "I fish every Saturday. Tell her redfish." The lake's low. "Well. Take care, bud."
 
-WES: Ruby redrew the fish orange.
+WES: Ruby redrew the fish orange. No, hold on. Are you going to turn four minutes into a campaign?
 
-JONATHON: Mailing it belongs to her. I'm going to call once a month. I'm not going to bring it here every Friday. It's not a show bit. It's my dad. If I report it weekly I will turn him into content, and I've done that to living people before.
+JONATHON: Mailing it belongs to her. I'm going to call once a month. I'm not going to bring it here every Friday. It's not a bit. It's my dad. If I report it weekly I will turn him into content, and I've done that to living people before.
 
 [BOARD: Philippians 2:4 (NIV) · "not looking to your own interests but each of you to the interests of the others."]
 
@@ -120,9 +120,9 @@ JONATHON: I wanted a paragraph. I got redfish. I'm going to let redfish be enoug
 
 WES: Last few minutes. Ask. Repeat. Do. I will sit in a waiting room without jokes. I won't improve my mother's sentence into a theory about men.
 
-JONATHON: I won't hover. I won't text an audition. I will call my dad once a month and I won't use this porch as a stand-in for the work.
+JONATHON: I won't hover. I won't text an audition. I will call my dad once a month and I won't use this porch as a stand-in for the work. What are you picking Thursday, the chair or the joke?
 
-WES: Look around your house this week. Where have you been hovering? Where have you been in the barn when she wanted the bed? Ask which one this week is.
+WES: The chair. Look around your house this week. Where have you been hovering? Where have you been in the barn when she wanted the bed? Ask which one this week is.
 
 JONATHON: Company or quiet. Then the next smaller one. Then sit there. If she tests you with a driveway, don't yawn and don't rescue.
 
@@ -132,9 +132,9 @@ JONATHON: Company or quiet. Then the next smaller one. Then sit there. If she te
 
 WES: Stay on the ice a minute. A seven-year-old put ice in a glass because she understood welcome better than most men I know. You didn't coach that. You made supper and stayed off the window. She filled the gap with water.
 
-JONATHON: I almost told Ruby to go get Mom. That would have been hovering by proxy. I said she's finishing her day. Ruby accepted it the way kids accept weather.
+JONATHON: I almost told Ruby to go get Mom. That would have been hovering by proxy. I said she's finishing her day. Ruby accepted it the way kids accept weather. Did I steal a job from her by almost sending her?
 
-WES: That's leadership in a kitchen. Not a speech about auditions. A pot, pajamas, and a sentence a child can carry.
+WES: That's leadership in a kitchen. Not a speech about auditions. A pot, pajamas, and a sentence a child can carry. You didn't send her. That's the receipt.
 
 JONATHON: Theo was in pajamas by seven. He didn't know what Thursday was. He knew noodles. That's enough of a theology for a four-year-old.
 
@@ -148,7 +148,7 @@ JONATHON: I'll keep Ruby off the errand of fetching a woman who asked for a driv
 
 WES: Once a month is a rule that will tempt you to break it when you feel holy. Don't break it to perform. Keep it so the call stays a call and not a campaign.
 
-JONATHON: I wanted to call again Friday to tell him about the redfish drawing. That's a campaign. Ruby can mail a fish. I can wait.
+JONATHON: I wanted to call again Friday to tell him about the redfish drawing. That's a campaign. Ruby can mail a fish. I can wait. That's fair, but— waiting feels like I'm leaving him again. How do you sit in a small gift without punishing it?
 
 WES: Good. Waiting is sometimes the good of others. Your dad gave you four minutes and a fish. Don't punish that with a follow-up speech.
 
@@ -164,11 +164,15 @@ JONATHON: I'll write "don't hover" on a card by the sink. If my feet start towar
 
 WES: I make jokes when a room gets quiet. I made one at a parking gate last year and called it kindness. It was me leaving the room without moving my feet. Next Thursday I will sit. If a nurse looks at me I will nod. I won't improve the hallway.
 
-JONATHON: I make jokes when Dani tells a floor story. I'm going to try nodding. Nodding is harder than a joke. A joke asks her to take care of my nerves.
+JONATHON: I make jokes when Dani tells a floor story. I'm going to try nodding. Nodding is harder than a joke. A joke asks her to take care of my nerves. Can I ask you something hard?
 
-WES: That's the clap again. Different sound. Same job. Put the joke down. Pick up the chair.
+WES: Go.
 
-JONATHON: Company or quiet. I asked a practice one after a night shift. She said quiet. I wanted company. I went to the garage. That's a barn she asked for. I didn't send a paragraph from the garage.
+JONATHON: Are you actually going to sit in that waiting room without a joke, or are you going to tidy the quiet because quiet makes you feel useless?
+
+WES: I will sit. Company or quiet. You asked a practice one after a night shift. What did she pick?
+
+JONATHON: She said quiet. I wanted company. I went to the garage. That's a barn she asked for. I didn't send a paragraph from the garage.
 
 WES: Good. Do the scan the same way. Sit if she says sit. Leave if she says leave. Don't guess from your father's barn without asking the woman in the car.
 
@@ -180,13 +184,13 @@ JONATHON: Ask her, not me. I'm not her. Your mother already wrote the card. I'm 
 
 WES: I want my own receipt on the table, because Friday can't be only his driveway. I asked company or quiet twice this week. Once she said quiet and I went to the porch and I stayed there. Once she said company and I sat on the end of the bed and talked about the dog down the road. The second one felt smaller. It was the one she needed.
 
-JONATHON: That's the sock. You wanted the first one to count more because it looked like the barn you understand. The bed is harder for you. I know, because the kitchen floor is harder for me.
+JONATHON: That's the sock. You wanted the first one to count more because it looked like the barn you understand. The bed is harder for you. I know, because the kitchen floor is harder for me. Which one are you taking to the waiting room?
 
-WES: I'm driving Thursday. I'm going in. I'm sitting. I'm not making jokes to nurses. I told her I heard the correction. Come in. Sit. No jokes. I repeated it back until she nodded.
+WES: The chair. I'm driving Thursday. I'm going in. I'm sitting. I'm not making jokes to nurses. I told her I heard the correction. Come in. Sit. No jokes. I repeated it back until she nodded.
 
 JONATHON: Repeat it back so she can correct you. You already wrote that. Now you have to live it in a waiting room when your chest wants a joke.
 
-WES: I will live it. If I fail I will come back the same day and close my mouth. I won't write her a letter about the failure. I've got about thirty years of practice at the joke. I'm late. I'm still taking the chair, and I will take it again Thursday without a joke in my mouth at all.
+WES: I will live it. If I fail I will come back the same day and close my mouth. I won't write her a letter about the failure. I've got about thirty years of practice at the joke. I'm late. I'm still taking the chair.
 
 JONATHON: Good. Letters are how we get paid. Waiting rooms don't pay. That's why they count.
 
@@ -196,7 +200,7 @@ JONATHON: Good. Letters are how we get paid. Waiting rooms don't pay. That's why
 
 WES: I keep getting the barn wrong. I used it as a story about men who hide. My mother said he asked once. I've been preaching against a man who obeyed. That's a kind of theft. I stole his name to make my porch look holy.
 
-JONATHON: I steal Dani's tiredness to make my help look holy. If she's tired I get to be the hero. If I believe her answers I don't get to be the hero. I get to be a man stirring a pot.
+JONATHON: I steal Dani's tiredness to make my help look holy. If she's tired I get to be the hero. If I believe her answers I don't get to be the hero. I get to be a man stirring a pot. Whose name have you been using?
 
 WES: Look around your house this week. Whose name have you been using to excuse a habit you never asked about?
 
@@ -210,12 +214,12 @@ JONATHON: I'll ask after the next night shift, and I'll do the one she picks, ev
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. Believe the answer. Then stay in it.
+WES: Carry this. Believe the answer. Then stay in it.
 
 JONATHON: And if she sits in the driveway, let the driveway finish.
 
-WES: Tuesday we talk about the bed as a covenant. Until then: ask, repeat, do.
+WES: Tuesday we talk about the bed as a covenant. Ask, repeat, do.
 
-JONATHON: Then go believe her, and tell us how it went at walksteadfast.com, and find us everywhere at @steadfastwalk.
+JONATHON: Go believe her, then tell us at walksteadfast.com, and find us at @steadfastwalk.
 
 [STING 2s]

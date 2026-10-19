@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,948 (about 19:39 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,946 (about 19:38 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 52 lines (51% of words). JONATHON 46 lines (49% of words), 1 under 12 words (2.2%) |
 | Focus mark | None by design. Sets up the sentence. |
@@ -250,9 +250,9 @@ JONATHON: First time. Thirty-six years old. A wet hand on my head, and a sentenc
 
 WES: So here's your challenge this week. Write down the sentence you've actually been living. Not the church one. The real one. Especially if it's a bad one. Mine was "pay the bills and don't make trouble." Yours might be "keep everybody happy." Or "don't need anybody." Or "win." Write it on something. A receipt works.
 
-JONATHON: And then tell one man. Same guy you texted if that went well. Read it to him. Don't clean it up first.
+JONATHON: And then tell one man. Same guy you texted if that went well. Read it to him. Don't clean it up first. Who are you telling this week? Don't pick the safe one.
 
-WES: If you're married, ask your wife what she thinks your sentence is. Pick a calm night. Say yours first. If her answer stings, don't swing back. Write it down next to yours and sit with it for a day.
+WES: My wife. If her answer stings, I don't swing back. Married men, ask yours. Pick a calm night. Say yours first. Write hers down next to yours and sit with it for a day.
 
 JONATHON: If you're single, find the friend who's seen you at your worst. Ask him, "When things go sideways, what do I do?" Whatever he says, that's your sentence talking. Then offer him his.
 
@@ -262,7 +262,7 @@ WES: If there's nobody to ask, write it anyway and read it out loud to God. He's
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry out of here. Everybody's got a sentence. Read yours before your kids finish writing it for you.
+WES: Carry this. Everybody's got a sentence. Read yours before your kids finish writing it for you.
 
 JONATHON: And you're not crazy for wanting one. You were made by somebody. It makes sense to ask what for.
 

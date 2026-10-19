@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (1,905 spoken words, about 12:42). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (1,921 spoken words, about 12:48). Re-time them against the final edit before publishing.
 
 ---
 
@@ -44,7 +44,7 @@ Christian men podcast, Field Notes, Walk Steadfast, ten-minute start, Matthew 11
 | 06:30 | The Word | Matthew 11:28. Come weary. The brisket test. |
 | 08:31 | From the table | Two tired people. Who moves first. Do not mention it. |
 | 10:05 | The ten-minute start | The chicken. Ten minutes. Then you're allowed to stop. |
-| 12:16 | Close | Come tired. Start it. Tuesday is the weight. |
+| 12:24 | Close | Come tired. Start it. Tuesday is the weight. |
 
 ---
 

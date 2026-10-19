@@ -5,9 +5,9 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,851 (about 19:00 at 150 wpm, before laughs and pauses) |
+| Spoken words | 3,066 (about 20:26 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 38 lines (56% of words). JONATHON 29 lines (44% of words), 1 under 12 words (3.4%) |
+| Line balance | WES 42 lines (56% of words). JONATHON 33 lines (44% of words), 1 under 12 words (3.0%) |
 | Focus mark | Stop Waiting |
 | Scripture (NIV, verified 2026-10-19) | Spoken: 1 Corinthians 7:17. Board only: 1 Corinthians 7:24; 1 Corinthians 7:7 |
 | Board cues | 4 |
@@ -58,7 +58,7 @@ WES: Thursday is his only night off. It's also his grandmother night. I'm not go
 
 WES: Then last night, a little after ten, he texted me from the warehouse break room. He said I could read it. Church asks him two questions, a girl and a car. I've asked the car one about three times, which is on me. He works forty hours of nights. Pays his own phone and half the rent. Does his grandmother's nails because the lady who did it quit. His grandmother was married fifty-one years, "worth it most years." Then: "dont fix it. sorry this is long."
 
-JONATHON: He does her nails. That's the line that sat with me, because nobody at church asked him that. They asked if he had a girl and if he had a car.
+JONATHON: Wait, he does her nails and they asked about a car? That's the line that sat with me, because nobody at church asked him that. They asked if he had a girl and if he had a car.
 
 WES: I asked the car one. Three times. I'm done with that question. This week I'm sending one text: "Heard you can sing. Merle's lucky either way." That's all. No car. No girl. No fix. Just the thing that's already true.
 
@@ -78,7 +78,7 @@ WES: Jonathon, you've been sitting on your twenties. Tell the pregame, and don't
 
 JONATHON: I married Dani at twenty-seven. The years before that I called the pregame. I joined nothing. I gave nothing. I dated the way I sold, which is a terrible sentence and also accurate. Thursdays I drank. I visited six churches and joined none. No older man until I was twenty-nine. Dani got the pregame guy. She got a man who was still waiting for the season to start. I even told a friend the week before the wedding that I was about to become a real adult, like the license was going to do a job I had refused to do.
 
-WES: And you thought the wedding whistle was going to make you a different man.
+WES: And you thought the wedding whistle was going to make you a different man?
 
 JONATHON: I did. I thought a wife was the on-ramp. Then we had a house and a job and a baby, and I still had the pregame in me. The lobby doesn't end at a ring. It ends when you start living the day you already have. I learned that the hard way, on a Tuesday, with a crying baby and a man who still wanted a later that would never arrive.
 
@@ -96,7 +96,7 @@ WES: If you're single and tired of being the project, hear this. You're not the 
 
 WES: We're about halfway, and I'll tell you one I've never told. I was twenty-two. Renting a room, twenty minutes from the place. My granddad was dying in a hospital bed in the front room. Uncles came weekends. My dad went every night. I went once, on a Tuesday, because my mother said, "Go see your granddad."
 
-JONATHON: Once. That's the kind of number a man carries and then pretends he doesn't.
+JONATHON: Once. That's the kind of number a man carries and then pretends he doesn't. Wait, you were twenty minutes away and you went once?
 
 WES: I shaved him. About twenty minutes. My hands shook. He looked at me when I finished and said, "You did all right, Sport." He died about two weeks later. I had never told anybody that, not even my wife, until this table. I got married at twenty-five and I still thought my real life was the wedding. The real life was already in that front room, and I almost missed it for a ballgame and a TV tray.
 
@@ -118,7 +118,7 @@ WES: It isn't a consolation prize. Paul wished more people had his freedom. He a
 
 ## SEGMENT 4 · The Word
 
-WES: I've got a little under ten minutes, and I want the Bible open, because Paul already had this argument. First Corinthians seven, verse seventeen. Jonathon.
+WES: I've got a little under ten minutes, and I want the Bible open, because Paul already had this argument. First Corinthians seven, verse seventeen. You want to read it?
 
 JONATHON: "Nevertheless, each person should live as a believer in whatever situation the Lord has assigned to them, just as God has called them. This is the rule I lay down in all the churches."
 
@@ -142,7 +142,7 @@ WES: Then we move the furniture. Ask him what he did Tuesday. Ask him who was gl
 
 ## SEGMENT 5 · Widowed and waiting
 
-WES: Merle's been a widower a year and a half. He ate standing up for months. Drove her car. Left her station on. Then he put a card on a bulletin board asking for three men who could sing. That's not a man in a lobby. That's a man who still has a Tuesday, and he used it to need other men on purpose.
+WES: Merle's been a widower a year and a half. He ate standing up for months. Drove her car. Left her station on. Then he put a card on a bulletin board asking for three men who could sing. That's not a man in a lobby. That's a man who still has a Tuesday, and he used it to need other men on purpose. You hear that as assigned, or as a man killing time until a second wife?
 
 JONATHON: And the divorced seat. I don't sit in it, so I'm going to be careful. The men I know who got honest said the worst part wasn't the papers. It was everybody treating them like their useful life was on pause until they remarried. That's the lobby again, just with a stamp on it. One of them told me the first year he got invited to fewer tables, not more, like grief made him contagious.
 
@@ -174,21 +174,35 @@ WES: Don't. Tell him to be the kind of man a wise woman would trust, and to live
 
 ## SEGMENT 7 · What we're actually doing
 
-WES: Here's what I'm actually doing. I'm done asking that young man about a car. One text: "Heard you can sing. Merle's lucky either way." I won't follow it with a paragraph. If he answers, I'll answer. If he doesn't, I still sent the right question.
+WES: Here's what I'm actually doing. I'm done asking that young man about a car. One text: "Heard you can sing. Merle's lucky either way." I won't follow it with a paragraph.
 
-JONATHON: I'm texting my sister's boy something real. What's hard at work. Then I'm asking him to be one of the men at Theo's morning. That's eight years out. He can say no. At least it won't be "Anybody special?" And if he writes back "Nope" out of habit, I'll ask again, because I trained him to expect the lobby question.
+JONATHON: Wait, back up. You asked the car one three times. Are you actually done, or are you going to sneak a girl question into the second text if he answers?
 
-WES: This week's challenge. If you're single, name one way you've been living like you're in the lobby. Then do one assigned thing this week that has nothing to do with finding a wife. A grandmother. A crew. A younger man. A church you join instead of visit. Write it down. Tell one man.
+WES: Done. If he answers, I'll answer. If he doesn't, I still sent the right question. What about you? What's hard at work, or "Anybody special?" in a better shirt?
 
-JONATHON: If you're married, quit asking the lobby questions. Ask a single man what he did Tuesday, and who was glad. Then listen. Don't fix it. If you've been treating your own marriage like the season still hasn't started, that's your lobby. Walk out of it this week, not after vacation.
+JONATHON: What's hard at work. Then I'm asking him to be one of the men at Theo's morning. That's eight years out. He can say no. At least it won't be the lobby question. Can I ask you something hard?
+
+WES: Go.
+
+JONATHON: Are you going to chase "thanks" if he writes it, or sit with a short answer the way you sat with two waters?
+
+WES: [beat] Sit with it. He said don't fix it. So I won't. The text is about the song. Look around your week. If you've got a single man in your life, notice which questions you ask. If they all point at a missing woman or a missing car, you're telling him he isn't here yet.
+
+JONATHON: And if he writes back nope out of habit, I'll ask again, because I trained him to expect the lobby question. I can untrain it. That's assigned too. What are you picking, for real?
+
+WES: The text. No car. No girl. No paragraph. If you're single, name one way you've been living like you're in the lobby. Then do one assigned thing this week that has nothing to do with finding a wife. A grandmother. A crew. A younger man. A church you join instead of visit. Write it down. Tell one man.
+
+JONATHON: That's fair, but— don't make the assigned thing a speech about assigned things. If you're married, quit asking the lobby questions. Ask a single man what he did Tuesday, and who was glad. Then listen. Don't fix it. If you've been treating your own marriage like the season still hasn't started, that's your lobby. Walk out of it this week, not after vacation.
+
+WES: No, hold on. You've got a habit of training him with oranges and then being surprised he answers nope. Are you actually asking Theo's morning, or announcing it here so it counts?
+
+JONATHON: [laughs] Asking. This week. Text. He can say no. I'm not announcing a morning I haven't invited him to.
 
 WES: If you're divorced or widowed, take one Tuesday back. Not a dating plan. A Tuesday. Somebody who needs you in the room. Look around your house this week and pick the person you've been waiting to feel ready to serve.
 
----
+JONATHON: Then I send the work question on a night that already has a meeting. Does that sound like a quota?
 
-WES: Look around your week. If you've got a single man in your life, notice which questions you ask. If they all point at a missing woman or a missing car, you're telling him he isn't here yet. I'm done with that question. The text is about the song.
-
-JONATHON: And if he writes back nope out of habit, I'll ask again, because I trained him to expect the lobby question. I can untrain it. That's assigned too.
+WES: [laughs] It sounds like a man who knows his calendar. Ask inside the busy, or you never will. That's the whole takeaway. You're not in the lobby. Live the day you have.
 
 ## CLOSE (word for word)
 

@@ -5,9 +5,9 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm |
-| Spoken words | 2,056 (about 13:42 at 150 wpm, before laughs and pauses) |
+| Spoken words | 1,929 (about 12:52 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 28 lines (52% of words). JONATHON 27 lines (48% of words), 2 under 12 words (7.4%) |
+| Line balance | WES 29 lines (50% of words). JONATHON 28 lines (50% of words), 3 under 12 words (10.7%) |
 | Focus mark | Pick Up the Weight |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Ephesians 6:4. Board only: Isaiah 43:1 |
 | Board cues | 4 (none repeats spoken words) |
@@ -40,7 +40,7 @@ JONATHON: And I will tell you I won't send Ruby's fish photo, because I won't le
 
 ## SEGMENT 1 · The trash can
 
-WES: Let's take the next few minutes on the day as it actually lands, not as a catalog wants it. You first. The card.
+WES: Let's take the next few minutes on the day as it actually lands, not as a catalog wants it. You first. The card. Did you cry in the pantry again?
 
 JONATHON: From nine to about twenty-nine, Father's Day was a day to get through. Work. Off social media. Then I had kids and I felt like a fraud, thanked for a job I had never seen anybody do. Ruby's card last year had a fish on it before she had ever fished. This year's card has Steve. I've seen the rough draft. I cried in the pantry. Dani didn't come in. She knows that pantry.
 
@@ -66,7 +66,7 @@ JONATHON: Saturday I will call the nephew. Name first. He tells the truth when i
 
 ## SEGMENT 3 · The Word
 
-WES: Ephesians six, verse four. A verse for men who think Father's Day is only about being thanked.
+WES: Ephesians six, verse four. A verse for men who think Father's Day is only about being thanked. You want to read it?
 
 JONATHON: "Fathers, do not exasperate your children; instead, bring them up in the training and instruction of the Lord."
 
@@ -79,7 +79,7 @@ JONATHON: I've exasperated Theo with a leftover word. I've exasperated myself wi
 
 ## SEGMENT 4 · Bless a younger man
 
-WES: Last few minutes. Tool is bless a younger man. Saturday morning I will call the twenty-four-year-old after his shift. The bus. The donuts. I hope he gets a car, and I will help him pick a used one if he wants. I may be wrong about the car. I will still say his name and one true thing I've watched. If he does not want a car, I will listen. I've been wrong about other men's hills before.
+WES: Last few minutes. Tool is bless a younger man. What are you actually sending? Saturday morning I will call the twenty-four-year-old after his shift. The bus. The donuts. I hope he gets a car, and I will help him pick a used one if he wants. I may be wrong about the car. I will still say his name and one true thing I've watched. If he does not want a car, I will listen. I've been wrong about other men's hills before.
 
 JONATHON: If Father's Day is the worst day of your year, don't pretend. Cook what your dad would cook if that helps. Wear his hat. Tell your kids one story. A man at Wes's church, his dad died in March, was told that and it didn't fix the day. It gave the day a handle. A handle is enough.
 
@@ -95,7 +95,6 @@ JONATHON: I will send two words. I will call a twenty-two-year-old and not make 
 
 WES: I used to let Father's Day turn me into a boy who needed a review. I'm a grandfather-aged man this year if you count the years. I don't need a review. I need to say a young man's name after a night shift.
 
-WES: I used to let Father's Day turn me into a boy who needed a review. I'm a grandfather-aged man this year if you count the years. I don't need a review. I need to say a young man's name after a night shift.
 
 JONATHON: I'll send two words. I'll call a twenty-two-year-old and not make it weird. If I come back with a novel about my father, stop me. The novel is how I skip the nephew.
 
@@ -105,49 +104,57 @@ JONATHON: I can send two words and stay mad. Those aren't opposites. I won't ask
 
 ## SEGMENT · Sitting with it
 
-WES: I've watched men collect Father's Day stories like this and never bless a younger man. Don't be that man this week. Say a name. One true thing. Then tell one person you did, because a secret blessing turns back into a mood by Thursday.
+WES: I keep wanting to send a man home thinking the day has to be a brunch. The day is allowed to be a bruise.
 
-JONATHON: I'm the man who collects stories. I've got a notes app and a glitter card I put in a can. The only ones that count are the ones that got two words and a nephew.
+JONATHON: Wait, back up. Are you talking about me and twenty-eight years, or the guy who feels like a fraud at breakfast?
 
-WES: I want the listener who thinks this doesn't apply because his house is quieter, or the day is a bruise. Then bless a younger man. Quiet isn't settled. You already know that if you've sat through a polite holiday and called it peace.
+WES: Both. You rewrote the text nine times. Are you actually sending two words, or are you going to attach a fish photo and let a seven-year-old carry a silence?
 
-JONATHON: My house can be loud and still be a cease-fire. Volume isn't the test. The test is whether I send the text without the fish photo, not whether I can tell you about a pantry.
+JONATHON: Two words. Period. No photo. If he doesn't answer, that's mine to carry. Can I ask you something hard?
 
-WES: I'll check the night-shift call on Friday, which is the only reason I trust myself. A public calendar is a kind of mercy for a man who likes his recliner and likes to call the recliner wisdom. I may be wrong about the car. I'll still say his name.
+WES: Go.
 
-JONATHON: I'll hold you to the name, and I want somebody holding me to two words. That's why I say the text out loud even when it makes me look late. Looking late is better than looking peaceful and being dug into twenty-eight years.
+JONATHON: Are you calling the twenty-four-year-old after the night shift, or are you going to be wrong about the car and skip the name?
 
-WES: A steadfast man does the small thing while it's still small. For me that's a young man after a bus ride. For you that's Happy Father's Day, period. We forget it by Wednesday and start waiting to feel ready.
+WES: [beat] I'll say his name. I may be wrong about the car. I'll still say one true thing I've watched. What are you actually doing besides the text?
 
-JONATHON: I forget it by Tuesday afternoon. Ruby doesn't. She has Steve on a card. She has a better memory for what I said I'd do than any review I've ever run.
+JONATHON: The nephew. Name first. Then I shut up. If I add a paragraph he'll say don't make it weird. If I pick three I'll do none.
 
-WES: If this feels like too many stories, pick one. One name. One text. One younger man. That's enough weight for a complicated Sunday.
+WES: That's fair, but— no, don't stack the text and the nephew so you can fail both and feel deep.
 
-JONATHON: I'll pick the two words. If I pick three I'll do none. One text is how a man like me gets free of his own notes app.
+JONATHON: [laughs] I won't. Will you stop me if I come back with a novel about my father?
 
-WES: I've got a habit of saving the true sentence for a better room. There is no better room. The pantry is the room. The bus-stop can is the room. The phone after a night shift is the room. Say it there.
+WES: I'll stop you. The novel is how you skip the nephew. You stop me if I argue myself out of a blessing when my daughter says the kind thing.
 
-JONATHON: I've rehearsed in better rooms my whole adult life. The rehearsal is how I stay safe. Dani knows that pantry. She doesn't come in. That's a kind of holding I didn't have at nine.
+JONATHON: No, hold on. You've got a habit of needing a review on this day. You're a grandfather-aged man if you count the years. Do you still need the review?
 
-WES: Some of you will try to make this spiritual so you don't have to be specific. Prayer is good. Two words is still required. Don't baptize delay and call it discernment. Don't use a child as a prop in a text a man may not answer.
+WES: [laughs] I don't. I need to say a young man's name after a bus ride. Weird is allowed. My youngest said weird when I used his name first. Are you still mad, and still sending it?
 
-JONATHON: I've baptized delay. I've called it being careful. Careful is sometimes fear with a pressed shirt. A novel about my father would be a pressed shirt. Two words is the road.
+JONATHON: Both. Those aren't opposites. I cried in the pantry over Steve on a card. Dani didn't come in. She knows that pantry. That's a kind of holding I didn't have at nine.
 
-WES: The man who says he'll start after the holiday is lying to himself the same way I did arguing myself out of a blessing. There is always another holiday. Bless a younger man inside this one, or you never will.
+WES: Good. Two words can sit next to that pantry. Don't use a child as a prop. Don't wait for a quieter Sunday.
 
-JONATHON: HVAC sales doesn't hand you a quiet Sunday. If I wait for one I'll still be waiting when Theo has a license. I've got to put two words on a day that already has a bruise.
+JONATHON: Then I put two words on a day that already has a bruise. Does that sound like I'm making a quota out of a holiday?
 
-WES: All week I've been saying my youngest's name first. He asked why I keep saying his name like that. I said because it's your name. He said weird. Weird is allowed. I won't argue when my daughter says the kind thing on Sunday. I'll say thank you. She can ask me Monday if she wants the longer truth.
+WES: [laughs] It sounds like a man who knows his calendar. Send it inside the bruise, or you never will.
 
-JONATHON: If you can't bless a father, bless a younger man. If you can't send the text, write it and wait. I'm sending mine. I may get nothing back. Nothing back isn't a reason to skip a nephew. I won't stack them so I can fail both and feel deep.
+JONATHON: What are you picking, for real?
 
-WES: Saturday morning I'll call the twenty-four-year-old after his shift. The bus. The donuts. I hope he gets a car, and I'll help him pick a used one if he wants. I may be wrong about the car. I'll still say his name and one true thing I've watched.
+WES: The night-shift call. His name. One true thing. I may be wrong about the car.
 
-JONATHON: Saturday I'll call the nephew. Name first. He tells the truth when it costs him. I hope he becomes a man somebody calls at one in the morning. Then I'll shut up. If I add a paragraph he will say do not make it weird, and he will be right.
+JONATHON: Happy Father's Day. Period. That's the whole takeaway. If the day is complicated, tell the truth and still bless a younger man.
 
-WES: The day is allowed to be complicated. The blessing is still simple. A name. One true thing. No photo that isn't yours to risk. I used to argue myself out of a blessing. I'm tired of that argument.
+WES: A glitter card can go in a can. A two-word text can still go out. I'm tired of arguing myself out of a blessing.
 
-JONATHON: From nine to about twenty-nine, Father's Day was a day to get through. Then I had kids and I felt like a fraud. I cried in the pantry over a card with Steve on it. Dani didn't come in. She knows that pantry. Two words can sit next to that pantry. They aren't opposites.
+JONATHON: From nine to about twenty-nine this day was a day to get through. Work. Off social media. Then I had kids and felt like a fraud, thanked for a job I had never seen anybody do. The tally is four a day now, all in the car. Hang on, bud. Theo said, Daddy, you said the bud word. He's the referee. I want a referee. Breakfast and cards in the morning. The afternoon is mine. A drive. The yard. She didn't love it the first year. It's still the deal. Can a man hate the afternoon program without becoming a villain?
+
+WES: He can. That's honesty. All week I've been saying my youngest's name first. He asked why. I said because it's your name. He said weird. I won't argue when my daughter says the kind thing on Sunday. I'll say thank you. She can ask Monday if she wants the longer truth. A man at church, his dad died in March, was told to cook what his dad would cook. It didn't fix the day. It gave the day a handle. A handle is enough.
+
+JONATHON: If you can't bless a father, bless a younger man. If you can't send the text, write it and wait. I'm sending mine. I may get nothing back. Nothing back isn't a reason to skip a nephew. Saturday I call him. Name first. He tells the truth when it costs him. I hope he becomes a man somebody calls at one in the morning. Then I shut up. Don't clap for a text. I'll report Tuesday.
+
+WES: Saturday morning I call after a night shift. The bus. The donuts. I hope he gets a car. I may be wrong. I'll still say his name. I used to let this day turn me into a boy who needed a review. I don't need a review. I need a name after a shift. I'm a grandfather-aged man this year if you count the years. The blessing is still simple.
+
+---
 
 ## CLOSE (word for word)
 

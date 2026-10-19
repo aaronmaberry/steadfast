@@ -5,9 +5,9 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 1,905 (about 12:42 at 150 wpm, before laughs and pauses) |
+| Spoken words | 1,921 (about 12:48 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 34 lines (52% of words). JONATHON 28 lines (48% of words), 0 under 12 words (0.0%) |
+| Line balance | WES 34 lines (52% of words). JONATHON 29 lines (48% of words), 0 under 12 words (0.0%) |
 | Focus mark | Stop Waiting |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Matthew 11:28. Board only: Matthew 11:30; Psalm 127:2 |
 | Board cues | 5 (none repeats spoken words) |
@@ -170,13 +170,15 @@ WES: So the watch finally has a job. If you fail the brisket test, skip the chic
 
 JONATHON: And if the thing is bigger than ten minutes, like a will, or a brother, or a doctor, the ten minutes is still the start. You don't have to finish the whole weight tonight.
 
-WES: You don't have to finish it. You have to start it. Started is the word I want you carrying.
+WES: You don't have to finish it. You have to start it. What's the ten minutes tonight? Not the whole will. The first ten.
+
+JONATHON: The lawyer email. I already wrote it in my head. That's not started. Started is hitting send.
 
 ---
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. Come to God tired. Then give him ten minutes.
+WES: Carry this. Come to God tired. Then give him ten minutes.
 
 JONATHON: And you don't have to finish the thing. You have to start it. Started counts.
 

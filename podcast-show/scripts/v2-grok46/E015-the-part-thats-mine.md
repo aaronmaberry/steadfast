@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,870 (about 19:08 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,869 (about 19:08 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 31 lines (58% of words). JONATHON 26 lines (42% of words), 2 under 12 words (7.7%) |
 | Focus mark | Pick Up the Weight |
@@ -156,11 +156,11 @@ WES: There's a training session that walks this chapter if you want the longer v
 
 ## SEGMENT 6 · This week's challenge
 
-WES: Last few minutes. Name the part that's yours. One thing. Write it in a sentence you could say out loud. Then say it to God, and then to the person if a person is owed. I want this small on purpose. A man will pick a life review so he can postpone the one night. Pick the night. Pick the deal. Pick the word. Leave the memoir for later. God can handle a long life. Your Tuesday can't.
+WES: Last few minutes. Name the part that's yours. One thing. Write it in a sentence you could say out loud. Then say it to God, and then to the person if a person is owed. What's yours this week, not the memoir? I want this small on purpose. A man will pick a life review so he can postpone the one night.
 
-JONATHON: Don't pick your childhood. Pick your hands. A deal. A night. A word. A silence. If you can't think of one, ask the person who lives with you. She already has a list.
+JONATHON: The VP sentence. Not my childhood. Don't pick your childhood. Pick your hands. A deal. A night. A word. A silence. If you can't think of one, ask the person who lives with you. She already has a list. What's yours, and don't say the fan again.
 
-WES: If you live alone, ask a brother, or ask God and sit still for ten minutes. The thing that shows up first is usually the one. Don't shop for a nicer one. A nicer one is how we stay in charge of the confession. The first one that makes your stomach tight is the assignment. Write it on a card. Say it out loud in the truck. Then, if a person is owed, call him before Friday. Don't wait for a cleaner feeling. The feeling isn't the door. The sentence is.
+WES: The Thanksgiving call. Not the fan. That's already dated. If you live alone, ask a brother, or ask God and sit still for ten minutes. The thing that shows up first is usually the one. Don't shop for a nicer one. A nicer one is how we stay in charge of the confession. The first one that makes your stomach tight is the assignment. Write it on a card. Say it out loud in the truck. Then, if a person is owed, call him before Friday. Don't wait for a cleaner feeling. The feeling isn't the door. The sentence is.
 
 JONATHON: And if you already said it and they already knew, don't demand a ceremony. Let the knowing be enough, and then stop stealing, which is the part nobody wants to talk about after the sorry. I can feel myself wanting the VP conversation to be the ending so I can go back to being the honest guy. If I take the next young rep's work, the lunch was theater. I told Dani that last night. She said, "Then don't." Two words. Better than a lot of my paragraphs.
 
@@ -170,7 +170,7 @@ WES: Stop stealing. That's the second half. Confession without a different Tuesd
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry out of here. Some of the problem is what was done to you. Some of it's the part that's yours. Pick that one up.
+WES: Carry this. Some of the problem is what was done to you. Some of it's the part that's yours. Pick that one up.
 
 JONATHON: And if they already knew, you still needed to say it. Knowing isn't the same as hearing it from you.
 

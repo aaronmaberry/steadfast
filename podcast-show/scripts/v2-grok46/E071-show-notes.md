@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,966 spoken words, about 19:46). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (3,164 spoken words, about 21:06). Re-time them against the final edit before publishing.
 
 ---
 
@@ -35,29 +35,29 @@ Christian men podcast, work, 1 Corinthians 15:58, unseen, Walk Steadfast, Labor 
 |---|---|---|
 | 00:00 | Open | Open |
 | 00:48 | Wrong direction | Wrong direction |
-| 02:14 | Who were you doing it for | Who were you doing it for |
-| 03:25 | Gold star | Gold star |
-| 04:05 | The Word | The Word |
-| 05:10 | Pushback and challenge | Pushback and challenge |
-| 06:34 | More on the 1 | More on the 1 |
-| 07:28 | More on the 2 | More on the 2 |
-| 08:10 | More on the 3 | More on the 3 |
-| 08:52 | More on the 4 | More on the 4 |
-| 09:24 | More on the 5 | More on the 5 |
-| 10:04 | More on the 6 | More on the 6 |
-| 11:00 | More on the 7 | More on the 7 |
-| 11:41 | More on cold 8 | More on cold 8 |
-| 12:23 | More on cold 9 | More on cold 9 |
-| 12:55 | More on cold 10 | More on cold 10 |
-| 13:36 | More on cold 11 | More on cold 11 |
-| 14:30 | More on cold 12 | More on cold 12 |
-| 15:12 | More on cold 13 | More on cold 13 |
-| 15:54 | More on cold 14 | More on cold 14 |
-| 16:27 | More on a 15 | More on a 15 |
-| 17:06 | More on a 16 | More on a 16 |
-| 18:02 | More on a 17 | More on a 17 |
-| 18:43 | More on a 18 | More on a 18 |
-| 19:25 | Close | Close |
+| 02:16 | Who were you doing it for | Who were you doing it for |
+| 03:40 | Gold star | Gold star |
+| 04:24 | The Word | The Word |
+| 05:40 | Pushback and challenge | Pushback and challenge |
+| 07:09 | More on the 1 | More on the 1 |
+| 08:06 | More on the 2 | More on the 2 |
+| 09:00 | More on the 3 | More on the 3 |
+| 09:55 | More on the 4 | More on the 4 |
+| 10:53 | More on the 5 | More on the 5 |
+| 11:45 | More on the 6 | More on the 6 |
+| 12:34 | More on the 7 | More on the 7 |
+| 13:19 | More on cold 8 | More on cold 8 |
+| 14:08 | More on cold 9 | More on cold 9 |
+| 14:58 | More on cold 10 | More on cold 10 |
+| 15:48 | More on cold 11 | More on cold 11 |
+| 16:31 | More on cold 12 | More on cold 12 |
+| 17:02 | More on cold 13 | More on cold 13 |
+| 17:35 | More on cold 14 | More on cold 14 |
+| 18:00 | More on a 15 | More on a 15 |
+| 18:49 | More on a 16 | More on a 16 |
+| 19:36 | More on a 17 | More on a 17 |
+| 20:21 | More on a 18 | More on a 18 |
+| 20:48 | Close | Close |
 
 ---
 

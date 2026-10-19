@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,086 spoken words, about 13:54). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,172 spoken words, about 14:29). Re-time them against the final edit before publishing.
 
 ---
 
@@ -36,10 +36,10 @@ Christian men podcast, Field Notes, Easter, Matthew 3:17, Walk Steadfast, Wes Ha
 |---|---|---|
 | 00:00 | Open | She was wrong once. She said I could tell it. |
 | 00:58 | Check the box | Seventy-four minutes. A cold roll. Day eleven. |
-| 06:13 | From the table | Does it matter if I do not feel it? |
-| 08:55 | The Word | Well pleased, even as paste. |
-| 10:49 | The Saturday morning walk | Same air. Twenty minutes. |
-| 13:25 | Close | Ask her. Do not build her a room. |
+| 06:23 | From the table | Does it matter if I do not feel it? |
+| 09:12 | The Word | Well pleased, even as paste. |
+| 11:14 | The Saturday morning walk | Same air. Twenty minutes. |
+| 14:03 | Close | Ask her. Do not build her a room. |
 
 ---
 

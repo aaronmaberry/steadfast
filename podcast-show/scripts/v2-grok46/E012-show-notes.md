@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (1,905 spoken words, about 12:42). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (1,989 spoken words, about 13:16). Re-time them against the final edit before publishing.
 
 ---
 
@@ -40,10 +40,10 @@ Christian men podcast, Field Notes, Walk Steadfast, Ash Wednesday, Valentine's, 
 |---|---|---|
 | 00:00 | Open | Mom told the doctor. The brother never asked either. |
 | 00:53 | Check the box | The appointment. Terrible diner coffee. |
-| 03:50 | Ham and ash | Easter ham. Decaf. Dirt on his face. |
-| 07:19 | The Word | 1 John 1:9. No because. |
-| 08:58 | The first apology | One clean sentence. The chili text. |
-| 12:06 | Close | Go first, then get out of the way. |
+| 04:20 | Ham and ash | Easter ham. Decaf. Dirt on his face. |
+| 08:05 | The Word | 1 John 1:9. No because. |
+| 09:44 | The first apology | One clean sentence. The chili text. |
+| 12:48 | Close | Go first, then get out of the way. |
 
 ---
 

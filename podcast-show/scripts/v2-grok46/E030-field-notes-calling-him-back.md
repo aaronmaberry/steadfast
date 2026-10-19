@@ -5,9 +5,9 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 1,936 (about 12:54 at 150 wpm, before laughs and pauses) |
+| Spoken words | 1,983 (about 13:13 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 28 lines (54% of words). JONATHON 24 lines (46% of words), 0 under 12 words (0.0%) |
+| Line balance | WES 28 lines (52% of words). JONATHON 24 lines (48% of words), 0 under 12 words (0.0%) |
 | Focus mark | Go First |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Colossians 3:13. Board only: Luke 15:20 |
 | Board cues | 5 (none repeats spoken words) |
@@ -74,9 +74,9 @@ WES: You went first. You didn't get a speech back. You got twelve minutes and a 
 
 WES: My box was a lunch call to my oldest. Thursday. I said, "I'm proud of you." He was chewing. He said, "For what?" I said, "Not for anything. Just am." He said, "Okay. Thanks, Dad." Then fifteen minutes on the noise in his truck. Probably a wheel bearing. I don't know if it landed. I've decided that's okay.
 
-JONATHON: You said the sentence without a trophy attached, and he went to a wheel bearing, which is how men in your family say they heard you. I'm going to need you to not chase a bigger reaction than okay.
+JONATHON: You said the sentence without a trophy attached, and he went to a wheel bearing, which is how men in your family say they heard you. [laughs] I'm going to need you to not chase a bigger reaction than okay. Did you chase it anyway?
 
-WES: I wanted a bigger one. I didn't get it. I'm leaving it. The other thing in my house is my wife's sister turns fifty in May, and the two of them are going to Fredericksburg for three days. First time in twenty-five years. Nightly calls from the bathroom with the door shut, laughing. I asked what they talk about. She said, "Not you."
+WES: I wanted to. I didn't. I'm leaving it. The other thing in my house is my wife's sister turns fifty in May, and the two of them are going to Fredericksburg for three days. First time in twenty-five years. Nightly calls from the bathroom with the door shut, laughing. I asked what they talk about. She said, "Not you."
 
 JONATHON: Her list is on the fridge next to the truck paper. A winery. A peach stand if they're early. A quilt shop she has wanted since 2003. You're in charge of the house for three days, and you're already treating it like a deployment.
 
@@ -100,7 +100,7 @@ JONATHON: "Bear with each other and forgive one another if any of you has a grie
 
 WES: Notice the order. Bear with. Forgive. As the Lord forgave you. It does not say wait until the other man writes a speech. It does not say the grievance was small. It says the standard is how you have been forgiven. Paul is writing to people who still have to sit in the same room after the hurt. He does not give them a feeling to wait on. He gives them a move.
 
-JONATHON: Here's my problem with that. My father isn't sorry. He didn't mention the lamp. He didn't mention the driveway. He told me about fish and a name. If I forgive him, does that mean I'm saying it was fine?
+JONATHON: Wait, back up. He laughed and he didn't mention the lamp. Here's my problem with that. My father isn't sorry. He didn't mention the driveway. He told me about fish and a name. If I forgive him, does that mean I'm saying it was fine?
 
 WES: No. Forgiveness isn't a press release. It's handing the debt to God so it stops running your kitchen. You can forgive a man and still tell the truth about the rods. You can forgive and still not hand him a key to your house. Bearing with isn't pretending. If you wait for sorry before you obey this verse, you may wait your whole life and call it discernment.
 
@@ -116,9 +116,9 @@ WES: You don't have to finish the anger this week. You do have to decide whether
 JONATHON: You'll sit on the next call the way you sat on the last twenty-eight years. Hold on. That's the fork, and I know which way I'd pick.
 WES: Forgiveness, in this verse, isn't a feeling you wait to arrive. It's a move you make because you have been forgiven. I've used unfinished anger as a reason to stay quiet and called it being careful. It was just me protecting me.
 
-JONATHON: So the two-call rule isn't "call him until you feel warm." First call is to the man, if he's safe. Second call is to God, about the thing the first call didn't settle. I did the second one at two in the morning about the rods. I didn't get a feeling. I got sleep.
+JONATHON: So which is it? Wait for sorry, or make the two calls anyway? The two-call rule isn't "call him until you feel warm." First call is to the man, if he's safe. Second call is to God, about the thing the first call didn't settle. I did the second one at two in the morning about the rods. I didn't get a feeling. I got sleep.
 
-WES: That's a good receipt. The man whose dad will never say sorry still has a second call. Pray the name. Tell God the lamp. Then get up and be a father in your own house. Your kids aren't waiting for your dad to become a better man. They're watching what you do with the weight.
+WES: The two calls. Sorry can wait in the driveway. That's a good receipt. The man whose dad will never say sorry still has a second call. Pray the name. Tell God the lamp. Then get up and be a father in your own house. Your kids aren't waiting for your dad to become a better man. They're watching what you do with the weight.
 
 JONATHON: If your dad is gone, the first call is to somebody who knew him. An uncle. A sister. Then the second call is still to God. If he's dangerous, skip the first call. Do the second. Get a counselor in the room. That's still going first. It's just going first in the right direction.
 
@@ -138,22 +138,22 @@ JONATHON: Call one, if he's safe: one question about his life before you. Stay p
 
 WES: Put a day on both. Not "sometime." Wednesday at seven-thirty. Then before you sleep. If you already made the first one and skipped the second, make the second tonight. If you made neither, you still have a driveway. Write the two times on a card and put it on the dash. A card is harder to talk yourself out of than a mood.
 
-JONATHON: I'm not sending him a paragraph. I'm not explaining the show to him. I'm going to say the name to Ruby this week, and I'm going to let that be the next honest thing. If you need a next step smaller than another phone call, tell one child one true sentence about your father.
+JONATHON: I'm not sending him a paragraph. I'm not explaining this to him. I'm going to say the name to Ruby this week, and I'm going to let that be the next honest thing. If you need a next step smaller than another phone call, tell one child one true sentence about your father. Can I ask you something hard? If you sit in the truck and don't hit the button, are you going to say so, or dress it up as wisdom?
 
 [BOARD: A name is a start, not a finish.]
 
-WES: Look at your week. If you sat in the truck and didn't hit the button, that's not the end of the assignment. The little thing is still the button. Second try counts here too. The contact is still named Dad. You can still put your thumb on it.
+WES: I'll say so. Second try counts. Look at your week. If you sat in the truck and didn't hit the button, that's not the end of the assignment. The little thing is still the button. The contact is still named Dad. You can still put your thumb on it.
 
 ---
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. A twelve-minute call is a start. It's not the whole debt. Make the second call.
+WES: Carry this. A twelve-minute call is a start. It's not the whole debt. Make the second call.
 
 JONATHON: And you can be glad he laughed and still be mad about the rods. Those aren't opposites.
 
 WES: Tuesday we talk about the house that never handed you off. Until then: two calls.
 
-JONATHON: Then go make them, and tell us how it went at walksteadfast.com, and find us everywhere at @steadfastwalk.
+JONATHON: Go make them, then tell us at walksteadfast.com, and find us at @steadfastwalk.
 
 [STING 2s]

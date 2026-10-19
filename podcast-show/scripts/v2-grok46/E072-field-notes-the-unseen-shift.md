@@ -5,9 +5,9 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 2,031 (about 13:32 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,052 (about 13:41 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 42 lines (52% of words). JONATHON 38 lines (48% of words), 1 under 12 words (2.6%) |
+| Line balance | WES 43 lines (51% of words). JONATHON 39 lines (49% of words), 1 under 12 words (2.6%) |
 | Focus mark | Work for God's Pay |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Galatians 6:9. Board only: 1 Corinthians 15:58; Matthew 6:4 |
 | Board cues | 3 |
@@ -44,7 +44,7 @@ JONATHON: And I'll tell you the gold star that came back to a sink.
 
 ## SEGMENT 1 · The letter
 
-WES: Let's take the next few minutes on the receipt. I mailed the coach letter Tuesday. A page by hand. The bus in the rain, eleven at night, waiting till every boy had a ride. No answer yet, and that's not why I sent it. Some of my work list is still for the man reviewing me in October. I'm naming that so I don't get clean.
+WES: Let's take the next few minutes on the receipt. Did you actually put the star down, or did it crawl back to the sink? I mailed the coach letter Tuesday. A page by hand. The bus in the rain, eleven at night, waiting till every boy had a ride. No answer yet, and that's not why I sent it. Some of my work list is still for the man reviewing me in October. I'm naming that so I don't get clean.
 
 JONATHON: My list is almost all at home now. Lunches on Dani's sleep days. Theo's shoes. The sink. The gold star is back. I want her to see the sink. That's the truth. I'm putting it down again.
 
@@ -58,7 +58,11 @@ WES: Tuesday drives came out clean. Clean isn't the same as unseen. Some of that
 
 WES: The custodian. Early drop-off. Nurses, cops, early-shift kids. He knows Theo too.
 
-JONATHON: I didn't know his name. Ruby says it every morning now. I asked. He said somebody's got to open it. That's 1 Corinthians without a pulpit.
+JONATHON: I didn't know his name. Ruby says it every morning now. I asked. He said somebody's got to open it. That's 1 Corinthians without a pulpit. Can I ask you something hard?
+
+WES: Go.
+
+JONATHON: Are you going to turn that rec room into your moment, or are you going to leave before the cookies?
 
 WES: Thursday I sat in the back of a rec room. Piano needs tuning. About thirty folding chairs. Four hymns. It Is Well. The grandmother mouthed every word, eyes closed. A woman two chairs down cried throughout. I didn't go up. I left before the cookies.
 
@@ -70,7 +74,7 @@ WES: I'm leaving it there. I won't turn a hymn into my moment.
 
 ## SEGMENT 3 · The Word
 
-WES: We're about halfway, and I want one verse for the man who is tired of not being seen. Galatians six, verse nine.
+WES: We're about halfway, and I want one verse for the man who is tired of not being seen. Galatians six, verse nine. You want to read it?
 
 JONATHON: "Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up."
 
@@ -100,181 +104,166 @@ JONATHON: Last few minutes. Keep one line you won't read on a porch. Open a gym 
 
 ## SEGMENT 5 · More on the 1
 
-WES: Stay on the gym door a minute, because a man will hear the verse and look for a war. The war is the gym door.
+WES: I mailed the coach letter Tuesday. A page by hand. The bus in the rain. No answer yet, and that's not why I sent it. Some of my work list is still for the man reviewing me in October.
 
-JONATHON: I'll be real with you. I can talk about the gym door for twenty minutes and still skip a back-row hymn tonight, which is why I need a man who will ask me tomorrow whether I did a back-row hymn. If I fail I will say I failed, not that the week got loud.
+JONATHON: Wait, back up. Is the letter actually unseen if we keep talking about it here? Because I can feel a gold star growing on a mailbox, and that is the old receipt again.
 
-WES: I've walked past the gym door so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up the gym door before you write a speech about it.
+WES: The letter is thanks, not a trap. I named the October review so I don't get clean. Naming it is not the same as doing the list for him.
 
-JONATHON: Yeah — I'll do the next small thing, and I'll tell the truth about it Friday.
-
+JONATHON: I'll keep naming the star on the sink. I want Dani to see it. That's the truth. I'm putting it down again even if it crawls back tomorrow.
 
 ---
 
 ## SEGMENT 6 · More on the 2
 
-WES: I keep a picture of the gym door in my head when I want to quit. Not a stage. the gym door.
+WES: The custodian opens the gym at six-forty-five and says every kid's name. You didn't know his. Ruby says it every morning now. Somebody's got to open it. That's the verse without a pulpit.
 
-JONATHON: I want credit for the gym door and I want privacy for an erased sink line.
+JONATHON: I said I don't know your name, and you know both my kids. That sentence still sits in my chest. How did I drop off for months and never ask?
 
-WES: If I need a prettier assignment than the gym door, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like the gym door, then tell one man.
+WES: You asked. He gave it. Then he opened the door. That's the whole shift. Don't turn his name into a program.
 
-JONATHON: I'm doing an erased sink line without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
-
+JONATHON: Ruby says it every morning. I'm going to keep saying it. If I turn it into a speech on the drive I've written a letter on a gym door.
 
 ---
 
 ## SEGMENT 7 · More on the 3
 
-WES: I almost turned the gym door into a testimony before the week was over. That's how I steal a gift.
+WES: Thursday I sat in the back of a rec room. Piano needs tuning. Four hymns. It Is Well. The grandmother mouthed every word. A woman two chairs down cried. I didn't go up. I left before the cookies.
 
-JONATHON: I keep trying to upgrade the gym door into a program. She didn't ask for a program. She asked for a mailed letter. I'm retiring the program and keeping a mailed letter, even if a mailed letter makes me feel small.
+JONATHON: He texted that night. Saw you in the back. Thanks for coming. That's a thumb in another font. Are you going to go up next time because a text felt like a clap?
 
-WES: I'm leaving the gym door unnamed in the report so I don't get paid twice. Coming back to the gym door counts. Narrating the gym door does not.
+WES: I'm leaving it there. I won't turn a hymn into my moment. The grandmother gets the front row. I get a folding chair.
 
-JONATHON: Hold on. If I miss it I'll say I missed it. I won't hide it in a loud week.
-
+JONATHON: Don't go up. Don't fix his Thursdays. He already has a life. Your job is a back and a quiet thank you later if he wants it.
 
 ---
 
 ## SEGMENT 8 · More on the 4
 
-WES: My dad would have called the gym door Tuesday. I've been wanting a letter for the gym door.
+WES: Proper time isn't your review. Harvest is a boy on leave. Harvest is a name said at six-forty-five. Don't give up is a sink without a star.
 
-JONATHON: If I hide from the gym door I will call it logistics.
+JONATHON: I become weary when the star doesn't come. That's the tell. The verse assumed we would get weary. It didn't say get a plaque. Can I be weary and still erase the list?
 
-WES: I'm retiring the letter. I'm doing the gym door tired, and I'm not writing a paragraph on the way.
+WES: Yes. Paul is talking about sowing. If you sow for a clap, you reap a clap, and then you're hungry again at seven.
 
-JONATHON: I'm done with that name. the gym door is the work. vending-machine nights is how I prove I meant it. Ask me Friday about vending-machine nights and I won't joke.
-
+JONATHON: I'll sow the sink and erase the receipt. If I get hungry at seven I will tell you instead of laminating a report.
 
 ---
 
 ## SEGMENT 9 · More on the 5
 
-WES: If the gym door feels small, that's a clue you're close. Big feelings like a conference. the gym door likes a kitchen.
+WES: Dani on nights: the other two nurses and the vending machine. Days are a crowd. Nights are a crew. That's unseen on purpose. She already knows this verse whether she can quote it or not.
 
-JONATHON: Door likes a kitchen. Single men, the gym door still belongs to you. Divorced men, a tuning piano still belongs to you. I don't get to keep these on a married shelf. I'm doing the gym door and a tuning piano as a person, not as a title.
+JONATHON: I started a secret list Wednesday. First line the sink. I erased it. It had become a receipt. Thursday's line is private. That's the point. Will you let it stay private, or are you going to ask me what it was?
 
-WES: I've skipped kitchens for conferences. I'm late. I'm still going to the gym door.
+WES: I'll ask if you kept it private. I won't ask what it was. That's the only way unseen stays unseen.
 
-JONATHON: That's the one I keep walking past. Ask me Friday whether I picked it up.
-
+JONATHON: Keep one line you won't read on a porch. I'll keep it. If I read it here I've cashed it twice.
 
 ---
 
 ## SEGMENT 10 · More on the 6
 
-WES: Stay on the gym door a minute, because a man will hear the verse and look for a war. The war is the gym door.
+WES: Thirty years, some years I didn't keep going so much as keep showing up. Showing up isn't nothing. It's also not a speech. October's review still wants a speech. I'm naming that.
 
-JONATHON: I'll be real with you. I can talk about the gym door for twenty minutes and still skip a boy's thank-you tonight, which is why I need a man who will ask me tomorrow whether I did a boy's thank-you. If I fail I will say I failed, not that the week got loud.
+JONATHON: Tuesday drives came out clean. You said clean isn't the same as unseen. Some of that cleanliness is still a review. No, hold on. Are you doing the drives for the kids, or for the man in October?
 
-WES: I've walked past the gym door so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up the gym door before you write a speech about it.
+WES: Both, if I'm honest. I'm naming the October part so it doesn't own the honk. The honk can still be for the boys.
 
-JONATHON: I'm with you. I'll take the small one tonight and I won't write a speech on the way.
-
+JONATHON: I'll name the sink the same way. For her, not for a star. If the star crawls back I will say so Friday.
 
 ---
 
 ## SEGMENT 11 · More on the 7
 
-WES: I keep a picture of the gym door in my head when I want to quit. Not a stage. the gym door.
+WES: Open a gym you won't be thanked for. Sit a back row. Mail a letter that can't be liked. That's the shift. I've got about a minute and I want it on you.
 
-JONATHON: I want credit for the gym door and I want privacy for the October review.
+JONATHON: What are you picking this week, the back row or a cookie table where you can be seen? Because lingering is how I steal a front row that isn't mine.
 
-WES: If I need a prettier assignment than the gym door, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like the gym door, then tell one man.
+WES: The back row. Leave before the cookies. The grandmother mouthed every word. That's enough of a lot.
 
-JONATHON: I'm doing the October review without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
-
+JONATHON: I'll leave before the cookies in my own house too. A sink doesn't need an audience. A gym door doesn't either.
 
 ---
 
 ## SEGMENT 12 · More on a 8
 
-WES: I almost turned a back-row hymn into a testimony before the week was over. That's how I steal a gift.
+WES: Last few minutes. Keep one line you won't read here. Open a gym. Sit a back. Don't give up just because the star didn't come.
 
-JONATHON: I keep trying to upgrade a back-row hymn into a program. She didn't ask for a program. She asked for the gym door. I'm retiring the program and keeping the gym door, even if the gym door makes me feel small.
+JONATHON: Ask me Friday whether I erased the receipt and whether I said the custodian's name. Those are the only two checks I trust.
 
-WES: I'm leaving a back-row hymn unnamed in the report so I don't get paid twice. Coming back to a back-row hymn counts. Narrating a back-row hymn does not.
+WES: I'll ask. Don't pretty it up. A name and an erased line. That's the whole Friday.
 
-JONATHON: Yeah — I'll do the next small thing, and I'll tell the truth about it Friday.
-
+JONATHON: A name and an erased line. If I fail I will say I failed, not that the week got loud at the gym door.
 
 ---
 
 ## SEGMENT 13 · More on a 9
 
-WES: My dad would have called a back-row hymn Tuesday. I've been wanting a letter for a back-row hymn.
+WES: A boy on leave walked into a shop because somebody honked at five-thirty for three Augusts. That's harvest on a delay. You don't get to pick the month.
 
-JONATHON: If I hide from a back-row hymn I will call it logistics.
+JONATHON: I want the month. That's fair, but— HVAC will still have an October number. If I wait for a quiet month to erase a star, I'll still be waiting when Theo has a license. Do I erase it on a loud week?
 
-WES: I'm retiring the letter. I'm doing a back-row hymn tired, and I'm not writing a paragraph on the way.
+WES: Erase it on a loud week. That's the only week it costs. Quiet weeks don't need a verse.
 
-JONATHON: I'm done with that name. a back-row hymn is the work. an erased sink line is how I prove I meant it. Ask me Friday about an erased sink line and I won't joke.
-
+JONATHON: I'll erase it loud. Then I'll say the name at six-forty-five even if a number is still in the truck.
 
 ---
 
 ## SEGMENT 14 · More on a 10
 
-WES: If a back-row hymn feels small, that's a clue you're close. Big feelings like a conference. a back-row hymn likes a kitchen.
+WES: Nurses, cops, early-shift kids. He knows Theo too. Somebody has to open it. That's 1 Corinthians without anybody preaching.
 
-JONATHON: Hymn likes a kitchen. Single men, a back-row hymn still belongs to you. Divorced men, a mailed letter still belongs to you. I don't get to keep these on a married shelf. I'm doing a back-row hymn and a mailed letter as a person, not as a title.
+JONATHON: That's the whole religion of a morning. Can you live with a man who has a life you didn't design, including a gym key and both of my kids' names?
 
-WES: I've skipped kitchens for conferences. I'm late. I'm still going to a back-row hymn.
+WES: I can live with it. That's the point of assigned. I sat the back. I left. I didn't go up.
 
-JONATHON: Hold on. If I miss it I'll say I missed it. I won't hide it in a loud week.
-
+JONATHON: I'll live with it. I'll say his name. I won't turn a hymn into my moment either, even if a text says thanks for coming.
 
 ---
 
 ## SEGMENT 15 · More on a 11
 
-WES: Stay on a back-row hymn a minute, because a man will hear the verse and look for a war. The war is a back-row hymn.
+WES: Look around your house this week. Where have you been sowing for a clap? Put that seed in the ground without a sign. I've got one more minute and I want it on you.
 
-JONATHON: I'll be real with you. I can talk about a back-row hymn for twenty minutes and still skip vending-machine nights tonight, which is why I need a man who will ask me tomorrow whether I did vending-machine nights. If I fail I will say I failed, not that the week got loud.
+JONATHON: The sink. The list. The star. I'm putting the star down again. Ask me Friday whether it crawled back.
 
-WES: I've walked past a back-row hymn so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up a back-row hymn before you write a speech about it.
+WES: I'll ask. Don't hide a crawled-back star inside a joke. Jokes are how we get paid twice.
 
-JONATHON: That's the one I keep walking past. Ask me Friday whether I picked it up.
-
+JONATHON: I won't joke it. If it crawled back I will say it crawled back, and then I will wash the sink anyway.
 
 ---
 
 ## SEGMENT 16 · More on a 12
 
-WES: I keep a picture of a back-row hymn in my head when I want to quit. Not a stage. a back-row hymn.
+WES: It Is Well in a room with a piano that needs tuning. That's unseen on purpose. I cried less than the woman two chairs down, and I still wanted to be useful. Useful is a rabbit.
 
-JONATHON: I want credit for a back-row hymn and I want privacy for a tuning piano.
+JONATHON: I would have offered a plan. A meal train. A group text. She needed a folding chair two seats over and a man who could leave before cookies. Did you almost stay for the cookies?
 
-WES: If I need a prettier assignment than a back-row hymn, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like a back-row hymn, then tell one man.
+WES: I almost stayed. I left. That's progress for me. Small. Real.
 
-JONATHON: I'm doing a tuning piano without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
-
+JONATHON: Small and real is the harvest. I keep trying to bless a gym door with a program. He asked for a name. I'm trying to retire the program.
 
 ---
 
 ## SEGMENT 17 · More on a 13
 
-WES: I almost turned a back-row hymn into a testimony before the week was over. That's how I steal a gift.
+WES: Don't give up. The time isn't yours to set. Send the page. Don't sit around for an answer. That's the whole Friday wearing a stamp.
 
-JONATHON: I keep trying to upgrade a back-row hymn into a program. She didn't ask for a program. She asked for a boy's thank-you. I'm retiring the program and keeping a boy's thank-you, even if a boy's thank-you makes me feel small.
+JONATHON: I'll erase the line if it becomes a receipt. I'll say the name. I'll let a back row stay a back row. What are you picking, the letter or the review list?
 
-WES: I'm leaving a back-row hymn unnamed in the report so I don't get paid twice. Coming back to a back-row hymn counts. Narrating a back-row hymn does not.
+WES: The letter. I've got about a minute. Do the unseen thing. Don't report it unless asked.
 
-JONATHON: I'm with you. I'll take the small one tonight and I won't write a speech on the way.
-
-
----
+JONATHON: Unseen. No report. If I fail I will still say his name at drop-off, because a name is a door that has to open.
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. Don't give up. The time isn't yours to set.
+WES: Carry this. Don't give up. The time isn't yours to set.
 
 JONATHON: And erase the line if it becomes a receipt.
 
-WES: Tuesday we talk about feelings. Until then: one secret good.
+WES: Tuesday we talk about feelings. One secret good.
 
-JONATHON: Then go open the door, and tell us how it went at walksteadfast.com, and find us everywhere at @steadfastwalk.
+JONATHON: Go open the door, then tell us at walksteadfast.com, and find us at @steadfastwalk.
 
 [STING 2s]

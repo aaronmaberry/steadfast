@@ -5,9 +5,9 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 1,955 (about 13:02 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,103 (about 14:01 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 31 lines (55% of words). JONATHON 28 lines (45% of words), 3 under 12 words (10.7%) |
+| Line balance | WES 35 lines (55% of words). JONATHON 32 lines (45% of words), 4 under 12 words (12.5%) |
 | Focus mark | Go First |
 | Scripture (NIV, verified 2026-10-19) | Spoken: James 1:19. Board only: Proverbs 27:23; Proverbs 18:13 |
 | Board cues | 4 |
@@ -46,7 +46,7 @@ JONATHON: And I'll tell you why I washed a lasagna pan twice and still felt like
 
 WES: Let's take the next few minutes on the porch, because Friday is the receipt. Wednesday night I asked, "What else have you told me that I didn't hear?" She sat there a second and said, "Do you want the little ones or the real one?"
 
-JONATHON: That's a loaded menu, and I would have picked the little ones so I could feel brave without getting wet.
+JONATHON: That's a loaded menu. Wait, back up. Did you pick the little ones so you could feel brave without getting wet?
 
 WES: I said both. Little ones first. Television off at supper, since the boys were in car seats. A day's notice before company. I had called her from the driveway with the sound man last week like she was a loading dock. And call sometimes instead of texting a letter K. She said I've been doing that about nine years.
 
@@ -60,7 +60,7 @@ JONATHON: That sentence is going to sit in my truck. "I just wanted you to have 
 
 WES: I wrote it on the back of the card. No plan. I told her I heard it. Then I shut up, which isn't my gift. She ran the church library. She kept books for a dentist ten years. I said "What for?" like her mind was a hobby.
 
-JONATHON: I would have started pricing programs in the driveway. You did better than I would have. I need you to say whether sitting with it felt like love or like you failed the test.
+JONATHON: I would have started pricing programs in the driveway. You did better than I would have. Did sitting with it feel like love, or like you failed the test?
 
 WES: It felt like I failed. Then it felt like love. Both can be true in the same chair.
 
@@ -74,7 +74,7 @@ JONATHON: That's the little well paying you. You yawned at the television rule f
 
 WES: The boot is on. Saturday the sound man came back. It rained Tuesday and the ceiling stayed dry. She's painting over Oklahoma. I didn't turn that into a speech. I said thank you and I bought the part.
 
-JONATHON: And the truck?
+JONATHON: She's painting over Oklahoma? After two years? And the truck?
 
 WES: I knocked. He said, "Nothing new. I still go." That's the whole report. I still go too.
 
@@ -90,7 +90,7 @@ JONATHON: I called Dani on the drive home to hear the radio go down. Then I star
 
 ## SEGMENT 3 · The Word
 
-WES: We're about halfway, and I want one verse for the man who asks and then fills the silence. James one, verse nineteen.
+WES: We're about halfway, and I want one verse for the man who asks and then fills the silence. James one, verse nineteen. You want to read it?
 
 JONATHON: "My dear brothers and sisters, take note of this: Everyone should be quick to listen, slow to speak and slow to become angry,"
 
@@ -110,7 +110,7 @@ WES: Your box. Dani. And I want the kitchen, not the cleaned-up version.
 
 JONATHON: Monday at the dishes. A lasagna pan. I said, "Part of me heard that you were leaving, and I'm sorry." She set the towel down. She said, "I thought you didn't want me to." Then she said, "If I get in, it's Tuesday nights. You'll have the kids every Tuesday. I need you to be okay with that out loud. Not quiet."
 
-WES: Quiet is how you make her carry your fear.
+WES: Quiet is how you make her carry your fear. Did you say Tuesdays out loud, or just wash the pan?
 
 JONATHON: I said, "I'm okay with Tuesdays. I want you to get in." I washed. She dried. She rewashed two plates I had already done. Thursday I asked about the song once. She said, "The high part's still ugly." That was the whole check-in. Tuesdays alone scare me. Ruby's bath. Theo's socks. I said that out loud too, which is new.
 
@@ -128,9 +128,9 @@ JONATHON: And if she names the real one and you freeze, write it in front of her
 
 ## SEGMENT 5 · What we're carrying
 
-WES: Look around your house this week. The woman in it has told you things you filed as preferences. They were maps. I filed a degree under money and lost ten years of a conversation.
+WES: Look around your house this week. The woman in it has told you things you filed as preferences. They were maps. I filed a degree under money and lost ten years of a conversation. What are you actually doing, not announcing?
 
-JONATHON: I'm asking about the song once a week. I won't drive by the store. I will call instead of a letter K at least once. If I fail, I'll say I failed, not that she got quiet.
+JONATHON: Asking about the song once a week. I won't drive by the store. I will call instead of a letter K at least once. If I fail, I'll say I failed, not that she got quiet.
 
 WES: I'm sitting with the card. I'm not booking a mountain. I'm not pricing a program. I'm listening first, because I booked a beach for twenty-two years and called it love.
 
@@ -144,17 +144,17 @@ JONATHON: Older men, if you've been married forty years, ask anyway. She has a T
 
 ## SEGMENT 6 · The three questions
 
-WES: I want the tool on the table, because a man will leave with a feeling and no walk. Three questions. What's something about you I'd get wrong. What's something you've been doing that I don't know about. What do I get right that I should not stop. Walk, porch, or sink. Write the answers. Don't fix them.
+WES: I want the tool on the table, because a man will leave with a feeling and no walk. Three questions. What's something about you I'd get wrong. What's something you've been doing that I don't know about. What do I get right that I should not stop. Walk, porch, or sink. Write the answers. Don't fix them. Which one did you actually ask?
 
-JONATHON: I asked the third one and she said the floor with Theo. I would have built a whole sales speech about being a present dad. She named a floor. That's how you know the question worked. It didn't flatter me.
+JONATHON: The third. She said the floor with Theo. I would have built a whole sales speech about being a present dad. She named a floor. That's how you know the question worked. It didn't flatter me. Have you asked the third one yet?
 
 WES: I've not asked the third one yet. I'm still sitting with the degree. If I stack three questions on one night I will turn it into a project. One night, one well. That's what I can do without wrecking it.
 
 JONATHON: A younger man at the table asked what questions aren't weird. Weird is asking like a cop. Not weird is asking like a man who wants to stay. If your face is already bored, stay home. If your face is open, the question can be simple.
 
-WES: Look around your house this week. Pick the room where she actually talks. Don't make her come to your truck if her room is the sink. I've been asking in the wrong room for years and then saying she never talks.
+WES: Look around your house this week. Pick the room where she actually talks. Don't make her come to your truck if her room is the sink. I've been asking in the wrong room for years and then saying she never talks. Where does Dani actually talk?
 
-JONATHON: Dani talks at the sink. She talks in a dark garage when she's tired. She does not talk while I'm scrolling scores. I've got to put the phone in the other room before I ask, or I'm not asking. I'm performing a question.
+JONATHON: The sink. A dark garage when she's tired. She does not talk while I'm scrolling scores. I've got to put the phone in the other room before I ask, or I'm not asking. I'm performing a question.
 
 ---
 
@@ -162,15 +162,31 @@ JONATHON: Dani talks at the sink. She talks in a dark garage when she's tired. S
 
 WES: I failed the little ones for years. Television. Notice. A call. I called them preferences the way a man calls a leak a stain. Then I was surprised when the real one stayed buried. That's on me.
 
-JONATHON: I failed the leaving sentence for weeks. I knew it was in my chest and I washed pans instead. Monday I said it. She had been carrying "I thought you didn't want me to" the whole time. My silence had a meaning I didn't authorize and she still had to hold it.
+JONATHON: Wait, back up. Are you comparing a letter K to Oklahoma, or are you actually sitting with a degree and not pricing a program?
 
-WES: If you asked and she gave you something small, treat it like a door, not a punch line. Write it down in front of her if you have to. I wrote the degree on the back of a card at the table. She watched me do it. That mattered more than a speech about mountains.
+WES: Sitting. The ceiling stayed dry. She's painting over Oklahoma. That's done. The degree is not a leak I get to patch this week.
 
-JONATHON: And if you didn't ask at all, that's the report. Don't dress it up. Ask tonight. Not a perfect night. A night. I can talk about this for twenty minutes and still send a letter K on the drive home, which is why I need a man who will ask me tomorrow whether I called.
+JONATHON: Can I ask you something hard?
 
-WES: I've got about a minute and I want it on you. Pick the question. Not a cute one. Then ask it on a calm night. Then write what she says. Then don't fix it before Monday. If you need a prettier assignment than that, you would still be waiting.
+WES: Go.
 
-JONATHON: That's the whole receipt. I keep wanting a better one, and there isn't a better one. Three questions. A bucket. A porch. Go.
+JONATHON: If she watched you write it on the card, are you going to turn the card into a plan by Friday, or leave it as hearing?
+
+WES: [beat] Leave it as hearing. She watched me write it. That mattered more than a speech about mountains. What are you picking, for real?
+
+JONATHON: The leaving sentence already happened. This week it's the call instead of a letter K. I failed the leaving sentence for weeks. I washed pans instead. Monday I said it. She had been carrying "I thought you didn't want me to" the whole time. My silence had a meaning I didn't authorize.
+
+WES: That's fair, but— don't stack the call and the song and the store so you can miss all three. Pick one.
+
+JONATHON: [laughs] The call. That's the one. No, hold on. You've got a habit of calling a leak a stain. The stain is painted. Are you going to yawn at the little ones again?
+
+WES: [laughs] No. If you asked and she gave you something small, treat it like a door, not a punch line. And if you didn't ask at all, that's the report. Don't dress it up. Ask tonight. Not a perfect night. A night.
+
+JONATHON: I can talk about this for twenty minutes and still send a letter K on the drive home, which is why I need a man who will ask me tomorrow whether I called. Will you?
+
+WES: I will. You ask me if I priced a program. I've got about a minute and I want it on you. Pick the question. Not a cute one. Then ask it on a calm night. Then write what she says. Then don't fix it before Monday.
+
+JONATHON: That's the whole takeaway. Three questions. A bucket. A porch. Hearing is the job. The plan can wait. Go.
 
 ---
 

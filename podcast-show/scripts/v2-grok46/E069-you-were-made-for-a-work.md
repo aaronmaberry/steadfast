@@ -5,9 +5,9 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,997 (about 19:59 at 150 wpm, before laughs and pauses) |
+| Spoken words | 3,063 (about 20:25 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 58 lines (50% of words). JONATHON 54 lines (50% of words), 3 under 12 words (5.6%) |
+| Line balance | WES 63 lines (50% of words). JONATHON 54 lines (50% of words), 7 under 12 words (13.0%) |
 | Focus mark | Work for God's Pay |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Ephesians 2:10. Board only: Colossians 3:23; Galatians 6:9 |
 | Board cues | 4 |
@@ -48,27 +48,29 @@ WES: Pull up a chair. Let's take the next few minutes on an attic, because that'
 
 JONATHON: Annual ride-along, usually June, with the senior tech. Sixty. Thirty-one years in attics. Last call, an 84-year-old widow on the east side. She had sat in her running car. A hundred and thirty-eight in the attic on his belt thermometer. About an hour and a half. Capacitor and a burnt wire, fixed, not replaced. He said, "Ma'am, that'll hold you a few years. When it goes, call me first." She brought tea and held his face.
 
-WES: You thanked him for not selling her a unit.
+WES: Wait, back up. You thanked him for not selling her a unit. What did he actually say?
 
 JONATHON: He said she didn't need one. That's the whole religion of a Thursday. I've got a rule since I took the region four years ago. If it can be fixed, fix it. Don't upsell a repair. I lost numbers the first year. My boss asked twice. I kept the rule.
 
 [BOARD: She did not need a unit.]
 
-WES: That's handiwork. Not a slot. A woman in a car and a man who can see a wire. I keep wanting the slot to count. The tea on his face is what counted.
+WES: That's handiwork. Not a slot. A woman in a car and a man who can see a wire. I keep wanting the slot to count. The tea on his face is what counted. Did you keep the rule when your boss asked twice, or did you almost fold?
+
+JONATHON: I almost folded. I kept it. A face in your hands isn't a number I get to hit.
 
 ---
 
 ## SEGMENT 2 · Warranties and foil
 
-WES: You were twenty-three once.
+WES: You were twenty-three once. What did you quit, and did you have a plan?
 
 JONATHON: I sold extended warranties at an electronics store. I quit mid-Saturday with no plan. I lived with my mother four months. I thought work was a trick you play on people. Then I became a man who can hold a flashlight and keep his mouth shut while a sixty-year-old does the real thing.
 
 WES: Your mom worked every Labor Day. Two jobs. Holiday shifts paid better. A list on the counter and a sandwich with your name on the foil. At eleven you hated Labor Day.
 
-JONATHON: That's a heavy sentence for a boy. I'm thirty-seven. I can say it without making her a villain. She kept us. The foil had my name. That's a kind of handiwork too.
+JONATHON: That's a heavy sentence for a boy. I'm thirty-seven. I can say it without making her a villain. She kept us. The foil had my name. That's a kind of handiwork too. Can you sit in that without making her a sermon?
 
-WES: Theo is five. Don't let a loud season steal a pancake Saturday. Write it where a dentist would go. Then heat the pan.
+WES: Theo is five. Don't let a loud season steal a pancake Saturday. Write it where a dentist would go. Then heat the pan. I'm not making her a sermon. I'm making a pan.
 
 ---
 
@@ -76,7 +78,7 @@ WES: Theo is five. Don't let a loud season steal a pancake Saturday. Write it wh
 
 WES: My granddad built cedar chests. One per grandchild. Measured to the foot of the bed. Hand-planed. Dovetailed. No nails. Winter shed, woodstove, farm report. Mine was built two years early, for the bed my older brother was moving out of. It's at the foot of my bed now. Winter quilts. Initials inside the lid. His and mine. The year.
 
-JONATHON: That's a work that outlives a slot. Nobody clapped in a shed.
+JONATHON: That's a work that outlives a slot. Nobody clapped in a shed. Did anybody even see it happen?
 
 WES: Labor Day growing up was hay. In the field by seven. Dinner on the tailgate at noon. I've almost thirty years in the same kind of job. I'm honestly unsure whether I sleepwalked through it. On the ride my wife said, "You've never once come home and said you hated it." Few at work know I pray.
 
@@ -90,7 +92,7 @@ WES: The best man I worked beside hated the job and still brought an extra lunch
 
 ## SEGMENT 4 · The Word
 
-WES: I've got a little under ten minutes, and I want the Bible open. Ephesians two, verse ten.
+WES: I've got a little under ten minutes, and I want the Bible open. Ephesians two, verse ten. You want to read it?
 
 JONATHON: "For we are God’s handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do."
 
@@ -98,9 +100,9 @@ JONATHON: "For we are God’s handiwork, created in Christ Jesus to do good work
 
 WES: Handiwork. Not a slot. Prepared in advance. The attic was already on the calendar in heaven before it was on a truck. A capacitor isn't small if a woman is in a car.
 
-JONATHON: I wanted handiwork to mean a stage. It means a flashlight. It means foil with a name. It means a chest at the foot of a bed.
+JONATHON: I wanted handiwork to mean a stage. It means a flashlight. It means foil with a name. It means a chest at the foot of a bed. So which is it, a verse about a calling, or a verse about a wire?
 
-WES: Context in two sentences. Paul has just said saved by grace, not works. Then immediately, you were made for works. Not to get in. Because you're in. That's the split that keeps a man from selling a unit she doesn't need so he can feel saved by a number.
+WES: Both. Context in two sentences. Paul has just said saved by grace, not works. Then immediately, you were made for works. Not to get in. Because you're in. That's the split that keeps a man from selling a unit she doesn't need so he can feel saved by a number.
 
 [BOARD: Galatians 6:9 (NIV) · "Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up."]
 
@@ -110,21 +112,19 @@ JONATHON: Weary is 138 degrees. Good is a wire. Harvest may be tea and a face in
 
 ## SEGMENT 5 · Pushback
 
-WES: We're about halfway, and I want the push. A man says, my job is just a job.
+WES: We're about halfway, and I want the push. A man says, my job is just a job. Go ahead and push.
 
-JONATHON: Then do it as handiwork anyway. The verse does not require a feeling. It requires a prepared good. A flashlight is a good. A lunch is a good. A honest no on an upsell is a good.
+JONATHON: Then do it as handiwork anyway. The verse does not require a feeling. It requires a prepared good. A flashlight is a good. A lunch is a good. A honest no on an upsell is a good. I don't totally buy that a flashlight is leadership. Does it still count if it looks like a helper?
 
-WES: A man says, I hate my job.
+WES: It counts more. A man says, I hate my job.
 
 JONATHON: Hate it and still bring the lunch. Then, if you can, look for the prepared good beside it. I hated warranties. The hate was information. Quitting with no plan was a boy. I needed both truths.
 
 WES: A man says, nobody sees it.
 
-JONATHON: That's a see. Virgil's notebook is a see. A widow's tea is a see. If you need a stage you will miss the attic.
+JONATHON: That's a see. Virgil's notebook is a see. A widow's tea is a see. If you need a stage you will miss the attic. That's fair, but— last few minutes on what we're actually doing. I'll ride with a tech every month and hold the flashlight. Labor Day Monday, tacos at the shop at six. I'll shake each man's hand by name. If I've got to look a name up, I'll look it up. That's not cute. That's honor. Can you live with looking a name up?
 
-WES: Last few minutes on what we're actually doing. I will ask my youngest to show me a weld bead he's proud of and I will say what I see. I will tell one man at work something true. The friend. The Tuesdays.
-
-JONATHON: I'll ride with a tech every month and hold the flashlight. Labor Day Monday, tacos at the shop at six. I'll shake each man's hand by name. If I've got to look a name up, I'll look it up. That's not cute. That's honor.
+WES: Last few minutes on what we're actually doing. I will ask my youngest to show me a weld bead he's proud of and I will say what I see, even the whole way, without a speech about manhood. I will tell one man at work something true. The friend. The Tuesdays. I can live with looking a name up. That's the honor.
 
 ---
 
@@ -132,9 +132,9 @@ JONATHON: I'll ride with a tech every month and hold the flashlight. Labor Day M
 
 WES: This week's challenge. Do one prepared good that isn't on your performance review. Say one true sentence at work. Ask one younger man to show you something he made and tell him what you see.
 
-JONATHON: If you're between jobs, the prepared good is still in your hands. A grandmother. A flashlight you borrow. A name you shake. If you're retired, you aren't off the verse. Handiwork does not have a pension date.
+JONATHON: If you're between jobs, the prepared good is still in your hands. A grandmother. A flashlight you borrow. A name you shake. If you're retired, you aren't off the verse. Handiwork does not have a pension date. What are you picking, bead or flashlight, because if you pick a stage you'll miss the attic?
 
-WES: Look around your house this week. The work you were made for may be a lid, a lunch, a wire. Don't wait to feel called. The car is already running in a driveway.
+WES: Bead. One true sentence. Look around your house this week. The work you were made for may be a lid, a lunch, a wire. Don't wait to feel called. The car is already running in a driveway.
 
 JONATHON: And if you sell, keep the rule. If it can be fixed, fix it. Numbers can wait. A face in your hands can't.
 
@@ -144,7 +144,9 @@ JONATHON: And if you sell, keep the rule. If it can be fixed, fix it. Numbers ca
 
 WES: Holding a flashlight is a kind of leadership men skip because it looks like a helper. Helper is often the prepared good. I've skipped helper so I could stay the man with the clipboard.
 
-JONATHON: If I talk too much in an attic I will shut up. The sixty-year-old has thirty-one years. I've got a mouth. The attic does not need my mouth.
+JONATHON: If I talk too much in an attic I will shut up. The sixty-year-old has thirty-one years. I've got a mouth. The attic does not need my mouth. No, hold on. Are you going to let me keep the clipboard if I call it leadership?
+
+WES: Keep the flashlight. Retire the clipboard for an hour. That's the death this week.
 
 ---
 
@@ -152,7 +154,9 @@ JONATHON: If I talk too much in an attic I will shut up. The sixty-year-old has 
 
 WES: Shaking a name at six in the morning is honor. Looking it up first isn't fake. Fake is smiling at a man whose name you refused to learn.
 
-JONATHON: I'll shake them. If a younger tech starts clapping for the boss I will clap back the other way. Wrong direction. The work is them.
+JONATHON: I'll shake them. If a younger tech starts clapping for the boss I will clap back the other way. Wrong direction. The work is them. Will you ask me Friday whether I looked the names up, or whether I faked it?
+
+WES: I'll ask if you looked them up. Don't joke it.
 
 ---
 
@@ -160,7 +164,9 @@ JONATHON: I'll shake them. If a younger tech starts clapping for the boss I will
 
 WES: I will say what I see on a bead. Even. You didn't rush the end. If I give a speech about manhood I've missed the hinge. See the hinge.
 
-JONATHON: I want that sentence from a man about my work. You didn't rush the end. I'm going to say it to a tech when it's true.
+JONATHON: I want that sentence from a man about my work. You didn't rush the end. I'm going to say it to a tech when it's true. Can you sit in even without adding a lecture?
+
+WES: I'll sit in even. A lecture is a stage. A bead is a chest.
 
 ---
 
@@ -168,7 +174,9 @@ JONATHON: I want that sentence from a man about my work. You didn't rush the end
 
 WES: A sandwich with a name is a theology. I've mocked foil. I'm done. Somebody kept a boy alive with turkey and a marker.
 
-JONATHON: I'll pack a name this week for a man on a late call. Not a speech. Foil. If he texts a thumb that's enough pay.
+JONATHON: I'll pack a name this week for a man on a late call. Not a speech. Foil. If he texts a thumb that's enough pay. Does that sound like a sales pitch if I say it that way?
+
+WES: [laughs] It sounds like a man who knows his calendar. Put a name on foil on a Monday that already has a number.
 
 ---
 
@@ -176,7 +184,9 @@ JONATHON: I'll pack a name this week for a man on a late call. Not a speech. Foi
 
 WES: I may have sleepwalked. Honesty is the first good at work. Telling one man I pray is a start. Not a crusade. A sentence.
 
-JONATHON: I'll tell one rep something true that isn't a number. If I only tell numbers I've made the region my god.
+JONATHON: I'll tell one rep something true that isn't a number. If I only tell numbers I've made the region my god. Are you actually going to say you pray, or are you going to tidy it into a hobby?
+
+WES: I'll say I pray. Don't hold me to a crusade. Hold me to a sentence.
 
 ---
 
@@ -206,181 +216,168 @@ JONATHON: I'll take the cost again if it comes. A widow in a car isn't a number 
 
 ## SEGMENT 15 · More on the 1
 
-WES: Stay on the flashlight a minute, because a man will hear the verse and look for a war. The war is the flashlight.
+WES: Stay on the flashlight a minute. Helper looks small until 138 degrees. Then helper is the only light in the attic.
 
-JONATHON: I can talk about the flashlight for twenty minutes and still skip the cedar lid tonight, which is why I need a man who will ask me tomorrow whether I did the cedar lid. If I fail I will say I failed, not that the week got loud.
+JONATHON: I want to talk in that attic. Talking is how I stay the boss. Can you ask me Friday whether I shut up?
 
-WES: I've walked past the flashlight so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up the flashlight before you write a speech about it.
+WES: I'll ask. Mouth shut. Light on. That's the prepared good.
 
-JONATHON: Yeah — I'll do the next small thing, and I'll tell the truth about it Friday.
-
+JONATHON: I'll shut up. Thirty-one years doesn't need my region speech.
 
 ---
 
 ## SEGMENT 16 · More on the 2
 
-WES: I keep a picture of the flashlight in my head when I want to quit. Not a stage. the flashlight.
+WES: Tea on a man's face is a harvest. I keep wanting a bonus. A bonus is a slot. Tea is a see.
 
-JONATHON: I want credit for the flashlight and I want privacy for the foil sandwich.
+JONATHON: I almost sold her a unit in my head while I was still in the truck. That's the old twenty-three. Did the sixty-year-old know I was tempted?
 
-WES: If I need a prettier assignment than the flashlight, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like the flashlight, then tell one man.
+WES: He knew. He did the wire anyway. That's leadership.
 
-JONATHON: I'm doing the foil sandwich without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
-
+JONATHON: I'll do the wire. I'll skip the unit. If the number dips I will still keep the rule.
 
 ---
 
 ## SEGMENT 17 · More on the 3
 
-WES: I almost turned the flashlight into a testimony before the week was over. That's how I steal a gift.
+WES: A capacitor isn't a testimony. It's a part. Parts keep a woman out of a car. I've mocked parts. I'm done.
 
-JONATHON: I keep trying to upgrade the flashlight into a program. She didn't ask for a program. She asked for a weld bead. I'm retiring the program and keeping a weld bead, even if a weld bead makes me feel small.
+JONATHON: If it can be fixed, fix it. That's the only sales rule I trust. Can you live with a smaller number if a face is in your hands?
 
-WES: I'm leaving the flashlight unnamed in the report so I don't get paid twice. Coming back to the flashlight counts. Narrating the flashlight does not.
+WES: I can live with it. A smaller desk taught me that once. A smaller number can teach it again.
 
-JONATHON: Hold on. If I miss it I'll say I missed it. I won't hide it in a loud week.
-
+JONATHON: Then we keep the rule. Boss can ask a third time. The car is still running until somebody sees the wire.
 
 ---
 
 ## SEGMENT 18 · More on the 4
 
-WES: My dad would have called the flashlight Tuesday. I've been wanting a letter for the flashlight.
+WES: Your boss asked twice. That's a real cost. I missed a promotion once for a different post. I sleep. That's the trade.
 
-JONATHON: If I hide from the flashlight I will call it logistics. I'm done with that name. the flashlight is the work. taco names is how I prove I meant it. Ask me Friday about taco names and I won't joke.
+JONATHON: I'll take the cost. I don't want a story that ends with a number and a widow in a car. That's fair, but— do I keep the rule on a loud week?
 
-WES: I'm retiring the letter. I'm doing the flashlight tired, and I'm not writing a paragraph on the way.
+WES: Keep it on a loud week. That's the only week it costs.
 
-JONATHON: That's the one I keep walking past. Ask me Friday whether I picked it up.
-
+JONATHON: I'll keep it loud. Quiet weeks don't need a rule.
 
 ---
 
 ## SEGMENT 19 · More on the 5
 
-WES: If the flashlight feels small, that's a clue you're close. Big feelings like a conference. the flashlight likes a kitchen.
+WES: You quit warranties mid-Saturday with no plan. That was a boy. The hate was still information. Both things can be true.
 
-JONATHON: Flashlight likes a kitchen. Single men, the flashlight still belongs to you. Divorced men, a running car still belongs to you. I don't get to keep these on a married shelf. I'm doing the flashlight and a running car as a person, not as a title.
+JONATHON: I needed four months on my mother's couch to learn work isn't a trick. I still catch myself playing a trick with a number. Will you tell me if you hear it?
 
-WES: I've skipped kitchens for conferences. I'm late. I'm still going to the flashlight.
+WES: I'll tell you. A trick sounds like a sure thing. A wire sounds like tea.
 
-JONATHON: I'm with you. I'll take the small one tonight and I won't write a speech on the way.
-
+JONATHON: Then tell me. I can take a brother. I can't take a slot that makes me a boy again.
 
 ---
 
 ## SEGMENT 20 · More on the 6
 
-WES: Stay on the flashlight a minute, because a man will hear the verse and look for a war. The war is the flashlight.
+WES: Foil with a name is how a boy lives through a holiday his mother had to work. I've mocked lists on counters. I'm going to pack a name this week for a man who will be in an attic.
 
-JONATHON: I can talk about the flashlight for twenty minutes and still skip the capacitor tonight, which is why I need a man who will ask me tomorrow whether I did the capacitor. If I fail I will say I failed, not that the week got loud.
+JONATHON: I'll pack it. Turkey and a marker. If he texts a thumb that's enough pay. Don't let me turn foil into a speech about my childhood.
 
-WES: I've walked past the flashlight so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up the flashlight before you write a speech about it.
+WES: Pack the sandwich. Skip the speech. The marker is the theology.
 
-JONATHON: Yeah — I'll do the next small thing, and I'll tell the truth about it Friday.
-
+JONATHON: Marker. Name. Late call. That's the good that was prepared.
 
 ---
 
 ## SEGMENT 21 · More on the 7
 
-WES: I keep a picture of the flashlight in my head when I want to quit. Not a stage. the flashlight.
+WES: Initials in a lid. His and mine. The year. Nobody clapped in a shed. The chest still holds quilts. That's a slot that died and a work that didn't.
 
-JONATHON: I want credit for the flashlight and I want privacy for pancake Saturday.
+JONATHON: I want a clap. A clap is a unit she didn't need. Can you ask me Friday whether I built anything that will outlive a number?
 
-WES: If I need a prettier assignment than the flashlight, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like the flashlight, then tell one man.
+WES: I'll ask. Don't show me a chart. Show me a lid, a lunch, or a wire.
 
-JONATHON: I'm doing pancake Saturday without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
-
+JONATHON: I'll show you a flashlight hour and a name on foil. That's the lid I have this week.
 
 ---
 
 ## SEGMENT 22 · More on the 8
 
-WES: I almost turned the cedar lid into a testimony before the week was over. That's how I steal a gift.
+WES: Hay by seven. Dinner on a tailgate at noon. That's Labor Day in my bones. I still don't know if I sleepwalked thirty years. Honesty is the first good.
 
-JONATHON: I keep trying to upgrade the cedar lid into a program. She didn't ask for a program. She asked for the flashlight. I'm retiring the program and keeping the flashlight, even if the flashlight makes me feel small.
+JONATHON: Few at work know I pray either. Numbers are easier to say. Are you going to tell one man, or are you going to tidy it into a hobby again?
 
-WES: I'm leaving the cedar lid unnamed in the report so I don't get paid twice. Coming back to the cedar lid counts. Narrating the cedar lid does not.
+WES: One man. One sentence. Not a crusade. The friend. The Tuesdays.
 
-JONATHON: Hold on. If I miss it I'll say I missed it. I won't hide it in a loud week.
-
+JONATHON: I'll tell one rep something true that isn't a number. If I only tell numbers I've made the region my god.
 
 ---
 
 ## SEGMENT 23 · More on the 9
 
-WES: My dad would have called the cedar lid Tuesday. I've been wanting a letter for the cedar lid.
+WES: She said I've never come home and said I hated it. That might mean I sleepwalked. That might mean I found a prepared good and didn't have a name for it. I'm asking the question out loud so I don't get to skip it.
 
-JONATHON: If I hide from the cedar lid I will call it logistics.
+JONATHON: Ask it. Then still bring the lunch. Hate doesn't get the last word if a new kid eats.
 
-WES: I'm retiring the letter. I'm doing the cedar lid tired, and I'm not writing a paragraph on the way.
+WES: The lunch did. Two years. Extra. No speech.
 
-JONATHON: I'm done with that name. the cedar lid is the work. the foil sandwich is how I prove I meant it. Ask me Friday about the foil sandwich and I won't joke.
-
+JONATHON: I'll bring a lunch. If I give a speech about the lunch I've sold a unit again.
 
 ---
 
 ## SEGMENT 24 · More on the 10
 
-WES: If the cedar lid feels small, that's a clue you're close. Big feelings like a conference. the cedar lid likes a kitchen.
+WES: A new kid. Extra lunch. Two years. The man hated the job. The job didn't get the last word. That's Ephesians in a sack.
 
-JONATHON: Lid likes a kitchen. Single men, the cedar lid still belongs to you. Divorced men, a weld bead still belongs to you. I don't get to keep these on a married shelf. I'm doing the cedar lid and a weld bead as a person, not as a title.
+JONATHON: I want the ending where nobody hates anything. Somebody always hates something. Better a lunch than a stage. Will you let me hate a number and still shake a name at six?
 
-WES: I've skipped kitchens for conferences. I'm late. I'm still going to the cedar lid.
+WES: Hate the number. Shake the name. Both.
 
-JONATHON: That's the one I keep walking past. Ask me Friday whether I picked it up.
-
+JONATHON: Both. Tacos at six. Hands. If I fail the flashlight I still shake the names.
 
 ---
 
 ## SEGMENT 25 · More on the 11
 
-WES: Stay on the cedar lid a minute, because a man will hear the verse and look for a war. The war is the cedar lid.
+WES: Even the whole way. You didn't rush the end. That's what I will say about a bead. If I add manhood I have missed the hinge.
 
-JONATHON: I'll be real with you. I can talk about the cedar lid for twenty minutes and still skip taco names tonight, which is why I need a man who will ask me tomorrow whether I did taco names. If I fail I will say I failed, not that the week got loud.
+JONATHON: Say even. Stop. I needed that sentence more than a sixteen-year-old did, and it isn't even my gate. Can you stop after even?
 
-WES: I've walked past the cedar lid so I could stay comfortable, and I called that wisdom. It was fear with a better name. Look around your house this week and pick up the cedar lid before you write a speech about it.
+WES: I'll stop. A lecture is how I steal a gift.
 
-JONATHON: I'm with you. I'll take the small one tonight and I won't write a speech on the way.
-
+JONATHON: Stop. Then ask me Friday if I said it to a tech when it was true.
 
 ---
 
 ## SEGMENT 26 · More on the 12
 
-WES: I keep a picture of the cedar lid in my head when I want to quit. Not a stage. the cedar lid.
+WES: Tacos at the shop at six. Shake each man by name. Looking it up first isn't fake. Fake is a smile with no name under it.
 
-JONATHON: I want credit for the cedar lid and I want privacy for a running car.
+JONATHON: I'll look them up Sunday night. If a younger tech claps for me I will turn it back. Wrong direction. The work is them. Ask me whether I looked them up.
 
-WES: If I need a prettier assignment than the cedar lid, I would still be waiting. I've got about a minute and I want it on you. Do the next thing that looks like the cedar lid, then tell one man.
+WES: I'll ask. Names. Not a speech about culture.
 
-JONATHON: I'm doing a running car without a story if I can, and if I need a story I'll tell it to one man, not to a fridge.
-
+JONATHON: Names. Foil. Flashlight. That's Monday. That's enough of a lot.
 
 ---
 
 ## SEGMENT 27 · More on the 13
 
-WES: I almost turned the cedar lid into a testimony before the week was over. That's how I steal a gift.
+WES: Pancake Saturday is a prepared good. If the shop needs you, send someone else one Monday. A five-year-old is not a number you get to hit.
 
-JONATHON: I keep trying to upgrade the cedar lid into a program. She didn't ask for a program. She asked for the capacitor. I'm retiring the program and keeping the capacitor, even if the capacitor makes me feel small.
+JONATHON: I'll write pancake where a dentist would go. If I move it I will say I moved a boy for a number. I don't want to say that. What are you picking this week, bead or crusade?
 
-WES: I'm leaving the cedar lid unnamed in the report so I don't get paid twice. Coming back to the cedar lid counts. Narrating the cedar lid does not.
+WES: Bead. I've got about a minute and I want it on you. Do the good that was prepared. A wire. A name. A lid. Don't wait to feel called. The car is already running in a driveway, and a flashlight is still a kind of leadership even if it looks like a helper.
 
-JONATHON: Yeah — I'll do the next small thing, and I'll tell the truth about it Friday.
-
+JONATHON: I'll hold the light. I'll keep the rule. I'll heat a pan. The car is already running. I'm going.
 
 ---
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. You're handiwork. The slot isn't the point.
+WES: Carry this. You're handiwork. The slot isn't the point.
 
 JONATHON: And if she doesn't need a unit, don't sell her one.
 
-WES: Friday we check Labor Day. Until then: one flashlight, one true sentence.
+WES: Friday we check Labor Day. One flashlight. One true sentence.
 
-JONATHON: Then go do the good that was prepared, and tell us how it went at walksteadfast.com, and find us everywhere at @steadfastwalk.
+JONATHON: Go do the good that was prepared, then tell us at walksteadfast.com, and find us at @steadfastwalk.
 
 [STING 2s]

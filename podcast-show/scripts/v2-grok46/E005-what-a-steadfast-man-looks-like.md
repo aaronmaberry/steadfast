@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 3,172 (about 21:09 at 150 wpm, before laughs and pauses) |
+| Spoken words | 3,165 (about 21:06 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 46 lines (52% of words). JONATHON 39 lines (48% of words), 2 under 12 words (5.1%) |
 | Focus mark | All four, introduced once |
@@ -170,7 +170,7 @@ WES: Jonathon, you've been sitting on a sales-training objection the whole time.
 
 JONATHON: It's a list. I've been to a lot of sales trainings. They all have a list. The five C's of closing. The four P's of something. And I've never once changed because of a list. Lists don't change people. So why would this one?
 
-WES: You're right. A list never changed anybody. I'll agree with that all day. The sales list is a technique. It's for getting something. This is a description. It's what a man looks like when Jesus is changing him. The sentence doesn't change you. It just tells you what to look for, so you can tell if anything's happening.
+WES: You're right. A list never changed anybody. I'll agree with that all day. The sales list is a technique. It's for getting something. This is a description. It's what a man looks like when Jesus is changing him. So which is it for you this week, a list you can ignore, or a mirror you have to hold up?
 
 JONATHON: So it's more like a mirror than a to-do list. You hold it up on a Tuesday night and you ask, did I wait on anything today? Did I pick up what was mine? Did I go first anywhere? And who was I working for? And most nights, you'll get one out of four.
 
@@ -230,7 +230,7 @@ WES: Put it where you'll see it. Then look at it.
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry out of here. The room's pay is gone by tomorrow. God's pay keeps.
+WES: Carry this. The room's pay is gone by tomorrow. God's pay keeps.
 
 JONATHON: And the marks aren't four rules. They're what Jesus looks like on a man on a Tuesday.
 

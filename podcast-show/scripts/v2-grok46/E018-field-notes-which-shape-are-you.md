@@ -5,9 +5,9 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 1,906 (about 12:42 at 150 wpm, before laughs and pauses) |
+| Spoken words | 1,935 (about 12:54 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 21 lines (56% of words). JONATHON 17 lines (44% of words), 0 under 12 words (0.0%) |
+| Line balance | WES 22 lines (55% of words). JONATHON 18 lines (45% of words), 0 under 12 words (0.0%) |
 | Focus mark | Stop Waiting |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Proverbs 12:15. Board only: James 1:22; Proverbs 15:1 |
 | Board cues | 5 (none repeats spoken words) |
@@ -46,7 +46,7 @@ JONATHON: And I'll tell you why Ruby brought a basket to a truck window and ende
 
 WES: Let's take the next few minutes on the receipts. Fan first, because I promised you a sentence.
 
-JONATHON: You promised me a sentence on Saturday. I texted you at eight-oh-two. You wrote back later. I want the long version now.
+JONATHON: You promised me a sentence on Saturday. I texted you at eight-oh-two. You wrote back later. Did the click actually stop, or did you date another delay?
 
 WES: Eight a.m. My son-in-law showed up with a ladder, a drill, and a box of donuts. My wife put a lawn chair at the bottom with coffee. I went up three rungs, exactly three, and held the fixture. Four would have been a conversation with the knees. He did the screws. The click stopped. My youngest stood in the doorway and counted to ten and heard nothing. He said, "Okay." That's the whole review from a sixteen-year-old. My wife said, "It looks like a ceiling again." We ate donuts on the porch. The gutter is already done. This was the new delay, and it has a finished Saturday. I sat there longer than I needed to, listening for a click that wasn't coming.
 
@@ -62,7 +62,11 @@ WES: I said my shape first, the way we asked. I told my wife I wear the job. She
 
 JONATHON: I asked my sister. Forty-one. Pasadena. I wrote the three shapes and I said mine first, skip the house. She wrote back, "Skip the house. After Dad left you were at everybody else's house. I was home with Mom." I sat with that a day too. I've been the fun cousin and the coach and the man of the house in every room except the one that needed a boy to stay. She was home. I was on.
 
-WES: That's a hard true thing from a sister. Write it on a card. Don't argue it into a smaller shape. She was home. You were on. That sentence can sit a while.
+WES: That's a hard true thing from a sister. Did you argue it into a smaller shape, or did you let it sit?
+
+JONATHON: I wanted a hearing. I didn't send one. She was home. I was on. That sentence can sit a while.
+
+WES: Write it on a card. Don't shrink it.
 
 JONATHON: I wrote it on an index card. It's in my bag. I also texted my nephew the same ask. His roommates told him he's only fun when other people are around. He watched two episodes of their show with them, phone in another room. He wrote, "it was boring and i stayed." That's a contrary hour for a twenty-two-year-old. I told him boring and staying is the whole assignment. Yeah, and— I needed that text as much as he did.
 
@@ -108,13 +112,13 @@ WES: Doing is also not arguing the first night. Advice that you immediately cros
 
 ## SEGMENT 4 · Ask one person
 
-WES: Last few minutes on the tool. It's not fancy. Ask one person. Say your guess first so they're not doing your homework. Then ask which shape they see. Then stop talking. Write it down. Sit a day. Then one contrary hour that matches what they said, not what you hoped they would say.
+WES: Last few minutes on the tool. It's not fancy. Ask one person. Say your guess first so they're not doing your homework. Then ask which shape they see. Then stop talking. Write it down. Sit a day. Then one contrary hour that matches what they said, not what you hoped they would say. What hour are you matching, not the generic one?
 
-JONATHON: I guessed skip the house and my sister agreed, so the hour was the first twenty minutes. If she had said run the room I would have had to ask Dani a question I didn't already have the answer to and let it stand. Matching the hour to the sentence is the part I will try to skip. I like a generic good deed. Generic is how I stay in charge.
+JONATHON: First twenty minutes. I guessed skip the house and my sister agreed. If she had said run the room I would have had to ask Dani a question I didn't already have the answer to. Matching the hour to the sentence is the part I will try to skip. I like a generic good deed. Generic is how I stay in charge. What's yours, and don't give me a speech about a title.
 
-WES: I guessed the job. She said the room, with my mother. So the hour was a phone call about a color, not a speech about a title. If I had done a speech I would have looked spiritual and stayed the same. Tomorrow is car-care Saturday. Eleven cars if the list holds. I will make coffee and I won't run the lot like a job site. The eighty-one-year-old mechanic runs the lot. I'm the coffee.
+WES: A phone call about a color. I guessed the job. She said the room, with my mother. If I had done a speech I would have looked spiritual and stayed the same. Tomorrow is car-care Saturday. Eleven cars if the list holds. I will make coffee and I won't run the lot like a job site. The eighty-one-year-old mechanic runs the lot. I'm the coffee. Are you coming, or is practice going to eat the lot?
 
-JONATHON: I will be there after Bluebonnets if practice does not run long. Ruby wants to hand someone a wrench. I told her she can hand someone a water and not narrate it. That's my contrary hour on a Saturday, because I will want to coach the parking lot.
+JONATHON: I'll be there after Bluebonnets if practice does not run long. Ruby wants to hand someone a wrench. I told her she can hand someone a water and not narrate it. That's my contrary hour on a Saturday, because I will want to coach the parking lot.
 
 [BOARD: Name it. Sleep on it. Match the hour.]
 
@@ -124,7 +128,7 @@ WES: If you didn't ask yet, ask tonight. Calm night. Not in a fight. Not in the 
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. The wise listen. If she named a shape, sit with it a day.
+WES: Carry this. The wise listen. If she named a shape, sit with it a day.
 
 JONATHON: And if a sister remembers the year you left the house, believe her. Then stay twenty minutes.
 

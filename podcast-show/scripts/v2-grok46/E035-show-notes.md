@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,819 spoken words, about 18:48). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,856 spoken words, about 19:02). Re-time them against the final edit before publishing.
 
 ---
 
@@ -39,7 +39,7 @@ Christian men podcast, Mother's Day, Proverbs 23:22, honoring your mother, Walk 
 | 09:54 | Pushback | Pushback. |
 | 12:14 | The door and the pie | The door and the pie. |
 | 14:17 | This week's challenge | This week's challenge. |
-| 18:19 | Close | Carry this, and the close. |
+| 18:39 | Close | Carry this, and the close. |
 
 ---
 

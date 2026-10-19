@@ -5,9 +5,9 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,848 (about 18:59 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,930 (about 19:32 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 31 lines (53% of words). JONATHON 29 lines (47% of words), 1 under 12 words (3.4%) |
+| Line balance | WES 31 lines (52% of words). JONATHON 29 lines (48% of words), 1 under 12 words (3.4%) |
 | Focus mark | Stop Waiting |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Ecclesiastes 4:10. Board only: Genesis 2:18 |
 | Board cues | 4 (none repeats spoken words) |
@@ -65,24 +65,24 @@ WES: Open your phone. I want the listener to do this while we talk. Scroll your 
 
 JONATHON: Harper's Dad. Twins Dad, no apostrophe. Theo Soccer Coach. AC Guy Mom. Pastor. Plumber Good. Plumber Bad. I've got a whole church of men I've never asked for a first name. The field is the only place men need me to show up outside work and home. I've liked that, because a field has rules and an end time. A coffee does not.
 
-WES: When you moved to San Antonio you hired a company. You had helped four Pasadena friends move, including a sleeper sofa up three flights. You would rather pay a stranger than find out whether your friends would come. That's not competence. That's a man protecting himself from a no.
+WES: When you moved to San Antonio you hired a company. You had helped four Pasadena friends move, including a sleeper sofa up three flights. Would you rather pay a stranger than find out whether your friends would come?
 
-JONATHON: That's isolation dressed as competence. I told myself I was being easy. I was being safe. If nobody comes, I never have to know. Dani said in year three of counseling, I can't be your everything. I'm tired. She was right. I made her my whole brotherhood because brothers felt like a risk. I still do that when a week gets loud.
+JONATHON: Yes. That's isolation dressed as competence. I told myself I was being easy. I was being safe. If nobody comes, I never have to know. Dani said in year three of counseling, I can't be your everything. I'm tired. She was right. I made her my whole brotherhood because brothers felt like a risk. I still do that when a week gets loud.
 
 WES: The twin's dad is Brent. He wrote the card. A nurse read it to his mom Sunday. She said, that's a nice boy. Whoever wrote that. He said, yes ma'am. He's. Then he texted, thanks, Coach. I said Jonathon. He said Brent. That's a start the size of a first name, and it's bigger than most of the men in my phone ever got from me.
 
-JONATHON: My go-first this week is Saturday. Ask Harper's dad his name, then one thing that's not about baseball. Dani knows the name and won't tell me. She said ask him. It does not count if I get it from her. She's right, and I hate that she's right, because I wanted a shortcut that still let me feel brave.
+JONATHON: My go-first this week is Saturday. Ask Harper's dad his name, then one thing that's not about baseball. Dani knows the name and won't tell me. She said ask him. It does not count if I get it from her. Will I actually ask him, or get it from her in the kitchen and call that brave?
 
-WES: We're about halfway. Merle put a handwritten card on his church bulletin board. Bass seeks three. Gospel, the old way. Must read shape notes or be willing to fake it. Call Merle. The tenor is a youth pastor, thirty-four, three kids under six. He has been singing harmony by himself in his truck for ten years. Thursday nights in Merle's living room. They need a lead.
+WES: Ask him. The kitchen shortcut isn't brave. We're about halfway. Merle put a handwritten card on his church bulletin board. Bass seeks three. Gospel, the old way. Must read shape notes or be willing to fake it. Call Merle. The tenor is a youth pastor, thirty-four, three kids under six. He has been singing harmony by himself in his truck for ten years. Thursday nights in Merle's living room. They need a lead.
 
-JONATHON: Merle said he had not been in a room with men in a year where somebody needed him to show up. If he does not come, the baritone drove forty minutes for nothing. The tenor waited through Merle's hard line about heaven and said, let's take it again from the top. They won't name the fourth until there are four. I can't sing. I can still ask a name.
+JONATHON: Merle said he had not been in a room with men in a year where somebody needed him to show up. If he does not come, the baritone drove forty minutes for nothing. The tenor waited through Merle's hard line about heaven and said, let's take it again from the top. They won't name the fourth until there are four. I can't sing. I can still ask a name. If you can't sing, will you still walk into that living room?
 
 [BOARD: Roles belong in a phone book.]
 
 
 ## SEGMENT 3 · The Word
 
-WES: Ecclesiastes four, verse ten. A preacher looking at men who work alone and call it wisdom. I want this read slow, because we've built a whole language that makes the lonely man look impressive.
+WES: I'll walk in if they'll have a man who can't sing. Ecclesiastes four, verse ten. A preacher looking at men who work alone and call it wisdom. I want this read slow, because we've built a whole language that makes the lonely man look impressive.
 
 JONATHON: "If either of them falls down, one can help the other up. But pity anyone who falls and has no one to help them up."
 
@@ -90,20 +90,20 @@ WES: Pity is a strong word. Not admire. Not understand. Pity the man who falls a
 JONATHON: [beat] Scripture looks at him and says pity. Stay there. The verse before says two are better than one. That's not a poster.
 WES: The verse before says two are better than one because they have a good return. This isn't a poster about teamwork. This is a warning about a man who will hit the floor in a kitchen and have no number to call.
 
-JONATHON: Here's my problem. I've people. I've got a wife and two kids and a mom and a team. I'm not alone. I'm unbrothered. Those are different. I can be in a full house and still have no one who can help me up because I never gave a man my first name, and I never asked for his. That's the version that scares me more than an empty apartment.
+JONATHON: Here's my problem. I've people. I've got a wife and two kids and a mom and a team. I'm not alone. I'm unbrothered. Those are different. So which is it? A full house, or a number you will actually dial? I can be in a full house and still have no one who can help me up because I never gave a man my first name. That's the version that scares me more than an empty apartment.
 
-WES: That's the isolation we mean. Not an empty apartment. A full life with no peer. Pentecost this weekend is a room full of brothers who didn't pick each other. The Spirit put them in a house. Some of you're waiting to be picked. You may have to walk into a living room on a Thursday and fake the shape notes. That's still a room. That still counts.
+WES: A number you will dial. That's the isolation we mean. Not an empty apartment. A full life with no peer. Pentecost this weekend is a room full of brothers who didn't pick each other. The Spirit put them in a house. Some of you're waiting to be picked. You may have to walk into a living room on a Thursday and fake the shape notes. That's still a room. That still counts.
 
 [BOARD: Genesis 2:18 (NIV) · "It is not good for the man to be alone."]
 
 
 ## SEGMENT 4 · Pushback
 
-WES: Jonathon, push. The men who like their quiet are already gone in their heads, and I don't want them to leave with a speech they can dismiss. Give me the shift guy and the cruel-brother guy.
+WES: Jonathon, push. The men who like their quiet are already gone in their heads, and I don't want them to leave with a speech they can dismiss. Give me the shift guy and the cruel-brother guy. Go ahead.
 
-JONATHON: The guy who says friends are a luxury. He has a shift and a second job and no Thursday night. I hear him. Then do the small version. One name. One text. The twenty-four-year-old at car-care takes the bus, has no car, brings donuts. He's already in a room of men. Learn his name. That counts. You don't need a cabin weekend.
+JONATHON: Yeah, here's my problem. The guy who says friends are a luxury. He has a shift and a second job and no Thursday night. I hear him. Then do the small version. One name. One text. The twenty-four-year-old at car-care takes the bus, has no car, brings donuts. He's already in a room of men. Learn his name. That counts. You don't need a cabin weekend. Can I ask you something hard? Are you going to ask Merle if they need a man who can't sing, or is the bulletin board going to stay a story?
 
-WES: The guy whose brothers are cruel. He thinks we're telling him to go back and make a barn into a reunion. We're not. I won't send a man back into a room that harms him and call that faithfulness.
+WES: [laughs] I can't sing either. The bulletin board isn't a story if a man walks in. The guy whose brothers are cruel. He thinks we're telling him to go back and make a barn into a reunion. We're not. I won't send a man back into a room that harms him and call that faithfulness.
 
 JONATHON: We're not. Pity isn't a reunion with a man who harms you. Pity is, you still need someone who can help you up. It may not be the brother you were handed. It may be a tenor with three kids. It may be Brent. It may be a man you have to ask. The point isn't blood. The point is a number you will actually dial.
 
@@ -137,9 +137,9 @@ JONATHON: Then put the name in your phone correctly. Delete the role. If you hav
 
 WES: If you have no one, go where men already stand. A field. A shop. A living room with shape notes. Pity isn't your portion. Two are better than one, and you may have to be the one who walks in first. Last few minutes I want that back in your house, not in a story about ours.
 
-JONATHON: I will hold you to the name. I want somebody holding me to Saturday. If I come back with a story about almost asking, that's not a report. That's a mood. I'm done collecting moods in a notes app and calling them growth.
+JONATHON: If I come back with a story about almost asking, that's not a report. That's a mood. I'm done collecting moods in a notes app and calling them growth. Can I ask you something? If I freeze Saturday, will you still ask me the name, or let me collect a mood?
 
-WES: I keep thinking about the tire-shop man because I never asked his name either. I can still hear morning, Wes, and I can't tell you what was on his shirt. That's how a boy treats a brother. He takes the kindness and leaves the person. I'm trying not to do that at the barn.
+WES: I'll ask you the name. I keep thinking about the tire-shop man because I never asked his name either. I can still hear morning, Wes, and I can't tell you what was on his shirt. That's how a boy treats a brother. He takes the kindness and leaves the person. I'm trying not to do that at the barn.
 
 JONATHON: You never asked his name. Morning, Wes. That's a brother you walked past, and I would have done the same thing with a smile.
 
@@ -163,12 +163,12 @@ JONATHON: Mine is already on a calendar. That's the only reason I trust it. A mo
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry out of here. You can have two brothers and no brothers. Isolation isn't strength.
+WES: Carry this. You can have two brothers and no brothers. Isolation isn't strength.
 
 JONATHON: And a first name is how a role becomes a man you could call.
 
 WES: Friday we look back at the fathers who stayed. Until then: one name, asked out loud.
 
-JONATHON: Then go ask him, and tell us how it went at walksteadfast.com, and find us everywhere at @steadfastwalk.
+JONATHON: Go ask him, then tell us at walksteadfast.com, and find us at @steadfastwalk.
 
 [STING 2s]

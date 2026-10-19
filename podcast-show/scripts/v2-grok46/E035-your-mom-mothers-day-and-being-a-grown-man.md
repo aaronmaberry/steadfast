@@ -5,9 +5,9 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,819 (about 18:48 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,856 (about 19:02 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 29 lines (56% of words). JONATHON 26 lines (44% of words), 1 under 12 words (3.8%) |
+| Line balance | WES 30 lines (55% of words). JONATHON 26 lines (45% of words), 1 under 12 words (3.8%) |
 | Focus mark | Work for God's Pay |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Proverbs 23:22. Board only: Proverbs 31:28 |
 | Board cues | 4 (none repeats spoken words) |
@@ -131,13 +131,15 @@ WES: I've watched men collect stories like this and never change a Tuesday. Don'
 
 JONATHON: I'm the man who collects stories. I've got a notes app full of them. The only ones that count are the ones that got a day and a time.
 
-WES: Before we go I want the listener who thinks this does not apply because his house is quieter. Quiet isn't settled. You already know that if you have been here any length of time.
+WES: Wait, back up. A man might think this doesn't apply because his house is quieter. Quieter than what? A screen door that didn't slam?
 
-JONATHON: My house can be loud and still be a cease-fire. Volume isn't the test. The test is whether the true thing got said.
+JONATHON: My house can be loud and still be a cease-fire. Volume isn't the test. The test is whether the true thing got said. Can I ask you something hard? Are you actually going to write the true thing, or check Friday and call the recliner wisdom?
 
-WES: I will check this on Friday, which is the only reason I trust myself. A public calendar is a kind of mercy for a man who likes his recliner.
+WES: I'll write it. A public calendar is mercy for a man who likes his recliner. So which is it for you? The pie and the ugly note, or a speech in a lobby?
 
-JONATHON: I will hold you to it, and I want somebody holding me. That's why I say the time out loud even when it makes me look late.
+JONATHON: [laughs] Pie. If the crust is store-bought I'm still counting it as honor, and my mom will name it in one bite anyway. That's fair, but— I still want somebody asking me if I said it out loud.
+
+WES: Then say the time out loud even if it makes you look late. Looking late is better than looking peaceful and skipping her.
 
 WES: I keep a bag of orange slices in my head now. Not because candy is the point. Because a man found a way to honor a mother who is gone without making a speech in the lobby. That's available to you this week even if brunch isn't.
 
@@ -145,12 +147,12 @@ JONATHON: I will take the pie and the ugly note over a speech in a lobby. If the
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry out of here. Honor your mother as a man. Not as a boy, and not as a stranger.
+WES: Carry this. Honor your mother as a man. Not as a boy, and not as a stranger.
 
 JONATHON: And don't despise her with a useful favor she didn't ask for.
 
 WES: Friday I'll tell you whether that screen door closed quiet. Until then: one true thing, written down.
 
-JONATHON: Then go write it, and tell us how it went at walksteadfast.com, and find us everywhere at @steadfastwalk.
+JONATHON: Go write it, then tell us at walksteadfast.com, and find us at @steadfastwalk.
 
 [STING 2s]

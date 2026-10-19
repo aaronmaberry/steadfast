@@ -5,9 +5,9 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,802 (about 18:41 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,800 (about 18:40 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 38 lines (54% of words). JONATHON 35 lines (46% of words), 1 under 12 words (2.9%) |
+| Line balance | WES 40 lines (54% of words). JONATHON 36 lines (46% of words), 1 under 12 words (2.8%) |
 | Focus mark | Stop Waiting |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Proverbs 13:20. Board only: Proverbs 27:17 |
 | Board cues | 4 (none repeats spoken words) |
@@ -53,6 +53,18 @@ JONATHON: She had a coupon since April. My sister told her. She texted a photo l
 WES: Good. That's honor that's not a repair. I want the listener who only knows how to be useful to sit with a photo that has no task in it. You didn't fix a lamp. You watched a woman buy one.
 
 JONATHON: I almost offered to pay. I put my hands in my pockets instead. That felt like I was failing her. It was probably the first right thing I've done in a store with her in years.
+
+WES: Wait, back up. You almost paid. Did putting your hands in your pockets feel like failing her, or like blessing a woman who bought her own light?
+
+JONATHON: Both. It felt like failing. It was the first right thing. Can I ask you something hard? You carried a receipt nineteen days. Are you going to carry this week's ask that long, or send it from the porch?
+
+WES: The porch. My daughter already caught me once. I don't get a second nineteen days. That's fair, but— I still want the diner to make it a scene.
+
+JONATHON: Eggs aren't a scene. They're a start. I don't totally buy that eight words at a barn is a brotherhood. I want more than well.
+
+WES: Well is what he has. I'm going to keep showing up for the eight words. If I wait for a paragraph I'll skip Saturday. No, hold on. Is the lamp on your lock screen a stay, or a plaque?
+
+JONATHON: A stay if I leave my wallet in my pocket the next time. A plaque if I tell this table and then pay for her next light.
 
 [BOARD: Bad light is not a personality.]
 
@@ -137,57 +149,51 @@ WES: I still remember the diner by the highway. Formica. His hat on the extra ch
 
 JONATHON: Eggs and a question. Not a program. That's the whole gift, and I've been hunting a syllabus instead.
 
-WES: I keep wanting the ask to resolve in one breakfast, and it won't. The assignment is the next honest sentence, said on time, without a speech attached. I've left too many good talks on a table because I wanted a better closing line than the one I had.
+WES: Wait, back up. Three hundred meals and you never asked how he stayed. Is Sunday actually on the calendar, or is it still a museum of brisket?
 
-JONATHON: Honestly, I will try to add the speech anyway. Somebody should stop me. If you're sitting in a driveway doing that too, write the three sentences down before you dial, then read only those three. The fourth sentence is where I get cute and ruin it.
+JONATHON: Sunday's on the calendar. I wrote How did you stay on a card. If I freeze I read the card. Then I pour the coffee and stop. That's fair, but— I still want a syllabus so I don't look like a boy on a porch.
 
-WES: I want this back in your house, not in ours. Pick the one door that's yours. Not your brother's. Not a man on a screen. Yours. Put a day on it before supper, even if the day is tomorrow and the sentence is clumsy.
+WES: There isn't a syllabus. There were eggs. He asked me again. I keep trying to make it a program because a program would let me hide in the paperwork. Are you going to look at him when you ask, or at the card?
 
-JONATHON: Mine is already on a calendar. That's the only reason I trust it. A mood isn't a plan, and I've used moods for years to sound wise while I stayed still. I don't want to sound wise. I want to be on time.
+JONATHON: At him. The card is a fence, not a personality. Can I ask you something? Nineteen days is already late on your receipt. Are you sending the text from the porch this week, or waiting for a better van?
 
-WES: If you fail the first try, the second try still counts. I've got to say that every time or I will use the miss as a way out and then tell a story about the miss like the story was the obedience.
+WES: The porch. Then I go inside and listen to my kid, because she can tell when I'm not in the room. I told myself Abernathy would call if he meant it. He had already asked. The rest was mine.
 
-JONATHON: I used the first miss as a way out for most of my twenties. I'm trying not to do that at thirty-seven. It's harder than any capacitor, and it's also more ordinary than I want to admit at this table.
+JONATHON: [laughs] That's you. That's also me with a plate of brisket. I don't totally buy that a no under a van is still a win. I want the diner. I want formica.
 
-WES: I've watched men collect stories like this and never change a Tuesday. Don't be that man this week. Change one Tuesday. Then tell one person you did, because a secret obedience turns back into a mood by Thursday.
+WES: You may get four words. Decide ahead of time that four words are enough. If you decide after, you'll call it a miss and start a notes-app novel. No, hold on. Is Dani going to know if you come home with almost?
 
-JONATHON: I'm the man who collects stories. I've got a notes app full of them. The only ones that count are the ones that got a day and a time and a person who knows I said I would do it.
+JONATHON: She'll know. She's the sheriff of almost. That's why I said the time out loud.
+
+WES: I keep wanting the ask to resolve in one breakfast, and it won't. Formica. His hat on the extra chair. Did he impress you, or did he just ask again?
+
+JONATHON: He asked again. That's the gift. I've been hunting a syllabus. Can I ask you something? If he says no under a van, will you still tell Friday, or dress it into almost?
+
+WES: I'll tell Friday. Get your own no. It's cleaner than a fantasy. If you add a fourth sentence you'll get cute and ruin it. Write three. Read three. Stop.
 
 ## SEGMENT · Sitting with it
 
-WES: I want the listener who thinks this does not apply because his house is quieter. Quiet isn't settled. You already know that if you have sat through a polite holiday and called it peace.
+WES: Wait, back up. You're saving the ask for a better room. Is there a better room than a porch?
 
-JONATHON: My house can be loud and still be a cease-fire. Volume isn't the test. The test is whether the true thing got said to the person who had to hear it, not to a mug at this table.
+JONATHON: No. I've rehearsed in better rooms my whole adult life. The rehearsal is how I stay safe. Dani can hear the difference. Can I ask you something hard? Are you going to ask the man this week, or are you going to wait until you feel ready?
 
-WES: I will check this on Friday, which is the only reason I trust myself. A public calendar is a kind of mercy for a man who likes his recliner and likes to call the recliner wisdom.
+WES: I'll ask. Ready is a feeling. On time is a clock. I've trusted the feeling too long. So which is it for you? A Tuesday that already has a meeting, or a quiet month HVAC is never going to hand you?
 
-JONATHON: I will hold you to it, and I want somebody holding me. That's why I say the time out loud even when it makes me look late. Looking late is better than looking peaceful and being dug in.
+JONATHON: [laughs] HVAC doesn't hand you a quiet month. If I wait I'll still be waiting when Theo has a license. That's fair, but— I still want to baptize delay and call it being careful.
 
-WES: A steadfast man does the small thing while it's still small. That's the whole show, said again, because we forget it by Wednesday and start waiting to feel ready, and the ready never comes first.
+WES: No, hold on. Careful is sometimes fear with a pressed shirt. Prayer is good. A day and a name is still required. Don't make it spiritual so you don't have to be specific.
 
-JONATHON: I forget it by Tuesday afternoon. Ruby does not. She has a better memory for what I said I would do than any review I've ever run, and she does not care that I had a good reason.
+JONATHON: Then I pick one ask. If I pick three I'll do none. One house. One name. One time. What are you picking, because if this is too many stories I'll hide in the list.
 
-WES: If this feels like too many stories, pick one. One house. One name. One time. That's enough weight for seven days, and it's more than most of us will actually carry if we get proud of the list.
+WES: One man. The porch. Not a kitchen I can tidy first. There is no better room. I've left too many good talks on a table because I wanted a better closing line than eggs. Eggs were the start. The start is enough if I don't wait for a scene.
 
-WES: I've got a habit of saving the true sentence for a better room. There is no better room. The kitchen is the room. The truck is the room. The porch after the dishes is the room. Say it there.
+JONATHON: Then I won't add a fourth sentence and get cute. Looking late on a porch is better than looking peaceful in a rehearsal. If I come home with almost, don't let me tell it as wisdom. Ask me whether I looked at him.
 
-JONATHON: I've rehearsed in better rooms my whole adult life. The rehearsal is how I stay safe. Dani can hear the difference between a rehearsal and a sentence. She stops me when I start handing people a door before they're in the room.
-
-WES: Some of you will try to make this spiritual so you don't have to be specific. Prayer is good. A day and a name is still required. Don't baptize delay and call it discernment.
-
-JONATHON: I've baptized delay. I've called it being careful. Careful is sometimes fear with a pressed shirt. I'm trying to tell those two apart before I waste another month.
-
-WES: The man who says he will start after the busy season is lying to himself the same way I did in my forties. There is always another season. Do the small thing inside the busy, or you will never do it.
-
-JONATHON: HVAC sales does not hand you a quiet month. If I wait for one I will still be waiting when Theo has a license. I've got to put the true thing on a Tuesday that already has a meeting.
-
-WES: I don't need you to feel ready. I need you to be on time. Ready is a feeling. On time is a clock. I've trusted the feeling too long, and it has made me late to people I love.
-
-JONATHON: I wait for ready like it's a weather window. Then the window closes and I tell a funny story about almost doing it. I don't want another funny story. I want a clumsy sentence that landed.
+WES: I'll ask. You ask me whether the text left the porch. That's the only check I trust this week. A gas receipt lasted nineteen days once. This one leaves the porch before my kid has to say I'm not listening again, period.
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. A man has to want it enough to ask. Otherwise it's somebody else's breakfast.
+WES: Carry this. A man has to want it enough to ask. Otherwise it's somebody else's breakfast.
 
 JONATHON: And a question in a wallet isn't the same as a question on a porch.
 

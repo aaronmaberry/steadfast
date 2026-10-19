@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (1,902 spoken words, about 12:41). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,066 spoken words, about 13:46). Re-time them against the final edit before publishing.
 
 ---
 
@@ -34,17 +34,17 @@ Christian men podcast, marriage, Ephesians 4:32, Field Notes, Walk Steadfast, as
 | Time | Segment | Summary |
 |---|---|---|
 | 00:00 | Open | Open |
-| 00:51 | Audition night | Audition night |
-| 01:57 | The barn | The barn |
-| 03:17 | The Word | The Word |
-| 04:18 | Redfish | Redfish |
-| 05:18 | What we're carrying | What we're carrying |
-| 06:00 | Ice in the glass | Ice in the glass |
-| 07:04 | Once a month | Once a month |
-| 08:07 | Nurses and jokes | Nurses and jokes |
-| 09:21 | Wes takes the chair | Wes takes the chair |
-| 10:57 | What I keep getting wrong | What I keep getting wrong |
-| 12:18 | Close | Close |
+| 00:43 | Audition night | Audition night |
+| 02:00 | The barn | The barn |
+| 03:42 | The Word | The Word |
+| 04:50 | Redfish | Redfish |
+| 05:57 | What we're carrying | What we're carrying |
+| 06:44 | Ice in the glass | Ice in the glass |
+| 07:55 | Once a month | Once a month |
+| 09:06 | Nurses and jokes | Nurses and jokes |
+| 10:31 | Wes takes the chair | Wes takes the chair |
+| 12:05 | What I keep getting wrong | What I keep getting wrong |
+| 13:28 | Close | Close |
 
 ---
 

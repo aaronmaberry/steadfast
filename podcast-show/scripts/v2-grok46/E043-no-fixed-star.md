@@ -5,9 +5,9 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,912 (about 19:25 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,820 (about 18:48 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 38 lines (53% of words). JONATHON 34 lines (47% of words), 1 under 12 words (2.9%) |
+| Line balance | WES 39 lines (52% of words). JONATHON 35 lines (48% of words), 2 under 12 words (5.7%) |
 | Focus mark | Go First |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Proverbs 29:18. Board only: Habakkuk 2:2 |
 | Board cues | 4 (none repeats spoken words) |
@@ -40,9 +40,9 @@ JONATHON: And I will tell you Dani wants to sing again, and I tried to solve it 
 
 ## SEGMENT 1 · Fort Sam and the back of the stone
 
-WES: Let's take the next few minutes on Monday morning, because I was allowed into a walk I didn't earn. He took the cup with sugar and we walked. Flags on every stone. Scouts had done that Saturday. He stopped at the grave of a man he served with, died nineteen sixty-nine, age twenty-two. He said the name once, aloud, and stood about twenty minutes. Walking back he talked about the traffic on Loop four-ten, how they have ruined it. Then, see you Saturday. Car-care. I don't know the man's story. I don't know why I was allowed. I carried the second coffee and tried not to make it a lesson.
+WES: Let's take the next few minutes on Monday morning, because I was allowed into a walk I didn't earn. He took the cup with sugar and we walked. Flags on every stone. Scouts had done that Saturday. He stopped at the grave of a man he served with, died nineteen sixty-nine, age twenty-two. He said the name once, aloud, and stood about twenty minutes. Walking back he talked about the traffic on Loop four-ten, how they have ruined it. Then, see you Saturday. Car-care. I don't know the man's story. I don't know why I was allowed. I carried the second coffee and tried not to make it a lesson. Can you live with not knowing?
 
-JONATHON: You wanted an invitation in English. You got a time and a gate. That's more than most of us get from older men, and you still don't know the story. I can live with that if you can. I called Shane after I told you I had a half. He said is Ruby okay. I said I'm calling about you. He said that's weird, man. Twenty minutes on the model's anchor chain, stuck two months. Weird is how men say thank you sometimes.
+JONATHON: I can if you can. You wanted an invitation in English. You got a time and a gate. That's more than most of us get from older men. I called Shane after I told you I had a half. He said is Ruby okay. I said I'm calling about you. He said that's weird, man. Twenty minutes on the model's anchor chain, stuck two months. Weird is how men say thank you sometimes.
 
 WES: Before dawn I read the back of the courthouse memorial. Seven Vietnam names. Phone flashlight. Two share a last name. I looked them up. Brothers. I've walked past the front of that stone for years. The back is where I should have started. I don't want to be a front-only man anymore.
 
@@ -57,7 +57,7 @@ WES: Saturday in Abilene. Most of the day in the hospice family room. Deputy was
 
 JONATHON: You went. That's the heading for that Saturday, even if you didn't have a sentence yet. I keep thinking about headings because my VP asked for one and I gave him a trophy. I don't want to skip the pecan. You have a pecan.
 
-WES: I was thirteen. I disked the thirty-acre bottom field on my granddad's old tractor, watching the disk. The row wandered. He walked out, climbed the step, and said, quit looking at what you did. Look at the tree. The pecan still stands. My older brother still lines up on it. At the barn in May he said, he told me that too. We got the same sentence and still managed to miss each other for decades.
+WES: I was thirteen. I disked the thirty-acre bottom field on my granddad's old tractor, watching the disk. The row wandered. He walked out, climbed the step, and said, quit looking at what you did. Look at the tree. The pecan still stands. My older brother still lines up on it. At the barn in May he said, he told me that too. We got the same sentence and still managed to miss each other for decades. Do you have a tree, or just a number?
 
 JONATHON: I go wild on the mound when I watch the runner on first instead of the glove. Same sin. Eyes on the wrong thing. In my twenties the wrong thing was four or five beers on weeknights to come down from the leaderboard. No fence. No tree. Just a number and a way to turn the number off. I don't drink on weeknights now. I still stare at the row I already cut.
 
@@ -68,7 +68,7 @@ WES: In my forties I had three church committees, a ball team, fifty-five-hour w
 
 ## SEGMENT 3 · The Word
 
-WES: Proverbs twenty-nine, verse eighteen. People like the first half. I want both halves.
+WES: Proverbs twenty-nine, verse eighteen. People like the first half. I want both halves. You want to read it?
 
 JONATHON: "Where there is no revelation, people cast off restraint; but blessed is the one who heeds wisdom’s instruction."
 
@@ -85,7 +85,7 @@ JONATHON: Both, which means I had no tree. I had two rows. I stared at both and 
 
 ## SEGMENT 4 · She wants to sing
 
-WES: Tell it the way she gave you permission. Not as a project you closed.
+WES: Tell it the way she gave you permission. Not as a project you closed. Can you do that without turning it into a ticket?
 
 JONATHON: She said I want to sing again. Alto in church choir from girlhood through college. She sang one verse at our wedding before she cried. She has not sung in front of anyone since Theo was born. There is a community chorale downtown. Auditions in August. Rehearsals Tuesday nights. She works Tuesdays. She has had it bookmarked for a year. She said there is never going to be a better season. I started fixing the Tuesday nights. She said stop. I don't need you to solve it tonight. I just wanted you to know I want it. I can say she wants it. I can't say she's doing it. That's her line, on the air, with permission.
 
@@ -100,9 +100,9 @@ WES: Mine is on the back of an index card under the prayer list. Love God out lo
 
 ## SEGMENT 5 · Pushback
 
-WES: Push. The man who says vision is for executives. And the man who has a slogan on a wall and a house with no heading.
+WES: Push. The man who says vision is for executives. And the man who has a slogan on a wall and a house with no heading. Which one is sitting in you this week?
 
-JONATHON: If you're not an executive you still have a home. A heading can be, I'm home for bath three nights. It can be, I call my mom and ask about her first. It can be, I don't plan my wife's Tuesday nights. That last one is on my page now. Dani said she's going to hold me to it. I want to be held to it.
+JONATHON: The slogan one, if I'm honest. If you're not an executive you still have a home. A heading can be, I'm home for bath three nights. It can be, I call my mom and ask about her first. It can be, I don't plan my wife's Tuesday nights. That last one is on my page now. Dani said she's going to hold me to it. I want to be held to it.
 
 WES: A slogan on a wall is how men hide. We had a mission statement at work I could not have quoted if you paid me. I could quote the pecan. I could not quote a heading for my own house until I wrote it on a card. If your wall is louder than your porch, you have decoration.
 
@@ -113,7 +113,7 @@ WES: I steered by whoever called last. That's how you get three committees and a
 
 ## SEGMENT 6 · This week's challenge
 
-WES: Write one heading in a sentence. Say it to one person who lives with you. Don't make it a slogan. If you can't say it on a porch, it's not ready, or you're not. Either way, write it.
+WES: Write one heading in a sentence. Say it to one person who lives with you. Don't make it a slogan. If you can't say it on a porch, it's not ready, or you're not. Either way, write it. Did you already say yours?
 
 JONATHON: I already said mine at breakfast. Ruby asked if starting at home counts the dog. I said we don't have a dog. She said yet. Then she wrote her own. I will let Friday hold that. Today I want the listener to write his, not steal ours.
 
@@ -121,11 +121,9 @@ WES: If you have been lining up on a row you already cut, pick a tree. A pecan. 
 
 JONATHON: If you start fixing your wife's want, stop. Hear it. Write yours. Do the dishes. That's how a heading gets into a house instead of into a speech.
 
-WES: I still don't know why the mechanic let me walk. I don't need to know. I need to show up Saturday with donuts and not ask him to make it a story. Some gifts die if you interview them.
+WES: I still don't know why the mechanic let me walk. I don't need to know. I need to show up Saturday with donuts and not ask him to make it a story. Some gifts die if you interview them. Will you stop me if I come back with an interview?
 
-WES: I still don't know why the mechanic let me walk. I don't need to know. I need to show up Saturday with donuts and not ask him to make it a story. Some gifts die if you interview them.
-
-JONATHON: Then don't interview the pecan either. Look at it. Write the sentence. Do the dishes. That's how a heading gets into a house instead of into a speech about Fort Sam.
+JONATHON: I'll stop you. Then don't interview the pecan either. Look at it. Write the sentence. Do the dishes. That's how a heading gets into a house instead of into a speech about Fort Sam.
 
 WES: The card under the prayer list is the tree. Love God out loud, keep the people He gave me, and finish. My mouth is still the row. I still pass on praying out loud at the Thursday table. The card didn't fix my mouth. It gave me something to look at when Loop four-ten gets loud.
 
@@ -153,45 +151,53 @@ JONATHON: I'll stop you. And if I come back with a chorale schedule I built for 
 
 ## SEGMENT · Sitting with it
 
-WES: I've watched men collect headings like this and never change a Tuesday. Don't be that man this week. Write one sentence. Say it on a porch. Then tell one person you did, because a secret vision turns back into a mood by Thursday.
+WES: I keep wanting to send a man home with a full week and call it a life. A full week isn't a heading.
 
-JONATHON: I'm the man who collects stories. I've got a notes app full of numbers and one sticky note that actually sounds like a house. The only headings that count are the ones a child can read on the way to cereal.
+JONATHON: Wait, back up. Are you talking about me and the VP trophy, or the guy who says vision is for executives?
 
-WES: I want the listener who thinks this doesn't apply because he isn't an executive. A heading can be, I'm home for bath three nights. Quiet isn't settled. You already know that if you've sat through a full week and called it a life.
+WES: Both. You wrote number one in the region and stay there. Then you added vacation days. Which one did you mean?
 
-JONATHON: My house can be loud and still be a wander. Volume isn't the test. The test is whether I can say starting at home without checking Austin's number first.
+JONATHON: Both, which means I had no tree. I had two rows. I stared at both and wandered. Can I ask you something hard?
 
-WES: I'll check the card on Friday, which is the only reason I trust myself. Saturday is donuts. Not a story. Donuts. A public calendar is a kind of mercy for a man who likes his recliner and likes to call the recliner wisdom.
+WES: Go.
 
-JONATHON: I'll hold you to the donuts, and I want somebody holding me to the sink. That's why I said the sentence at breakfast even when it made me look late. Looking late is better than looking visionary and being dug into a leaderboard.
+JONATHON: Are you actually going to pray out loud at the Thursday table, or is the card going to do that for you?
 
-WES: A steadfast man does the small thing while it's still small. For me that's looking at a pecan instead of the row I already cut. We forget it by Wednesday and start waiting to feel ready, and the ready never comes first.
+WES: [beat] The card is the tree. Love God out loud, keep the people He gave me, and finish. My mouth is still the row. I still pass. I'm not going to pretend a card fixed my mouth. Saturday is donuts. Not a story. Donuts. What are you actually heeding?
 
-JONATHON: I forget it by Tuesday afternoon. Ruby doesn't. She already asked if starting at home counts the dog. She has a better memory for what I said I'd do than any review I've ever run.
+JONATHON: The sink. Make sure everybody is okay, starting at home. Dani said okay. Then, starting when. Then do the dishes. If I pick three I'll do none. One sticky note. Ruby already asked if it counts the dog.
 
-WES: If this feels like too many stories, pick one. One tree. One card. One sticky note. That's enough weight for seven days.
+WES: That's fair, but— no, don't start fixing her Tuesday nights again.
 
-JONATHON: I'll pick the sink. If I pick three I'll do none. One heading is how a man like me gets free of his own notes app.
+JONATHON: [laughs] She said stop. I don't need you to solve it tonight. I just wanted you to know I want it. Hearing is the work. Will you stop me if I come back with a chorale schedule I built for her?
 
-WES: I've got a habit of saving the true sentence for a better room. There is no better room. The porch is the room. The barn is the room. The kitchen after she said stop is the room. Say it there.
+WES: I'll stop you. You stop me if I interview a man who only said see you Saturday. Some gifts die if you pull a story out of them.
 
-JONATHON: I've rehearsed in better rooms my whole adult life. The rehearsal is how I stay safe. Dani can hear the difference between a heading and a ticket. She stops me when I start handing people a Tuesday before they've asked.
+JONATHON: No, hold on. You've got a habit of lining up on the row you already cut and calling the wander serving. Your wife asked where you were going. Did you give her a tree or a Saturday you could do?
 
-WES: Some of you will try to make this spiritual so you don't have to be specific. Prayer is good. A sentence you can run with is still required. Don't baptize delay and call it discernment. Habakkuk said write it plain.
+WES: [laughs] I gave her Saturday. That's a full week with no heading. Three committees. A ball team. Fifty-five-hour weeks. I called it serving. She was asking for a pecan. Are you still checking Austin's number before your own?
 
-JONATHON: I've baptized delay. I've called it being careful. Careful is sometimes fear with a pressed shirt. Number one in the region is a pressed shirt. Starting at home is a sink.
+JONATHON: I'm trying not to. I steered by the Monday leaderboard without writing it down. Written is better, because then somebody else can see it. Dani can hear the difference between a heading and a ticket. She stops me when I start handing people a Tuesday before they've asked.
 
-WES: The man who says he'll start after the busy season is lying to himself the same way I did with three committees. There is always another season. Write the sentence inside the busy, or you never will.
+WES: Good. Write it inside the busy, or you never will. I hid inside three committees. There is always another season.
 
-JONATHON: HVAC sales doesn't hand you a quiet month. If I wait for one I'll still be waiting when Theo has a license. I've got to put the heading on a Tuesday that already has a meeting.
+JONATHON: Then I put the heading on a Tuesday that already has a meeting, and I leave her Tuesday nights alone. Does that sound like I'm making a quota out of a sink?
 
-WES: I don't need you to feel ready. I need you to look at the tree. Ready is a feeling. A pecan is a clock. I've trusted the feeling too long, and it has made me late to a wife who asked where we were going.
+WES: [laughs] It sounds like a man who knows his calendar. Put the sentence on a porch that already has dishes, or you never will.
 
-JONATHON: I wait for ready like it's a weather window. Then the window closes and I tell a funny story about almost writing it. I don't want another funny story. I want a clumsy sticky note that landed.
+JONATHON: What are you picking, for real?
+
+WES: The pecan. Look at the tree, not the row I already cut. And donuts Saturday without an interview. I still don't know why I was allowed at the gate. I don't need to know. I need to show up.
+
+JONATHON: The sink. A clumsy sticky note that landed. That's the whole takeaway. A full week isn't a heading. Look at the tree.
+
+WES: A child can read written. A child can't read whoever called last. Say it on a porch. If you can't say it there, it's not ready, or you're not.
+
+---
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. A full week isn't a heading. Look at the tree, not at the row you already cut.
+WES: Carry this. A full week isn't a heading. Look at the tree, not at the row you already cut.
 
 JONATHON: And a sticky note on a fridge is allowed to be a whole vision.
 

@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 2,199 (about 14:40 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,209 (about 14:44 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 53 lines (53% of words). JONATHON 49 lines (47% of words), 3 under 12 words (6.1%) |
 | Focus mark | Stop Waiting |
@@ -230,7 +230,7 @@ JONATHON: Does your wife know you took the bread basket, or is that a conversati
 
 WES: She doesn't know yet. She will.
 
-JONATHON: I want the rules, because if you leave this fuzzy I will put the phones on the table and call it done.
+JONATHON: I want the rules, because if you leave this fuzzy I will put the phones on the table and call it done. Are you actually putting yours in first, or is that a rule for everybody else?
 
 WES: Put the basket where everybody walks in. Not on the table. By the door, or on the counter on the way to the table. At supper, every phone goes in. Yours first.
 
@@ -254,7 +254,7 @@ WES: Look out a window. Pray. Call your mother after. That's a good one this wee
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. The second try counts. Don't let the first miss be the only night.
+WES: Carry this. The second try counts. Don't let the first miss be the only night.
 
 JONATHON: And somebody at your house is carrying a Tuesday you don't know about. Ask. Then listen longer than you want to.
 

@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,808 spoken words, about 18:43). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,968 spoken words, about 19:47). Re-time them against the final edit before publishing.
 
 ---
 
@@ -35,16 +35,16 @@ Christian men podcast, marriage, Ephesians 5:25, lay it down, Walk Steadfast, Go
 |---|---|---|
 | 00:00 | Open | He moved a call. He did not give the speech. |
 | 00:51 | The call | Seven-thirty. Roses. Sleep math. |
-| 02:47 | The letter | Three pages on a pillow. The invoice. |
-| 04:42 | The visor | A printout he will not slide. Merle and the TV. |
-| 06:12 | The Word | Ephesians 5:25. Gave himself up. |
-| 07:26 | Pushback | Work is not the only cross. Kitchen door. |
-| 08:47 | The challenge | One unnamed thing. Yes or no. |
-| 09:48 | The kitchen door | Five minutes. No announcement. |
-| 11:27 | Roses and math | Anything is cheap. Monday is expensive. |
-| 12:52 | Men who disappear | Vanishing is a bill. |
-| 14:20 | What it costs | A printout is not listening yet. |
-| 18:18 | Close | The hour is the death. |
+| 03:08 | The letter | Three pages on a pillow. The invoice. |
+| 05:12 | The visor | A printout he will not slide. Merle and the TV. |
+| 07:08 | The Word | Ephesians 5:25. Gave himself up. |
+| 08:40 | Pushback | Work is not the only cross. Kitchen door. |
+| 10:11 | The challenge | One unnamed thing. Yes or no. |
+| 11:20 | The kitchen door | Five minutes. No announcement. |
+| 13:19 | Roses and math | Anything is cheap. Monday is expensive. |
+| 15:08 | Men who disappear | Vanishing is a bill. |
+| 16:47 | What it costs | A printout is not listening yet. |
+| 19:27 | Close | The hour is the death. |
 
 ---
 

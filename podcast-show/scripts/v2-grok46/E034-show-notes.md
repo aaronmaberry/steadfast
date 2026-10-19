@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (1,947 spoken words, about 12:59). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (1,937 spoken words, about 12:55). Re-time them against the final edit before publishing.
 
 ---
 

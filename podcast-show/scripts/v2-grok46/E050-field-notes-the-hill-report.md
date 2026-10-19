@@ -5,9 +5,9 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm |
-| Spoken words | 1,900 (about 12:40 at 150 wpm, before laughs and pauses) |
+| Spoken words | 1,930 (about 12:52 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 24 lines (54% of words). JONATHON 24 lines (46% of words), 2 under 12 words (8.3%) |
+| Line balance | WES 28 lines (54% of words). JONATHON 27 lines (46% of words), 3 under 12 words (11.1%) |
 | Focus mark | Go First |
 | Scripture (NIV, verified 2026-10-19) | Spoken: 1 Corinthians 16:13. Board only: 1 Thessalonians 2:11-12 |
 | Board cues | 4 (none repeats spoken words) |
@@ -40,7 +40,7 @@ JONATHON: And I will tell you I said bud twice when I took over, because the nin
 
 ## SEGMENT 1 · Not a straight line
 
-WES: Let's take the next few minutes on the shoes, because I don't want anyone thinking Friday is a victory lap. You timed the cry. Then you took over.
+WES: Let's take the next few minutes on the shoes, because I don't want anyone thinking Friday is a victory lap. You timed the cry. Then you took over. Why did you take over?
 
 JONATHON: Minute six. I had a nine o'clock call. I did the shoes. I said bud twice. I heard myself. Tuesday and Wednesday he did them himself. Thursday he asked for help with one. I said no. He did it. It's not a straight line. It's Theo. I named my hill to Dani and I said I don't know yet. I heard myself say my kids like they're me with extra steps. I heard myself say the widows' crew like I had already gone. I've not gone yet. She listened, then asked what time Saturday, because she needs the car.
 
@@ -66,7 +66,7 @@ JONATHON: Your oldest gamed all through high school. Friday nights. A headset. Y
 
 ## SEGMENT 3 · The Word
 
-WES: First Corinthians sixteen, verse thirteen. Four short orders. None of them say unplug a boy you won't sit with.
+WES: First Corinthians sixteen, verse thirteen. Four short orders. None of them say unplug a boy you won't sit with. You want to read it?
 
 JONATHON: "Be on your guard; stand firm in the faith; be courageous; be strong."
 
@@ -79,7 +79,7 @@ JONATHON: I can be strong about other people's sons and soft about my own floor.
 
 ## SEGMENT 4 · The Saturday project
 
-WES: Last few minutes. Tool is the Saturday project. One real thing that gets better if he works at it. Cedar. A ramp. A chain. Shoes if he's four. Put a date on it. I would unplug a console for a summer if I were scared enough. He said that's easy to say with a brother who has a whole slope of cedar. I said that's not fair. He said no. It's also where he lives. We're unresolved on the closet. We're agreed on Saturday. I can live with unresolved if Saturday is dated.
+WES: Last few minutes. Tool is the Saturday project. Did you date it? One real thing that gets better if he works at it. Cedar. A ramp. A chain. Shoes if he's four. Put a date on it. I would unplug a console for a summer if I were scared enough. He said that's easy to say with a brother who has a whole slope of cedar. I said that's not fair. He said no. It's also where he lives. We're unresolved on the closet. We're agreed on Saturday. I can live with unresolved if Saturday is dated.
 
 JONATHON: I'm going Saturday. Ruby. Theo. A coffee can of screws. If I skip because a call appears, I will tell you I skipped. I won't tell you a story about almost. Almost is my favorite lie.
 
@@ -103,37 +103,53 @@ JONATHON: Then date both. His Saturday already has a vise. Yours still needs a p
 
 ## SEGMENT · Sitting with it
 
-WES: I've watched men collect hill reports like this and never date a Saturday. Don't be that man this week. Date the project. Stay on the floor. Then tell one person you did, because a secret Saturday turns back into a mood by Thursday.
+WES: I keep wanting to send a man home with a dated Saturday for his boy and none for his jamb. Those are two hills.
 
-JONATHON: I'm the man who collects stories. I've got a notes app and a six-minute cry I timed. The only ones that count are the ones that got a coffee can and a no at the Velcro.
+JONATHON: Wait, back up. Are you talking about the back door, or me skipping because a call appears?
 
-WES: I want the listener who thinks this doesn't apply because his house is quieter. Quiet isn't settled. You already know that if you've sat through a polite holiday and called it peace. A dull chain is still a report.
+WES: The door. He can file a chain. I can still not plane a jamb. Are you actually going Saturday, or telling a story about almost?
 
-JONATHON: My house can be loud and still be a cease-fire. Volume isn't the test. The test is whether I stay after minute six, not whether I can tell you about a headset.
+JONATHON: I'm going. Ruby. Theo. A coffee can. Dani asked what time because she needs the car. Can I ask you something hard?
 
-WES: I'll check the jamb on Friday, which is the only reason I trust myself. The back door is still unfinished. A public calendar is a kind of mercy for a man who likes his recliner and likes to call the recliner wisdom.
+WES: Go.
 
-JONATHON: I'll hold you to the plane, and I want somebody holding me to Saturday. That's why I say the coffee can out loud even when it makes me look late. Looking late is better than looking holy and unplugging a life I never sat beside.
+JONATHON: Is the plane moving this week, or are you going to lift and shove and call it Saturday?
 
-WES: A steadfast man does the small thing while it's still small. For me that's not taking the file. For you that's not taking the shoes. We forget it by Wednesday and start waiting to feel ready.
+WES: [beat] The plane hasn't moved. I'm saying that out loud so I can't dress it up. June heat made the jamb worse. The back door is still unfinished. What are you actually refusing to take over?
 
-JONATHON: I forget it by Tuesday afternoon. Ruby doesn't. She has a better memory for what I said I'd do than any review I've ever run, and she doesn't care that I had a nine o'clock call.
+JONATHON: The Velcro. Minute six was me taking over. Tuesday he did the shoes. If I pick three I'll do none. One floor.
 
-WES: If this feels like too many stories, pick one. One Saturday. One file. One pair of shoes. That's enough weight for seven days.
+WES: That's fair, but— no, don't use a nine o'clock call as death.
 
-JONATHON: I'll pick the floor. If I pick three I'll do none. One Saturday is how a man like me gets free of his own notes app.
+JONATHON: [laughs] I used it as death on Monday. Will you stop me if I skip and then tell you I almost went?
 
-WES: I've got a habit of saving the true sentence for a better room. There is no better room. The shop door is the room. The hallway at seven-thirty is the room. The back door that still sticks is the room. Say it there.
+WES: I'll stop you. Almost is a lie. You stop me if I take the file. My hands know that file. His hands needed it more.
 
-JONATHON: I've rehearsed in better rooms my whole adult life. The rehearsal is how I stay safe. Dani asked what time Saturday because she needs the car. That's a woman who believes I might actually go.
+JONATHON: No, hold on. You've got a habit of dating his Saturday and walking around yours. Which one got used?
 
-WES: Some of you will try to make this spiritual so you don't have to be specific. Prayer is good. A dated Saturday is still required. Don't baptize delay and call it discernment. A password is a fence. A creek is a hill.
+WES: [laughs] His. A boy filed every tooth. A man can still not plane a jamb. That's the report. Are you sitting beside the game once so you know what you're talking about?
 
-JONATHON: I've baptized delay. I've called it being careful. Careful is sometimes fear with a pressed shirt. Taking over at minute six was a pressed shirt. Tuesday he did the shoes. That's the road.
+JONATHON: I learned practice from a screen. I needed a hill in dirt. He may need both for a season. I won't lie about that to look holy. Dani can hear the difference.
 
-WES: The man who says he'll start after the busy season is lying to himself the same way I did walking around a jamb. There is always another season. Plane the door inside the busy, or you never will.
+WES: Good. Date the project. Stay on the floor when he cries. Don't take the saw. The shop door isn't a museum.
 
-JONATHON: HVAC sales doesn't hand you a quiet Saturday. If I wait for one I'll still be waiting when Theo has a license. I've got to put the coffee can on a morning that already has a meeting.
+JONATHON: Then I put the coffee can on a morning that already has a meeting. Does that sound like a quota?
+
+WES: [laughs] It sounds like a man who knows his calendar. Put the Saturday inside the busy, or you never will. I'll tell you Friday whether the plane moved. It hasn't.
+
+JONATHON: What are you picking, for real?
+
+WES: Not taking the file. And not dressing up the jamb. I'll ask which one actually got used, and I already know.
+
+JONATHON: The floor. That's the whole takeaway. A hill isn't a straight line. Stay on the floor. Don't take the saw. A Saturday with dirt still beats a speech about games.
+
+WES: Unresolved on the closet. Agreed on Saturday. I can live with unresolved if Saturday is dated.
+
+JONATHON: If your son only wants games, give him a Saturday that's real, and sit beside the game once so you know what you're talking about. I learned practice from a screen. He may need both for a season. Sunday you ask the oldest what those Friday nights were. Don't open with turn that off. Open with I never sat down. I've a feeling you're about to find out you missed a brotherhood you called a problem.
+
+WES: I stood in that shop door like a man at a museum. Night was the right word. I'm practicing night. It's harder than a speech about work ethic. He said that's easy to say with a brother who has a whole slope of cedar. I said that's not fair. He said no. It's also where he lives. I would unplug a console for a summer if I were scared enough. I'm not going to pretend that's the only hill.
+
+---
 
 ## CLOSE (word for word)
 

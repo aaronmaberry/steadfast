@@ -5,9 +5,9 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm |
-| Spoken words | 1,935 (about 12:54 at 150 wpm, before laughs and pauses) |
+| Spoken words | 1,964 (about 13:06 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 25 lines (52% of words). JONATHON 24 lines (48% of words), 1 under 12 words (4.2%) |
+| Line balance | WES 28 lines (50% of words). JONATHON 27 lines (50% of words), 2 under 12 words (7.4%) |
 | Focus mark | Pick Up the Weight |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Colossians 3:23. Board only: Genesis 2:15 |
 | Board cues | 4 (none repeats spoken words) |
@@ -66,7 +66,7 @@ JONATHON: Mine is supposed to be five-thirty. Phone in the truck console until t
 
 ## SEGMENT 3 · The Word
 
-WES: Colossians three, verse twenty-three. All your heart, and still not for the masters.
+WES: Colossians three, verse twenty-three. All your heart, and still not for the masters. You want to read it?
 
 JONATHON: "Whatever you do, work at it with all your heart, as working for the Lord, not for human masters,"
 
@@ -79,7 +79,7 @@ JONATHON: I like the work a lot. That's not wrong. Skipping the console is how l
 
 ## SEGMENT 4 · The end-of-day shutdown
 
-WES: Last few minutes. Tool is the end-of-day shutdown. Pockets on a dresser. Phone in a console. A pasture gate. Pick one physical place the work has to stop. If you skip it, your face will tell on you. Let somebody who loves you have permission to see the face. Don't make them sit in a driveway to get a vote.
+WES: Last few minutes. Tool is the end-of-day shutdown. Where does the work actually stop? Pockets on a dresser. Phone in a console. A pasture gate. Pick one physical place the work has to stop. If you skip it, your face will tell on you. Let somebody who loves you have permission to see the face. Don't make them sit in a driveway to get a vote.
 
 JONATHON: I will put the phone in the console Friday and Monday, and I won't use Thursday's miss as a way out. If I fail again I will get out of the truck when she sits down. The email can wait. A cold supper is a board I didn't ask for and I still have to read.
 
@@ -105,37 +105,51 @@ JONATHON: First move is the dresser. That's the shutdown I actually trust. A hea
 
 ## SEGMENT · Sitting with it
 
-WES: I've watched men collect shutdown stories like this and never empty a pocket. Don't be that man this week. Shut the gate. Knock again. Then tell one person you did, because a secret keep turns back into a mood by Thursday.
+WES: I keep wanting to send a man home thinking liking the work is the sin. Skipping the shutdown is the sin.
 
-JONATHON: I'm the man who collects stories. I've got a notes app and a cold supper. The only ones that count are the ones that got the keys put down and a face I called absent.
+JONATHON: Wait, back up. Are you talking about my console, or the truck in the lot?
 
-WES: I want the listener who thinks this doesn't apply because his house is quieter. Quiet isn't settled. You already know that if you've sat through a polite holiday and called it peace. Two inches of window is still a report.
+WES: Both. You skipped Thursday. Are you putting the phone in the console Friday and Monday, or using the miss as a way out?
 
-JONATHON: My house can be loud and still be a cease-fire. Volume isn't the test. The test is whether I reach for the door handle before she says cold, not whether I can tell you about a bullpen.
+JONATHON: Console. If I fail again I get out of the truck when she sits down. A cold supper is a board I didn't ask for. Can I ask you something hard?
 
-WES: I'll check the lot tomorrow, which is the only reason I trust myself. If the truck is there I knock. If it isn't, I don't invent a reason. A public calendar is a kind of mercy for a man who likes his recliner and likes to call the recliner wisdom.
+WES: Go.
 
-JONATHON: I'll hold you to the knock, and I want somebody holding me to the dresser. That's why I say absent out loud even when it makes me look late. Looking late is better than looking busy and being dug into a second hour.
+JONATHON: If the lot is empty tomorrow, are you going to invent a reason, or let the sandwich be enough?
 
-WES: A steadfast man does the small thing while it's still small. For me that's a sandwich without a story. For you that's keys before another email. We forget it by Wednesday and start waiting to feel ready.
+WES: [beat] I won't invent a reason. If the truck is there I knock. If it isn't, I don't. I still don't know if he has kids. Knowing can be another kind of taking. What are you actually calling your face?
 
-JONATHON: I forget it by Tuesday afternoon. Ruby doesn't. She has a better memory for what I said I'd do than any review I've ever run, and she doesn't care that I had a good reason to stay in the lot.
+JONATHON: Absent. Not busy. Absent. If Dani has to say supper's cold again, I hope I'm already reaching for the door handle. If I pick three I'll do none. One dresser.
 
-WES: If this feels like too many stories, pick one. One pocket. One knock. One dresser. That's enough weight for seven days.
+WES: That's fair, but— no, don't make the thirty-one-year-old your pilot.
 
-JONATHON: I'll pick the dresser. If I pick three I'll do none. One shutdown is how a man like me gets free of his own notes app.
+JONATHON: [laughs] I won't. I'll ask if he booked the three. His garden is his. Will you stop me if I stay for one more hour and call it heart?
 
-WES: I've got a habit of saving the true sentence for a better room. There is no better room. The cab is the room. The dresser is the room. The table where supper got cold is the room. Say it there.
+WES: I'll stop you. All your heart is allowed. Not for human masters is the keep. You stop me if I demand a story with the sandwich. Talk about a bad bullpen. Go inside.
 
-JONATHON: I've rehearsed in better rooms my whole adult life. The rehearsal is how I stay safe. Dani can hear the difference between busy and absent. She stops me when I start handing people a heading before I've emptied a pocket.
+JONATHON: No, hold on. You've got a habit of walking past a truck for three months and calling it professionalism. Two inches of window — is that a start, or a way to feel done?
 
-WES: Some of you will try to make this spiritual so you don't have to be specific. Prayer is good. Keys on a dresser is still required. Don't baptize delay and call it discernment. Liking the work is allowed. Skipping the shutdown is how like becomes a yoke.
+WES: [laughs] A start. Knock again if that's all I got. I told the youngest I like the work. He asked for potatoes. That's a good keep. Are you using the first half of the verse as cover?
 
-JONATHON: I've baptized delay. I've called it being careful. Careful is sometimes fear with a pressed shirt. One more hour is a pressed shirt. The door handle is the road.
+JONATHON: I had been. Skipping the console is how like becomes a yoke. It's wrong to like it so much I make her eat cold food while a master emails at six-forty. Dani can hear busy versus absent.
 
-WES: The man who says he'll start after the busy season is lying to himself the same way I did inventing a reason when the lot was empty. There is always another season. Empty the pockets inside the busy, or you never will.
+WES: Good. Empty the pockets. Shut the gate. First move is the dresser. A heading that never touches a dresser is a slogan.
 
-JONATHON: HVAC sales doesn't hand you a quiet month. If I wait for one I'll still be waiting when Theo has a license. I've got to put the keys on a Tuesday that already has a meeting.
+JONATHON: Then I put the keys on a Tuesday that already has a meeting. Does that sound like a quota?
+
+WES: [laughs] It sounds like a man who knows his calendar. Empty the pockets inside the busy, or you never will.
+
+JONATHON: What are you picking, for real?
+
+WES: Tomorrow's lot. Knock if the truck is there. Don't invent a reason.
+
+JONATHON: The dresser. That's the whole takeaway. Liking the work is allowed. Skipping the shutdown is how like becomes a yoke. Supper getting cold is a board you didn't ask for.
+
+WES: Let somebody who loves you see the face. Don't make them sit in a driveway to get a vote. I still don't know if he has kids. I can live without knowing a week longer. Knowing can be another kind of taking. A sandwich is enough. Tomorrow I knock if the lot has the truck. If it doesn't, I won't invent a reason. Eat. Talk about a bad bullpen. Go inside.
+
+JONATHON: Wednesday the door was unlocked before I got there. Thursday he said you don't have to do this. Short. Not friendly. You said I know. It's air-conditioned. No laugh. Back to the bullpen. I won't tell the thirty-one-year-old what to do with his days. I'll ask if he booked the three. Ask isn't a bar chart. If I skip the console Friday, my face will tell on me. Let her see it. Don't make her sit in a driveway to get a vote I already owe her.
+
+---
 
 ## CLOSE (word for word)
 

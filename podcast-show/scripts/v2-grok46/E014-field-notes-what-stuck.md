@@ -5,9 +5,9 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 1,901 (about 12:40 at 150 wpm, before laughs and pauses) |
+| Spoken words | 1,926 (about 12:50 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 21 lines (55% of words). JONATHON 17 lines (45% of words), 0 under 12 words (0.0%) |
+| Line balance | WES 23 lines (54% of words). JONATHON 19 lines (46% of words), 1 under 12 words (5.3%) |
 | Focus mark | Work for God's Pay |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Luke 16:10. Board only: Matthew 25:21; Proverbs 20:6 |
 | Board cues | 5 (none repeats spoken words) |
@@ -48,7 +48,11 @@ WES: Let's take the next few minutes on the receipt we won't read out loud, and 
 
 JONATHON: I did mine. I got as far as naming the day at supper and Dani cut me off, which is how I know I was about to turn it into a plaque. She has heard this show enough to know when I'm about to collect. I wrote back to my nephew instead, because he texted "did it. not telling." and then a minute later, "is that right". I wrote, "That's right." That's the single check. A twenty-two-year-old understood the assignment better than I did at thirty-six.
 
-WES: That's a good text. I want that to be the culture of this table. One man. Not the room. Now the will, because that one we can say. I've watched men hide a finished thing because they want a bigger audience, and I've watched men hide an unfinished thing because they want to look further along. Both hides are the same hunger. The will is the finished kind. Say it. The hidden thing is the other kind. Don't say it. Knowing the difference is part of becoming a man. That's the whole look-back in one rule.
+WES: That's a good text. Can I ask you something before the will? Were you actually going to name the hidden thing at supper, or did Dani save you from a plaque?
+
+JONATHON: I was going to name the day. That's already a plaque. She heard it coming. That's how I know she listens to this show better than I do.
+
+WES: Good. One man. Not the room. Now the will, because that one we can say. I've watched men hide a finished thing because they want a bigger audience, and I've watched men hide an unfinished thing because they want to look further along. Both hides are the same hunger. The will is the finished kind. Say it. The hidden thing is the other kind. Don't say it.
 
 JONATHON: Thursday morning, ten o'clock, we signed at the lawyer's office at church. Dani signed faster than I did. I sat there with a pen and I thought about the pie and the dashboard light and the three years I drove around it. Then it was done. She said, "I want tacos." We ate tacos at eleven in the truck. I've never been happier about a boring hour and a greasy bag. Tacos after a will. That's a Friday I can keep.
 
@@ -64,15 +68,15 @@ WES: I remember the yellow stickers. I remember not knowing who was on mine unti
 
 ## SEGMENT 2 · What stuck
 
-WES: We're about halfway, and I want a clean list. What stuck in your house, and what did not. You first.
+WES: We're about halfway, and I want a clean list. What stuck in your house, and what did not? You first. Don't give me the pretty version.
 
 JONATHON: The phone off the table at supper stuck. Most nights. Ruby enforces it with a basket she labeled PHONE JAIL. She is seven and she is the sheriff. If I reach, she looks at me like I reached for a drink I quit. The coffee made before Dani gets home stuck, decaf now, because she wrote it on the note and I finally listened. What did not stick is the ten minutes in the morning. I tried to give God ten minutes before the email. I did it nine times in three weeks. The other mornings I opened the leaderboard in my head even after I moved the email. I want that on the record so nobody thinks I became a monk.
 
 WES: Asking before deciding stuck. I asked Mom what she wanted. I asked my wife about the diner. I'm slower now, and it's better. Tuesday PT with Mom stuck. We're side by side on those little tables and she still counts my reps. What did not stick is the clicking ceiling fan in the youngest's room. It has been clicking since winter and I keep saying I'll get to it. I said that about a lot of things before. I'm putting a date on this one. Saturday the twenty-seventh if I can get my son-in-law, and if not, March first. I'm saying it here so I can't turn it into weather.
 
-JONATHON: So the fan is your dashboard light now. Not a mystery. A date. Yeah, and— it's still clicking tonight. I'll text you Thursday and ask if you bought the part.
+JONATHON: So the fan is your dashboard light now. Not a mystery. A date. Yeah, and— it's still clicking tonight. Wait, back up. Are you actually buying the part this week, or are you dating a click so it sounds like a plan?
 
-WES: Text me. I've been answering "K" when you ask "Did you do it?" and "K" isn't an answer. I have answered "K" twice since January, which is me hiding inside a letter again. Next Thursday I will write a sentence.
+WES: I'm buying the part. Saturday the twenty-seventh if I can get my son-in-law. Text me Thursday. I've been answering "K" when you ask "Did you do it?" and "K" isn't an answer. I have answered "K" twice since January, which is me hiding inside a letter again. Next Thursday I will write a sentence.
 
 [BOARD: K is not a sentence. Write a sentence.]
 
@@ -92,7 +96,11 @@ JONATHON: "Whoever can be trusted with very little can also be trusted with much
 
 WES: We've talked about sentences and weights and going first and cheap prizes. The little thing is still how you know if any of it is real. A man can love a big idea and cheat a small Tuesday. I don't want us to be those men. I can feel myself wanting Season Two to be a fresh start so I can drop the fan and the Thursday sentence. That's how I got fourteen months of delay on other things in this house. A new season isn't a reset button. It's more Tuesdays. The click will still be there in March if I don't get on a ladder.
 
-JONATHON: I'll be real with you, I want a new idea because a new idea would let me restart. Yeah, and— a review doesn't let you restart. It asks what you actually kept. I kept the basket. I dropped the morning ten. I signed the will. I still haven't finished October with Dani. Started is still the honest word on that one.
+JONATHON: I'll be real with you. I want a new idea because a new idea would let me restart. Can a review even let you restart, or does it just ask what you kept?
+
+WES: It asks what you kept. A new season isn't a reset button. It's more Tuesdays.
+
+JONATHON: Then I kept the basket. I dropped the morning ten. I signed the will. I still haven't finished October with Dani. Started is still the honest word on that one.
 
 WES: Started is allowed. Lying about started isn't. If it's not finished, say so. Then put a date on the next inch.
 
@@ -102,15 +110,15 @@ WES: Started is allowed. Lying about started isn't. If it's not finished, say so
 
 ## SEGMENT 4 · One thing to keep
 
-WES: Last few minutes. Each of us keeps one thing. Not five. One. You first.
+WES: Last few minutes. Each of us keeps one thing. Not five. One. What are you actually keeping, not what sounded good on a Tuesday?
 
-JONATHON: Supper with the phone in jail. That's the one. If I keep that, Ruby keeps seeing a dad who can be in a room. If I drop that, the rest is talk. I can lose the morning ten and still be a man at six-fifteen. I can't lose the table and call this a life.
+JONATHON: Supper with the phone in jail. That's the one. If I keep that, Ruby keeps seeing a dad who can be in a room. If I drop that, the rest is talk. I can lose the morning ten and still be a man at six-fifteen. I can't lose the table and call this a life. What are you keeping? And don't say five things with the fan as a picture.
 
-WES: I'm keeping the fan date, and I'm keeping the asking. I won't decide Mom's life in a hallway. I won't decide my son's job from articles. I will ask, and then I will do the small thing I said I would do. The fan is the picture. It clicks every night and everybody in that room hears that I haven't gotten to it. That's enough sermon. My youngest has started timing the click. He thinks it's funny. It's not funny. It's a metronome of I'll get to it. I'm done letting a ceiling preach in my house.
+WES: [laughs] Fair. The fan date. And the asking. I won't decide Mom's life in a hallway. I won't decide my son's job from articles. My youngest has started timing the click. He thinks it's funny. It's not funny. It's a metronome of I'll get to it. I'm done letting a ceiling preach in my house.
 
-JONATHON: From the table, the question this week is, what do we keep doing from these first weeks? Not what sounded good. What stayed. If nothing stayed, pick one little thing and start it tonight. Don't wait for a new season to become a different man.
+JONATHON: That's fair, but— if nothing stayed in his house, what does he do tonight? Because a season-one look-back can turn into a trophy if we let it.
 
-WES: If you live alone, your one thing might be the Thursday text. Send it to a brother. Ask him what he did. Then answer his. Two men, two sentences, every Thursday. That's a church that fits in a pocket. Don't wait until you have a table full of kids to need a brother. You need one now. The empty apartment isn't a reason to skip the text. It's the reason.
+WES: If nothing stayed, pick one little thing and start it tonight. Don't wait for a new season to become a different man. If you live alone, your one thing might be the Thursday text. Send it to a brother. Ask him what he did. Then answer his. Two men, two sentences, every Thursday. That's a church that fits in a pocket.
 
 [BOARD: Keep one small thing. Drop the rest of the speech.]
 
@@ -124,9 +132,9 @@ JONATHON: I'll write "PHONE JAIL" on mine, which is already written, because Rub
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. Keep one little thing. Tell one man. Write a real sentence, not a single letter.
+WES: Carry this. Keep one little thing. Tell one man. Write a real sentence, not a letter.
 
-JONATHON: And if the hidden thing stayed hidden, good. Don't ruin it by explaining it.
+JONATHON: And if the hidden thing stayed hidden, good. Don't ruin it.
 
 WES: Tuesday we start looking inside. Until then: one thing to keep. One honest Thursday text.
 

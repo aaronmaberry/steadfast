@@ -2,7 +2,7 @@
 
 Walk Steadfast · launch episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (4,968 spoken words, about 33:07). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (4,965 spoken words, about 33:06). Re-time them against the final edit before publishing.
 
 ---
 
@@ -48,9 +48,9 @@ Christian men podcast, faith and masculinity, Walk Steadfast, Tuesday faith, 1 C
 | 19:42 | The Word | 1 Corinthians 13:11 and Luke 16:10. You put something down. Tuesday is the very little. |
 | 23:20 | Pushback | Rest versus hiding. Do the big days count? |
 | 26:15 | Who else is in the chair | The twenty-two-year-old. The man who is great at work. |
-| 28:19 | What we actually did | Phone in the console, three of five. A tractor video. Theo flooded the bathroom. |
-| 30:36 | This week's challenge | One meal, no phone. One question. Text one man. Friday is the first check. |
-| 32:37 | Close | You put something down on a Tuesday. Take the direct route home. |
+| 28:21 | What we actually did | Phone in the console, three of five. A tractor video. Theo flooded the bathroom. |
+| 30:38 | This week's challenge | One meal, no phone. One question. Text one man. Friday is the first check. |
+| 32:39 | Close | You put something down on a Tuesday. Take the direct route home. |
 
 ---
 

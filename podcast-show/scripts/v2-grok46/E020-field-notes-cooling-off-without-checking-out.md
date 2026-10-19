@@ -5,9 +5,9 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 1,974 (about 13:10 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,177 (about 14:31 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 24 lines (57% of words). JONATHON 20 lines (43% of words), 0 under 12 words (0.0%) |
+| Line balance | WES 28 lines (57% of words). JONATHON 23 lines (43% of words), 0 under 12 words (0.0%) |
 | Focus mark | Pick Up the Weight |
 | Scripture (NIV, verified 2026-10-19) | Spoken: James 1:19. Board only: Proverbs 15:1; Proverbs 29:11 |
 | Board cues | 5 (none repeats spoken words) |
@@ -62,7 +62,9 @@ WES: That's a good third line. Most men will confess the email and hide the spre
 
 JONATHON: Most men will hide the spreadsheet. Yeah. That's why I said the third one out loud, even though it made me look dumb about money.
 
-JONATHON: I also used the twenty-minute rule twice. Once I sat in the truck and scrolled, which is the old way, the check-out way. Once I set a timer, walked to the end of the driveway, and came back and said the sentence. Dani used to follow me to the garage for about a year.
+WES: [laughs] She laughed, not mean. Would you have said it if she'd been coming off nights?
+
+JONATHON: I don't know. I said it because the cell had become a courtroom. Then I used the twenty-minute rule twice. Once I sat in the truck and scrolled, which is the old way, the check-out way. Once I set a timer, walked to the end of the driveway, and came back and said the sentence. Dani used to follow me to the garage for about a year.
 WES: Dani followed you to the garage for about a year. [beat] Garage arguments. Those are the worst ones. Why?
 JONATHON: She said garage arguments are the worst arguments. Echoey. You sound bigger than you are, and you can't see her face. So the rule is: cool off without disappearing. Twenty minutes. Then you come back into the same room. You don't get a new night. You don't get the recliner and a screen.
 
@@ -70,9 +72,9 @@ JONATHON: She said garage arguments are the worst arguments. Echoey. You sound b
 
 WES: My little brother's birthday was yesterday. March eleventh. I mailed the card on the tenth, so it will be two days late, and I called him on the day. First birthday call in about twenty years. He answered, "Is Mom okay?" That's what a call from me has meant. I said Mom is okay, and happy birthday, and I was sorry it had been twenty years of silence dressed up as being busy. He was quiet. Then he said thanks, and we talked about a leak at his place in Fort Worth for ten minutes. It wasn't a movie. It was a start. I told him I would call again. He said, "Okay. Don't make it a thing." I will call anyway.
 
-JONATHON: "Don't make it a thing" is becoming the sentence of this season. The VP said it. Now your brother. The room keeps shrugging and the work is still to say it.
+JONATHON: "Don't make it a thing" is becoming the sentence of this season. The VP said it. Now your brother. Are you actually going to call again, or was the birthday the plaque?
 
-WES: Single check. My oldest wrote, "foreman yelled. guarding: scared i'm not good at this." First time he has said the word scared to me since he was about nine. I wrote back, "same. knees yesterday." He sent a thumbs-up, which from him is a paragraph. I will take it.
+WES: I'll call anyway. He said don't make it a thing. I will make it a call. Single check. My oldest wrote, "foreman yelled. guarding: scared i'm not good at this." First time he has said the word scared to me since he was about nine. I wrote back, "same. knees yesterday." He sent a thumbs-up, which from him is a paragraph. I will take it.
 
 ---
 
@@ -96,11 +98,15 @@ WES: If you live alone, the return is a text to a brother, or a walk around the 
 
 WES: We've got a little under eight minutes, and I want one verse we can walk. James one, verse nineteen.
 
-JONATHON: This is the one I need on a card in the truck, because my mouth is faster than my ears and my ears are faster than my feet.
+JONATHON: This is the one I need on a card in the truck, because my mouth is faster than my ears and my ears are faster than my feet. Do you actually hear "slow to speak" as stay in the room, or as go ice-cold until Thursday?
 
-WES: "My dear brothers and sisters, take note of this: Everyone should be quick to listen, slow to speak and slow to become angry." Quick, slow, slow. That's a pace, not a personality. You can be a sales guy and still take the first twenty seconds to hear her. You can be a quiet man and still be slow to the ice. Anger is last in the line on purpose.
+WES: Stay in the room. Ice until Thursday is gone, not slow. "My dear brothers and sisters, take note of this: Everyone should be quick to listen, slow to speak and slow to become angry." Quick, slow, slow. That's a pace, not a personality. You can be a sales guy and still take the first twenty seconds to hear her. You can be a quiet man and still be slow to the ice. Anger is last in the line on purpose.
 
 JONATHON: I've used slow to speak as an excuse to go ice-cold. That's not slow. That's gone. Slow means I'm still in the room, still looking at her, still going to say the smaller word when the heat drops. Gone means I win by absence.
+
+WES: No, hold on. Gone means you win by absence. Is that still how a sales week works when a rep gets a rude email, or only how the garage used to work?
+
+JONATHON: Both. The garage was the old way. The email was this week. I didn't send the reply. I called the rep. That's the return.
 
 WES: Gone is checking out. We're not blessing gone. We're blessing twenty minutes with a return. If you can't come back yet, say, "I need twenty. I will be back." Then be back. A man who says twenty and stays gone for two hours has lied. Put the lie on the list next to the juice box.
 
@@ -112,15 +118,23 @@ WES: Gone is checking out. We're not blessing gone. We're blessing twenty minute
 
 WES: Last few minutes on the tool. Twenty minutes. You may leave the room. You tell her you're leaving and when you will be back. You don't take the fight to the garage to win it louder. You don't take the phone to load a better case. You walk. You name what it's guarding, out loud, even if only God hears it. Then you come back and you say the smaller word. Scared. Late. Dumb about money. Hurt. Then you stop. No because. If she needs more, she can ask. If you need a counselor, you call one this week, not after a nicer month.
 
-JONATHON: We got this from a counselor in year three, when I was still the man who left and she was still the woman who followed. It felt stupid. It felt like a kitchen timer for grown people. It's the reason we still have a kitchen. I set an actual timer now, because I will negotiate nineteen into forty. The beep isn't spiritual. The beep is kind. I come back on the beep even if I don't feel finished. Feelings aren't the door. The door is the door.
+JONATHON: We got this from a counselor in year three, when I was still the man who left and she was still the woman who followed. It felt stupid. It felt like a kitchen timer for grown people. It's the reason we still have a kitchen. I set an actual timer now, because I will negotiate nineteen into forty. Does that sound like a kitchen timer for grown people if I say it that way?
+
+WES: [laughs] It sounds like a man who knows his calendar. Put twenty on a Tuesday that already has a meeting.
+
+JONATHON: The beep isn't spiritual. The beep is kind. I come back on the beep even if I don't feel finished. Feelings aren't the door. The door is the door.
 
 WES: If the anger is the kind that might put hands on somebody, you don't take twenty in the same house. You leave, you call a brother, you get help today. This rule is for juice boxes and spreadsheets and knees. It's not a stall for danger. Danger gets a bigger fence and a phone call.
 
-JONATHON: I told my nephew the rule by text. He wrote, "twenty minutes of what." I wrote, "walk, name the fear, come back, say the small word." He wrote, "ok. roommate just ate my leftovers. starting now." I don't know how that ended. I know he started. That's more than I did at twenty-two.
+JONATHON: I told my nephew the rule by text. He wrote, "twenty minutes of what." I wrote, "walk, name the fear, come back, say the small word." He wrote, "ok. roommate just ate my leftovers. starting now." I don't know how that ended. I know he started. That's more than I did at twenty-two. What did you do at twenty-two besides disappear?
+
+WES: I disappeared into being useful. Knees. A lot. A title. That's why the timer still has to beep for me.
 
 [BOARD: Proverbs 29:11 (NIV) · "Fools give full vent to their rage, but the wise bring calm in the end."]
 
 WES: Tuesday we talk about the itch and the drift, screens and wandering, the other way a man leaves a room without raising his voice. Until then, twenty minutes and a return. Write the three lines. Say one of them out loud. If you can't say it to a person, say it to God and then text one man. My son said scared. I can still see the word. I want that word in more kitchens.
+
+JONATHON: Three lines. One of them out loud. Mine is still the spreadsheet. That's the one that makes my stomach tight.
 
 [BOARD: Use a timer. Reenter. Name the fear.]
 
@@ -128,12 +142,12 @@ WES: Tuesday we talk about the itch and the drift, screens and wandering, the ot
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. Cool off. Don't check out. Twenty minutes, then the same room.
+WES: Carry this. Cool off. Don't check out. Twenty minutes, then the same room.
 
 JONATHON: And if the heat bought tires, keep it long enough to finish. If it bought a speech, let the sun go down on it.
 
 WES: Tuesday we name the itch. Until then: walk, name, return, say the small word.
 
-JONATHON: Then go set a timer, and tell us how it went at walksteadfast.com, and find us everywhere at @steadfastwalk.
+JONATHON: Go set a timer, then tell us at walksteadfast.com, and find us at @steadfastwalk.
 
 [STING 2s]

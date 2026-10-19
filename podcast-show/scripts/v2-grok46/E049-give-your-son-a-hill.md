@@ -5,9 +5,9 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,828 (about 18:51 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,801 (about 18:40 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 35 lines (55% of words). JONATHON 34 lines (45% of words), 1 under 12 words (2.9%) |
+| Line balance | WES 36 lines (56% of words). JONATHON 35 lines (44% of words), 4 under 12 words (11.4%) |
 | Focus mark | Go First |
 | Scripture (NIV, verified 2026-10-19) | Spoken: 1 Thessalonians 2:11-12. Board only: 1 Corinthians 16:13 |
 | Board cues | 4 (none repeats spoken words) |
@@ -68,7 +68,7 @@ WES: She said no, you're not. He's sixteen. He has never run one. I said Dad had
 
 ## SEGMENT 3 · The Word
 
-WES: First Thessalonians two, eleven and twelve. A father who does more than name a boy.
+WES: First Thessalonians two, eleven and twelve. A father who does more than name a boy. You want to read it?
 
 JONATHON: "For you know that we dealt with each of you as a father deals with his own children, encouraging, comforting and urging you to live lives worthy of God, who calls you into his kingdom and glory."
 
@@ -89,7 +89,19 @@ WES: Good. A hill can be shoes. A hill can be a slope. A hill can be a Saturday 
 
 JONATHON: My go-first is yes to the church men's Saturday repair work. Ramps. Rails. I had said let me check with Dani three times. I said yes. I'm taking Ruby, and Theo with a box of screws. If I only watch I will still be a man who talks about hills. If I hand a screw I'm on one.
 
-WES: Last few minutes. If your son only wants games, you still give him a Saturday that's real. We will talk about the cord and the router Friday. Today I want a hill with dirt or Velcro on it. Don't skip dirt because a screen is louder.
+WES: Last few minutes. If your son only wants games, you still give him a Saturday that's real. What hill are you actually naming?
+
+JONATHON: Screws. A coffee can. If I name three I'll do none.
+
+WES: I would unplug a console for a summer if I were scared enough. We're unresolved on the closet. Agreed on Saturday. I can live with unresolved if Saturday is dated. I still owe a young man a name and a Thursday hello. He didn't want the car. I still owe the hello.
+
+JONATHON: That's fair, but a fence isn't a creek. Don't confuse a password with dirt.
+
+WES: A fence can help. A hill is a Saturday that gets better when you work at it. Courage isn't a confiscation. Courage is sitting down. I stood in a shop door like a man at a museum once already this week, and I'm not going to do it on his hill. He files. I stay. Night is the right word. I'm practicing night.
+
+JONATHON: And the jamb?
+
+WES: The plane still hasn't moved on my back door. That's a different hill I keep walking around. His hill is cedar. Mine is a jamb I lift and shove. I don't get to use his Saturday as a way to skip mine. Date both. That's the report I want on the table this week. We will talk about the cord and the router Friday. Today I want a hill with dirt or Velcro on it. Don't skip dirt because a screen is louder.
 
 JONATHON: I won't answer the Father's Day text this week. I will sit on the floor for shoes. I will go on Saturday with a box of screws. If I stack a reply to Louisiana on top of that I will drop the screws. I'm not dropping the screws.
 
@@ -98,7 +110,7 @@ JONATHON: I won't answer the Father's Day text this week. I will sit on the floo
 
 ## SEGMENT 5 · This week's challenge
 
-WES: Name one hill. Put a younger man on it. Be there. Don't take over. If you were wrong about the hill, listen, and stay anyway. My young man didn't want a car. I still owe him a name and a Thursday hello.
+WES: Name one hill. Put a younger man on it. Be there. Don't take over. If you were wrong about the hill, listen, and stay anyway. My young man didn't want a car. I still owe him a name and a Thursday hello. I can still smell the cedar. Green. Sticky. Years is a good answer. Don't skip dirt because a screen is louder. Stay with him.
 
 JONATHON: If you have no son, take a nephew or a boy with a box of screws. If you have a four-year-old, the hill may be shoes. If you have a sixteen-year-old, it may be cedar and a helmet your wife still hates. Don't hide behind the perfect hill.
 
@@ -120,67 +132,59 @@ JONATHON: I'll set a Saturday alarm and put screws in a coffee can. If Theo drop
 
 ## SEGMENT · Sitting with it
 
-WES: I've watched men collect hill stories like this and never stay down there with him. Don't be that man this week. Name one hill. Put a younger man on it. Then tell one person you did, because a secret slope turns back into a mood by Thursday.
+WES: I keep wanting to send a man home with the perfect hill. There isn't one. Be there. Don't take over.
 
-JONATHON: I'm the man who collects stories. I've got a notes app and a crunchy sock. The only ones that count are the ones that got a Saturday alarm and a coffee can.
+JONATHON: Wait, back up. Are you talking about me and minute two, or the guy who hides because he has no son?
 
-WES: I want the listener who thinks this doesn't apply because he has no son. Then take a nephew or a boy with a box of screws. Quiet isn't settled. You already know that if you've sat through a polite holiday and called it peace.
+WES: Both. You wanted to tie the shoes at minute two. Minute nine was the work. Are you staying on the floor, or taking over because a nine o'clock call feels like death?
 
-JONATHON: My house can be loud and still be a cease-fire. Volume isn't the test. The test is whether I stay at minute nine, not whether I can tell you about cedar.
+JONATHON: I'm staying. I used the call as death on Monday. I'm not proud of it. Can I ask you something hard?
 
-WES: I'll check Saturday, which is the only reason I trust myself. A public calendar is a kind of mercy for a man who likes his recliner and likes to call the recliner wisdom. I still owe a young man a name and a Thursday hello. He didn't want the car. I still owe the hello.
+WES: Go.
 
-JONATHON: I'll hold you to the hello, and I want somebody holding me to the coffee can. That's why I say Saturday out loud even when it makes me look late. Looking late is better than looking helpful and taking over.
+JONATHON: Are you bringing him back Saturday, or making August at the creek a speech so you can skip the cedar?
 
-WES: A steadfast man does the small thing while it's still small. For me that's not taking the file. For you that's not tying the shoes at minute two. We forget it by Wednesday and start waiting to feel ready.
+WES: [beat] I'll bring him back. Water is the speech. Years is the honest word. Crush it in a month is a stunt. What are you actually dating?
 
-JONATHON: I forget it by Tuesday afternoon. Ruby doesn't. She has a better memory for what I said I'd do than any review I've ever run, and she doesn't care that I had a nine o'clock call.
+JONATHON: A Saturday alarm. Screws in a coffee can. If Theo drops them, we pick them up. If I pick three I'll do none. One coffee can.
 
-WES: If this feels like too many stories, pick one. One hill. One pair of shoes. One Saturday. That's enough weight for seven days.
+WES: That's fair, but— no, don't take the Velcro unless the call is truly life or death.
 
-JONATHON: I'll pick the screws. If I pick three I'll do none. One coffee can is how a man like me gets free of his own notes app.
+JONATHON: [laughs] A nine o'clock call isn't death. Will you stop me if I skip because a call appears and then tell a story about almost?
 
-WES: I've got a habit of saving the true sentence for a better room. There is no better room. The shop is the room. The lot with the dropped screws is the room. The creek in August is the room. Say it there.
+WES: I'll stop you. Almost is your favorite lie. You stop me if I take the file. I stood in a shop door like a man at a museum. He was the work. I wanted to be the exhibit.
 
-JONATHON: I've rehearsed in better rooms my whole adult life. The rehearsal is how I stay safe. Dani can hear the difference between a hill and a stunt. She stops me when I start handing people a slope before they're on it.
+JONATHON: No, hold on. You've got a plane and a story, and he has a vise and a file. Which one actually got used?
 
-WES: Some of you will try to make this spiritual so you don't have to be specific. Prayer is good. A hill and a date is still required. Don't baptize delay and call it discernment. Years is the honest word. Crush it in a month is a stunt.
+WES: [laughs] His. The plane hasn't moved. The back door still sticks. June heat. I lift and shove. His hill is cedar. Mine is a jamb I keep walking around. I don't get to use his Saturday to skip mine. Are you still saying bud in the hallway?
 
-JONATHON: I've baptized delay. I've called it being careful. Careful is sometimes fear with a pressed shirt. Doing the shoes at minute two was a pressed shirt. Minute nine is the road.
+JONATHON: Twice at seven-thirty. Theo catches it. I want to be catchable. Dani asked what time Saturday because she needs the car. That's a woman who believes I might actually go.
 
-WES: The man who says he'll start after the busy season is lying to himself the same way I did hiding behind the perfect hill. There is always another season. Put him on a slope inside the busy, or you never will.
+WES: Good. Date both. His Saturday. My jamb. Don't hide behind the perfect hill. He didn't want the car. I still owe a Thursday hello.
 
-JONATHON: HVAC sales doesn't hand you a quiet Saturday. If I wait for one I'll still be waiting when Theo has a license. I've got to put the coffee can on a morning that already has a meeting.
+JONATHON: Then I put the coffee can on a morning that already has a meeting. Does that sound like I'm making a quota out of dirt?
 
-## SEGMENT · Sitting with it
+WES: [laughs] It sounds like a man who knows his calendar. Put him on a slope inside the busy, or you never will.
 
-WES: I don't need you to feel ready. I need you to stay. Ready is a feeling. A dull chain is a clock. I've trusted the feeling too long, and it has made me late to a boy who asked about years.
+JONATHON: What are you picking, for real?
 
-JONATHON: I wait for ready like it's a weather window. Then the window closes and I tell a funny story about almost staying. I don't want another funny story. I want a clumsy Saturday that landed.
+WES: Cedar. Next Saturday. Don't take over. Night is the right word. I'm practicing night.
 
-WES: Name one hill. Put a younger man on it. Be there. Don't take over. If you were wrong about the hill, listen, and stay anyway. My young man didn't want a car. I still owe him a name and a Thursday hello.
+JONATHON: The floor. Minute nine. That's the whole takeaway. Give him a hill. Be there. Don't take over. A hill with nobody on it is a slogan you were handed at nine.
 
-JONATHON: If you have no son, take a nephew or a boy with a box of screws. If you have a four-year-old, the hill may be shoes. If you have a sixteen-year-old, it may be cedar and a helmet your wife still hates. Don't hide behind the perfect hill.
+WES: I can still smell the cedar. Green. Sticky. A boy asking about years. I'm taking years.
 
-WES: I can still smell the cedar. Green. Sticky. A boy asking about years. Years is a good answer. I wanted to say we'll crush it in a month. Years is how a hill stays a hill instead of becoming a stunt.
+JONATHON: You too, bud. First time in twenty-eight years he called me a dad. If I answer I start a conversation I haven't chosen. I sent two words. He sent three. That's enough for a Sunday. Ruby's card for Grandpa in Louisiana is half done on the counter. I left it. I'm still mad. Not yet is still not yet. The nephew hung up. Why are you doing this to me on a Saturday. Ten minutes later the roommate said that was nice. Don't make it weird. I said okay. That's a blessing that didn't feel like a movie. It still landed in a roommate's mouth. Did I make it weird?
 
-JONATHON: I can still feel the crunchy sock. I wanted to do it for him at minute two. Minute nine was the work. I'm trying to love minute nine. It feels like I'm late to everything. I may just be on time for him.
+WES: You didn't. You said okay. My daughter said you're the best dad, Daddy. I said only thank you, baby. She went on about tomatoes. Something is eating them. I wanted a parade. I got tomatoes. I'm taking tomatoes. I would unplug a console for a summer if I were scared enough. He said that's easy to say with a brother who has a slope of cedar. We're unresolved on the closet. Agreed on Saturday. A fence can help. A hill is a Saturday that gets better when you work at it. I don't want us to confuse a password with a creek.
 
-WES: I'll bring him back next Saturday. I won't make August at the creek a speech. Water is the speech. I've finally learned that from a man who is dead and a brother who says years.
+JONATHON: I can be strong about other people's sons and soft about my own floor. I want the verse in my hallway at seven-thirty, not in a speech about screens. If you have a four-year-old, the hill may be shoes. If you have a sixteen-year-old, it may be cedar and a helmet your wife still hates. Don't hide behind the perfect hill. I still feel the crunchy sock. I wanted to do it for him at minute two. Minute nine was the work. I may just be on time for him.
 
-JONATHON: I'll set a Saturday alarm and put screws in a coffee can. If Theo drops them, we'll pick them up. That's also a hill. Picking up what you dropped in a lot.
+WES: I'll bring him back next Saturday. I won't make August at the creek a speech. Water is the speech. I learned that from a man who is dead and a brother who says years. Name one hill. Put a younger man on it. Be there. Don't take over. If you were wrong about the hill, listen, and stay anyway. He didn't want a car. I still owe the hello.
 
-WES: A fence can help. A hill is a Saturday that gets better when you work at it. I don't want us to confuse a password with a creek. Courage isn't a confiscation. Courage is sitting down.
+JONATHON: If I skip because a call appears, I'll tell you I skipped. I won't tell you a story about almost. A boy with a box of screws is a hill. Picking up what you dropped in a lot is a hill. I'm setting the alarm.
 
-JONATHON: I can be strong about other people's sons and soft about my own floor. I want the verse in my hallway at seven-thirty, not in a speech about screens. The hallway is where I said bud twice. That's the field.
-
-WES: I stood in a shop door like a man at a museum once already this week, and I'm not going to do it on his hill. He files. I stay. Night is the right word. I'm practicing night.
-
-JONATHON: Your boy has a vise and a file. You have a plane and a story. I'll ask which one actually got used. Then I'll go back to the Velcro and try not to take over at minute two.
-
-WES: The plane still hasn't moved on my back door. That's a different hill I keep walking around. His hill is cedar. Mine is a jamb I lift and shove. I don't get to use his Saturday as a way to skip mine.
-
-JONATHON: Then date both. His Saturday. Your jamb. If I skip because a call appears, I'll tell you I skipped. I won't tell you a story about almost. Almost is my favorite lie.
+---
 
 ## CLOSE (word for word)
 

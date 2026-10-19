@@ -5,9 +5,9 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,872 (about 19:09 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,984 (about 19:54 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 30 lines (55% of words). JONATHON 28 lines (45% of words), 1 under 12 words (3.6%) |
+| Line balance | WES 30 lines (54% of words). JONATHON 28 lines (46% of words), 1 under 12 words (3.6%) |
 | Focus mark | Stop Waiting |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Proverbs 4:23. Board only: Psalm 139:23 |
 | Board cues | 5 (none repeats spoken words) |
@@ -47,8 +47,8 @@ JONATHON: And I'll tell you why Dani's dad has been in the room her whole life a
 WES: Let's take the next few minutes on the text, because a young man went first and he gave you permission to tell it without his name.
 
 JONATHON: He's twenty-two. My sister's son. He checks in by text. Thursday, 1:14 a.m., "how do you stop." Porn since he was thirteen. Worse when he's lonely. Better since he started texting me on Sundays instead of disappearing. Then a bad week. I called at 1:15 and I listened for an hour. I said, "I've been there. Longer than you'd guess." That's all I say at this table. Dani knows the rest.
-WES: You said you've been there. [beat] Longer than he'd guess. That's a heavy sentence to put on a 1:14 call.
-JONATHON: The plan: he told the roommate he trusts the whole truth on Friday. I text him Thursdays. He's on day five. I told him he will probably slip. We will see. He said I could tell it if I left his name off. So I left his name off.
+WES: You said you've been there. [beat] Longer than he'd guess. That's a heavy sentence to put on a 1:14 call. Did he flinch when you said it?
+JONATHON: He went quiet. Then he told the roommate he trusts the whole truth on Friday. I text him Thursdays. He's on day five. I told him he will probably slip. We will see. He said I could tell it if I left his name off. So I left his name off.
 
 WES: That's a brave text from a young man and a brave hour from you. You didn't send a sermon at 1:14. You picked up. Most of us would have written "we'll talk tomorrow" and gone back to sleep and called that wisdom.
 
@@ -73,12 +73,12 @@ WES: Mine is quieter and I've done it longer. Evenings, eight to ten. Tractor-re
 JONATHON: The fog is a clean name. I don't have one that good. Mine is "just checking." That's a lie in three syllables. What did you do after she said it?
 
 WES: I put the phone on the fridge. I went to the back porch for twenty minutes. No phone. She talked about her sister. I listened the first night like a man taking a test. The second night I asked a question I didn't already have the answer to.
-JONATHON: You asked a question you didn't already have the answer to. Hold on. That's the night I would have failed the test.
-WES: The third night she fell asleep in the chair. I sat there and I watched the dark and I didn't open the radar. The radar is useless in the dark anyway. I just wanted a thing I could refresh. Refresh is how I leave a room without standing up.
+JONATHON: You asked a question you didn't already have the answer to. Wait, back up. That's the night I would have failed the test. Did you actually not know, or did you already have a safer question in your pocket?
+WES: I didn't know. That's why it counted. The third night she fell asleep in the chair. I sat there and I watched the dark and I didn't open the radar. The radar is useless in the dark anyway. I just wanted a thing I could refresh. Refresh is how I leave a room without standing up.
 
 JONATHON: Dani's dad is seventy-four. Thirty years of golf on TV with the sound low. When we were dating she said, "My dad's been in the room my whole life, and I don't know him. I'm marrying you because you talk." Last Christmas he asked Ruby to teach him a card game.
-WES: He asked Ruby to teach him a card game. [beat] Late. You said you don't want to become the golf with the sound low.
-JONATHON: He's trying, late. I don't want to become the golf with the sound low. I can feel the itch in my thumb at supper. Ruby still has the basket. Some nights I still reach.
+WES: He asked Ruby to teach him a card game. [beat] Late. Are you actually going to be the man who talks at supper, or is the basket doing the work?
+JONATHON: That's fair, but— the basket is a fence, not a personality. I don't want to become the golf with the sound low. I can feel the itch in my thumb at supper. Ruby still has the basket. Some nights I still reach.
 
 WES: The fan is done. The house job now is the back door. Still sticks. I still have to lift it to get to that porch. The other I'll-get-to-it is a glass I can hold in a chair while a woman talks about her sister. I won't let a radar become fourteen months. I told my youngest I'm on the porch after supper this week. He said, "Can I come." I said yes, some nights. A sixteen-year-old on a porch is better than a radar I already know.
 
@@ -94,7 +94,7 @@ JONATHON: Say the word. Then don't punish her for saying it. I would have gotten
 
 WES: We're about halfway, and I want the Bible open, because the heart is the well, not the screen. Proverbs four, verse twenty-three.
 
-JONATHON: I've used guard your heart as a reason to hide. That's not what it means. Hiding is how I got a third screen and a couch nobody sits on.
+JONATHON: I've used guard your heart as a reason to hide. That's not what it means. Hiding is how I got a third screen and a couch nobody sits on. So which is it? Guard the spring, or hide until you look clean?
 
 WES: "Above all else, guard your heart, for everything you do flows from it." The heart isn't a mood. It's the spring. If the spring is a radar and a late video and a lonely apartment, the week will taste like that. Guarding isn't a lock and a secret. Guarding is a porch, a brother, a basket, a number on the fridge. Paul already told us not to let the sun go down on anger. This is the quieter twin. Don't let the sun go down on a drift you won't name.
 
@@ -110,15 +110,15 @@ JONATHON: I told Dani the verse this week and she said, "Then stop refreshing th
 
 ## SEGMENT 4 · Pushback
 
-WES: Keep pushing.
+WES: Keep pushing. Go ahead.
 
-JONATHON: A man is going to hear porn and radar and think we just made a list of bad hobbies. His wife wants him to rest. A video about a tractor isn't a crime. Draw the line.
+JONATHON: Yeah, here's my problem. A man is going to hear porn and radar and think we just made a list of bad hobbies. His wife wants him to rest. A video about a tractor isn't a crime. Draw the line.
 
 WES: Draw it. Rest is a gift. A video can be rest. The drift is when she asks three times and you don't hear her. The itch is when the thing you reach for owns the hour you said belonged to them. Rest looks at a person. Drift looks at a glass. I'm not coming for your tractor. I'm coming for the third ask.
 
-JONATHON: Second. I told a young man I've been there, and I won't tell this room the rest. Some guy is going to want the story so he can measure his against mine. I'm not giving him a scoreboard.
+JONATHON: I don't totally buy a clean line yet. I told a young man I've been there, and I won't tell this room the rest. Some guy is going to want the story so he can measure his against mine. I'm not giving him a scoreboard. Is that hiding, or is that a fence?
 
-WES: Good. Don't give him a scoreboard. Give him a number and a roommate and a Thursday text. The details that make you look honest can also become a new plaque. You already know about plaques.
+WES: That's a fence. Don't give him a scoreboard. Give him a number and a roommate and a Thursday text. The details that make you look honest can also become a new plaque. You already know about plaques.
 
 JONATHON: Third. What if the person who lives with you is the drift? Dani's dad is in the room and gone. I can't porch him into talking. I can ask Ruby to teach him a game and I can refuse to become him. That's a smaller assignment than fixing a seventy-four-year-old.
 
@@ -134,9 +134,9 @@ JONATHON: I keep wanting a clean category. Itch is dirty. Drift is sad. One I ca
 
 WES: We've got a little under ten minutes on the actual week. I'm on the porch after supper, no phone, twenty minutes. If it rains I sit in the garage with the door open. I told my wife the word is still the fog. She has permission to say it. I won't get short when she does.
 
-JONATHON: I'm texting my nephew every Thursday. Day five today. I told him slip isn't the end. Silence is closer to the end. I'm also putting my charger in the hallway starting tonight, because the nightstand is a recliner I can reach without standing. Ruby already approved the hallway. She said it like a sheriff.
+JONATHON: I'm texting my nephew every Thursday. Day five today. I told him slip isn't the end. Silence is closer to the end. I'm also putting my charger in the hallway starting tonight, because the nightstand is a recliner I can reach without standing. Ruby already approved the hallway. She said it like a sheriff. Can I ask you something hard? Are you going to sit the porch if it rains, or is the garage the new radar?
 
-WES: Sunday is Mom's first pot roast in a long time. We will tell you Friday who came and who prayed. I want that on the calendar so I don't drift past a table I already said yes to.
+WES: The garage with the door open is still a porch. Radar would be the door shut. Sunday is Mom's first pot roast in a long time. We will tell you Friday who came and who prayed. I want that on the calendar so I don't drift past a table I already said yes to.
 
 JONATHON: And I've got a Bluebonnets game Saturday the twentieth. I want to walk out to a kid first if a kid needs it, not look at the other dads. I've been the other dad in my head already. That's a drift that happens in daylight. I already know which twin is scared of the ball. I already know I will want to look competent for the parents. Competent is a cousin of the coach voice. If I catch myself performing I will kneel in the dirt and ask a girl about her lizard. That's a contrary minute I can actually do.
 
@@ -162,12 +162,12 @@ WES: Look around your house this week. If a woman has to ask three times, you al
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. Guard the spring. Name the itch or the drift. Then do one contrary hour.
+WES: Carry this. Guard the spring. Name the itch or the drift. Then do one contrary hour.
 
 JONATHON: And if a young man texts you at 1:14, pick up. Tomorrow is how we lose them.
 
 WES: Friday we check the porch and the charger. Until then: a card, a person, an hour. 988 if you need it.
 
-JONATHON: Then go name yours, and tell us how it went at walksteadfast.com, and find us everywhere at @steadfastwalk.
+JONATHON: Go name yours, then tell us at walksteadfast.com, and find us at @steadfastwalk.
 
 [STING 2s]

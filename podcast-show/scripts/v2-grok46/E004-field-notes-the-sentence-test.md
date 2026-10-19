@@ -5,9 +5,9 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 1,973 (about 13:09 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,002 (about 13:21 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 30 lines (54% of words). JONATHON 26 lines (46% of words), 0 under 12 words (0.0%) |
+| Line balance | WES 31 lines (54% of words). JONATHON 26 lines (46% of words), 0 under 12 words (0.0%) |
 | Focus mark | None. Checks the sentence. |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Lamentations 3:22-23. Board only: Lamentations 3:40 |
 | Board cues | 4 (none repeats spoken words) |
@@ -156,13 +156,15 @@ WES: A card is one thing. It's in your hand. You can hand it to a man. Your phon
 
 [BOARD: Ink on one face. Nothing on the other.]
 
-JONATHON: I'm copying "Win the room" onto a card from the receipt, and I'm leaving the back blank, and I already hate the blank, which is probably the point.
+JONATHON: I'm copying "Win the room" onto a card from the receipt, and I'm leaving the back blank, and I already hate the blank, which is probably the point. Are you actually putting yours in the Bible, or is that a prettier notes app?
+
+WES: It's going in the Bible. If I hide it in a drawer I've just built a nicer notes app.
 
 ---
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. Your bad sentence isn't who you are. It's where you've been standing.
+WES: Carry this. Your bad sentence isn't who you are. It's where you've been standing.
 
 JONATHON: And a sentence in your head runs you. A sentence on a card is just a card. Write it down.
 

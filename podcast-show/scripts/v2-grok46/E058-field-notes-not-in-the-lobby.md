@@ -5,9 +5,9 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 1,939 (about 12:56 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,109 (about 14:04 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 30 lines (54% of words). JONATHON 26 lines (46% of words), 1 under 12 words (3.8%) |
+| Line balance | WES 33 lines (55% of words). JONATHON 28 lines (45% of words), 1 under 12 words (3.6%) |
 | Focus mark | Stop Waiting |
 | Scripture (NIV, verified 2026-10-19) | Spoken: 1 Peter 4:10. Board only: 1 Corinthians 7:20; Colossians 3:23 |
 | Board cues | 5 |
@@ -52,7 +52,7 @@ WES: And what did he say when you didn't rush in to fix his pride?
 
 JONATHON: "He's the best electrician I've ever seen. He just hates college kids." I wrote back, "You went one semester." He sent a laugh. Not quitting this week. That's the whole report on the work ask, and it's more of a man than two years of oranges.
 
-WES: Then Theo's morning. The real ask.
+WES: Then Theo's morning. The real ask. Did he treat it like a show, or did he sit with eight years?
 
 JONATHON: I texted it the next day. "When Theo turns twelve I want you to be one of the men in the room. You'll be thirty. It's a real thing, not a show thing." He wrote back, "Is that a real thing or a show thing?" I said real. He said, "I'll be thirty." Then, "Okay. Yeah." Three words, and I sat in the driveway longer than I want to admit.
 
@@ -78,7 +78,7 @@ WES: Stay in the lane. Look around your house this week. If you've got a younger
 
 WES: Then I tried the attic Saturday, because Oklahoma is still on the guest room ceiling. Two hours. A hundred and twenty degrees. A wasp nest. No leak I could find. So I called a man from church who runs sound every Sunday and has never been asked to do anything else.
 
-JONATHON: The tomato man. Nine kinds. A brother in Lubbock he doesn't talk to. I need you to say you asked him for help, not for a project.
+JONATHON: The tomato man. Nine kinds. A brother in Lubbock he doesn't talk to. Wait, back up. Did you ask him for help, or did you ask him for a project so you could feel assigned?
 
 WES: I asked him to look. Thursday after work he was there ten minutes and said, "It's the boot on your vent pipe. It's cracked." Then he sat at the kitchen table an hour. My wife got seeds and instructions. He's coming back Saturday with a new boot. I buy it. He shows me how.
 
@@ -104,7 +104,7 @@ JONATHON: Don't start with Lubbock. Start with the boot. Then ask if he wants to
 
 ## SEGMENT 3 · The Word
 
-WES: We're about halfway, and I want one verse for the man who thinks he has nothing in his hands. First Peter four, verse ten.
+WES: We're about halfway, and I want one verse for the man who thinks he has nothing in his hands. First Peter four, verse ten. You want to read it?
 
 JONATHON: "Each of you should use whatever gift you have received to serve others, as faithful stewards of God’s grace in its various forms."
 
@@ -128,7 +128,9 @@ WES: Last few minutes on a question men ask. Should I stop dating to focus on Go
 
 JONATHON: I did a version of that at twenty-three in my head. If I stop chasing, God will send her. Then I chased anyway, and called the chasing a season.
 
-WES: If dating has become the lobby, stop. If dating is how you hide from your grandmother and your church, stop. If you can date like a believer in the situation you're in, you don't owe anybody a monk year. The test is Tuesday. Are you using the gift, or are you using her to feel like your life started? I used a girl to avoid an empty room and then blamed God for the phone call. I don't get to forget that when a younger man asks this.
+WES: If dating has become the lobby, stop. If dating is how you hide from your grandmother and your church, stop. If you can date like a believer in the situation you're in, you don't owe anybody a monk year. The test is Tuesday. Are you using the gift, or are you using her to feel like your life started?
+
+WES: I used a girl to avoid an empty room and then blamed God for the phone call. I don't get to forget that when a younger man asks this.
 
 JONATHON: And if you're the married man advising him, don't make him your unfinished twenties. Ask what he did this week. Then shut up. I wanted to send him a paragraph about quitting and calling. I sent two sentences. That's the most Christian thing I've done for him in a month.
 
@@ -136,27 +138,33 @@ WES: Two sentences is a lot if they're the right ones. Most of us send twenty an
 
 [BOARD: Colossians 3:23 (NIV) · "Whatever you do, work at it with all your heart, as working for the Lord, not for human masters,"]
 
-WES: Tool this week is a single man's Tuesday rhythm. Work you can stand on. One meal that isn't gas-station silence. One older man you text. One thing for somebody who can't pay you back. Four lines. That's a life. That's not a holding pattern.
+WES: Tool this week is a single man's Tuesday rhythm. Work you can stand on. One meal that isn't gas-station silence. One older man you text. One thing for somebody who can't pay you back. Four lines. That's a life. That's not a holding pattern. What are you actually writing?
 
-JONATHON: Mine this week: answer his Wednesday text without a speech. Then ask the sound man his brother's name, because I don't know it and I've sat behind him for a year.
+JONATHON: Answer his Wednesday text without a speech. Then ask the sound man his brother's name, because I don't know it and I've sat behind him for a year. Can I ask you something hard?
 
-WES: Mine: buy the boot. Let him teach me. Don't turn it into a testimony before Saturday is over. If I tell this like a win before he comes back, I stole it.
+WES: Go.
 
-JONATHON: Single guys, write the four lines Sunday night. Work you can stand on. One meal that isn't the gas station with the phone. One older man, even if the text is awkward. One person who can't pay you back. That's how you get out of the lobby without a ring.
+JONATHON: Are you going to buy the boot and let him teach you, or turn Saturday into a testimony before he comes back?
 
-WES: Divorced men, the four lines still work. One of them is your kids, even on the weeks they aren't with you. Widowed men, Merle already wrote the card. You can write a smaller one.
+WES: [beat] Buy the boot. Let him teach me. If I tell this like a win before he comes back, I stole it. He knew the cracked boot. I didn't. That's honor, not charity.
 
-JONATHON: Married men, your four lines this week include quitting one lobby question. Write the question you keep asking. Then write the real one. Send the real one. Delete the other. If you can't think of a real one, ask what is hard at work. That one opened a door I had been knocking on with oranges for two years.
+JONATHON: That's fair, but— don't start with Lubbock. Start with the boot. Then ask if he wants to come eat, not fix anything. What are you picking, for real?
 
-WES: And if he doesn't answer, you still asked. That's assigned. That's not a failed campaign, and it still counts.
+WES: The boot. Saturday. I buy it. He shows me. Look around your house this week. The gift is already in your hands. A cracked boot. A Tuesday. A real question. Use the one you have.
+
+JONATHON: No, hold on. You've got a habit of stacking tomatoes and Lubbock and the boot so you can miss the meal. Boot first?
+
+WES: [laughs] Boot first. Single guys, write the four lines Sunday night. Work you can stand on. One meal that isn't the gas station with the phone. One older man, even if the text is awkward. One person who can't pay you back. That's how you get out of the lobby without a ring.
+
+JONATHON: I'll leave the girls question on the floor. If I pick it back up, stop me. That's me walking back into the lobby with a better costume. Married men, your four lines this week include quitting one lobby question. Write the question you keep asking. Then write the real one. Send the real one. Delete the other. If you can't think of a real one, ask what is hard at work. That one opened a door I had been knocking on with oranges for two years.
+
+WES: Divorced men, the four lines still work. One of them is your kids, even on the weeks they aren't with you. Widowed men, Merle already wrote the card. You can write a smaller one. And if he doesn't answer, you still asked. That's assigned. That's not a failed campaign, and it still counts.
+
+JONATHON: Then I answer Wednesday's text on a Tuesday that already has a meeting. Does that sound like a quota?
+
+WES: [laughs] It sounds like a man who knows his calendar. Answer inside the busy, or you never will. That's the whole takeaway. Write the four. Leave the girls question on the floor.
 
 [BOARD: Four lines is a life, not a lobby.]
-
----
-
-WES: Look around your house this week. The gift is already in your hands. A cracked boot. A Tuesday. A real question. Use the one you have.
-
-JONATHON: I'll leave the girls question on the floor. If I pick it back up, stop me. That's me walking back into the lobby with a better costume.
 
 ## CLOSE (word for word)
 

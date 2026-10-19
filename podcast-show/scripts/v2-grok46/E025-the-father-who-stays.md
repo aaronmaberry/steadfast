@@ -5,9 +5,9 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,886 (about 19:14 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,987 (about 19:55 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 34 lines (56% of words). JONATHON 31 lines (44% of words), 2 under 12 words (6.5%) |
+| Line balance | WES 34 lines (55% of words). JONATHON 31 lines (45% of words), 2 under 12 words (6.5%) |
 | Focus mark | Work for God's Pay |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Matthew 3:17. Board only: Romans 5:8; Luke 15:20 |
 | Board cues | 5 (none repeats spoken words) |
@@ -60,11 +60,11 @@ WES: He liked the photo. A thumb you haven't heard from in a real sentence.
 
 JONATHON: I sat there and I watched a thumb I haven't heard from in a real sentence. I didn't write. I went inside. Dani said, "Well?" I said, "Yes. He liked the picture." She said, "Okay." We didn't make it a meeting. I slept anyway. I woke up wanting a paragraph from him. I didn't get one. I still have to tell Ruby this week. I know the sentence. I haven't said it. Friday I will tell you if I did.
 
-WES: That's a walk and a leftover hide. Both can be true. You walked at 9:40. The girl is still waiting in the car. Don't let a like become the ending. A like is a fish. A girl is a person.
+WES: That's a walk and a leftover hide. Both can be true. You walked at 9:40. The girl is still waiting in the car. Don't let a like become the ending. A like is a fish. A girl is a person. Did you want him to write first so you wouldn't have to tell Ruby?
 
 [BOARD: A thumb on a picture is not a talk.]
 
-JONATHON: I know. I keep wanting the like to count as the talk. It counts as a door. Doors aren't talks. A like is a fish, and I keep wanting to call it a conversation so I can stop being scared of the sentence I owe Ruby. I told my nephew by text that I picked. He wrote, "Good." He listens. He didn't come to lunch. I didn't ask him to sit in the room. Texts stay texts. I can want a crowd for a decision and I won't use him that way.
+JONATHON: Yes. I wanted him to write first. That's a hide with a thumb. I keep wanting the like to count as the talk. It counts as a door. Doors aren't talks. A like is a fish, and I keep wanting to call it a conversation so I can stop being scared of the sentence I owe Ruby. I told my nephew by text that I picked. He wrote, "Good." He listens. He didn't come to lunch. I didn't ask him to sit in the room. Texts stay texts. I can want a crowd for a decision and I won't use him that way.
 
 ---
 
@@ -98,9 +98,9 @@ JONATHON: Mine is a first sales manager in Beaumont. Same tie every Monday. "Not
 
 WES: We're about halfway, and I want the Bible open, because a voice from heaven already said the sentence men wait decades to hear. Matthew three, verse seventeen.
 
-JONATHON: I've wanted that voice from a man who posts fish. I won't get it that way. I might get a like. I might get a call in April. I might get nothing. The verse isn't about my dad.
+JONATHON: I've wanted that voice from a man who posts fish. I won't get it that way. I might get a like. I might get a call in April. I might get nothing. The verse isn't about my dad. So which is it? Work for a thumb, or work for a voice that already spoke?
 
-WES: "This is my Son, whom I love; with him I am well pleased." Before Jesus had preached a sermon. Before a cross. Before a resume. Loved. Pleased. A Father who stays, and who speaks, and who does not wait for a trophy. If you only work for a hospital bed or a tie or a like, you will be hungry on a Monday. Work for this voice. Then say a smaller version in a truck.
+WES: The voice. Not the thumb. "This is my Son, whom I love; with him I am well pleased." Before Jesus had preached a sermon. Before a cross. Before a resume. Loved. Pleased. A Father who stays, and who speaks, and who does not wait for a trophy. If you only work for a hospital bed or a tie or a like, you will be hungry on a Monday. Work for this voice. Then say a smaller version in a truck.
 
 JONATHON: I've worked for a tie. I know the hunger on a Monday. I still write emails like I'm trying to hear not bad, kid.
 
@@ -118,19 +118,19 @@ WES: Ruin it. Then go say glad you're mine to someone who already knows and stil
 
 ## SEGMENT 4 · Pushback
 
-WES: Keep pushing.
+WES: Keep pushing. Go ahead.
 
-JONATHON: A like isn't the same as a father who stays. If I sit here glowing about a button, a man whose dad is gone or cruel will think we just sold him a fairy tale. Paint.
+JONATHON: Yeah, here's my problem. A like isn't the same as a father who stays. If I sit here glowing about a button, a man whose dad is gone or cruel will think we just sold him a fairy tale. Paint.
 
 WES: Paint. A like is small. God isn't small. The chair can still be empty and the tomb can still be empty. Both true. We're not baptizing a profile picture. We're saying you can stay even if he does not. You can speak even if he likes and does not write. You can be well pleased with a boy who has not earned a truck yet.
 
-JONATHON: Second. "I'm glad you're mine" can become a new plaque. I can say it and still miss bath. I can say it and still hand Ruby to Dani.
+JONATHON: I don't totally buy a clean sentence yet. "I'm glad you're mine" can become a new plaque. I can say it and still miss bath. I can say it and still hand Ruby to Dani. Is that staying, or is that a commercial?
 
 WES: Then say it and stay. The stay is the pay. The sentence without the stay is a commercial. I said it and I let him drive. That's a stay I can measure in miles and a white knuckle on a handle.
 
-JONATHON: Third. I still have October with Dani. We started. We haven't finished. Easter didn't finish it. A ham didn't finish it. I asked her last night for a night this week. She said Wednesday. I put it on the fridge. If I erase it I will have used Easter as weather again.
+JONATHON: That's fair, but— I still have October with Dani. We started. We haven't finished. Easter didn't finish it. A ham didn't finish it. I asked her last night for a night this week. She said Wednesday. I put it on the fridge. If I erase it I will have used Easter as weather again. Will you actually pick up at seven, or is leftover ham going to finish your night?
 
-WES: Keep Wednesday. I call my older brother tonight at seven. We will tell you Friday. I'm not using a like or a tomb as a reason to skip a barn date I already set. I've used holy days as cover before. I left Thanksgiving early and called it traffic.
+WES: Seven o'clock. Ham doesn't get the night. Keep Wednesday. I call my older brother tonight at seven. We will tell you Friday. I'm not using a like or a tomb as a reason to skip a barn date I already set. I've used holy days as cover before. I left Thanksgiving early and called it traffic.
 
 JONATHON: You left Thanksgiving early and called it traffic. Don't leave Easter in a glow and call it peace. That's a cease-fire with a ham on it.
 
@@ -142,9 +142,9 @@ WES: I can leave Easter in a glow and call it peace. It would be a cease-fire ag
 
 WES: We've got a little under ten minutes. Ham. My mom has never met you. Your mom sent ham anyway.
 
-JONATHON: She said, "Then that's for Wes." She does not listen to us. She sent food to a man she has not met because I said he has been a father-voice in my week. I didn't know where to put that. I put it in a foil pan. You will eat it. I will tell her you did.
+JONATHON: [laughs] She said, "Then that's for Wes." She does not listen to us. She sent food to a man she has not met because I said he has been a father-voice in my week. I didn't know where to put that. I put it in a foil pan. You will eat it. I will tell her you did. Can I ask you something hard? Will you eat it after you call, or instead of the call?
 
-WES: I will eat it. I won't make a speech about it. I will call my brother at seven and I won't hide in leftover sweetness. The call is the walk.
+WES: After. I will eat it. I won't make a speech about it. I will call my brother at seven and I won't hide in leftover sweetness. The call is the walk.
 
 JONATHON: She will ask if you liked it. I will tell her you ate it and you called him. That's the report she actually wants. She does not listen to us. She listens for whether a man followed through.
 
@@ -186,12 +186,12 @@ WES: Look around your house this week. If there is a boy who already said I know
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. The chair isn't the last word. A Father stays. Say a smaller version. Then stay.
+WES: Carry this. The chair isn't the last word. A Father stays. Say a smaller version. Then stay.
 
 JONATHON: And if all you got was a like, don't worship it. Tell the girl the true short line.
 
 WES: Friday we report the seven o'clock call. Until then: one sentence, no because.
 
-JONATHON: Then go say it, and tell us how it went at walksteadfast.com, and find us everywhere at @steadfastwalk.
+JONATHON: Go say it, then tell us at walksteadfast.com, and find us at @steadfastwalk.
 
 [STING 2s]

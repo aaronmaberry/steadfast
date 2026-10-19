@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (1,973 spoken words, about 13:09). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,002 spoken words, about 13:21). Re-time them against the final edit before publishing.
 
 ---
 
@@ -42,7 +42,7 @@ Christian men podcast, Field Notes, Walk Steadfast, Lamentations 3:22-23, index 
 | 06:13 | The Word | Lamentations 3:22-23. A man with a bad sentence is on a morning. |
 | 07:42 | From the table | What if mine is a bad one? Don't erase it. Trade it. |
 | 10:39 | The card | Old line on the front. Blank on the back. Not in your phone. |
-| 12:38 | Close | Where you've been standing. Tuesday fills in the back. |
+| 12:52 | Close | Where you've been standing. Tuesday fills in the back. |
 
 ---
 

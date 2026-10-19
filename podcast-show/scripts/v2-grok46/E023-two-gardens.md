@@ -5,9 +5,9 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,835 (about 18:54 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,963 (about 19:45 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 32 lines (52% of words). JONATHON 31 lines (48% of words), 1 under 12 words (3.2%) |
+| Line balance | WES 34 lines (52% of words). JONATHON 33 lines (48% of words), 2 under 12 words (6.1%) |
 | Focus mark | Go First |
 | Scripture (NIV, verified 2026-10-19) | Spoken: 1 Corinthians 15:45. Board only: Romans 5:8; Isaiah 53:5 |
 | Board cues | 5 (none repeats spoken words) |
@@ -50,15 +50,19 @@ JONATHON: First game. Saturday the twentieth. Lost by one. They tell you they do
 WES: She struck out with the bases loaded to end it. [beat] Yeah. And you walked out to her first, before any parent could.
 JONATHON: I walked out to her first, before any parent could, knelt, and said, "That was a brave swing." She said, "I closed my eyes." I said, "I know. Still brave." I wanted to look at the other dads. I've been looking at other dads my whole life. I went to her instead.
 
-WES: That's go first. Not a speech. Dirt on a knee.
+WES: That's go first. Not a speech. Dirt on a knee. Did you look at the bleachers anyway?
 
-JONATHON: In the parking lot her dad, he works for the power company, said, "Thanks for getting out there first. I froze." Then he said, "No, I wouldn't have. I was looking at the other parents." He said he would be early Thursday. I believed him and I also know how a parking-lot promise feels at supper. We will see Thursday. I want him early. I also want me first again if I've got to be.
+JONATHON: I looked. Then I went to her. In the parking lot her dad, he works for the power company, said, "Thanks for getting out there first. I froze." Then he said, "No, I wouldn't have. I was looking at the other parents." He said he would be early Thursday. I believed him and I also know how a parking-lot promise feels at supper. We will see Thursday. I want him early. I also want me first again if I've got to be.
 
 WES: The first Adam hid. The last Adam walked toward the thing. You walked toward a girl who had just failed in public. That's the picture for this week. Not a win. A walk.
 
 [BOARD: Public dirt is a better pulpit than the fence.]
 
 JONATHON: About three weeks ago in the car Ruby asked, "Daddy, do you have a dad?" I said, "That's a good one to ask Mom, bud." I handed it off. Dani said, "Daddy's dad lives far away, in Louisiana. Daddy will tell you about him." I owe her the answer myself, after Sunday. I can walk out to somebody else's twin and still hide from my own seven-year-old. That's two gardens in one week.
+
+WES: Wait, back up. She asked if you have a dad and you said ask Mom?
+
+JONATHON: I said ask Mom. That's a hide with a polite voice.
 
 WES: Let me sit with that one. Not this month, you said once, about a nine-year-old thinking his dad does not want him. I heard you. I'm not rushing you past Sunday. I'm also not letting you keep the handoff as the ending. After Sunday you tell her. We will check. I've handed off hard sentences to my wife for decades and called it teamwork.
 JONATHON: [beat] You've handed hard sentences to your wife for decades and called it teamwork. Stay there. Sometimes it was. Sometimes it wasn't.
@@ -76,7 +80,7 @@ WES: Mine is from spring 2018. My daughter was sixteen. Caught drinking at a par
 
 JONATHON: I'll be real with you, I would have found a report. I would have called it providing. That's the oldest lie I know. What did you do with it this week, because 2018 is a long hide if it's still just a story.
 
-WES: I told my daughter I was sorry I wasn't there at four. She remembered the night. She didn't remember the report. She remembered I was late. I told my wife I was sorry again, which she has heard, and I asked if there is a four o'clock I'm still missing.
+WES: [laughs] You would have. I did. I told my daughter I was sorry I wasn't there at four. She remembered the night. She didn't remember the report. She remembered I was late. I told my wife I was sorry again, which she has heard, and I asked if there is a four o'clock I'm still missing.
 JONATHON: There's a four o'clock you're still missing. Hold on. She remembered you were late, not the report.
 WES: She said, "You ask now. You didn't then." That's a mercy I didn't earn. I don't want another report that can wait while a girl sits in a kitchen.
 
@@ -84,9 +88,9 @@ JONATHON: That's go first toward your own house. I needed to hear it next to the
 
 WES: Saturday I was at my older brother's place, one of the twelve Saturdays. I walked out to the barn and said, "We need to talk about Mom's house and her will. Not this week. But I'm done hiding from it." He said, "Not at Easter." I said, "Tuesday after. I'll call." He nodded and went back to his welder. That's not settled. That's a date.
 
-JONATHON: A date is how you stop hiding without blowing up a holy weekend. I keep hoping the other man will start the rest so I don't have to.
+JONATHON: A date is how you stop hiding without blowing up a holy weekend. I keep hoping the other man will start the rest so I don't have to. Are you actually calling Tuesday, or is Easter going to eat the date?
 
-WES: I stood there longer than I needed to, hoping the same thing. He didn't start. The welder started again. I walked back to the house and I told my wife I had said the sentence. She squeezed my arm and didn't make it a meeting.
+WES: I'm calling. Easter doesn't get the date. I stood there longer than I needed to, hoping the same thing. He didn't start. The welder started again. I walked back to the house and I told my wife I had said the sentence. She squeezed my arm and didn't make it a meeting.
 JONATHON: You put a hand on his arm and didn't make it a meeting. Yeah, and—you wanted a meeting. A meeting would have let you hide.
 WES: I wanted a meeting. A meeting would have let me stay in the barn in my head all afternoon. I drank coffee instead and I watched him work. That's a smaller walk than a will, and I still had to take it.
 
@@ -100,9 +104,9 @@ JONATHON: I keep thinking a date is the same as done. It's not. I've dated the r
 
 WES: We're about halfway, and I want the Bible open, because Paul names the two men in one breath. First Corinthians fifteen, verse forty-five.
 
-JONATHON: I've been hiding in trees since Christmas. A friend request from my dad. Profile picture, a man holding a redfish. I look at it about once a week. Fifty-some phone calls in twenty-eight years, and I learned more from that picture than from all of them. I told Dani I will decide Sunday night, Easter, after the kids are down. I'm still in the trees until then. I need the verse before I decide.
+JONATHON: I've been hiding in trees since Christmas. A friend request from my dad. Profile picture, a man holding a redfish. I look at it about once a week. Fifty-some phone calls in twenty-eight years, and I learned more from that picture than from all of them. I told Dani I will decide Sunday night, Easter, after the kids are down. I'm still in the trees until then. So which is it? Hide until you look ready, or walk while you're still in the trees?
 
-WES: "The first man Adam became a living being." And then, "the last Adam, a life-giving spirit." First man lives, and hides, and blames, and stays in the trees. Last Adam gives life, and walks toward the thing, and does not wait for the other parents to move. Holy Week isn't a mood. It's which man you practice being when a girl strikes out and when a request sits in a phone.
+WES: Walk while you're still in the trees. "The first man Adam became a living being." And then, "the last Adam, a life-giving spirit." First man lives, and hides, and blames, and stays in the trees. Last Adam gives life, and walks toward the thing, and does not wait for the other parents to move. Holy Week isn't a mood. It's which man you practice being when a girl strikes out and when a request sits in a phone.
 
 [BOARD: Romans 5:8 (NIV) · "But God demonstrates his own love for us in this: While we were still sinners, Christ died for us."]
 
@@ -118,17 +122,17 @@ JONATHON: He walked the whole way. I haven't started mine with Ruby. Two differe
 
 ## SEGMENT 4 · Pushback
 
-WES: Keep pushing.
+WES: Keep pushing. Go ahead.
 
-JONATHON: Some men should not walk toward a father who hurts people. If I sit here talking about a redfish, a man whose dad is dangerous is going to think we just baptized a bad door. Paint, not pencil.
+JONATHON: Yeah, here's my problem. Some men should not walk toward a father who hurts people. If I sit here talking about a redfish, a man whose dad is dangerous is going to think we just baptized a bad door. Paint, not pencil.
 
 WES: Paint. If a man is dangerous, you don't owe him your kitchen. You owe God a decision, and you owe your kids a safe house. Go first toward wisdom, a pastor, a counselor, not toward a fist. This table isn't telling you to open a door that should stay shut. It's telling you to stop calling delay a plan. Jonathon's dad is a request in a phone, not a man in the driveway. Different case. If your case is the driveway, you get a different first step, and you take it with someone who isn't us.
 
-JONATHON: Second. Walking out first can become a new performance. I knelt in the dirt and I felt the bleachers anyway. I can collect a kneel.
+JONATHON: I don't totally buy a clean walk yet. I knelt in the dirt and I felt the bleachers anyway. I can collect a kneel. Is that still going first, or is that a plaque with dirt on it?
 
-WES: Then you tell the truth about the bleachers, which you just did. Collecting is first Adam with better posture. Going first and then confessing the hunger to be seen is closer to the last. Do both.
+WES: That's a plaque if you stop there. Tell the truth about the bleachers, which you just did. Collecting is first Adam with better posture. Going first and then confessing the hunger to be seen is closer to the last. Do both.
 
-JONATHON: Third. Nine-year-olds don't think, my dad is scared. They think, my dad doesn't want me. You asked me to let you sit with that. I'm still sitting. I don't have a pretty answer. I've got a Sunday night.
+JONATHON: That's fair, but— nine-year-olds don't think, my dad is scared. They think, my dad doesn't want me. You asked me to let you sit with that. I'm still sitting. I don't have a pretty answer. I've got a Sunday night.
 
 WES: Sit. Then tell Ruby after. She already has far away. She asked if you have one. That's a girl walking out toward you. Meet her.
 
@@ -162,6 +166,10 @@ WES: Last few minutes. Pick one hiding place. A phone request. A report. A bleac
 
 JONATHON: I've got two steps. Sunday night, the request. This week, Ruby. I won't use the first as a way to skip the second. I already tried that with Mom in the car. It felt smooth. It was a hide.
 
+WES: Can I ask you something hard? Will you tell Ruby even if Sunday is a no?
+
+JONATHON: Yes. Especially if Sunday is a no. She asked me. Mom isn't the wall.
+
 WES: I've got the Tuesday call and the four o'clock test. If my wife names a four I'm missing, I go. I don't finish a paragraph first. I've finished too many paragraphs. I asked her this morning if there is one this week. She said not today, and then she said, "Don't look relieved." I was relieved. I told her so. Relieved is a tell. It means I still want the trees. I will ask again Thursday, and I will try not to look relieved if she names one. That's a small walk inside a marriage, and it's still a walk.
 
 JONATHON: If you live alone, go first toward a brother or toward God in a quiet room, and then toward the one person you have been circling. A request. A call. A neighbor. Don't wait for Easter dinner to make you brave. Dinner is ham. Brave is a walk. I've waited on ham before. Ham does not make a man walk. A date does, if he keeps it. Keep yours. Then tell one man, even if the walk was only ten feet of dirt.
@@ -172,12 +180,12 @@ WES: Holy Week is long enough for one walk. It's not long enough for a new delay
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. Two gardens. Hide, or walk out. Practice the second.
+WES: Carry this. Two gardens. Hide, or walk out. Practice the second.
 
 JONATHON: And if a girl closes her eyes and swings anyway, meet her in the dirt. Still brave.
 
 WES: Friday we stand at Good Friday. Until then: one walk, one man told.
 
-JONATHON: Then go first, and tell us how it went at walksteadfast.com, and find us everywhere at @steadfastwalk.
+JONATHON: Go first, then tell us at walksteadfast.com, and find us at @steadfastwalk.
 
 [STING 2s]

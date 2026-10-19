@@ -5,9 +5,9 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,859 (about 19:04 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,946 (about 19:38 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 30 lines (56% of words). JONATHON 28 lines (44% of words), 1 under 12 words (3.6%) |
+| Line balance | WES 33 lines (55% of words). JONATHON 30 lines (45% of words), 1 under 12 words (3.3%) |
 | Focus mark | Work for God's Pay |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Colossians 3:23-24; Ephesians 2:8-9. Board only: Hebrews 12:2; Matthew 6:4 |
 | Board cues | 4 (none repeats spoken words) |
@@ -44,19 +44,25 @@ JONATHON: And I'll tell you why I moved that email to ten o'clock, which sounds 
 
 ## SEGMENT 1 · The Monday email
 
-WES: Let's take the next few minutes on cheap prizes. Yours first, because you already named the inbox. I want the listener to see his own Monday while you talk. Not your job. His. The thing he opens before he has been a man in his own house.
+WES: Let's take the next few minutes on cheap prizes. Yours first, because you already named the inbox. What does he open before he's been a man in his own house? Not your job. His.
 
 JONATHON: The email lands at eight. Rank, dollars, a little arrow. For eleven years I've let that arrow tell me who I'm before I've told my kids good morning. Some Mondays I'm kind in the kitchen. Some Mondays I'm already in a fight with a spreadsheet I didn't write. By Thursday somebody else has the top spot. The prize doesn't even stay the week. I've snapped at Ruby over toast because a number in Indianapolis moved. She didn't know that. She just knew Dad was already gone before he left the house. That's who pays for a cheap prize. Not the regional manager. Your seven-year-old.
 
-WES: So you're running hard for a ribbon they take down before Sunday.
+WES: So you're running hard for a ribbon they take down before Sunday. Does Ruby know that's why toast goes sideways, or does she just get a dad who's already gone?
 
-JONATHON: Yeah, and—I hate how clean that sounds when you say it. A ribbon. I treat it like a throne. I know it's a ribbon. I still stand up straighter when the arrow's green.
+JONATHON: She just gets the dad. Yeah, and—I hate how clean "ribbon" sounds when you say it. I treat it like a throne. I know it's a ribbon. I still stand up straighter when the arrow's green.
+
+WES: [laughs] You stand up straighter for a green arrow. That's a church-rock move in a sales shirt.
 
 JONATHON: That's it. And I know it's dumb. I still open it. I moved it this week. Ten o'clock. I've to sit through breakfast and the first two calls without a number on my forehead. I already reached for it at eight anyway. My hand went to the phone like a man reaching for a drink he quit. That's how I know it was a prize.
 
 WES: I've a cheap prize too, and it wears a nicer suit. I like being the man the church calls on to pray in public. "Wes is a rock." I've said yes so many times I started needing the yes. This week they asked me to pray from the front on Sunday. I said no. I asked my son-in-law to do it. Twenty-seven, works for the county, first time praying in front of that room. His voice shook. I sat there wanting somebody to notice that I had given it away. That's the cheap prize trying to get paid twice.
 
-JONATHON: You wanted credit for not taking credit. I know that move. I spent an hour Thursday after work helping the rep I reviewed, going through his call list. I told nobody at the office. Then I almost told you in the parking lot so I would still get a little clap. I shut up. It was harder than the hour.
+JONATHON: Wait, back up. You said no to the front, then wanted somebody to notice you said no. So which is it? Are you done with that prize, or are you collecting for giving it away?
+
+WES: That's fair, but— no, you're right. I wanted credit for not taking credit.
+
+JONATHON: I know that move. I spent an hour Thursday after work helping the rep I reviewed, going through his call list. I told nobody at the office. Then I almost told you in the parking lot so I would still get a little clap. I shut up. It was harder than the hour.
 
 [BOARD: A prize that needs a clap is already cheap.]
 
@@ -66,7 +72,7 @@ WES: Look around your house this week. What prize do you reach for before you've
 
 ## SEGMENT 2 · The fall he cannot remember
 
-WES: You said you would tell about a fall. Tell it.
+WES: You said you would tell about a fall. Can you still see that fall, or is it just the plaque?
 
 JONATHON: Fall of 2023 I was number one in the country three weeks running. There's a plaque in my office. Those were the 1604 years. I was taking the long way home so I would miss bath. I can't remember that fall with my kids. I can remember the plaque. I can remember the email. I can't remember putting Ruby to bed. That's the receipt. The prize ate the days and left me a piece of wood. I used to tell that story like it was a hustle story. It's a grief story. I traded a season of my daughter's life for a ranking that reset every Monday, and I still have the wood on the wall because some part of me wants the room to know I was good. That's the ache. I was good at the wrong prize.
 
@@ -74,13 +80,13 @@ WES: [quietly] Yeah. That's the fog in a different shirt.
 
 JONATHON: Fog in a different shirt. I'm keeping that. I dressed it up as hustle and I still have the wood on the wall like a trophy from a season I can't remember with my kids. That's not a plaque. That's a receipt I don't want.
 
-WES: Then take it down if you have to. Or leave it up and tell the true story when somebody asks. Don't let it keep lying.
+WES: Then take it down if you have to. Or leave it up and tell the true story when somebody asks. Which one are you actually going to do? Because leaving it up and lying is the third option, and I think that's the one you've been using.
 
 JONATHON: Then last spring Theo had croup. Three years old. Two in the morning, steamy bathroom, I held him for an hour. No plaque. No email. I remember every minute of that hour. He fell asleep on my chest and I sat on the toilet lid and I thought, this is the job. I still opened the leaderboard that Monday like the hour had not happened.
 
-WES: So you know the real pay, and you still clock in for the fake one. That's most of us. We have held a sick kid and we've still wanted the room to clap.
+WES: So you know the real pay, and you still clock in for the fake one. Why do you still open it Monday if you remember every minute of that hour?
 
-JONATHON: Valentine's happened. You asked. It was good. That's all you get. I'm not turning a decent dinner into content. We sat down. She was tired. I didn't check the email. That's the win I actually want, and it will never show up on a regional list.
+JONATHON: Because the hour doesn't give me a number. The email does. That's most of us, I know. We hold a sick kid and we still want the room to clap. Valentine's happened. You asked. It was good. That's all you get. I'm not turning a decent dinner into content. We sat down. She was tired. I didn't check the email. That's the win I actually want, and it will never show up on a regional list.
 
 WES: I'll take "it was good." I don't need the menu. I needed to know you went and you stayed. I've turned decent nights into speeches so I could feel like a man who is doing well. She doesn't need the speech. She needs you in the chair with the phone down. That's the pay. The rest is marketing.
 
@@ -116,9 +122,9 @@ WES: Same. I wanted the church to say "rock" so I wouldn't have to remember I'm 
 
 WES: Mr. Abernathy kept the diner receipts. After he died his daughter found them. On the back of each one, names. Thirty-some men. He prayed for those men by name for years and told no one. I didn't know. I ate with him for six years and I didn't know. That's the pay that lasts. A list nobody clapped for. I've been thinking about that all week, because I want to be the man who is known for being a rock, and he was the man who was known by God for a list in his pocket. If you stacked his life next to a leaderboard, he would lose every Monday. I don't want to lose the way he won. I want the pocket list. I want the quiet names. I want to die and have somebody find out I loved men I never used for credit.
 
-JONATHON: That's better than every plaque in my building. No email. No arrow. Just a man and a pen and a God who saw it.
+JONATHON: That's better than every plaque in my building. Can I ask you something hard? If his list is the pay, why do you still want the church to say rock?
 
-WES: I keep a short list now, on the back of my index card. I won't say who is on it. If I say who is on it I'm already collecting. The contractor told me he's going to teach welding at the high school at night. He's sixty. He said, "I've made money for forty years. I'd like to do something for a while that nobody pays me much for." That's a man changing prizes on purpose.
+WES: Because the list is quiet and "rock" is loud, and I still like loud. I keep a short list now, on the back of my index card. I won't say who is on it. If I say who is on it I'm already collecting. The contractor told me he's going to teach welding at the high school at night. He's sixty. He said, "I've made money for forty years. I'd like to do something for a while that nobody pays me much for." That's a man changing prizes on purpose.
 
 JONATHON: I want to be him at sixty, and I'm afraid I will still be opening an email at eight. So I moved it to ten. That's my first inch. It's not a new career. It's a different clock.
 
@@ -156,13 +162,17 @@ JONATHON: That's me when I bring the coach voice home. I've already done it. The
 
 ## SEGMENT 6 · This week's challenge
 
-WES: Last few minutes on the challenge. Do one thing this week that nobody will clap for. Then don't tell the room. You can tell one man. You can't tell the internet. I'm being strict about that on purpose, because we will turn a hidden thing into a story the first chance we get. If you need a witness, pick one man who won't clap. Pick a man who will just nod and ask you next Thursday. That's a brother. That's not an audience.
+WES: Last few minutes on the challenge. Do one thing this week that nobody will clap for. Then don't tell the room. You can tell one man. You can't tell the internet. I'm being strict about that on purpose, because we will turn a hidden thing into a story the first chance we get.
 
-JONATHON: Married men, ask your wife, "What do I do that I want credit for?" Then don't defend the answer. Write it down. That's your cheap prize.
+JONATHON: No, hold on. Who's your one man this week? Because if you pick a man who claps, you've just built a smaller church.
 
-WES: If you live alone, pick one hidden thing. A call to your mother. A meal for a neighbor. An hour on a brother's problem. Do it, and let God be the only audience. Nobody at your apartment is going to clap, which is why this mark is actually easier for you if you will take the gift. The empty room isn't a curse this week. It's a chance to work with no audience at all.
+WES: The contractor. He already has the metal roof. He won't clap. He'll nod and ask me Thursday if I hid something. That's a brother. Who's yours?
 
-JONATHON: Dads, do one hour with your kid that will never go on a plaque. Bath. Catch. Homework. Stay in the room when your phone wants the arrow. I held Theo in a steamy bathroom and I still reached for a ranking the next morning. Do the hour anyway. Then don't use the hour as proof that you're good. The hour is the pay. Proof is the old prize trying to sneak back in through a better story.
+JONATHON: Dani, and she already told me not to ruin it. Married men, ask your wife, "What do I do that I want credit for?" Then don't defend the answer. Write it down. That's your cheap prize.
+
+WES: If you live alone, pick one hidden thing. A call to your mother. A meal for a neighbor. An hour on a brother's problem. Do it, and let God be the only audience. The empty room isn't a curse this week. It's a chance to work with no audience at all.
+
+JONATHON: Dads, do one hour with your kid that will never go on a plaque. Bath. Catch. Homework. Stay in the room when your phone wants the arrow. I held Theo in a steamy bathroom and I still reached for a ranking the next morning. Do the hour anyway. Then don't use the hour as proof that you're good.
 
 WES: And if your cheap prize is the front of the church, give that invitation away once. Not forever. Once. See what your heart does when nobody says rock.
 
@@ -170,11 +180,11 @@ WES: And if your cheap prize is the front of the church, give that invitation aw
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry out of here. Most of the prizes we chase are gone by Thursday, sometimes gone by noon. Work for the pay that still knows your name when the arrow slides.
+WES: Carry this. Most of the prizes we chase are gone by Thursday. Work for the pay that still knows your name when the arrow slides.
 
-JONATHON: And if you've to tell everybody you did the hidden thing, it's not hidden. Let it stay quiet. Let God keep the only copy.
+JONATHON: And if you've to tell everybody you hid it, it wasn't hidden. Let God keep the only copy.
 
-WES: Friday we talk about what stuck from these first weeks. Until then: one hidden thing. One man, not the room. Don't turn Friday into a reveal. Keep the quiet, and let Thursday's little arrow stay in the inbox where it belongs.
+WES: Friday we talk about what stuck. Until then: one hidden thing. One man, not the room.
 
 JONATHON: Then go do that hidden thing quiet this week, and tell us how it went at walksteadfast.com, and find us everywhere at @steadfastwalk.
 
