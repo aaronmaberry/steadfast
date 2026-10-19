@@ -18,10 +18,10 @@ E001 exception logged 2026-10-19 (Aaron): replace the earlier 40–45 min / 6,00
 |---|---|---|---|---|---|
 | E001 | The Man You Keep Saying You'll Be (launch) | 4,959 | 33:04 | 51 / 49 | PASS 0/0 |
 | E002 | Field Notes: The First Check | 2,199 | 14:40 | 53 / 47 | PASS 0/0 |
-| E003 | Nobody Ever Gave You the Sentence | — | — | — | pending |
-| E004 | Field Notes: The Sentence Test | — | — | — | pending |
-| E005 | What a Steadfast Man Looks Like | — | — | — | pending |
-| E006 | Field Notes: Saying It Out Loud | — | — | — | pending |
+| E003 | Nobody Ever Gave You the Sentence | 2,934 | 19:34 | 52 / 48 | PASS 0/0 |
+| E004 | Field Notes: The Sentence Test | 1,968 | 13:07 | 54 / 46 | PASS 0/0 |
+| E005 | What a Steadfast Man Looks Like | 3,173 | 21:09 | 52 / 48 | PASS 0/0 |
+| E006 | Field Notes: Saying It Out Loud | 2,204 | 14:42 | 50 / 50 | PASS 0/0 |
 | E007 | Waiting Is Not Peace (locked pilot, copied word for word, no SLATE) | 3,138 | 20:55 | 52 / 48 | PASS 0/0 |
 | E008–E080 | remaining | — | — | — | pending |
 
