@@ -5,9 +5,9 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,826 (about 18:50 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,854 (about 19:02 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 35 lines (54% of words). JONATHON 33 lines (46% of words), 3 under 12 words (9.1%) |
+| Line balance | WES 35 lines (53% of words). JONATHON 33 lines (47% of words), 3 under 12 words (9.1%) |
 | Focus mark | Pick Up the Weight |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Genesis 2:15. Board only: Colossians 3:23 |
 | Board cues | 4 (none repeats spoken words) |
@@ -59,7 +59,7 @@ JONATHON: Last August. A west-side branch library that's a city cooling center l
 
 WES: That's work before the fall, leaking through a curse. You asked about margin first. You still sent a man at eleven. Both things are true. Tell him the second thing. Don't skip it because the first thing shames you.
 
-JONATHON: The Fourth. Theo wore his swim goggles all night. He said fireworks get in your eyes. Like a tiny welder. Ruby narrated every one like a sportscaster. And here comes a blue one. Theo slept on a driveway towel through the big ones, still in the goggles. We don't do sparklers. Your wife fell asleep in a lawn chair at the high school field before the finale again. She asked if it was good. You said best one yet. Every year. That's a kind of work too. Showing up to a chair.
+JONATHON: The Fourth. Theo wore his swim goggles all night. He said fireworks get in your eyes. Like a tiny welder. Ruby narrated every one like a sportscaster. And here comes a blue one. Theo slept on a driveway towel through the big ones, still in the goggles. We don't do sparklers. Your wife fell asleep in a lawn chair at the high school field before the finale again. She asked if it was good. You said best one yet. Every year. That's a kind of garden too, showing up to a chair. Showing up to a chair.
 
 WES: Every year. Best one yet. She knows I'm lying a little and she lets me. That's a marriage. I asked my brother at the barn Saturday if Dad liked it. The work. He said he does not know. He never said. Then he checked a trough. I've not asked my brother whether he likes it. Two questions in one Saturday felt like greed. I still want the second question.
 
@@ -96,7 +96,7 @@ JONATHON: I will call the midnight rep and say what I kept. I won't say it in a 
 
 ## SEGMENT 5 · Pushback
 
-WES: Push. The man who hates his job and thinks we're romantic. And the man who loves his job and thinks rest is for people who aren't serious. Which one is sitting in you this week?
+WES: Push. The man who hates his job and thinks we're romantic. And the man who loves his job and thinks rest is for people who aren't serious. I-hate-the-job, or rest-is-for-soft-men — which one is sitting on you?
 
 JONATHON: If you hate it, you may still have a keep inside it. A person. A part you like at ten-thirty. A library. You don't have to call it a calling to treat it as a garden for the hours you're there. And if you love it, nine unused days isn't seriousness. It's a man stripping the garden and calling the dust faithfulness. I've been that man. The VP will clap. Your kids won't remember the clap.
 
@@ -140,7 +140,7 @@ JONATHON: Wait, back up. Are you talking about the knock, or me decorating a col
 
 WES: Both. You've got nine days on a shelf. Are you taking August, or walking past a plaque wall like a relative?
 
-JONATHON: I'm taking August. Phone off for Theo's birthday. Can I ask you something hard?
+JONATHON: I'm taking August. Phone off for Theo's birthday. Did you knock, or did you give a weather report?
 
 WES: Go.
 
@@ -148,7 +148,7 @@ JONATHON: Are you knocking on the window, or walking past a truck with the engin
 
 WES: [beat] I'll knock. I may get two inches. Two inches is a start. I've used three months of walking past as wisdom. It was fear. What are you actually saying to the midnight rep?
 
-JONATHON: What I kept. The library. I asked about the bill first. I'm sorry I stopped at good man. If I pick three I'll do none. One call.
+JONATHON: What I kept. The library. I asked about the bill first. I'm sorry I stopped at good man. If I owe three calls I will give three weather reports. One call.
 
 WES: That's fair, but— no, don't come back proud of a bar chart.
 
@@ -164,11 +164,11 @@ JONATHON: I was. Liking a Tuesday isn't a betrayal of my mom's tired. Unavailabl
 
 WES: Good. I left a farm because I thought work there was a curse. Some of it was sweat after the fall. Some of it was a pecan. I can sort them now.
 
-JONATHON: Then I put August on a Tuesday that already has a meeting. Does that sound like a quota?
+JONATHON: Then I put the library call on a Tuesday that's already loud with numbers. Does logging knocks for a review sound like what I'm doing?
 
-WES: [laughs] It sounds like a man who knows his calendar. Knock inside the busy, or you never will. Mr. Abernathy waited while I gave a weather report. I still owe a better answer. I like the mid-morning problem nobody wants.
+WES: [laughs] That sounds like a knock instead of another weather report. Knock inside the busy, or you never will. Mr. Abernathy waited while I gave a weather report. I still owe a better answer. I like the mid-morning problem nobody wants.
 
-JONATHON: What are you picking, for real?
+JONATHON: The library call, or another good-man weather report?
 
 WES: The knock. A sandwich. It's a hundred degrees. You have a sandwich. That's a garden sentence.
 
@@ -186,7 +186,7 @@ JONATHON: Say it. Then knock. I asked about the bill first. I'm still ashamed of
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. Work it and take care of it. That was the job before the fall.
+WES: Take the first job: work it and take care of it. Work it and take care of it. That was the job before the fall.
 
 JONATHON: And a column that grades your rest is still not the same as actually resting.
 

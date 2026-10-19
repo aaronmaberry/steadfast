@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 3,073 (about 20:29 at 150 wpm, before laughs and pauses) |
+| Spoken words | 3,090 (about 20:36 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 55 lines (50% of words). JONATHON 45 lines (50% of words), 3 under 12 words (6.7%) |
 | Focus mark | Stop Waiting |
@@ -44,7 +44,7 @@ JONATHON: And I'll tell you the forty-second handoff that has become our weekday
 
 ## SEGMENT 1 · Who is this
 
-WES: Pull up a chair. Let's take the next few minutes on a fridge, because that's where this started, and it didn't look spiritual.
+WES: Pull up a chair. Pull the first stretch over to the whiteboard, because that's where the roommate season wrote itself in marker, and it looked like logistics.
 
 JONATHON: Dani's unit is short. Two nurses out, one on maternity leave. She's working a fourth night every week through Labor Day. Weekday handoff in the driveway at seven-fifteen, windows down, about forty seconds. She sleeps till two. She leaves at six-thirty. Wednesday the whiteboard said Ruby's shoes, Theo's dentist, love you. I wrote, "Who is this."
 
@@ -96,7 +96,7 @@ JONATHON: I want a coupon. That's the tell.
 
 ## SEGMENT 4 · The Word
 
-WES: I've got a little under ten minutes, and I want the Bible open. Ecclesiastes nine, verse nine. You want to read it?
+WES: Under ten. I want the roommate verse read slow. Ecclesiastes nine, verse nine. You want to read it?
 
 JONATHON: "Enjoy life with your wife, whom you love, all the days of this meaningless life that God has given you under the sun—all your meaningless days. For this is your lot in life and in your toilsome labor under the sun."
 
@@ -112,7 +112,7 @@ WES: Both. Context in two sentences. The preacher has looked at work and death a
 
 ## SEGMENT 5 · Pushback
 
-WES: We're about halfway, and I want the push. A man says, a date night will fix this. Go ahead and push.
+WES: Halfway. Push on the fridge like a child would. A man says, a date night will fix this. Go ahead and push.
 
 JONATHON: A date night that's another event on the calendar won't. We tried every-other-Saturday like client dinners after Ruby was born. Dani's first line was the rash on Ruby's arm. The calendar came with us in the car. I don't totally buy that a ride fixes a fridge. Does yours?
 
@@ -122,9 +122,9 @@ JONATHON: You had forty seconds in a driveway. You have a whiteboard. You have a
 
 WES: A man says, she doesn't want to ride.
 
-JONATHON: Then find her step. Don't make the ride the test. Some women talk in a car. Some talk in the dark. Some talk while they dry a pan. I've been asking in the wrong room and then saying she never talks. That's fair, but— what are you actually doing Saturday?
+JONATHON: Then find her step. Don't make the ride the test. Dani talks on a back step after the water bill dies. Other wives talk on a drive. I kept opening the wrong room and then billed her for silence. That's fair, but— what are you actually doing Saturday?
 
-WES: Last few minutes on what we're actually doing. Saturday on the ride I will ask, "What are you looking forward to? This year." I won't fill the quiet.
+WES: Last few minutes on the fridge line a child could read. Saturday on the ride I will ask, "What are you looking forward to? This year." I won't fill the quiet.
 
 JONATHON: I'm writing one non-logistics line on the whiteboard every day, and the back step again on her next night off. If I write a joke, it still has to be about her, not about the dentist.
 
@@ -136,7 +136,7 @@ WES: This week's challenge. Take one minute that has a job and give it no job. A
 
 JONATHON: If you're dating, notice whether every hour has a plan. If you're single, notice whether every friendship has a task. If you're divorced, one non-logistics sentence with your kids' mom is still a kind of clearing. What are you picking, ride or fridge, because if you pick three you'll do the dentist?
 
-WES: Ride. One question. Look around your house this week. The roommate season is usually a fridge. Read the fridge. Then write one line that could not go in a manager's meeting.
+WES: Ride. One question. Look at the fridge the way a child would. The roommate season is usually a fridge. Read the fridge. Then write one line that could not go in a manager's meeting.
 
 JONATHON: And if a child asks if you like each other, don't lie and don't give a speech. Like each other somewhere she can see. A step. A laugh at a dog. A pat that isn't a handoff.
 
@@ -148,7 +148,7 @@ WES: Stay on the back forty. Six years of mesquite after the cows left. Three ye
 
 JONATHON: I want a coupon. A restaurant. A sitter. Then I want the old marriage to be waiting at the table. The old marriage is under brush. I've got to cut. No, hold on. If I try to clear forty acres on a Friday night I will quit and blame her. What's the small cut?
 
-WES: Cut small. A ride. A line. A step. Don't ask the duck to be a paragraph. Receive the duck. That's enjoy.
+WES: Cut small. A ride. A line. A step. Don't force a cartoon into an essay. Receive the duck. That's enjoy.
 
 JONATHON: I'll cut a line a day. If she draws a duck, that's a tree down. Receive the duck. That's harder for me than a speech about intimacy. A duck is small. Small is how brush actually moves.
 
@@ -246,7 +246,7 @@ WES: I'm going to skip the joke. That's the death this week.
 
 WES: Seven years ago the house was a relay. Daughter a senior. Boys in sports. After a game she asked when we last talked about anything that wasn't on the calendar. I didn't have an answer. The ride started because I needed an answer more than I needed a faster Saturday.
 
-JONATHON: I don't have an answer for Ruby yet. That's why the line on the fridge matters. If she can point to a line that isn't shoes, she has an answer without a speech. Can I ask you something hard?
+JONATHON: I don't have an answer for Ruby yet. That's why the line on the fridge matters. If she can point to a line that isn't shoes, she has an answer without a speech. Can a child read like on your fridge?
 
 WES: Go.
 
@@ -284,9 +284,9 @@ JONATHON: I'm thirty-seven and I already have the disease. The fourth night didn
 
 ## SEGMENT 19 · Quiet mile
 
-WES: A mile of quiet will make me want to teach. I won't teach. I will watch the fence line and let her find a sentence. If she says she wants to finish something I won't pull a printout. I will say tell me more.
+WES: A quiet stretch of farm road will make me want to lecture. I won't teach. I will watch the fence line and let her find a sentence. If she says she wants to finish something I won't pull a printout. I will say tell me more.
 
-JONATHON: Tell me more is the only upgrade I want. I've upgraded her sentences into projects for years. I'm tired of being a project manager at my own step. That's fair, but— HVAC sales will still have a fourth-quarter number in September. If I wait for a quiet month I'll still be waiting when Theo has a license. Do I put the step on a night that already has a shift?
+JONATHON: Tell me more is the only upgrade I want. I've upgraded her sentences into projects for years. I'm tired of being a project manager at my own step. That's fair, but— HVAC sales will still have a fourth-quarter number in September. If I stall the step until HVAC has a soft September, Theo will be driving before I sit down with her. Do I put the step on a night that already has a shift?
 
 WES: Put the step on a night that already has a shift. Or you never will.
 
@@ -302,7 +302,7 @@ JONATHON: I'll put the date on the whiteboard. Season ends. Then we date the pan
 
 ## SEGMENT 21 · What I want you to do
 
-WES: Look around your house this week. Read the fridge like a child would. Then write one line a child would know meant like. I've got about a minute and I want it on you. One minute with no job. Tonight if you can. Tomorrow if you must.
+WES: Look at the fridge the way a child would. Read the fridge like a child would. Then write one line a child would know meant like. A minute with no job. Write the line a child could read. One minute with no job. Tonight if you can. Tomorrow if you must.
 
 JONATHON: Tonight if I can. The step if she's home. The driveway window if she's not. One line either way. I won't wait for a fully staffed unit to become a man who likes his wife out loud.
 

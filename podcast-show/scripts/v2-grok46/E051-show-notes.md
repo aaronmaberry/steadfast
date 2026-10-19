@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,807 spoken words, about 18:43). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,821 spoken words, about 18:48). Re-time them against the final edit before publishing.
 
 ---
 
@@ -37,10 +37,10 @@ Christian men podcast, coming of age, Joshua 4:6-7, fatherhood, Walk Steadfast
 | 02:45 | The anti-day | The anti-day. |
 | 05:00 | The Word | The Word. |
 | 06:13 | You did not do one for me | You did not do one for me. |
-| 08:04 | Pushback | Pushback. |
+| 08:05 | Pushback | Pushback. |
 | 09:31 | This week's challenge | This week's challenge. |
 | 12:30 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
-| 18:24 | Close | Close. |
+| 18:28 | Close | Close. |
 
 ---
 

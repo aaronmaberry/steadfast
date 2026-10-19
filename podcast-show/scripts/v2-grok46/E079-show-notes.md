@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (3,190 spoken words, about 21:16). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (3,182 spoken words, about 21:13). Re-time them against the final edit before publishing.
 
 ---
 
@@ -35,29 +35,29 @@ Christian men podcast, grief, Romans 12:15, John 11:33, Walk Steadfast, loss
 |---|---|---|
 | 00:00 | Open | Open |
 | 00:46 | Crooked since 85 | Crooked since 85 |
-| 02:04 | Where'd you put it | Where'd you put it |
-| 03:35 | The Word | The Word |
-| 04:50 | Ruby and the day after | Ruby and the day after |
-| 06:13 | Challenge | Challenge |
-| 07:05 | More on a 1 | More on a 1 |
-| 08:00 | More on a 2 | More on a 2 |
-| 08:49 | More on a 3 | More on a 3 |
-| 09:44 | More on a 4 | More on a 4 |
-| 10:30 | More on a 5 | More on a 5 |
-| 11:22 | More on a 6 | More on a 6 |
-| 12:14 | More on a 7 | More on a 7 |
-| 12:55 | More on fence 8 | More on fence 8 |
-| 13:44 | More on fence 9 | More on fence 9 |
-| 14:26 | More on fence 10 | More on fence 10 |
+| 02:00 | Where'd you put it | Where'd you put it |
+| 03:31 | The Word | The Word |
+| 04:45 | Ruby and the day after | Ruby and the day after |
+| 06:09 | Challenge | Challenge |
+| 07:02 | More on a 1 | More on a 1 |
+| 07:58 | More on a 2 | More on a 2 |
+| 08:47 | More on a 3 | More on a 3 |
+| 09:42 | More on a 4 | More on a 4 |
+| 10:28 | More on a 5 | More on a 5 |
+| 11:19 | More on a 6 | More on a 6 |
+| 12:10 | More on a 7 | More on a 7 |
+| 12:52 | More on fence 8 | More on fence 8 |
+| 13:41 | More on fence 9 | More on fence 9 |
+| 14:25 | More on fence 10 | More on fence 10 |
 | 15:14 | More on fence 11 | More on fence 11 |
-| 16:05 | More on fence 12 | More on fence 12 |
+| 16:04 | More on fence 12 | More on fence 12 |
 | 16:50 | More on fence 13 | More on fence 13 |
-| 17:28 | More on fence 14 | More on fence 14 |
-| 18:11 | More on a 15 | More on a 15 |
-| 18:55 | More on a 16 | More on a 16 |
-| 19:33 | More on a 17 | More on a 17 |
-| 20:17 | More on a 18 | More on a 18 |
-| 20:58 | Close | Close |
+| 17:27 | More on fence 14 | More on fence 14 |
+| 18:10 | More on a 15 | More on a 15 |
+| 18:52 | More on a 16 | More on a 16 |
+| 19:30 | More on a 17 | More on a 17 |
+| 20:14 | More on a 18 | More on a 18 |
+| 20:54 | Close | Close |
 
 ---
 

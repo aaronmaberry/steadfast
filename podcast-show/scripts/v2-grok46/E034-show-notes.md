@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (1,937 spoken words, about 12:55). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (1,903 spoken words, about 12:41). Re-time them against the final edit before publishing.
 
 ---
 
@@ -34,11 +34,11 @@ Christian men podcast, Field Notes, saying no to parents, Proverbs 15:1, Walk St
 |---|---|---|
 | 00:00 | Open | Hook and the question of the day. |
 | 00:52 | The lot | The lot. |
-| 03:29 | The Kids | The Kids. |
-| 06:19 | The Word | The Word. |
-| 08:22 | From the table | From the table. |
-| 10:29 | The script | The script. |
-| 12:31 | Close | Carry this, and the close. |
+| 03:22 | The Kids | The Kids. |
+| 06:05 | The Word | The Word. |
+| 07:55 | From the table | From the table. |
+| 09:51 | The script | The script. |
+| 12:16 | Close | Carry this, and the close. |
 
 ---
 

@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 3,165 (about 21:06 at 150 wpm, before laughs and pauses) |
+| Spoken words | 3,173 (about 21:09 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 46 lines (52% of words). JONATHON 39 lines (48% of words), 2 under 12 words (5.1%) |
 | Focus mark | All four, introduced once |
@@ -48,7 +48,7 @@ WES: Pull up a chair. Friday we said leave the back of the card blank. Today we 
 
 JONATHON: And we don't do slogans. I've sat through enough of those at work to last me until I retire, and none of them ever followed me home.
 
-WES: [turns his mug a quarter turn] A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
+WES: [turns his mug a quarter turn] On a regular Tuesday, a steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's.
 
 JONATHON: [writing, then reading it back] Okay. Got it. Can I say what I like about it before we take it apart? It's all verbs. Stops, picks up, goes, works. There's no adjective in there. It doesn't say a man is strong or tough or tall.
 
@@ -190,7 +190,7 @@ JONATHON: I spent my twenties working for the guys I was trying to impress. They
 
 WES: That man's waiting looks like the recliner, and nobody'd blame him. Picking up the weight might be his grandkids. Going first might be calling his grown son first, after years of the son always calling him. And God's pay matters most to him now, because the room's mostly gone. The people who used to clap aren't there. He's finding out who he was working for.
 
-JONATHON: Divorced dad. Kids every other weekend. Stop waiting means don't wait for a better custody schedule to be a real dad. Use the weekend you've got. Pick up the weight means his part of what broke, and only his part. Going first is being decent at the handoff in the parking lot. And God's pay means you're not trying to be the fun parent so the kids like your house better. That's room pay too. I'm going to need a minute with that one.
+JONATHON: Divorced dad. Kids every other weekend. Stop waiting means don't wait for a better custody schedule to be a real dad. Use the weekend you've got. Pick up the weight means his part of what broke, and only his part. Going first is being decent at the handoff in the parking lot. And God's pay means you're not trying to be the fun parent so the kids like your house better. That's room pay too. Give me a second with that divorced-dad picture.
 
 ---
 
@@ -224,7 +224,7 @@ WES: Married guys, ask your wife which one she sees you do best. Not worst. Best
 
 JONATHON: Single guys, ask a friend the same two questions. Best one, and one he'd like to see more. And everybody, every night this week, do the one-out-of-four check before bed. Takes thirty seconds. I will forget two nights if I don't put the card where I actually am at ten o'clock.
 
-WES: Put it where you'll see it. Then look at it.
+WES: Tape the card where your eyes already go at ten o'clock. Then look at it.
 
 ---
 

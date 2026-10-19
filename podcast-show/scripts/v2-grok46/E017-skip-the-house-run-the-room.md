@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,864 (about 19:06 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,860 (about 19:04 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 31 lines (50% of words). JONATHON 27 lines (50% of words), 1 under 12 words (3.7%) |
 | Focus mark | Stop Waiting |
@@ -94,7 +94,7 @@ WES: Sunday a new man at church asked what I do. I told him the family first. Th
 
 WES: Middle shape. Run the room. You have a man for this.
 
-JONATHON: Our contractor. Sixty. Twenty guys. You want him on a job site. Everybody knows the next move, nobody stands around, every decision is fast and his. For thirty years he ran his house the same way. Vacation, car, church, school. Fast, and his. He thought that was leading. About ten years ago he is laying out a roof in the kitchen and she sets down a dish towel and says, "I'm not on your crew." He said it was a two-by-four. She had been on his crew twenty years without being asked if she wanted the job. He sat in the truck an hour. Did not start it. Came back in and asked what kind of roof she wanted. She said, "Metal. I've wanted metal for six years." He had been about to put shingles on it again. They have a metal roof now. He says it's the best roof he has ever put on, and he didn't pick it.
+JONATHON: Our contractor. Sixty. Twenty guys. You want him on a job site. Everybody knows the next move, nobody stands around, every decision is fast and his. For thirty years he ran his house the same way. Vacation, car, church, school. Fast, and his. He thought that was leading. About ten years ago he is laying out a roof in the kitchen and she sets down a dish towel and says, "I'm not on your crew." He said it was a two-by-four. She had been on his crew twenty years without being asked if she wanted the job. He sat in the truck an hour. Did not start it. Came back in and asked what kind of roof she wanted. She said, "Metal. I've wanted metal for six years." He had been about to put shingles on it again. He put metal on it, her pick. Best roof he ever put on, and he didn't choose it.
 
 WES: Then he wanted to teach. After twenty years of being the boss, he wanted a room that could talk back. Do you hear yourself in that kitchen, or is that only him?
 
@@ -162,7 +162,7 @@ JONATHON: Dani, cleaner. Not "do I run the room sometimes." "Which one do you li
 
 WES: If you skip the house, give the living room the voice you save for the bleachers. Twenty minutes. Full voice. If you run the room, ask a question you don't already have the answer to, and let the answer stand. If you wear the job, tell one person who you are without the title.
 
-JONATHON: And if nobody will answer you, ask God and sit still for ten minutes. The first shape that makes your stomach tight is the assignment. Don't shop for a nicer one. Thursday I will text you "Did you ask." I want a sentence. Can you give me one this time, or am I getting another K?
+JONATHON: And if nobody will answer you, ask God and sit still for ten minutes. The first shape that makes your stomach tight is the assignment. Don't browse for a kinder shape. Thursday I will text you "Did you ask." I want a sentence. Can you give me one this time, or am I getting another K?
 
 [BOARD: Colossians 3:17 (NIV) · "And whatever you do, whether in word or deed, do it all in the name of the Lord Jesus, giving thanks to God the Father through him."]
 

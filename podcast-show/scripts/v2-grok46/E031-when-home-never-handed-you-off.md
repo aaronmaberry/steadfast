@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,893 (about 19:17 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,897 (about 19:19 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 34 lines (54% of words). JONATHON 29 lines (46% of words), 1 under 12 words (3.4%) |
 | Focus mark | Pick Up the Weight |
@@ -60,7 +60,7 @@ JONATHON: Those aren't the same sentence. I can still hear the Beaumont office, 
 
 [BOARD: A job is not a blessing.]
 
-WES: Look around your house this week. If you're still useful to your mother and you have never been released, you will pass that down. You will hire men and call them kid. You will love your people by staying in charge of them.
+WES: See whether home has handed you off yet. If you're still useful to your mother and you have never been released, you will pass that down. You will hire men and call them kid. You will love your people by staying in charge of them.
 JONATHON: Yeah. You keep your people by staying in charge of them. What'd you do with your own boys, because I heard chores in that.
 WES: I did a version of that with my own boys. I handed them chores and called it forming them. Sometimes it was. Sometimes it was me needing a guy in the room so I wouldn't feel the quiet.
 
@@ -96,7 +96,7 @@ WES: Saturday the Bluebonnets lost twelve to three. Their best hitter throws lik
 
 ## SEGMENT 3 · The Word
 
-WES: We've got a little under fifteen minutes, and I want Luke open. Chapter two. Jesus is twelve. His parents have lost him in Jerusalem. They find him in the temple. Verse forty-nine.
+WES: Luke stays open for about fifteen minutes. Chapter two. Jesus is twelve. His parents have lost him in Jerusalem. They find him in the temple. Verse forty-nine.
 
 JONATHON: "Why were you searching for me?" he asked. "Didn't you know I had to be in my Father's house?"
 
@@ -110,7 +110,7 @@ WES: Name your own house. You're her son. That's a different job. A son calls. A
 
 [BOARD: 1 Corinthians 13:11 (NIV) · "When I became a man, I put the ways of childhood behind me."]
 
-JONATHON: I don't totally buy a clean handoff yet. Luke is the Son of God in the temple. I'm a sales guy whose mom needs a capacitor. If I use this verse to stop showing up, I become the man who left with a lamp. I won't do that. Wait, back up. Are you telling me to skip the service call, or to stop running it from a dugout?
+JONATHON: Handoff language still sounds too clean for a capacitor house. Luke is the Son of God in the temple. I'm a sales guy whose mom needs a capacitor. If I use this verse to stop showing up, I become the man who left with a lamp. I won't do that. Wait, back up. Are you telling me to skip the service call, or to stop running it from a dugout?
 
 WES: Stop running it from the dugout. Nobody is asking you to leave with a lamp. We're asking you to stop confusing showing up with staying in charge. Jesus named the Father's house and then went to Nazareth. You can name your own house, Dani and the kids, and still drive to Pasadena for pot pie.
 
@@ -152,13 +152,13 @@ WES: Then give them that. And give your mom a Sunday that's not a work order. An
 
 JONATHON: I heard her. I'm still saying maybe, because I don't want to turn your brother's dock into a project I've got to win. I want it to be a Saturday. That's new for me.
 
-WES: A Saturday is enough. My brother does not know he's teaching you yet. He will stand there with a coffee can of worms and say evening. That's a handoff too, from a man who isn't your dad. You don't have to make it a project with a score. You have to show up and let a seven-year-old bait a hook badly. That's how a house learns a skill the last man never passed down.
+WES: A Saturday is enough. The dock man has no idea he's teaching you yet. He will stand there with a coffee can of worms and say evening. That's a handoff too, from a man who isn't your dad. You don't have to make it a project with a score. You have to show up and let a seven-year-old bait a hook badly. That's how a house learns a skill the last man never passed down.
 
 ---
 
 ## SEGMENT 6 · This week's challenge
 
-WES: So here is your challenge. If your mom still calls you for the capacitor, pick one job this week and hand it back. Not all of them. One. Tell her you want to come eat, and you want her to talk to the man, and then you want her to call you after. Write the sentence before you dial so you don't slide back into being the guy the minute she sounds tired. Can I ask you something hard? Will you hand it back this Sunday, or slide the minute she sounds tired?
+WES: So here is your challenge. If your mom still calls you for the capacitor, pick one job this week and hand it back. Not all of them. One. Tell her you want to come eat, and you want her to talk to the man, and then you want her to call you after. Write the sentence before you dial so you don't slide back into being the guy the minute she sounds tired. Has home handed you off, or are you still waiting? Will you hand it back this Sunday, or slide the minute she sounds tired?
 
 JONATHON: I'll hand it back. That's fair, but— I've got a confession for Friday, and it's not pretty. For about ten years Dani has returned Sunday calls I didn't want to sit through. I let her be the voice so I could stay the guy. Married men, tell your wife which job you're handing back. Single men, put your own laundry in and ask your mom one question about her week that's not about a bill.
 

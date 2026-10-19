@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,228 spoken words, about 14:51). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,230 spoken words, about 14:52). Re-time them against the final edit before publishing.
 
 ---
 
@@ -39,9 +39,9 @@ Christian men podcast, Field Notes, Walk Steadfast, Philippians 1:6, four marks,
 | 00:00 | Open | "Except with your dad." Friday is the check. The trucks. The request. |
 | 01:01 | Check the box | Son-in-law by the trucks. Pick up the weight. Go first with me. They still don't pray together. |
 | 04:57 | Except with your dad | Two out of five. The contractor. Christmas Day. Still sitting. |
-| 08:28 | From the table | Do I need all four? Your strong one can hide you. Philippians 1:6. |
-| 11:56 | The voice memo | Sixty seconds. Sentence, weakest mark, one thing tomorrow. |
-| 14:22 | Close | Watch your hiding place. Tuesday is waiting, and the brothers. |
+| 08:29 | From the table | Do I need all four? Your strong one can hide you. Philippians 1:6. |
+| 11:58 | The voice memo | Sixty seconds. Sentence, weakest mark, one thing tomorrow. |
+| 14:23 | Close | Watch your hiding place. Tuesday is waiting, and the brothers. |
 
 ---
 

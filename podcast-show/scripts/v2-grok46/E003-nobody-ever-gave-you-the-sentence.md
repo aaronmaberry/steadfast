@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,946 (about 19:38 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,950 (about 19:40 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 52 lines (51% of words). JONATHON 46 lines (49% of words), 1 under 12 words (2.2%) |
 | Focus mark | None by design. Sets up the sentence. |
@@ -70,7 +70,7 @@ JONATHON: That's a lineman move. They don't do soft, and they don't let you hide
 
 WES: I sat there a while. And I wrote, "Pay the bills and don't make trouble." That was it. Fifteen years. I paid every bill. I never made any trouble. I also never made anything else.
 
-JONATHON: Pay the bills and don't make trouble. Yeah, and— that's a disappearing act with a checking account. Where did you get it? Because that doesn't sound like something a man invents on a Tuesday. That sounds like something he inherits.
+JONATHON: Keep the lights on and stay out of the way. Yeah, and— that's a disappearing act with a checking account. Where did you get it? Because that doesn't sound like something a man invents on a Tuesday. That sounds like something he inherits.
 
 WES: From my dad, mostly. Not from anything he said. From what he didn't say. He was a good man. He paid the bills. He didn't make trouble. And he never once sat me down and said, "Son, here's what a man is." I watched what he did, and I wrote my own sentence from the outside of his life.
 
@@ -248,7 +248,7 @@ JONATHON: First time. Thirty-six years old. A wet hand on my head, and a sentenc
 
 ## SEGMENT 9 · This week's challenge
 
-WES: So here's your challenge this week. Write down the sentence you've actually been living. Not the church one. The real one. Especially if it's a bad one. Mine was "pay the bills and don't make trouble." Yours might be "keep everybody happy." Or "don't need anybody." Or "win." Write it on something. A receipt works.
+WES: Here's the work I want before Friday. Write down the sentence you've actually been living. Not the church one. The real one. Especially if it's a bad one. Mine was "pay the bills and don't make trouble." Yours might be "keep everybody happy." Or "don't need anybody." Or "win." Write it on something. A receipt works.
 
 JONATHON: And then tell one man. Same guy you texted if that went well. Read it to him. Don't clean it up first. Who are you telling this week? Don't pick the safe one.
 

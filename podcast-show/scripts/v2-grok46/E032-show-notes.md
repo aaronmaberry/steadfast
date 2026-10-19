@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,041 spoken words, about 13:36). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,056 spoken words, about 13:42). Re-time them against the final edit before publishing.
 
 ---
 
@@ -37,11 +37,11 @@ Christian men podcast, Field Notes, adult son, 1 Corinthians 13:11, Sunday call,
 |---|---|---|
 | 00:00 | Open | She did not call him in. Then she said he can still come. |
 | 00:59 | She talked to him | The capacitor. Three questions. Dani returned the Sunday calls. |
-| 03:38 | The one who stayed | The brother's driveway. A nephew by text. Day thirty-six. |
-| 06:16 | The Word | 1 Corinthians 13:11. The ways, not the people. |
-| 07:46 | From the table | Daily calls. Pat. The pay phone in 2000. |
-| 10:25 | The Sunday call | Thirty minutes. Donuts on the last truck Saturday. |
-| 13:08 | Close | Hand the job back. Keep the Sunday. |
+| 03:42 | The one who stayed | The brother's driveway. A nephew by text. Day thirty-six. |
+| 06:19 | The Word | 1 Corinthians 13:11. The ways, not the people. |
+| 07:49 | From the table | Daily calls. Pat. The pay phone in 2000. |
+| 10:28 | The Sunday call | Thirty minutes. Donuts on the last truck Saturday. |
+| 13:14 | Close | Hand the job back. Keep the Sunday. |
 
 ---
 

@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,869 (about 19:08 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,872 (about 19:09 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 31 lines (58% of words). JONATHON 26 lines (42% of words), 2 under 12 words (7.7%) |
 | Focus mark | Pick Up the Weight |
@@ -44,7 +44,7 @@ JONATHON: And I'll tell you why my sister would return a nickel, and why that se
 
 ## SEGMENT 1 · Cancun
 
-WES: Let's take the next few minutes on the deal. I want the ugly version, not the cleaned-up one you tell a regional meeting.
+WES: Cancun gets the next few minutes. I want the ugly version, not the cleaned-up one you tell a regional meeting.
 
 JONATHON: I was a senior rep. He was twenty-three, first big district. Rooftop units, forty-one schools, six months of his life. I walked into the last meeting because I could close it faster. I put my name as lead in the system. I told myself I was helping him. I was helping me. We got the President's Club trip. Dani and I went to Cancun. I toasted a deal that had his fingerprints on every page.
 
@@ -58,7 +58,7 @@ JONATHON: I don't know yet. Thursday I tell my regional VP. I've written the sen
 
 [BOARD: A team win is often just a rename.]
 
-WES: Look around your house this week. If you have a Cancun, the first move isn't the VP. The first move is the man you took it from. You already did that. The second move isn't hiding behind "the system cannot fix it." Tell the truth anyway.
+WES: Find the part that's yours and leave the rest. If you have a Cancun, the first move isn't the VP. The first move is the man you took it from. You already did that. The second move isn't hiding behind "the system cannot fix it." Tell the truth anyway.
 
 JONATHON: My sister would return a nickel. Same dad left. She's forty-one, Pasadena, and she would walk a coin back across a parking lot. I've used her as the good child in my head so I could stay the complicated one. That's mine too. I don't get to be the victim of my dad and the thief of a twenty-three-year-old in the same story without saying both out loud.
 
@@ -80,7 +80,7 @@ WES: I've done that. This time I didn't. I want you to hear that it did not feel
 
 [BOARD: Do not patch a hole with a kind lie.]
 
-WES: After I hung up I sat in the truck. I do all my important things in the truck. I thought about my dad in a hospital bed saying he was proud. I thought about a five-year-old looking for his dad in a cafeteria and finding a gap. The part that's mine isn't that my dad was quiet. The part that's mine is that I repeated him, and I used a headache to do it.
+WES: After I hung up I sat in the cab. That's where I do the sentences that cost me. I thought about my dad in a hospital bed saying he was proud. I thought about a five-year-old looking for his dad in a cafeteria and finding a gap. The part that's mine isn't that my dad was quiet. The part that's mine is that I repeated him, and I used a headache to do it.
 
 JONATHON: Ruby jailed Dani's phone at breakfast this week. Dropped it in PHONE JAIL and said, "Mom, you said." Dani laughed and left it. That's the little thing still working. I tell you that so I don't only tell you Cancun. The house has a sheriff, and the sheriff is seven, and she's not impressed with President's Club.
 
@@ -88,7 +88,7 @@ JONATHON: Ruby jailed Dani's phone at breakfast this week. Dropped it in PHONE J
 
 ## SEGMENT 3 · The Word
 
-WES: We've got a little under fifteen minutes, and I want the Bible open, because Paul already said the inside war. Romans seven, verse eighteen.
+WES: Romans seven is open with a little under fifteen minutes on the clock, because Paul already said the inside war. Verse eighteen.
 
 JONATHON: "For I know that good itself does not dwell in me, that is, in my sinful nature. For I have the desire to do what is good, but I cannot carry it out." That's the verse that makes a leaderboard look like a joke. I wanted to be the guy who develops young reps. I carried out the opposite.
 
@@ -132,15 +132,15 @@ WES: Third, for the man who can't see any part that's his. Everything is her, or
 
 ## SEGMENT 5 · What we're actually doing
 
-WES: We're about halfway through the last stretch. Thursday you tell the VP. What is the sentence?
+WES: Halfway. I want the part that's yours, not the borrowed one. Thursday you tell the VP. What is the sentence?
 
 JONATHON: "In 2019 I took lead on a district deal that belonged to one of my reps. I told him this week. I'm telling you because I don't want it sitting in the dark." Then I stop. I don't explain my childhood. I don't mention Cancun unless he asks. I don't ask him to fix the system. I tell him.
 
 WES: Good. I'm writing my oldest a follow-up this week. Not another confession. A Saturday. He picks the work. I show up. I want a new picture next to the missing shepherd. Not as a patch. As a next inch. I can't give him the cafeteria back. I can give him a man who shows up now without a headache story. That's a small thing and it's still the test. If I skip the Saturday I will have used the phone call as a plaque, and we're done with plaques that reset by Thursday.
 
-JONATHON: And the fan. You put a date on it. Saturday the twenty-seventh. Your son-in-law on the ladder. You on three rungs because of the knees. I'm texting you Thursday. I want a sentence, not K.
+JONATHON: And the fan. You pinned Saturday the twenty-seventh on the click. Your son-in-law on the ladder. You on three rungs because of the knees. I'm texting you Thursday. I want a sentence, not K.
 
-WES: You'll get a sentence. If we miss Saturday it will be weather, and I will say weather, and I will set the next morning. I'm not letting a clicking fan become fourteen months again. The gutter is already done. This is the new I'll-get-to-it, and it has a calendar square. I told my youngest I would get to it. He has started counting the clicks. A child counting your delay is a kind of mercy you don't want and still need.
+WES: You'll get a sentence. If we miss Saturday it will be weather, and I will say weather, and I will set the next morning. I'm not letting that clicking fan sit through another winter. The gutter is already done. This is the new I'll-get-to-it, and it has a calendar square. I told my youngest I would get to it. He has started counting the clicks. A child counting your delay is a kind of mercy you don't want and still need.
 
 JONATHON: I'm asking Dani for one night to keep going on October. We started. We haven't finished. Easter is coming and I can feel the weather. I don't want another cease-fire with a ham on top. I told her I would pick the night this week, not after the ham is already in the oven. She said, "Good. Write it where I can see it." So it's on the calendar on the fridge, in marker, the way Ruby writes chores. If I erase it I will have to explain myself to a seven-year-old sheriff, which is worse than explaining myself to a VP.
 
@@ -150,7 +150,7 @@ JONATHON: Door and house. Yeah, and— I keep wanting the door to count as the h
 
 [BOARD: Name it, date it, tell one man.]
 
-WES: There's a training session that walks this chapter if you want the longer version later. We're not walking the catalog today. The work this week is a sentence you already know.
+WES: There's a training session that walks this chapter if you want the longer version later. We're not flipping through that catalog this week. The work this week is a sentence you already know.
 
 ---
 
@@ -160,7 +160,7 @@ WES: Last few minutes. Name the part that's yours. One thing. Write it in a sent
 
 JONATHON: The VP sentence. Not my childhood. Don't pick your childhood. Pick your hands. A deal. A night. A word. A silence. If you can't think of one, ask the person who lives with you. She already has a list. What's yours, and don't say the fan again.
 
-WES: The Thanksgiving call. Not the fan. That's already dated. If you live alone, ask a brother, or ask God and sit still for ten minutes. The thing that shows up first is usually the one. Don't shop for a nicer one. A nicer one is how we stay in charge of the confession. The first one that makes your stomach tight is the assignment. Write it on a card. Say it out loud in the truck. Then, if a person is owed, call him before Friday. Don't wait for a cleaner feeling. The feeling isn't the door. The sentence is.
+WES: The Thanksgiving call. Not the fan. That's already dated. If you live alone, ask a brother, or ask God and sit still for ten minutes. The thing that shows up first is usually the one. Don't hunt for a prettier confession. A nicer one is how we stay in charge of the confession. The first confession that makes your gut tighten is the assignment. Write it on a card. Say it out loud in the truck. Then, if a person is owed, call him before Friday. Don't wait for a cleaner feeling. The feeling isn't the door. The sentence is.
 
 JONATHON: And if you already said it and they already knew, don't demand a ceremony. Let the knowing be enough, and then stop stealing, which is the part nobody wants to talk about after the sorry. I can feel myself wanting the VP conversation to be the ending so I can go back to being the honest guy. If I take the next young rep's work, the lunch was theater. I told Dani that last night. She said, "Then don't." Two words. Better than a lot of my paragraphs.
 

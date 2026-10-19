@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (1,940 spoken words, about 12:56). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (1,947 spoken words, about 12:59). Re-time them against the final edit before publishing.
 
 ---
 
@@ -40,10 +40,10 @@ Christian men podcast, Field Notes, Walk Steadfast, two-column list, 1 Peter 5:7
 |---|---|---|
 | 00:00 | Open | The first emoji. Friday is the check. |
 | 00:48 | Check the box | Knees. Same clinic. Birthdays. His job, his. |
-| 04:19 | The kitchen table | Guardians. The mortgage. Dani calls his mom. |
-| 07:42 | The Word | 1 Peter 5:7. Hand it back or hand it up. |
-| 09:57 | The two-column list | Mine. Not mine. A name. A step. |
-| 12:28 | Close | Wrong pile, right pile. Tuesday is go first. |
+| 04:20 | The kitchen table | Guardians. The mortgage. Dani calls his mom. |
+| 07:43 | The Word | 1 Peter 5:7. Hand it back or hand it up. |
+| 09:58 | The two-column list | Mine. Not mine. A name. A step. |
+| 12:31 | Close | Wrong pile, right pile. Tuesday is go first. |
 
 ---
 

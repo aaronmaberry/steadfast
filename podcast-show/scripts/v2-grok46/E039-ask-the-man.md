@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,800 (about 18:40 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,829 (about 18:52 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 40 lines (54% of words). JONATHON 36 lines (46% of words), 1 under 12 words (2.8%) |
 | Focus mark | Stop Waiting |
@@ -50,13 +50,13 @@ WES: A woman buying her own light is a kind of leaving you should bless. You use
 
 JONATHON: She had a coupon since April. My sister told her. She texted a photo later. Lamp on, book, reading glasses, no words. It's my lock screen now. Ruby's birthday card is Grandma reading with three arms on purpose. One for the book, one for the glasses, one for the lamp. It's on Mom's fridge next to the first painting. Mom turned fifty-nine on Tuesday.
 
-WES: Good. That's honor that's not a repair. I want the listener who only knows how to be useful to sit with a photo that has no task in it. You didn't fix a lamp. You watched a woman buy one.
+WES: Good. Asking the man is honor, not a repair ticket. I want the listener who only knows how to be useful to sit with a photo that has no task in it. You didn't fix a lamp. You watched a woman buy one.
 
 JONATHON: I almost offered to pay. I put my hands in my pockets instead. That felt like I was failing her. It was probably the first right thing I've done in a store with her in years.
 
 WES: Wait, back up. You almost paid. Did putting your hands in your pockets feel like failing her, or like blessing a woman who bought her own light?
 
-JONATHON: Both. It felt like failing. It was the first right thing. Can I ask you something hard? You carried a receipt nineteen days. Are you going to carry this week's ask that long, or send it from the porch?
+JONATHON: Both. It felt like failing. It was the first right thing. Did you ask the man, or ask a screen? You carried a receipt nineteen days. Are you going to carry this week's ask that long, or send it from the porch?
 
 WES: The porch. My daughter already caught me once. I don't get a second nineteen days. That's fair, but— I still want the diner to make it a scene.
 
@@ -175,21 +175,21 @@ WES: I'll tell Friday. Get your own no. It's cleaner than a fantasy. If you add 
 
 WES: Wait, back up. You're saving the ask for a better room. Is there a better room than a porch?
 
-JONATHON: No. I've rehearsed in better rooms my whole adult life. The rehearsal is how I stay safe. Dani can hear the difference. Can I ask you something hard? Are you going to ask the man this week, or are you going to wait until you feel ready?
+JONATHON: No. I've rehearsed the ask in better rooms my whole adult life. The rehearsal is how I stay safe. Dani can hear the difference. Did you ask the man, or ask a screen? Are you going to ask the man this week, or are you going to wait until you feel ready?
 
-WES: I'll ask. Ready is a feeling. On time is a clock. I've trusted the feeling too long. So which is it for you? A Tuesday that already has a meeting, or a quiet month HVAC is never going to hand you?
+WES: I'll ask. Ready is a feeling. On time is a clock. I've trusted the feeling too long. The man on the porch, or another screen you already rehearsed? A Tuesday that already has a meeting, or a quiet month HVAC is never going to hand you?
 
-JONATHON: [laughs] HVAC doesn't hand you a quiet month. If I wait I'll still be waiting when Theo has a license. That's fair, but— I still want to baptize delay and call it being careful.
+JONATHON: [laughs] HVAC never hands me a quiet month to ask. If I wait I'll still be waiting when Theo has a license. That's fair, but— I still want to baptize delay and call it being careful.
 
-WES: No, hold on. Careful is sometimes fear with a pressed shirt. Prayer is good. A day and a name is still required. Don't make it spiritual so you don't have to be specific.
+WES: No, hold on. Careful is sometimes fear wearing a pressed shirt on a porch. Prayer is good. A day and a name is still required. Don't make it spiritual so you don't have to be specific.
 
-JONATHON: Then I pick one ask. If I pick three I'll do none. One house. One name. One time. What are you picking, because if this is too many stories I'll hide in the list.
+JONATHON: Then I pick one ask. If I stack three asks I will cancel all three. One house. One name. One time. What are you picking, because if this is too many stories I'll hide in the list.
 
 WES: One man. The porch. Not a kitchen I can tidy first. There is no better room. I've left too many good talks on a table because I wanted a better closing line than eggs. Eggs were the start. The start is enough if I don't wait for a scene.
 
-JONATHON: Then I won't add a fourth sentence and get cute. Looking late on a porch is better than looking peaceful in a rehearsal. If I come home with almost, don't let me tell it as wisdom. Ask me whether I looked at him.
+JONATHON: Then I won't add a fourth sentence and get cute. Looking late on a porch is better than looking peaceful in a rehearsal. If I come home with almost, don't let me tell it as wisdom. Ask me whether I looked at the man on the porch.
 
-WES: I'll ask. You ask me whether the text left the porch. That's the only check I trust this week. A gas receipt lasted nineteen days once. This one leaves the porch before my kid has to say I'm not listening again, period.
+WES: I'll ask. You ask me whether the text left the porch. That's the only porch check I trust this week. A gas receipt lasted nineteen days once. This one leaves the porch before my kid has to say I'm not listening again, period.
 
 ## CLOSE (word for word)
 

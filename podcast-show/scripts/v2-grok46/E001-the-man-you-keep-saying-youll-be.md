@@ -5,7 +5,7 @@ Walk Steadfast · launch episode · script v2 (kickoff rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 32 min at 150 wpm (launch exception: 4,500-5,250 spoken words) |
-| Spoken words | 4,965 (about 33:06 at 150 wpm, before laughs and pauses) |
+| Spoken words | 4,984 (about 33:14 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 99 lines (51% of words). JONATHON 92 lines (49% of words), 0 under 12 words (0.0%) |
 | Focus mark | Stop Waiting |
@@ -58,7 +58,7 @@ JONATHON: He's been married twenty-seven years. Three kids. A daughter who's twe
 
 WES: He drives like he's late for something. He's never late for anything. He's got nowhere to be. He just drives like it.
 
-JONATHON: Here's the part that matters. For twenty-something years, Wes has been sitting across tables from men. Kitchen tables, church fellowship halls, deer camp. A couple of years ago he wrote down what he'd learned. That's the book. We're not walking the catalog today. That's my version. Now fix it.
+JONATHON: Here's the part that matters. For twenty-something years, Wes has been sitting across tables from men. Kitchen tables, church fellowship halls, deer camp. A couple of years ago he wrote down what he'd learned. That's the book. We're not walking Wes's book like a tour today. That's my version. Now fix it.
 
 WES: That's mostly right. You left out the part where I wasn't any good at this for a long time.
 
@@ -202,7 +202,7 @@ WES: What it's not. Nobody's going to yell at you or tell you to be an alpha any
 
 JONATHON: And we won't pretend we've got this figured out. I've got a seven-year-old who still has to jail my phone at supper, and we haven't even told that story yet.
 
-WES: We will. Look around your week this week. If there's a version of you you've been describing for years, and he only shows up on the days with pictures, you're in the right chair.
+WES: We will. Scan the week you're actually living. If there's a version of you you've been describing for years, and he only shows up on the days with pictures, you're in the right chair.
 
 [BOARD: A highlight reel is not a life. Tuesday is.]
 
@@ -294,17 +294,17 @@ WES: Keep the pictures. Just don't let them do the lying for you.
 
 [BOARD: Luke 16:12 (NIV) · "And if you have not been trustworthy with someone else’s property, who will give you property of your own?"]
 
-JONATHON: Okay, I'll be real, this is where I get uncomfortable. Because "dishonest with very little" is a heavy word for sitting in traffic. Guilt has never once gotten me off 1604. It just makes me feel bad in the left lane.
+JONATHON: Okay, I'll be honest, this is the part that makes my chest tight. Because "dishonest with very little" is a heavy word for sitting in traffic. Guilt has never once gotten me off 1604. It just makes me feel bad in the left lane.
 
-WES: Fair. The strong word is on purpose. We've got a whole vocabulary that makes leaving sound wise. Jesus names it so you can come back, be forgiven, and go in the house. Not so you'll sit in the car feeling terrible.
+WES: Fair. The strong word is on purpose. We've built a whole set of words that make sitting in the car sound wise. Jesus names it so you can come back, be forgiven, and go in the house. I'm not saying that so you'll stew in the left lane of 1604.
 
-JONATHON: Right, because feeling bad about hiding is just more hiding. It's hiding with extra steps.
+JONATHON: Right, because sitting in traffic feeling rotten is still hiding. It's hiding with extra steps.
 
 ---
 
 ## SEGMENT 6 · Pushback
 
-WES: Jonathon, you've been sitting on something this whole time. Go ahead and push.
+WES: Jonathon, you've been chewing on a pushback since we sat down. Go ahead and push.
 
 JONATHON: Yeah, here's my problem with all of this. Some Tuesdays I'm just tired. Dani's on nights, I've had the kids since five, Theo's been sticky since five-oh-two. Is it a sin to sit in the car for ten minutes before I go in? Because I'm going to be honest, some days the car is the only quiet I get.
 
@@ -414,7 +414,7 @@ WES: She's right. It's just water.
 
 JONATHON: And I wouldn't have been there for it. I'd have been on 1604, and the sitter would've texted me a picture. Instead I was standing in it. My socks are still wet, and I would have missed it for brake lights.
 
-WES: Look around your house this week. Whatever your 1604 is, find out who covers for it when you take the long way. It's usually somebody you love. Same leaving. Different furniture.
+WES: Walk the rooms you keep saying you'll finish. Whatever your 1604 is, find out who covers for it when you take the long way. It's usually somebody you love. Same leaving. Different furniture.
 
 ---
 

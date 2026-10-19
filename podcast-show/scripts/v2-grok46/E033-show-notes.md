@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,898 spoken words, about 19:19). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,896 spoken words, about 19:18). Re-time them against the final edit before publishing.
 
 ---
 
@@ -40,11 +40,11 @@ Christian men podcast, Genesis 2:24, leaving and cleaving, mother-in-law, adult 
 | 00:00 | Open | Two honks. Who is your wife. The screen door. |
 | 01:06 | Two honks | Donuts. The visor. Pot pie. "What am I for?" |
 | 05:24 | The late leave | Ten minutes away. The key. Dani thought she knew her. |
-| 08:29 | The Word | Genesis 2:24. Leave is not a lamp. |
-| 11:17 | Pushback | Rent, the five-year silence, the parent who kept a vote, the porch. |
-| 14:33 | Watercolor | Saturday at ten. A quiet screen door. Curfew. |
-| 17:04 | This week's challenge | Thank you, no, I love you. |
-| 18:46 | Close | First loyalty moves. Want is enough. |
+| 08:30 | The Word | Genesis 2:24. Leave is not a lamp. |
+| 11:14 | Pushback | Rent, the five-year silence, the parent who kept a vote, the porch. |
+| 14:31 | Watercolor | Saturday at ten. A quiet screen door. Curfew. |
+| 17:02 | This week's challenge | Thank you, no, I love you. |
+| 18:44 | Close | First loyalty moves. Want is enough. |
 
 ---
 

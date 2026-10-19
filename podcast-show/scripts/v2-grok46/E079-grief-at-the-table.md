@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 3,190 (about 21:16 at 150 wpm, before laughs and pauses) |
+| Spoken words | 3,182 (about 21:13 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 56 lines (54% of words). JONATHON 53 lines (46% of words), 4 under 12 words (7.5%) |
 | Focus mark | Pick Up the Weight |
@@ -44,7 +44,7 @@ JONATHON: And I'll tell you what Ruby asked about crying in front of her.
 
 ## SEGMENT 1 · Crooked since 85
 
-WES: Pull up a chair. Let's take the next few minutes on a tailgate, because that's where this started, and I didn't cry at the hospital.
+WES: Pull up a chair. Start on the 1990 tailgate, where I finally cried after a dry hospital.
 
 JONATHON: Your dad died on a Sunday night in October, nine years ago. You held his hand. You went to work Monday. You spoke at the funeral. You didn't cry.
 
@@ -64,7 +64,7 @@ JONATHON: After your dad died you skipped four Thursdays. Did you want him to ch
 
 WES: Mr. Abernathy's funeral, church past the highway, linemen, about thirty men like me who'd never met. The diner owner gave me the mug. He'd want you to have it. It sat in a cabinet. I stayed away most of a year. When I went back I ordered his breakfast. Two eggs over medium, dry wheat toast. Same waitress. He'd be glad you came back. First time I cried about him.
 
-JONATHON: Dani's oven. After a loss on her floor she comes home and cleans the oven. First year I asked three questions in a row. She said please stop. Now coffee on the counter, me on the kitchen floor where she can see me.
+JONATHON: Dani's oven. After a death on her unit she works the oven. First year I asked three questions in a row. She said please stop. Now coffee on the counter, me on the kitchen floor where she can see me.
 
 [BOARD: A diner mug belongs out of the cabinet.]
 
@@ -74,7 +74,7 @@ WES: A table is a diner. A floor is an oven. A tailgate is a fence. Put it somew
 
 ## SEGMENT 3 · The Word
 
-WES: I've got a little under ten minutes, and I want the Bible open. Romans twelve, verse fifteen.
+WES: Under ten. Grief at the table. Open it before we get cute. Romans twelve, verse fifteen.
 
 JONATHON: "Rejoice with those who rejoice; mourn with those who mourn."
 
@@ -100,13 +100,13 @@ WES: Ruby's classmate lost his grandpa.
 
 JONATHON: She asked, is Grandma going to die. I said someday. She asked, will you cry in front of me. I said yes. She said okay, and went back to macaroni. That's the whole theology a seven-year-old needed.
 
-WES: Last few minutes on what we're actually doing. I take the afternoon off on the anniversary, a week from Thursday, about the fourteenth. Tailgate with my brother. One thing I miss. I want to pick up my youngest after school and bring him. He was six when Granddad died. You don't like that.
+WES: Last few minutes on the table, and who you will name as missing. I take the afternoon off on the anniversary, a week from Thursday, about the fourteenth. Tailgate with my brother. One thing I miss. I want to pick up my youngest after school and bring him. Granddad died the year that boy was six. You don't like that.
 
-JONATHON: I still don't. No, hold on. Are you bringing him so you don't have to cry in front of your brother? Leave the boy home the first time. Let two brothers say one thing without a sixteen-year-old managing their faces. I'm unsettled. I'm saying it so it doesn't become a quiet fight.
+JONATHON: I still don't. No, hold on. Are you picking him up so you can hide the tears behind a sixteen-year-old? Leave the boy home the first time. Let two brothers say one thing without a sixteen-year-old managing their faces. I'm unsettled. I'm saying it so it doesn't become a quiet fight.
 
 WES: I'm unsettled too. I'll sit with it. I won't pretend I already know. I'm asking the boy if he wants to come, not drafting him.
 
-JONATHON: I'll tell Dani before February that the day after is grief. We'll plan the evening on purpose. I'll tell Ruby the true thing when her day comes. A reminder a week ahead: Dad calls next week.
+JONATHON: I'll tell Dani before February that the day after is grief. We'll plan the evening on purpose. I'll tell Ruby the true thing when her day comes. Week-ahead ping: Dad's call is coming.
 
 ---
 
@@ -116,7 +116,7 @@ WES: This week's challenge. Put grief somewhere a brother can find you. A table.
 
 JONATHON: If your father is alive and gone, name the day after. If your person died, pick the anniversary and don't go to work like nothing happened. If you're single, mourn with somebody. Don't improve them.
 
-WES: Look around your house this week. The mug may still be in a cabinet. The door may still be straight. Put it on a table.
+WES: Look at the table and who is still missing. The mug may still be in a cabinet. The door may still be straight. Put it on a table.
 
 JONATHON: I'll put date night on the day after, in pen. I'll tell her about steering his truck in a church lot at seven, in his lap, him on the pedals. That's one thing I miss.
 
@@ -174,7 +174,7 @@ JONATHON: I'll take the mug out of the cupboard. If I leave it in I'll admit I'm
 
 ## SEGMENT 10 · More on a 5
 
-WES: Dani's oven. After a loss on her floor she comes home and cleans it. First year you asked three questions in a row. She said please stop. Now coffee on the counter, you on the kitchen floor where she can see you.
+WES: Dani's oven. After a death on her unit she works the oven. First year you asked three questions in a row. She said please stop. Now coffee on the counter, you on the kitchen floor where she can see you.
 
 JONATHON: That's mourn with. Did the three questions feel like love while you were asking them? Because I still want to improve a person who is just sad.
 
@@ -202,17 +202,17 @@ WES: She wanted a yes she could trust, then macaroni. I wanted a longer talk. Sh
 
 JONATHON: [laughs] You wanted a seminar. She wanted a dad. Are you going to turn February into a seminar anyway, because I can feel a talk coming?
 
-WES: I wanted a seminar. She gave me a yes. I'll tell her in February, not on a porch in October. A reminder a week ahead: Dad calls next week. That's a table, not a speech.
+WES: I wanted a seminar. She gave me a yes. February is when I tell her, not a porch speech in October. Week-ahead ping: Dad's call is coming. That's a table, not a speech.
 
-JONATHON: I'll tell her in February. If I start a speech I will stop at yes. Yes is the whole thing. Macaroni can have the rest of the night.
+JONATHON: I'll tell her in February. If I launch a talk I will cut it at yes. Yes is the whole thing. Macaroni can have the rest of the night.
 
 ---
 
 ## SEGMENT 13 · More on fence 8
 
-WES: Tailgate with my brother. One thing I miss. I want to bring the youngest. He was six when Granddad died.
+WES: Tailgate with my brother. One thing I miss. I want to bring the youngest. Granddad died the year that boy was six.
 
-JONATHON: I still don't love that. Are you bringing him so you don't have to cry in front of your brother? Leave him home the first time. Let two brothers say one thing without a sixteen-year-old managing their faces.
+JONATHON: I still don't love that. Are you picking him up so you can hide the tears behind a sixteen-year-old? Leave him home the first time. Let two brothers say one thing without a sixteen-year-old managing their faces.
 
 WES: I'm unsettled too. I'll sit with it. I won't pretend I already know. I'm asking the boy if he wants to come, not drafting him. That's the line I can hold this week.
 
@@ -222,11 +222,11 @@ JONATHON: I'll tell Dani before February that the day after is grief. We'll plan
 
 ## SEGMENT 14 · More on fence 9
 
-WES: Near, not finished. A pliers year. A day after you refuse to name. You don't have to hurry up.
+WES: Near, not finished. A pliers year. A day after you refuse to name. Nobody is grading you on speed.
 
-JONATHON: How long is it supposed to take? That's the table question I still want. I wanted a number so I could be done. Do you still want a number?
+JONATHON: How long before I'm allowed to be done? That's the table question I still want. I wanted a deadline so I could graduate from grief. Do you still want a finish line?
 
-WES: I want a number. The psalm does not give one. It gives a nearness. Nearness is better and harder. Hope isn't a hurry. Hope is a table you keep setting.
+WES: I want a number. The psalm never hands you a finish line. It gives a nearness. Nearness is better and harder. Hope isn't a hurry. Hope keeps setting plates for an empty chair.
 
 JONATHON: I'll stop asking for a deadline. If I ask a man if he's over it I will unsay it and ask about the steak, or the exit.
 
@@ -294,13 +294,13 @@ JONATHON: I'll let some jobs stay half done. If I finish them to look faithful I
 
 ## SEGMENT 20 · More on a 15
 
-WES: On Abernathy's day I order his breakfast every year. That's a date, not a mood. A list a man can keep when a feeling won't cooperate.
+WES: Abernathy's day I still buy his breakfast. That's a date, not a mood. A list a man can keep when a feeling won't cooperate.
 
 JONATHON: Is five dates a way to be a good son on paper, or do you actually show up on them when the week is ugly?
 
-WES: I have skipped. I'm naming that. This year I write them where I can see them. Dad's day. Dad's birthday. Granddad's. Abernathy's. My mother-in-law's, because she goes quiet every April.
+WES: I have skipped. I'm naming that. This year I write them where I can see them. Dad's day. Dad's birthday. Granddad's. Abernathy's. April is my mother-in-law's silent month.
 
-JONATHON: I'll write February and November. Her birthday. The 61-year-old's mother. If I skip I will say I skipped, not that a region got loud. Regions always get loud.
+JONATHON: I'll write February and November. Her birthday. The 61-year-old's mother. If I miss the date I will own the miss, not a loud territory. Regions always get loud.
 
 ---
 
@@ -322,7 +322,7 @@ WES: He's near. Being crushed isn't a failure to get over it. It's a location he
 
 JONATHON: Will you still try to hurry the boy at the barn? Because quiet makes me nervous, and I fill it, and that's improve wearing care.
 
-WES: He asked, do I have to talk. No. Okay. I'll come. I don't get a seminar in a barn so I feel like a good father.
+WES: He asked, do I have to talk. No. Okay. I'll come. I don't get a barn lecture so I feel like a dad.
 
 JONATHON: I won't fill Ruby's February with a seminar. Yes. Then macaroni. If I start a second paragraph I will stop. She already has the theology. I need to keep it.
 
@@ -336,7 +336,7 @@ JONATHON: Ask me Friday whether the date is in pen, and whether I sat on a floor
 
 WES: I'll ask. Pen and a floor. Not a quiz. Not a hinge you fight with your brother. A tailgate. A mug out. A yes at macaroni.
 
-JONATHON: Pen. Floor. Truck sentence. Yes. If I skip I will say I skipped. I won't call it a loud week.
+JONATHON: Pen. Floor. Truck sentence. Yes. If I miss the pen I will say so. I won't call it a loud week.
 
 
 ---

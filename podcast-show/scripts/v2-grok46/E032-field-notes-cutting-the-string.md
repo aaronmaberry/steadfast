@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 2,041 (about 13:36 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,056 (about 13:42 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 28 lines (53% of words). JONATHON 26 lines (47% of words), 0 under 12 words (0.0%) |
 | Focus mark | Pick Up the Weight |
@@ -42,7 +42,7 @@ JONATHON: And I will tell you what a twenty-two-year-old texted me, and why I to
 
 ## SEGMENT 1 · She talked to him
 
-WES: Let's take the next few minutes on the receipt. Thursday. Your mom. The AC.
+WES: Let's take the next few minutes on whether the string actually got cut. Thursday. Your mom. The AC.
 
 JONATHON: She let the man in. She talked to him. She called me at eleven. "He says it was the capacitor. He explained it to me. I understood about half." Then she said, "You can still come see me." Not should.
 
@@ -64,15 +64,15 @@ JONATHON: She does. I also told myself I was busy. I was hiding. I let my wife b
 
 [BOARD: Do not outsource the Sunday voice.]
 
-WES: Look around your house this week. If your wife has been the switchboard, that's not a small thing. Thank her. Then take the next call yourself, even if you're bad at it. I've done the garage version in my own house. I called it giving them girl time. It was me not wanting to sit in a conversation I could not fix. Fixing isn't the assignment on Sunday. Sitting is.
+WES: Look at the string you keep saying you'll cut. If your wife has been the switchboard, that's not a small thing. Thank her. Then take the next call yourself, even if you're bad at it. I've done the garage version in my own house. I called it giving them girl time. It was me not wanting to sit in a conversation I could not fix. Fixing isn't the assignment on Sunday. Sitting is.
 
-JONATHON: I already told her I would take Sunday. She said, "I know." She has known the whole ten years. That's the part that sat with me in the truck. She never made a speech. She just kept answering.
+JONATHON: I already told her I would take Sunday. She said, "I know." She has known the whole ten years. That's the part that rode home with me after I promised Sunday. She never made a speech. She just kept answering.
 
 ---
 
 ## SEGMENT 2 · The one who stayed
 
-WES: Wednesday I told my older brother about the driveway. The Buick. Mom's hand on the roof. The sentence she said to me. He said, "Well." Then he said, "She never said that to me." Then, "I never left. Nobody stands in the driveway for the one who stays."
+WES: Wednesday I told my older brother about the driveway. The Buick. Mom's hand on the roof. The sentence she said to me. He said, "Well." After that: "She never said that to me." After that: "I never left. Nobody stands in the driveway for the one who stays."
 
 JONATHON: Oh, man. That's a whole second show sitting in one line. What did you say back, because I already know I would have tried to fix it.
 
@@ -80,7 +80,7 @@ WES: I said I was sorry. He said it's not my fault, it's just how it went. Then 
 
 JONATHON: Wait, back up. You just let cattle prices be the end of it? I would have written a paragraph. I'm trying to learn your version. Did that feel like a sit, or like you left him in the wound?
 
-WES: It felt like both. Cattle prices was his way of staying in the conversation without staying in the wound. I can live with that. I wanted a bow I could bring back here. He wouldn't give me one. We're about halfway, and I want the other text on the table, because it's not in person and it should not be cleaned up.
+WES: It felt like both. Cattle prices was his way of staying in the conversation without staying in the wound. I can live with that. I wanted a bow I could bring back here. He wouldn't give me one. Middle stretch, I want the other text on the table, because it's not in person and it should not be cleaned up.
 JONATHON: Yeah. A young man checking in by text is still a person, and it shouldn't be cleaned up into a visit he didn't ask for.
 WES: A young man checking in by text is still checking in. Don't turn it into a visit he didn't ask for.
 
@@ -132,7 +132,7 @@ JONATHON: Dani gets it first now, or she's supposed to. I still fail that. The g
 
 ## SEGMENT 5 · The Sunday call
 
-WES: Last few minutes on the tool. The Sunday call. Not a work order. A clock time. A few questions that are about her.
+WES: Last few minutes on the cut, while the string is still in your hand. The Sunday call. Not a work order. A clock time. A few questions that are about her.
 
 JONATHON: Put it on the calendar the way you put a review. Thirty minutes. Phone in your hand, not your wife's. Ask three things. Don't mention the unit unless she does. If she starts a job, write it down and pick one you won't take.
 

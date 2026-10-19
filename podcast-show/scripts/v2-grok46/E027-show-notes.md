@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,969 spoken words, about 19:48). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,990 spoken words, about 19:56). Re-time them against the final edit before publishing.
 
 ---
 
@@ -37,11 +37,11 @@ Christian men podcast, father wound, Ephesians 6:4, Walk Steadfast, empty chair,
 | 00:00 | Open | Be good for your mom. A dent in the tailgate. |
 | 01:04 | The tailgate | Four innings. The lamp. A ring in a glove box. |
 | 04:04 | The shoes and the paper | Saturday polish. No more conditions. |
-| 07:50 | The Word | Do not exasperate. Stay without a receipt. |
-| 10:37 | Pushback | Naming is not a personality. Safe house. |
-| 12:55 | What we're actually doing | A slush and a sentence. The fridge paper. |
-| 16:17 | This week's challenge | Name the chair. One inch. |
-| 19:21 | Close | Do not heal it in one sitting. |
+| 07:52 | The Word | Do not exasperate. Stay without a receipt. |
+| 10:38 | Pushback | Naming is not a personality. Safe house. |
+| 12:57 | What we're actually doing | A slush and a sentence. The fridge paper. |
+| 16:21 | This week's challenge | Name the chair. One inch. |
+| 19:30 | Close | Do not heal it in one sitting. |
 
 ---
 

@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (1,983 spoken words, about 13:13). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (1,995 spoken words, about 13:18). Re-time them against the final edit before publishing.
 
 ---
 
@@ -37,11 +37,11 @@ Christian men podcast, Field Notes, forgive your father, Colossians 3:13, absent
 |---|---|---|
 | 00:00 | Open | Nine minutes on the contact. "Who died?" Friday is the check. |
 | 00:59 | The truck | Twelve minutes. The name. The rods. "Not yet." A real laugh. Mad, not sad. |
-| 04:23 | Proud without a reason | Wes tells his oldest. Wheel bearing. Fredericksburg. |
-| 06:40 | The Word | Colossians 3:13. Forgiveness is not pretending. |
-| 08:12 | From the table | Do I have to forgive a dad who is not sorry? |
-| 11:06 | The two-call rule | One question for the man. Then God, about the floor. |
-| 12:48 | Close | A start is not the whole debt. Two calls. |
+| 04:24 | Proud without a reason | Wes tells his oldest. Wheel bearing. Fredericksburg. |
+| 06:42 | The Word | Colossians 3:13. Forgiveness is not pretending. |
+| 08:14 | From the table | Do I have to forgive a dad who is not sorry? |
+| 11:08 | The two-call rule | One question for the man. Then God, about the floor. |
+| 12:53 | Close | A start is not the whole debt. Two calls. |
 
 ---
 

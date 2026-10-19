@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 2,272 (about 15:09 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,310 (about 15:24 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 36 lines (56% of words). JONATHON 31 lines (44% of words), 0 under 12 words (0.0%) |
 | Focus mark | Work for God's Pay |
@@ -36,7 +36,7 @@ WES: This is Walk Steadfast. I'm Wes Hart.
 
 JONATHON: And I'm Jonathon. Friday we check the box. We do not dress it up.
 
-WES: Tuesday we asked you to name one thing you've been waiting to feel like doing, then do it anyway. If you tried it, or if you didn't, stay. Before we're done I'll tell you what my wife said about a water stain, and he will tell you what a seven-year-old wants to hand a seventy-seven-year-old.
+WES: Tuesday we asked you to name one thing you've been waiting to feel like doing, then do it anyway. If you went to the attic, or if you only felt fire, stay. Before we're done I'll tell you what my wife said about a water stain, and he will tell you what a seven-year-old wants to hand a seventy-seven-year-old.
 
 JONATHON: And I'll tell you the fourth line I wrote and then crossed out before anybody else could see it.
 
@@ -44,7 +44,7 @@ JONATHON: And I'll tell you the fourth line I wrote and then crossed out before 
 
 ## SEGMENT 1 · Check the box
 
-WES: Let's take the next few minutes on the number, because Friday is the receipt. The porch. Every night, out loud, feel it or not. Five out of seven. Not seven.
+WES: Let's spend the next stretch on the porch count, because Friday is when we count it. The porch. Every night, out loud, feel it or not. Five out of seven. Not seven.
 
 JONATHON: Dani had six in her head. I had four. Nobody wins that pool. Which two nights did you skip, and did you know you were skipping while you skipped?
 
@@ -104,7 +104,7 @@ JONATHON: No. Not this week. I'm saying it out loud so it's on the record. I wro
 
 [BOARD: A crossed-out line is still a line you saw.]
 
-WES: I can guess. I'm not going to say it for you. Look around your house this week. There's a line you've been waiting to feel like writing.
+WES: I can guess. I'm not going to say it for you. Look at the stain and the door you still lift. There's a line you've been waiting to feel like writing.
 
 ---
 
@@ -128,7 +128,7 @@ JONATHON: That's the sentence I needed at thirty, and I did not have anybody to 
 
 ## SEGMENT 4 · From the table
 
-WES: Last few minutes on the man who asked. Forty-one. Crop insurance, farmers and ranchers west of us. He's been at the table about two months. He said I could bring it. "Everybody at church talks about their calling. My pastor. My small group leader. My brother-in-law's a missionary. I sell crop insurance. I don't feel called to anything. What if I'm not?"
+WES: Last few minutes on the man who asked. Forty-one. Crop insurance, farmers and ranchers west of us. He's been at the table about two months. He said I could carry his question into the room. "Everybody at church talks about their calling. My pastor. My small group leader. My brother-in-law's a missionary. I sell crop insurance. I don't feel called to anything. What if I'm not?"
 
 JONATHON: I was this guy for about two years after I came to faith. Called meant preachers. Called meant Africa. Then Dallas, and I felt called to everything for a weekend. Start a ministry. Quit sales. Drive home and I wasn't called to bath time. That's the truth. I felt called to the whole world and I couldn't make it to the tub.
 
@@ -146,7 +146,7 @@ WES: When a hailstorm comes through, he drives out the same day. Before the adju
 
 JONATHON: Nobody else does. His pastor doesn't. His brother-in-law's on the other side of the world. He's the one at the table. Trust in the Lord and do good. That's what it looks like out west of us in a bad week.
 
-WES: If a man tells you he doesn't feel called, don't hand him a test to find his gift. Ask him what he did Tuesday. Then ask him who was glad he did it. That's usually where the calling's been sitting the whole time.
+WES: If a man tells you he doesn't feel called, don't hand him a test to find his gift. Ask him what Tuesday actually looked like. Then ask him who was glad he did it. That's usually where the calling's been sitting the whole time.
 
 JONATHON: I'm taking that second question to my Monday meeting. "Who was glad you did it?" I've never once asked a rep that, and I should have.
 
@@ -160,15 +160,15 @@ JONATHON: Wait, back up. Three, or eleven with Greek on it so I can feel holy wh
 
 WES: Three's the point. Three's a list you can't hide behind. If it doesn't fit on one line, it's a someday thing. "Be a better husband" doesn't fit. "Fix the guest room ceiling" fits. Keep the papers. By December you'll see what your calling looked like, one line at a time. What are you actually writing?
 
-JONATHON: Home, Tuesday bath night, phone in the console. Work, ask my rep if he booked the three days. Ask, not tell. Somebody who can't pay me back, ask Virgil about the screws. The fourth line stayed crossed out. Can I ask you something hard?
+JONATHON: Home, Tuesday bath night, phone in the console. Work, ask my rep if he booked the three days. Ask, not tell. Somebody who can't pay me back, ask Virgil about the screws. The fourth line stayed crossed out. Is the feeling the fire, or just your chest?
 
 WES: Go.
 
 JONATHON: Are you going into that attic Saturday, or are you going to let Oklahoma wait another July because the door is still the real job and you can hide behind it?
 
-WES: [beat] Attic Saturday. She named Oklahoma. The back door is still unfinished. Those are different lists. I will not let the jamb count as the stain. Home is the ceiling. Work is keep knocking on the truck. Don't push. Somebody who can't pay me back: Tuesday PT with my mother, every rep she counts, no complaint in the truck on the way home. She's earned that.
+WES: [beat] Attic Saturday. She named Oklahoma. The back door still sticks, and I still lift and shove. Those are different lists. I will not let the jamb count as the stain. Home is the ceiling. Work is keep knocking on the truck. Don't push. Somebody who can't pay me back: Tuesday PT with my mother, every rep she counts, no complaint in the truck on the way home. She's earned that.
 
-JONATHON: [laughs] You're going to get a lot of mileage out of that ceiling, and I am going to enjoy watching it. What are you picking, for real?
+JONATHON: [laughs] You're going to get a lot of mileage out of that ceiling, and I am going to enjoy watching it. Three lines and the attic, or eleven more feelings?
 
 WES: The attic. Not the door. The door stays on the list I keep calling Saturday when nobody names it. That's fair, but— no, that's actually the split. Oklahoma this week. The hinge is another week.
 
@@ -176,9 +176,9 @@ JONATHON: No, hold on. You've got a habit of stacking so you can miss both and f
 
 WES: [laughs] Attic. If you eat most nights alone, you still write three lines. Nobody has to hand you an assignment. You write it yourself. Divorced dads, one line is always for your kids, even on the weeks they aren't with you. Older men, put a younger man on the list. Not to fix him. To call him.
 
-JONATHON: Then I ask Virgil about the screws on a Tuesday that already has a meeting. Does that sound like a quota?
+JONATHON: Then I ask Virgil about the screws on a Tuesday that's already loud. Does asking about screws sound like I'm grading a chest for fire?
 
-WES: It sounds like a man who knows his calendar. Ask inside the busy, or you never will. That's the whole takeaway. Three lines. Not eleven. The attic this Saturday. The door still waits.
+WES: That sounds like three lines, an attic, and a door you still lift. Ask while the week is loud, or you'll wait forever. That's the whole takeaway. Three lines. Not eleven. The attic this Saturday. The door still waits.
 
 [BOARD: Three lines beat eleven that never move.]
 
@@ -186,7 +186,7 @@ WES: It sounds like a man who knows his calendar. Ask inside the busy, or you ne
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. You're already called. Look where you're standing.
+WES: Keep this: you're already called. Look where you're standing. You're already called. Look where you're standing.
 
 JONATHON: And write the next thing. One line. Not eleven. Three you can finish.
 

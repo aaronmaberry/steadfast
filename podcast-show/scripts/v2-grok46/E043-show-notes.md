@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,820 spoken words, about 18:48). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,868 spoken words, about 19:07). Re-time them against the final edit before publishing.
 
 ---
 
@@ -34,13 +34,13 @@ Christian men podcast, vision, Proverbs 29:18, Walk Steadfast, Go First
 |---|---|---|
 | 00:00 | Open | Open. |
 | 00:53 | Fort Sam and the back of the stone | Fort Sam and the back of the stone. |
-| 02:52 | Abilene and a pecan | Abilene and a pecan. |
-| 04:58 | The Word | The Word. |
-| 06:17 | She wants to sing | She wants to sing. |
-| 08:14 | Pushback | Pushback. |
-| 09:51 | This week's challenge | This week's challenge. |
-| 14:34 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
-| 18:23 | Close | Close. |
+| 02:55 | Abilene and a pecan | Abilene and a pecan. |
+| 05:02 | The Word | The Word. |
+| 06:20 | She wants to sing | She wants to sing. |
+| 08:18 | Pushback | Pushback. |
+| 09:59 | This week's challenge | This week's challenge. |
+| 14:43 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
+| 18:42 | Close | Close. |
 
 ---
 

@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (3,199 spoken words, about 21:20). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (3,195 spoken words, about 21:18). Re-time them against the final edit before publishing.
 
 ---
 
@@ -37,29 +37,29 @@ Christian men podcast, aging, Proverbs 20:29, generations, Walk Steadfast
 | 00:50 | Three-eighths | Three-eighths |
 | 02:10 | When Theo's in school | When Theo's in school |
 | 03:20 | Hood and pot roast | Hood and pot roast |
-| 04:15 | The Word | The Word |
-| 05:34 | Challenge | Challenge |
-| 06:20 | More on the 1 | More on the 1 |
-| 07:09 | More on the 2 | More on the 2 |
-| 07:58 | More on the 3 | More on the 3 |
-| 08:47 | More on the 4 | More on the 4 |
-| 09:34 | More on the 5 | More on the 5 |
-| 10:25 | More on the 6 | More on the 6 |
-| 11:13 | More on the 7 | More on the 7 |
-| 12:00 | More on a 8 | More on a 8 |
-| 12:47 | More on a 9 | More on a 9 |
-| 13:28 | More on a 10 | More on a 10 |
-| 14:16 | More on a 11 | More on a 11 |
-| 15:07 | More on a 12 | More on a 12 |
-| 15:48 | More on a 13 | More on a 13 |
-| 16:30 | More on a 14 | More on a 14 |
-| 17:11 | More on when 15 | More on when 15 |
-| 17:46 | More on when 16 | More on when 16 |
-| 18:27 | More on when 17 | More on when 17 |
-| 19:04 | More on when 18 | More on when 18 |
-| 19:41 | More on when 19 | More on when 19 |
-| 20:23 | More on when 20 | More on when 20 |
-| 20:59 | Close | Close |
+| 04:12 | The Word | The Word |
+| 05:31 | Challenge | Challenge |
+| 06:18 | More on the 1 | More on the 1 |
+| 07:07 | More on the 2 | More on the 2 |
+| 07:54 | More on the 3 | More on the 3 |
+| 08:43 | More on the 4 | More on the 4 |
+| 09:31 | More on the 5 | More on the 5 |
+| 10:22 | More on the 6 | More on the 6 |
+| 11:12 | More on the 7 | More on the 7 |
+| 11:58 | More on a 8 | More on a 8 |
+| 12:46 | More on a 9 | More on a 9 |
+| 13:26 | More on a 10 | More on a 10 |
+| 14:14 | More on a 11 | More on a 11 |
+| 15:06 | More on a 12 | More on a 12 |
+| 15:46 | More on a 13 | More on a 13 |
+| 16:29 | More on a 14 | More on a 14 |
+| 17:08 | More on when 15 | More on when 15 |
+| 17:45 | More on when 16 | More on when 16 |
+| 18:26 | More on when 17 | More on when 17 |
+| 19:02 | More on when 18 | More on when 18 |
+| 19:39 | More on when 19 | More on when 19 |
+| 20:21 | More on when 20 | More on when 20 |
+| 20:58 | Close | Close |
 
 ---
 

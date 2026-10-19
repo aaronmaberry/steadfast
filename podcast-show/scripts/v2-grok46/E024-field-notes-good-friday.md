@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 2,037 (about 13:35 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,035 (about 13:34 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 23 lines (57% of words). JONATHON 19 lines (43% of words), 1 under 12 words (5.3%) |
 | Focus mark | Go First |
@@ -74,7 +74,7 @@ JONATHON: I'm still in the trees until Sunday night. I didn't move the date. I w
 
 ## SEGMENT 2 · From the table
 
-WES: Off. If I pick it up at 12:10 I will say so. We're about halfway, and I want the question. What do I do with Good Friday as a dad?
+WES: Off. If I pick it up at 12:10 I will say so. This is the middle of Good Friday, and I want the dad question. What do I do with Good Friday as a dad?
 
 JONATHON: I wanted a craft. Ruby wanted a part. Theo wanted the floor. The craft would have been a hide. So which is it? A craft that looks holy, or a part that lets her be the crowd?
 
@@ -90,7 +90,7 @@ WES: No. I'm saying that at myself. I hid in tidy for years. A clean truck. A fi
 
 ## SEGMENT 3 · The Word
 
-WES: We've got a little under eight minutes, and I want one verse we can sit under. Isaiah fifty-three, verse five.
+WES: Eight minutes under Isaiah, a verse we can sit under. Fifty-three, verse five.
 
 JONATHON: I need the wounds, not a mood. A mood won't get me through Sunday night. Does a mood ever get you through a hidden thing you still haven't named?
 
@@ -98,7 +98,7 @@ WES: No. A mood is a costume. "But he was pierced for our transgressions, he was
 
 [BOARD: Romans 5:8 (NIV) · "But God demonstrates his own love for us in this: While we were still sinners, Christ died for us."]
 
-JONATHON: Still sinners. Still in the trees. Still handing a question to Mom. Still missing four o'clock. He came anyway. I don't want to use that as a blanket for another delay. I want it as a reason to walk. I told Dani that last night and she said, "Then walk Sunday and walk tonight. Both." She's right. Tonight is the reading. Sunday is the phone. If I mix them I will do neither well. I've mixed holy things before so I could feel busy and stay still.
+JONATHON: Still sinners. Still in the trees. Still handing a question to Mom. Still missing four o'clock. He came anyway. I don't want to use that as a blanket for another delay. I want it as a reason to walk. Last night Dani answered, "Then walk Sunday and walk tonight. Both." She's right. Tonight is the reading. Sunday is the phone. If I mix them I will do neither well. I've mixed holy things before so I could feel busy and stay still.
 
 WES: Use it as a reason to walk. Then turn something off from noon to three. Then read the thing tonight if you have not. Then tell one person what you turned off. I will tell my wife at lunch what I turned off, which is the same phone I used to hide a five-hour gap. The irony isn't lost on me. Irony isn't repentance. Turning it off is closer. If I pick it up at 12:10 to see if the world ended, I will say so here. I would rather look small than look holy.
 
@@ -108,9 +108,9 @@ WES: Use it as a reason to walk. Then turn something off from noon to three. The
 
 ## SEGMENT 4 · Read it at supper
 
-WES: Last few minutes on the tool. Read the Passion at dinner. John eighteen and nineteen, or Luke twenty-three. You don't have to finish in one sitting. You do have to start. Assign a crowd if you have a child who will take it. Let a little one sit under the table. Phones in the basket. If you eat alone, read it out loud anyway. Then sit quiet. Then do the noon-to-three if you can. If you work a site, tell the crew. My son is telling his. That's a walk.
+WES: Last few minutes on what Good Friday actually asks. Read the Passion at dinner. John eighteen and nineteen, or Luke twenty-three. You don't have to finish in one sitting. You do have to start. Assign a crowd if you have a child who will take it. Let a little one sit under the table. Phones in the basket. If you eat alone, read it out loud anyway. Then sit quiet. Then do the noon-to-three if you can. If you work a site, tell the crew. My son is telling his. That's a walk.
 
-JONATHON: I won't decorate the tabs. One R is fine. I won't correct the theology of a seven-year-old in the middle of a line. I will answer the question she asks. I won't decide the friend request at the table. That's Sunday. Tonight is the reading. Mixing them is how I hide in a holy week. Can I ask you something hard? Will you tell her before you tell this table, or is the hidden thing going to wait for a nicer Friday?
+JONATHON: I won't decorate the tabs. One R is fine. I won't correct the theology of a seven-year-old in the middle of a line. I will answer the question she asks. I won't decide the friend request at the table. That's Sunday. Tonight is the reading. Mixing them is how I hide in a holy week. Are you waiting on Friday to feel holy? Will you tell her before you tell this table, or is the hidden thing going to wait for a nicer Friday?
 
 WES: Her first. Not this table. If you still have a hidden thing you promised to tell, don't tell this table first. Tell her. I'm saying that at myself. I haven't done it. I won't use Good Friday as a costume for a man who is still hiding a small true thing. The small true thing is still the test. I almost dressed this Friday up as a man who has arrived because he remembered his father's knob. Remembering a knob isn't the same as telling a wife the thing I said I would tell. I can do the noon quiet and still be a coward at six. I want both walks. I've only scheduled one. That's honest, and it's not enough, and I'm leaving it ugly on purpose so I can't collect.
 

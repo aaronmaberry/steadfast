@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,969 (about 19:48 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,990 (about 19:56 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 34 lines (55% of words). JONATHON 31 lines (45% of words), 2 under 12 words (6.5%) |
 | Focus mark | Pick Up the Weight |
@@ -72,7 +72,7 @@ JONATHON: I told the lamp detail to the twin's dad at practice last week because
 
 WES: That's a sit if you don't dress it up. Mine is quieter and it lasted longer. Every Saturday night my dad polished his church shoes at the kitchen table on the farm section of the newspaper. Black polish. A rag. A wood-handled brush. From about six I handed him the brush. Forty-five minutes a week for about ten years, and almost nothing said.
 JONATHON: Yeah. Ten years, and almost nothing said. What'd you do with that silence, because you still polish the shoes.
-WES: I loved it, and there wasn't anything in it. I still polish my own shoes on Saturday nights, on newspaper. I don't know if he loved it. I know I keep doing it. That's a chair that was full of a body and empty of words.
+WES: I loved those Saturday nights, and there wasn't anything in them but polish. I still polish my own shoes on Saturday nights, on newspaper. I don't know if he loved it. I know I keep doing it. That's a chair that was full of a body and empty of words.
 
 JONATHON: That's a hard mix. Present and gone. I've been that at bath. I don't want to be a pair of shoes that never speaks.
 
@@ -96,13 +96,13 @@ WES: Car-care Saturday, nine cars. The socket-set boy came back with the set in 
 
 ## SEGMENT 3 · The Word
 
-WES: We're about halfway, and I want the Bible open, because Paul already told fathers the thing I did at breakfast. Ephesians six, verse four.
+WES: At the midpoint, Paul already told fathers the thing I did at breakfast. Ephesians six, verse four.
 
 JONATHON: I need this one. I can exasperate a seven-year-old with a drawer and a four-year-old with not now. I can also exasperate a wife by handing her a question that was mine. So which is it? Stop building new chairs, or keep handing Mom the question?
 
 WES: Stop building new ones. "Fathers, do not exasperate your children; instead, bring them up in the training and instruction of the Lord." Don't provoke. Don't move the ending. Don't make the chair heavier than it already is. Training is a paper that stays put. Instruction is a sentence about a lamp that's true and short. The Lord is the Father who stays, which we already said. You don't have to fill the old chair in one night. You have to stop building new ones.
 
-JONATHON: A man at the Thursday table has been divorced nine years. His son is seventeen and has not answered a text in eight months. The man sends one every Sunday night anyway. The score of a game. A picture of the dog. Love you. Dad. No reply. He's still sending them. That's a chair he won't pretend is full, and he won't stop sitting near it. I needed that next to my lamp. I want a finish. He's practicing stay without a receipt.
+JONATHON: A man at the Thursday table has been divorced nine years and still texts a silent son. His son is seventeen and has not answered a text in eight months. The man sends one every Sunday night anyway. The score of a game. A picture of the dog. Love you. Dad. No reply. He's still sending them. That's a chair he won't pretend is full, and he won't stop sitting near it. I needed that next to my lamp. I want a finish. He's practicing stay without a receipt.
 
 WES: Stay without a receipt is the work. So is a paper that does not grow new lines. So is a lamp you don't buy her as a point. Your sister will tell you that. I've bought points. I bought a grab bar color. I bought a title. I bought a Saturday condition. Points look like care and they exasperate the people who have to live under them. I'm late to seeing that. I can still stop. Stopping is a kind of training. The verse says bring them up. It does not say wear them down until they sign.
 
@@ -120,7 +120,7 @@ JONATHON: Yeah, here's my problem. Naming a chair can become a personality. I ca
 
 WES: The stay is the stay. A name without an inch is a plaque. A sentence to a seven-year-old. A paper that stays. A text a seventeen-year-old won't answer. The name isn't the stay. The stay is the stay.
 
-JONATHON: I don't totally buy a clean name yet. Some chairs are dangerous. If a man comes back through a door that should stay shut, we already said no. Paint.
+JONATHON: A tidy name still sounds like a plaque to me. Some chairs are dangerous. If a man comes back through a door that should stay shut, we already said no. Paint.
 
 WES: Paint. Empty isn't the same as safe. You don't put a child in a chair that hurts them so you can feel healed. You name the hole. You keep the house safe. You get help if the hole is eating you. 988 if the hole says you should not be here. We're not playing with that.
 
@@ -134,11 +134,11 @@ WES: Then you asked anyway. Late. Sort of. She said yes. Late is still allowed. 
 
 ## SEGMENT 5 · What we're actually doing
 
-WES: We've got a little under ten minutes. Game two, Saturday. Lost 9-8. The scared twin got a hit, a dribbler down the third-base line, and stood on first with both arms up. Her dad was early. You still went first when she needed a word. Good.
+WES: Ten minutes left, and I want the empty chair named. Game two, Saturday. Lost 9-8. The scared twin got a hit, a dribbler down the third-base line, and stood on first with both arms up. Her dad was early. You still went first when she needed a word. Good.
 
 JONATHON: I told Ruby after, in the truck, that I would tell her something true this week about my dad. She said, "The far away one?" I said yes. She said okay and asked if we could get a slush. That's the size of a seven-year-old's week. I won't make it bigger than a slush and a sentence. I will make it true.
 
-WES: The paper is on the fridge. Two Saturdays left after this week. I won't add a line. I told him that without a speech. He said okay. Okay is the family word this month. I will take it. I wanted him to say thank you. He didn't. Thank you would have been a receipt. I'm practicing stay without one. It itches. The itch isn't his job to scratch. It's mine to sit with, like a porch, like a radar I already turned gray.
+WES: His signed paper sits on the fridge. Two Saturdays left after this week. I won't add a line. I told him that without a speech. He said okay. Okay is the family word this month. I will take it. I wanted him to say thank you. He didn't. Thank you would have been a receipt. I'm practicing stay without one. It itches. The itch isn't his job to scratch. It's mine to sit with, like a porch, like a radar I already turned gray.
 
 JONATHON: I wanted Ruby to say a big thing after I previewed the talk. She asked for a slush. I almost made the slush a lesson. I bought the slush. That's an inch. I won't turn a red ice into a seminar. I've turned snacks into seminars before. It never ends well. It ends with a girl who stops asking. I need her to keep asking. So I will buy the ice and I will save the sentence for the bed, short, and I will stop. Stopping is how I don't become the chair I hate.
 
@@ -154,11 +154,11 @@ WES: I told my oldest about the shoes this week, on the phone. I will tell you F
 
 WES: Last few minutes. Name the chair in one sentence. Not the memoir. The furniture, or the silence, or the missing teacher. Write it. Tell one person. Then do one inch that does not try to fill it. A paper that stays. A text you send anyway. A true short line to a child. If you're the empty chair in someone else's house, you don't get a speech today. You get a date and a sentence. We will get to calling him. Not this Tuesday.
 
-JONATHON: Mine is the lamp. The inch is Ruby's sentence this week. I won't buy a lamp as a point. I won't use Dani as a wall. I will say the true short line and I will stay for the next question. If she asks whether he likes her, I won't decorate.
+JONATHON: Mine is the lamp. The inch is Ruby's sentence this week. I won't buy a lamp as a point. I won't use Dani as a wall. I will say the true short line and I will stay for the next question. When Ruby asks whether he likes her, I won't pretty it up.
 
-WES: Can I ask you something hard? Will you tell her even if Dani still thinks left is too big?
+WES: Who is the empty chair still talking to? Will you tell her even if Dani still thinks left is too big?
 
-JONATHON: Yes. I still think left is the true word. She doesn't concede. I'll still say the short line.
+JONATHON: Yes. I still think left is the true word for a nine-year-old's dad. She doesn't concede. I'll still say the short line.
 
 WES: Mine is the shoes that never spoke, and the paper I almost ruined. The inch is no new conditions, and a Saturday night with newspaper where I say more than nothing. I don't know what I will say. I know I won't only hand a brush.
 
@@ -166,11 +166,11 @@ JONATHON: If you live alone, name the chair to a brother, or to God, and then se
 
 [BOARD: Write the missing teacher in one line. Then stop trying to replace him tonight.]
 
-WES: Look around your table this week. If a chair is empty, say so. If you put a new one there by moving a finish line, take it away. If a boy signed a paper, leave the paper alone. The hole is real. It does not get to run the house.
+WES: Check the chairs at your table this week. If a chair is empty, say so. If you put a new one there by moving a finish line, take it away. If a boy signed a paper, leave the paper alone. The hole is real. It does not get to run the house.
 
 JONATHON: That's fair, but— I keep wanting to manage the hole too. Management feels like love until a girl stops asking. Are you leaving the paper alone in May, or is one more lesson going to dress itself up as care?
 
-WES: The paper stays. May doesn't get a new line. Management is how I exasperated him at breakfast. A paper is how I stopped, for now. For now is allowed if I don't add a line in May. May will tempt me. I'm telling you May will tempt me so Friday I can't pretend I was surprised. Temptation isn't a surprise when you've already moved a truck twice. I won't a third time. I wrote that on my own card, under his, where he can't see it. The secret card is for me. The fridge is for us. Both have to stay true, even in May, even when I want one more lesson I can dress up as care.
+WES: The paper stays. May doesn't get a new line. Management is how I exasperated him at breakfast. A paper is how I stopped, for now. For now is allowed if I don't add a line in May. May will tempt me. I'm putting May on the record so Friday I can't pretend a new line was a surprise. Temptation isn't a surprise when you've already moved a truck twice. I won't a third time. I wrote that on my own card, under his, where he can't see it. The secret card is for me. The fridge is for us. Both have to stay true, even in May, even when I want one more lesson I can dress up as care.
 
 ---
 

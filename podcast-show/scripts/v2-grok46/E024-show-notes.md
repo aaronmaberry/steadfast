@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,037 spoken words, about 13:35). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,035 spoken words, about 13:34). Re-time them against the final edit before publishing.
 
 ---
 
@@ -37,9 +37,9 @@ Christian men podcast, Good Friday, Isaiah 53:5, Field Notes, Walk Steadfast, We
 | 00:00 | Open | The radio off at noon. |
 | 00:54 | Check the box | Job site quiet. NARATOR. 4:10. The trees. |
 | 05:23 | From the table | What do I do with Good Friday as a dad? |
-| 08:07 | The Word | Isaiah 53:5. He came anyway. |
-| 10:11 | Read it at supper | John 18-19. Phones in the basket. |
-| 13:10 | Close | Turn something off. Read the thing. |
+| 08:09 | The Word | Isaiah 53:5. He came anyway. |
+| 10:08 | Read it at supper | John 18-19. Phones in the basket. |
+| 13:09 | Close | Turn something off. Read the thing. |
 
 ---
 

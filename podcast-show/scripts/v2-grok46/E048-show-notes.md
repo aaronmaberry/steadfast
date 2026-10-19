@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (1,929 spoken words, about 12:52). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (1,967 spoken words, about 13:07). Re-time them against the final edit before publishing.
 
 ---
 
@@ -35,10 +35,10 @@ Christian men podcast, Field Notes, Father's Day, Ephesians 6:4, Walk Steadfast
 | 00:00 | Open | Open. |
 | 00:46 | The trash can | The trash can. |
 | 02:05 | The text | The text. |
-| 03:16 | The Word | The Word. |
-| 04:09 | Bless a younger man | Bless a younger man. |
-| 07:12 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
-| 12:29 | Close | Close. |
+| 03:20 | The Word | The Word. |
+| 04:12 | Bless a younger man | Bless a younger man. |
+| 07:16 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
+| 12:42 | Close | Close. |
 
 ---
 

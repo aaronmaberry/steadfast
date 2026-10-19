@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (3,113 spoken words, about 20:45). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (3,137 spoken words, about 20:55). Re-time them against the final edit before publishing.
 
 ---
 
@@ -39,15 +39,15 @@ Christian men podcast, marriage, 1 Corinthians 10:24, what she needs, Walk Stead
 | 04:34 | Curtains and a rabbit | Curtains and a rabbit |
 | 06:14 | The Word | The Word |
 | 07:25 | Pushback | Pushback |
-| 09:08 | The challenge | The challenge |
-| 10:31 | Mother and the barn | Mother and the barn |
-| 11:53 | The scan week | The scan week |
-| 13:24 | Thursday night | Thursday night |
-| 14:45 | Men who fix feelings | Men who fix feelings |
-| 16:03 | The doorway hour | The doorway hour |
-| 17:32 | Chicken and rice | Chicken and rice |
-| 19:08 | What we're actually doing | What we're actually doing |
-| 20:28 | Close | Close |
+| 09:13 | The challenge | The challenge |
+| 10:36 | Mother and the barn | Mother and the barn |
+| 11:58 | The scan week | The scan week |
+| 13:30 | Thursday night | Thursday night |
+| 14:52 | Men who fix feelings | Men who fix feelings |
+| 16:10 | The doorway hour | The doorway hour |
+| 17:40 | Chicken and rice | Chicken and rice |
+| 19:17 | What we're actually doing | What we're actually doing |
+| 20:37 | Close | Close |
 
 ---
 

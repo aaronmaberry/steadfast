@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm |
-| Spoken words | 1,964 (about 13:06 at 150 wpm, before laughs and pauses) |
+| Spoken words | 1,990 (about 13:16 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 28 lines (50% of words). JONATHON 27 lines (50% of words), 2 under 12 words (7.4%) |
 | Focus mark | Pick Up the Weight |
@@ -46,7 +46,7 @@ JONATHON: Tuesday at supper your wife asked the man's name. You didn't have one 
 
 WES: Wednesday at supper I told the youngest I like my job. He said okay. I said because my dad never told me if he liked his. He said huh. Can I've the rest of the potatoes. That's the review. I will take potatoes. I wanted a moment. I got a second helping. Second helpings are how my people bless a sentence.
 
-JONATHON: Monday I called the midnight rep. I said what I kept. He said I didn't do it for the margin, boss. I said I know. I did. His grandmother used to spend summer afternoons at a library like that. Her AC was broken and she wouldn't let anyone fix it. He thought of her the whole drive. Then twenty minutes on a quote after. I let the quote be the rest of the love. I didn't tack on a speech about gardens.
+JONATHON: Monday I called the midnight rep. I said what I kept. He said I didn't do it for the margin, boss. I said I know. I did. His grandmother used to spend summer afternoons at a library like that. Her AC was broken and she wouldn't let anyone fix it. He thought of her the whole drive. Then twenty minutes on a quote after. I let the quote after the grandmother story carry the rest of the care. I didn't tack on a speech about gardens.
 
 [BOARD: Two inches is a door.]
 
@@ -87,7 +87,7 @@ WES: Is it wrong to like your job a lot. No. It's wrong to like it past the gate
 
 JONATHON: I won't tell the thirty-one-year-old what to do with his days. I will ask if he booked the three. If he says no, I won't make him my pilot. I've a week in August. That's my garden. His is his. Ask isn't a bar chart.
 
-WES: Look around your house this week. Empty the pockets. Shut the gate. Knock again if the window only came down two inches. Don't demand a story. Eat. Talk about a bad bullpen. Go inside.
+WES: Look at whether you shut the work down tonight. Empty the pockets. Shut the gate. Knock again if the window only came down two inches. Don't demand a story. Eat. Talk about a bad bullpen. Go inside.
 
 JONATHON: I will call my face what it's when I skip the console. Absent. Not busy. Absent. If Dani has to say supper's cold again, I hope I'm already reaching for the door handle.
 
@@ -111,7 +111,7 @@ JONATHON: Wait, back up. Are you talking about my console, or the truck in the l
 
 WES: Both. You skipped Thursday. Are you putting the phone in the console Friday and Monday, or using the miss as a way out?
 
-JONATHON: Console. If I fail again I get out of the truck when she sits down. A cold supper is a board I didn't ask for. Can I ask you something hard?
+JONATHON: Console. If I fail again I get out of the truck when she sits down. A cold supper is a board I didn't ask for. Did you shut it down, or did like become a yoke?
 
 WES: Go.
 
@@ -119,7 +119,7 @@ JONATHON: If the lot is empty tomorrow, are you going to invent a reason, or let
 
 WES: [beat] I won't invent a reason. If the truck is there I knock. If it isn't, I don't. I still don't know if he has kids. Knowing can be another kind of taking. What are you actually calling your face?
 
-JONATHON: Absent. Not busy. Absent. If Dani has to say supper's cold again, I hope I'm already reaching for the door handle. If I pick three I'll do none. One dresser.
+JONATHON: Absent. Not busy. Absent. If Dani has to say supper's cold again, I hope I'm already reaching for the door handle. If I empty every pocket I will empty none. One dresser.
 
 WES: That's fair, but— no, don't make the thirty-one-year-old your pilot.
 
@@ -135,11 +135,11 @@ JONATHON: I had been. Skipping the console is how like becomes a yoke. It's wron
 
 WES: Good. Empty the pockets. Shut the gate. First move is the dresser. A heading that never touches a dresser is a slogan.
 
-JONATHON: Then I put the keys on a Tuesday that already has a meeting. Does that sound like a quota?
+JONATHON: Then I empty the keys onto the dresser on a Tuesday that's already stacked. Does emptying pockets on a stacked Tuesday sound like a contest?
 
-WES: [laughs] It sounds like a man who knows his calendar. Empty the pockets inside the busy, or you never will.
+WES: [laughs] That sounds like empty pockets before the next like. Empty the pockets inside the busy, or you never will.
 
-JONATHON: What are you picking, for real?
+JONATHON: The dresser tonight, or another cold supper?
 
 WES: Tomorrow's lot. Knock if the truck is there. Don't invent a reason.
 
@@ -153,7 +153,7 @@ JONATHON: Wednesday the door was unlocked before I got there. Thursday he said y
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. Liking the work is allowed. Skipping the shutdown is how like becomes a yoke.
+WES: Remember this: liking the work is allowed. Skipping shutdown is a yoke. Liking the work is allowed. Skipping the shutdown is how like becomes a yoke.
 
 JONATHON: And supper getting cold is a kind of board you didn't ask for.
 

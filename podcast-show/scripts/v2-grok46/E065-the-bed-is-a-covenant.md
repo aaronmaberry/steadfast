@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 3,057 (about 20:23 at 150 wpm, before laughs and pauses) |
+| Spoken words | 3,083 (about 20:33 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 51 lines (51% of words). JONATHON 46 lines (49% of words), 3 under 12 words (6.5%) |
 | Focus mark | Pick Up the Weight |
@@ -56,9 +56,9 @@ JONATHON: It lasted till about May and then it came back to the nightstand by su
 
 WES: Install the friction before you need a feeling. Feelings will vote the phone back.
 
-JONATHON: On her shift nights I had kept a grudge against the schedule. The grudge wanted a screen. I'm saying that because the bed isn't only about pictures. It's about what you do with loneliness when she's gone. Does that sound like a sales excuse if I say it that way?
+JONATHON: On her shift nights I had kept a grudge against the schedule. The grudge wanted a screen. I'm saying that because the bed isn't only about pictures. It's about what you do with loneliness when she's gone. If I say loneliness like that, does it come out as a sales excuse?
 
-WES: [laughs] It sounds like a man who knows his calendar. Put the charger in the truck on a night that already has a shift. Or you never will.
+WES: [laughs] That sounds like a charger that lives in the truck, not the nightstand. Put the charger in the truck on a night that already has a shift. Or you never will.
 
 ---
 
@@ -94,7 +94,7 @@ WES: I resented it for about six months. Then I slept. About eight or nine years
 
 JONATHON: Stable does not mean good. I've never asked about the year after Theo. I asked how the baby was. I asked if she was sleeping. I didn't ask how she was. That's a post I left in the grass. Are you actually going to ask the hard years again, or are you going to tidy "fine" because fine is easier?
 
-WES: I'm asking again. Don't hold me to a speech. Hold me to the question.
+WES: I'm asking again. Don't hold me to a talk about the bed. Hold me to where the charger lives. Hold me to the question.
 
 [BOARD: Fine can mean you never asked the real one.]
 
@@ -108,7 +108,7 @@ JONATHON: Ask me those two. Truck. Everything. I'll answer whole.
 
 ## SEGMENT 4 · The Word
 
-WES: I've got a little under ten minutes, and I want the Bible open. Hebrews thirteen, verse four. You want to read it?
+WES: Under ten. Covenant language, not a mood. Hebrews thirteen, verse four. You want to read it?
 
 JONATHON: "Marriage should be honored by all, and the marriage bed kept pure, for God will judge the adulterer and all the sexually immoral."
 
@@ -116,7 +116,7 @@ JONATHON: "Marriage should be honored by all, and the marriage bed kept pure, fo
 
 WES: Honored by all. Not honored by the people who already like rules. All. The bed isn't a private hobby. It's a public honor you keep in the dark. Pure isn't a mood. Pure is a phone in a truck and a mouth that tells the truth the same night.
 
-JONATHON: "Kept pure" includes what you bring into the room in your pocket. I started at nineteen with a phone in a bed. I'm thirty-seven. The furniture changed. The invitation is the same if I let it be. So which is it, a verse about a scene, or a verse about a charger?
+JONATHON: "Kept pure" includes what you bring into the room in your pocket. I started at nineteen with a phone in a bed. I'm thirty-seven. The furniture changed. The invitation is the same if I let it be. Is Hebrews talking about a motel, or about a cord that still lives on the nightstand?
 
 WES: Both. Context in two sentences. Hebrews is telling a church how to live while they wait. Honor isn't a feeling you wait to have. Honor is a charger you move while the pancakes are still on the table.
 
@@ -128,7 +128,7 @@ JONATHON: Flee is a verb with legs. I've tried to flee in my mind while my hand 
 
 ## SEGMENT 5 · Pushback
 
-WES: We're about halfway, and I want the push. A man says, it's just news. It's just scores. Go ahead and push.
+WES: Halfway. Don't let me get poetic about the bed. A man says, it's just news. It's just scores. Go ahead and push.
 
 JONATHON: Then put the scores in the kitchen. If it has to be in the bed, ask why the bed. I sat in a dark garage in a driver's seat for scores once and called it nothing. It was hiding. Hiding belongs in this conversation even when the pictures aren't there. I don't totally buy that scores are innocent just because they aren't pictures. Do you?
 
@@ -138,9 +138,9 @@ JONATHON: The phone rule is how you become a man she might want to touch. You do
 
 WES: A man says, I don't look at anything. So this isn't about me.
 
-JONATHON: Then this is still about you. Presence. Grudge. A boy who thinks the bed is a second shift. You can be clean and still be gone. Phone in the truck every night. You ask Friday. I'm not going to pretty that up. Can you live with an ugly Friday?
+JONATHON: Then this is still about you. Presence. Grudge. A boy who thinks the bed is a second shift. You can be clean and still be gone. The charger sleeps in the pickup, not the sheets. You ask Friday. I'm not going to pretty that up. Can you stand a Friday that isn't pretty?
 
-WES: Last few minutes on what we're actually doing. I go to bed when she does. No recliner. Television off. That's the unnamed thing wearing a mattress. I can live with ugly.
+WES: Last few minutes on the bed as a covenant, not a mood. I go to bed when she does. No recliner. Television off. That's the unnamed habit dressed up as going to bed. I can live with ugly.
 
 ---
 
@@ -150,9 +150,9 @@ WES: This week's challenge. Put the phone out of the room you sleep in. Go to be
 
 JONATHON: If you're dating, put the phone out. If you're single, flee isn't only for husbands. If you're divorced, don't make a screen the new wife. What are you picking, recliner or truck?
 
-WES: Truck for you. Hallway for me. Look around your house this week. The post is probably already down. Fix it before a four-year-old names the ranch.
+WES: Truck for you. Hallway for me. Look at where the charger spends the night. The post is probably already down. Fix it before a four-year-old names the ranch.
 
-JONATHON: And if you fail and the charger creeps back, move it again. Don't write a letter about the creeping. Move the charger. Then tell the man.
+JONATHON: And if you fail and the charger creeps back, move it again. Don't compose an apology tour because the cord wandered back. Move the charger. Then tell the man.
 
 ---
 
@@ -182,7 +182,7 @@ WES: She asked that. That's a real question. If you're dumping so she becomes th
 
 JONATHON: I want the ending where nobody pays. Somebody always pays. Better a desk than a bed that isn't a bed.
 
-WES: Look around your work this week. Whose name makes your chest jump. If the answer is nobody, good. Still put the phone in another room so the nobody stays nobody.
+WES: Scan the names at the office this week. Whose name makes your chest jump. If the answer is nobody, good. Still put the phone in another room so the nobody stays nobody.
 
 JONATHON: And if the answer is a name, don't negotiate in your head. Use your mouth the same night. Then ask off the project if that's the post.
 
@@ -210,7 +210,7 @@ WES: The recliner has been my barn. A game. A dark room. I called it winding dow
 
 JONATHON: I use a laptop at the table and call it work. Then I bring the work to the sheets. That's a second shift she didn't hire. Are you actually going to leave the recliner, or are you going to tidy a ninth inning and call it almost?
 
-WES: We're about halfway through the thing I actually have to do, and I want you to hear this if you think honor is only about pictures. Honor is presence. A boy named the absence. Believe the boy.
+WES: We're in the stretch I still owe, and I want you to hear this if you think honor is only about pictures. Honor is presence. A boy named the absence. Believe the boy.
 
 JONATHON: I believed him. I moved a charger. I will move it again when it creeps. Creeping isn't failure if you reset the post the same day.
 
@@ -224,9 +224,9 @@ JONATHON: If I wait for Theo to preach, I've made my son the elder of my bed. Th
 
 WES: A man will ask how we talk about this with kids someday. You already are. Theo asked a question. You answered with furniture. That's a better talk than a speech in a few years.
 
-JONATHON: Ruby has been taught her body belongs to her, no secrets about her body, she'll never be in trouble for telling. That's the talk. The furniture is the talk too. Kids read chargers. Did you get loud with your oldest, or did I make that up?
+JONATHON: Ruby already knows her body is hers, no hiding it, she will not get punished for speaking up. That's the talk. The furniture is the talk too. Kids read chargers. Did you get loud with your oldest, or did I make that up?
 
-WES: I got loud with my oldest at about ten. He didn't bring me anything for years. Loud is how you shut a well. If your boy finds something on a screen, thank him and sit down.
+WES: I got loud with my oldest at about ten. After that he kept his mouth shut for years. Loud is how you shut a well. If your boy finds something on a screen, thank him and sit down.
 
 JONATHON: I want to be the man a boy can wake at six and tell. If I'm on a phone, I've already said I'm busy. That's the sermon whether I mean it or not.
 
@@ -252,7 +252,7 @@ JONATHON: I'll take sleep. I'll take a smaller desk. I'll take a truck charger t
 
 WES: Proverbs says rejoice in the wife of your youth. I've used youth as a museum. I remember her at twenty-four and I stop studying the woman in the other chair. Rejoice is a present tense. The bed is how you keep studying.
 
-JONATHON: I remember Dani at twenty-seven and I skip the woman who sings in a parking lot. That's not honor. That's nostalgia with a ring. Can I ask you something hard?
+JONATHON: I remember Dani at twenty-seven and I skip the woman who sings in a parking lot. That's not honor. That's nostalgia with a ring. Where does the charger live when the shift starts?
 
 WES: Go.
 
@@ -266,7 +266,7 @@ JONATHON: I'll pick her. If I fail and pick a score, I'll move the charger again
 
 ## SEGMENT 14 · Accountability
 
-WES: A man will ask about software. Software is a fence post, not a savior. I opened reports when a younger man asked me to. The first reader he had never opened one in six months. An unopened report is a post lying in the grass with a logo on it.
+WES: A man will ask about software. An app is a cedar post. It will not save you. I opened reports when a younger man asked me to. The first reader he had never opened one in six months. A report nobody opened is just branding lying in the weeds.
 
 JONATHON: I used software about two years. Then I used Wes. Wes opened every one. That's the part that mattered. A man who will actually look. Not a dashboard I can hide behind. If I install a dashboard and I don't give you permission to ask, what did I buy?
 

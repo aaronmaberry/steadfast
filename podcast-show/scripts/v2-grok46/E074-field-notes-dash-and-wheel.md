@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 2,136 (about 14:14 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,166 (about 14:26 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 39 lines (53% of words). JONATHON 36 lines (47% of words), 1 under 12 words (2.8%) |
 | Focus mark | Stop Waiting |
@@ -44,13 +44,13 @@ JONATHON: And I'll tell you the black folder with her name on it.
 
 ## SEGMENT 1 · The fork
 
-WES: Let's take the next few minutes on a table, because Friday is the receipt. Night one I said good. She waited. Then I said worried. October. Her word: homesick. For when the kids were little and loud. She leaves for her sister's next week. Wednesday I was short. I called the man I had been short with. It wasn't about you. He said he figured I had something going on. Thursday glad.
+WES: Start this porch on the fork at the table, because Friday is going to ask which word you actually used. Night one I said good. She waited. Then I said worried. October. Her word: homesick. For when the kids were little and loud. She leaves for her sister's next week. Wednesday I was short. I called the man I had been short with. It wasn't about you. He said he figured I had something going on. Thursday glad.
 
 JONATHON: Wait, back up. Did naming worried actually repair Wednesday, or did the phone call do that? Because I can name a word and still leave a man hanging.
 
 [BOARD: Waiting on a word is a kindness.]
 
-WES: I cried at my daughter's wedding two years ago, father-daughter dance. The son-in-law handed me his pocket square mid-song. I didn't cry at any birth. I once drove a nine-year-old home from a bases-loaded strikeout. Feelings are a dash. They aren't a joke about manhood.
+WES: I cried at my daughter's wedding two years ago, father-daughter dance. The son-in-law handed me his pocket square mid-song. I didn't cry at any birth. I remember a silent truck ride after a boy froze with the bases loaded. Feelings are a dash. They aren't a joke about manhood.
 
 ---
 
@@ -68,7 +68,7 @@ JONATHON: I didn't. Thursday's word to you was glad. You wrote back glad too, wo
 
 ## SEGMENT 3 · The Word
 
-WES: We're about halfway, and I want one verse for the man who vents and calls it true. Proverbs twenty-nine, verse eleven.
+WES: We're at the midpoint, and I want Proverbs for the man who vents and calls the vent honesty. Proverbs twenty-nine, verse eleven.
 
 JONATHON: "Fools give full vent to their rage, but the wise bring calm in the end."
 
@@ -86,13 +86,13 @@ WES: Context in two sentences. Proverbs isn't asking you to fake calm. It's aski
 
 WES: Austin. Saturday his son struck out to end a game and cried in the truck. Austin didn't say his father's quit crying line. He cried alone at a gas station after the drop-off. First time since March.
 
-JONATHON: No, hold on. Did you want Austin to stay in the truck, or is the gas station the honest version? With Theo I said that hurt, not you're okay. You're okay is a lie we tell so we can leave. That hurt is two words and a stay.
+JONATHON: No, hold on. Did you want Austin to stay in the truck, or is the gas station the honest version? With Theo I said that hurt, not you're okay. You're okay is the exit ramp I use so I can go. That hurt means sit with him. Don't flee to okay.
 
 [BOARD: James 1:19 (NIV) · "My dear brothers and sisters, take note of this: Everyone should be quick to listen, slow to speak and slow to become angry,"]
 
 WES: Last few minutes. Keep the word at supper. Repair the short mouth. Sit with two words. Don't take a quit the same hour. I walked past the back door again this week. Dust on the plane. Same lift. Same shove. I said Saturday like a man who still believes his own mouth.
 
-JONATHON: I'll ask how was it first. I'll say that hurt when it hurts. If I say you're okay I will come back and unsay it. I'll ask about the dust too. If you say Saturday again I want a date, not a mood.
+JONATHON: I lead with how was the folder, not with my throat. I'll say that hurt when it hurts. If I say you're okay I will come back and unsay it. I'll ask about the dust too. If you say Saturday again I want a date, not a mood.
 
 ---
 
@@ -136,7 +136,7 @@ JONATHON: I almost cried at Ruby's program and swallowed it so I could look like
 
 ## SEGMENT 8 · More on a 4
 
-WES: I once drove a nine-year-old home from a bases-loaded strikeout. I wanted a lesson. I gave him the drive and a drink. I remember the quiet more than any sentence I almost made.
+WES: I remember a silent truck ride after a boy froze with the bases loaded. I wanted a lesson. I gave him the drive and a drink. I remember the quiet more than any sentence I almost made.
 
 JONATHON: Did you want the lesson because you were embarrassed in the stands? Because I write speeches when I'm embarrassed and call them parenting.
 
@@ -154,7 +154,7 @@ JONATHON: Wait, back up. Did I almost turn the folder into a pep talk the second
 
 WES: You felt it. You sat on it. How was it first is a stay, not a close. Twenty-five minutes of listening is the wheel. The folder stays hers.
 
-JONATHON: I'll ask how was it first even if the close is sitting there like a demo unit. The folder is hers. My throat can wait until she actually asks.
+JONATHON: I'll lead with how was the folder even if the close is sitting there like a demo unit. The folder is hers. My throat can wait until she actually asks.
 
 ---
 
@@ -162,7 +162,7 @@ JONATHON: I'll ask how was it first even if the close is sitting there like a de
 
 WES: Full vent is a truck at nine. You held a VP note till two. That's not fake peace. That's a man who didn't pour the tank on a person who didn't cause it.
 
-JONATHON: I don't totally buy that yet. Is delayed heat still honesty, or is it a man hiding until the feeling looks professional enough for a region?
+JONATHON: I'm not sold on delayed heat as honesty yet. Is delayed heat still honesty, or is it a man hiding until the feeling looks professional enough for a region?
 
 WES: Both can be true. Two is better than nine. Three lines and a plan is a wheel. A paragraph of heat is a wreck you make somebody else clean up.
 
@@ -214,7 +214,7 @@ JONATHON: If you say Saturday again, do you want me to ask for a date, or do you
 
 WES: Ask for a date. I still might not hang it. Dust is honest. Saturday as a mood is a story I tell so I can walk to the porch and feel faithful.
 
-JONATHON: I'll ask for a date. You can keep not hanging it. Just don't sell me Saturday like it's already wood. I want a day, not a feeling wearing work gloves.
+JONATHON: I'll ask for a date. You can leave the jamb unhung another week. Just don't sell me Saturday like it's already wood. I want a day, not a feeling wearing work gloves.
 
 ---
 
@@ -236,7 +236,7 @@ WES: One word a night. Repair the short mouth. Two words with a boy. Don't take 
 
 JONATHON: Ask me Friday whether I said left out out loud, not in a notes app, and whether how was it actually came first when she walked in tired.
 
-WES: I'll ask. Don't hide left out inside nervous. Nervous is a costume. Left out is a dash you can read without turning her week into your old story.
+WES: I'll ask. Don't dress left out up as jitters. Nervous is a costume. Left out is a dash you can read without turning her week into your old story.
 
 JONATHON: I won't hide it. Left out. Then the short text. Then her folder without my abandonment story riding shotgun like it paid rent.
 

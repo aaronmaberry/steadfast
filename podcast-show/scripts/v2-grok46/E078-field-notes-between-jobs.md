@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 2,198 (about 14:39 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,229 (about 14:52 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 39 lines (55% of words). JONATHON 36 lines (45% of words), 2 under 12 words (5.6%) |
 | Focus mark | Stop Waiting |
@@ -44,13 +44,13 @@ JONATHON: And I'll tell you the sticky note I had to cross a title off of.
 
 ## SEGMENT 1 · The table
 
-WES: Let's take the next few minutes on a Sunday kitchen, because Friday is the receipt. Forty minutes. She had a plan since 2019. I had never asked. My three took three nights. I'm her husband. I'm a man who keeps his word, most of the time. I'm my kids' dad, and my mother's son. Hers: you forgot one. Stubborn. That one's going to get you through October.
+WES: Open on that Sunday kitchen talk, because Friday only wants whether you asked her plan. Forty minutes. She had a plan since 2019. I had never asked. My three took three nights. I'm her husband. I'm a man who keeps his word, most of the time. I'm my kids' dad, and my mother's son. Hers: you forgot one. Stubborn. That word is going to hold him till the leaves drop.
 
 JONATHON: Wait, back up. Did you laugh when she said stubborn, because I would have heard a joke and missed a keel?
 
 [BOARD: Six years is a long time to guess.]
 
-WES: The notepad went in a gas-station bin Monday. Unread. That's the only way that speech could die.
+WES: The notepad went in a gas-station bin Monday. Unread. Leaving it unread at the gas station is how that sermon finally ends.
 
 ---
 
@@ -68,7 +68,7 @@ JONATHON: The 31-year-old rep went home and told his wife. They made a list on t
 
 ## SEGMENT 3 · The Word
 
-WES: We're about halfway, and I want one verse for the man who is staring at a tomorrow. Matthew six, verse thirty-three.
+WES: Middle of the porch. Matthew is for the man who is staring at a tomorrow. Matthew six, verse thirty-three.
 
 JONATHON: "But seek first his kingdom and his righteousness, and all these things will be given to you as well."
 
@@ -76,7 +76,7 @@ JONATHON: "But seek first his kingdom and his righteousness, and all these thing
 
 WES: First. Not after the badge. Kingdom first is a kitchen table and a library morning and tomatoes. These things are bread. They follow. They aren't the name.
 
-JONATHON: I wrote regional manager and crossed it out. Can a sticky note actually dethrone a title, or am I going to peek at the org chart by Thursday? I'm Dani's husband. I'm Ruby and Theo's dad. I'm a man God went looking for at twenty-nine. At nine I saw my mom crying over bills. I carried we don't have enough for years.
+JONATHON: I wrote regional manager and crossed it out. Does crossing a title on paper do anything if I still open the chart when a deal slips? I'm Dani's husband. I'm Ruby and Theo's dad. At twenty-nine God came looking, and that's still my name. At nine I saw my mom crying over bills. I carried we don't have enough for years.
 
 WES: Context in two sentences. Jesus is talking to people who worry about food and clothes. He does not mock the need. He orders the seek. First is a direction, not a feeling.
 
@@ -90,7 +90,7 @@ JONATHON: I won't ask any luck. If I slip, will you catch me the same day, or le
 
 [BOARD: Philippians 4:6 (NIV) · "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God."]
 
-WES: Look around your house this week. The plan may already be in her head. Ask. Then write your three. Then throw the speech away.
+WES: Look at the days between jobs as if they count. The plan may already be in her head. Ask. Then write your three. Then throw the speech away.
 
 JONATHON: And if a boy asks why you aren't at work, tell a true small sentence. A few days off is better than a speech he has to carry.
 
@@ -104,7 +104,7 @@ WES: Forty minutes at the kitchen table. She had a plan since 2019. I had never 
 
 JONATHON: Wait, back up. Did you laugh when she said stubborn, because I would have heard a joke and missed a keel?
 
-WES: I almost laughed. She meant a keel. That one's going to get you through October. I'm her husband. I keep my word, most of the time. I'm my kids' dad, and my mother's son.
+WES: I almost laughed. She meant a keel. That word is going to hold him till the leaves drop. I'm her husband. I keep my word, most of the time. I'm my kids' dad, and my mother's son.
 
 JONATHON: I'll ask Dani the plan she's been carrying. If I joke it I'll unsay the joke and ask again. Jokes are how I keep guessing for another six years.
 
@@ -112,13 +112,13 @@ JONATHON: I'll ask Dani the plan she's been carrying. If I joke it I'll unsay th
 
 ## SEGMENT 6 · More on a 2
 
-WES: The notepad went in a gas-station bin Monday. Unread. That's the only way that speech could die. A glove box is a second pulpit. I don't get two pulpits with my oldest.
+WES: The notepad went in a gas-station bin Monday. Unread. Leaving it unread at the gas station is how that sermon finally ends. A glove box is a second pulpit. I don't get two pulpits with my oldest.
 
 JONATHON: Did throwing it away feel like holiness, or like panic? Because I can perform unread and still recite the speech in the shower.
 
 WES: Panic, then relief. If I recite it in the shower that's my chest, not his assignment. He already told me he's staying. Thank you is the sentence. The bin is the rest.
 
-JONATHON: I'll leave my speeches in a bin. If I fish one out I will tell you I fished it. I want no clap for the fishing. Claps are how a title crawls back.
+JONATHON: I'll leave my speeches in a bin. If I go back for a page I will name the going-back, not the bin. I want no clap for the fishing. Claps are how a title crawls back.
 
 ---
 
@@ -184,9 +184,9 @@ JONATHON: I'll do the table and the forms. If I skip the table because an inbox 
 
 ## SEGMENT 12 · More on tomatoes 8
 
-WES: At nine I saw my mom crying over bills. I carried we don't have enough for years. A sticky note is how I put that down. Crossing regional manager was the first honest line.
+WES: At nine I saw my mom crying over bills. I carried we don't have enough for years. Crossing the title was the first honest line I wrote on paper. Crossing regional manager was the first honest line.
 
-JONATHON: [laughs] You watched me cross it like a conversion. Is the old sentence still in my ribs when a deal slips, because I can feel it now even talking?
+JONATHON: [laughs] You saw me scratch a job title and treat it like getting saved. Is the old sentence still in my ribs when a deal slips, because I can feel it now even talking?
 
 WES: It's in your ribs. Name it. We don't have enough is a boy in a kitchen. A man can feed cattle anyway. A man can ask how he's. A man can read three I'ms out loud.
 
@@ -232,7 +232,7 @@ JONATHON: I'll stay at the table past the joke. If I get funny I will stop and a
 
 ## SEGMENT 16 · More on tomatoes 12
 
-WES: Seek first. Ask how he's. Read the three. Let stubborn be a keel. If a boy asks why you aren't at work, tell a true small sentence. Then live the day you still have.
+WES: Seek first. Ask how he's. Read the three. Let stubborn be a keel. If a boy asks why you aren't at work, tell a true small sentence. Then walk the Tuesday that's still in front of you.
 
 JONATHON: What are you picking, the bin or the tomatoes, because if you pick the whole religion you'll preach and skip the forty minutes?
 

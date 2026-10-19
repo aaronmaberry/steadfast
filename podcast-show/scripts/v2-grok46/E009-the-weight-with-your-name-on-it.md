@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 3,059 (about 20:24 at 150 wpm, before laughs and pauses) |
+| Spoken words | 3,073 (about 20:29 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 42 lines (50% of words). JONATHON 38 lines (50% of words), 2 under 12 words (5.3%) |
 | Focus mark | Pick Up the Weight |
@@ -72,7 +72,7 @@ JONATHON: I always thought it was both of ours, which in my house means it's Dan
 
 WES: So you're the last man who should be driving around that light. A nine-year-old who watched a dent go down the street knows what a missing paper costs.
 
-JONATHON: That's the part that sat with me in the truck. I talk like a protector, and I've been leaving the one paper that would actually protect them in a drawer we don't have.
+JONATHON: That's the part that rode home with me after the dashboard light. I talk like a protector, and I've been leaving the one paper that would actually protect them in a drawer we don't have.
 
 ---
 
@@ -106,7 +106,7 @@ WES: Same problem as you. Different pile. You set down one that's yours. I picke
 
 ## SEGMENT 3 · The Word
 
-WES: We've got a little under fifteen minutes, and I want the Bible open, because Paul already sorted the piles. Galatians six, verse five. I brought the glasses. Don't make it a thing.
+WES: Paul already sorted the piles, so the Bible is open with a little under fifteen minutes on the clock. Galatians six, verse five. I brought the glasses. Don't make it a thing.
 
 JONATHON: It's a thing. You only put those on when the verse is about to get us, and I can feel that coming from here.
 
@@ -164,7 +164,7 @@ WES: Dividing the work is fine. You don't have to do the spreadsheet. A man ough
 
 ## SEGMENT 5 · What we actually did
 
-WES: We're about halfway through the last stretch. What did you actually do?
+WES: We're about halfway, and the weight still has your name on it. What did you actually do?
 
 JONATHON: Sunday night I found a lawyer. There's a woman at our church who does wills. I knew, because she announced it at a men's breakfast once and I avoided eye contact. Monday morning I called her office. Thursday, four-thirty. I put it on the calendar as "Will. 4:30." Short, so I could not argue with it.
 
@@ -198,7 +198,7 @@ JONATHON: So you're picking up a weight your dad set down. I'll text you at four
 
 ## SEGMENT 6 · This week's challenge
 
-WES: Last few minutes on the challenge. Two parts, both small. I want them small on purpose, because a man will use a big assignment as another reason to wait. One step is enough to put your hand on the weight. You can finish the rest after Friday.
+WES: Last few minutes on picking up the weight with your name on it. Two parts, both small. I want them small on purpose, because a man will use a big assignment as another reason to wait. One step is enough to put your hand on the weight. You can finish the rest after Friday.
 
 JONATHON: Part one. Find one weight with your name on it that you've been letting somebody else carry. Put your hand on it before Friday. One real step. A phone call, an appointment, a hard sentence.
 

@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,177 spoken words, about 14:31). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,182 spoken words, about 14:33). Re-time them against the final edit before publishing.
 
 ---
 
@@ -35,11 +35,11 @@ Christian men podcast, Field Notes, anger, James 1:19, Walk Steadfast, twenty-mi
 | Time | Segment | Summary |
 |---|---|---|
 | 00:00 | Open | Eleven cars. A short knee. |
-| 00:59 | Check the box | Tires. Therapist. Spreadsheet. A late birthday call. |
-| 06:40 | From the table | Is it ever right to be angry? |
-| 09:02 | The Word | James 1:19. Quick, slow, slow. |
-| 11:02 | The twenty-minute rule | Leave, name, return, say the small word. |
-| 14:05 | Close | Cool off. Do not check out. |
+| 01:00 | Check the box | Tires. Therapist. Spreadsheet. A late birthday call. |
+| 06:42 | From the table | Is it ever right to be angry? |
+| 09:05 | The Word | James 1:19. Quick, slow, slow. |
+| 11:04 | The twenty-minute rule | Leave, name, return, say the small word. |
+| 14:07 | Close | Cool off. Do not check out. |
 
 ---
 

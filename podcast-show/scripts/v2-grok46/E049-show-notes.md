@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,801 spoken words, about 18:40). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,825 spoken words, about 18:50). Re-time them against the final edit before publishing.
 
 ---
 
@@ -34,12 +34,12 @@ Christian men podcast, sons, 1 Thessalonians 2:11-12, fatherhood, Walk Steadfast
 |---|---|---|
 | 00:00 | Open | Open. |
 | 00:48 | You too, bud | You too, bud. |
-| 02:26 | A bus and a slope | A bus and a slope. |
-| 05:08 | The Word | The Word. |
-| 06:20 | Shoes and a crew | Shoes and a crew. |
-| 09:30 | This week's challenge | This week's challenge. |
-| 12:19 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
-| 18:18 | Close | Close. |
+| 02:28 | A bus and a slope | A bus and a slope. |
+| 05:10 | The Word | The Word. |
+| 06:22 | Shoes and a crew | Shoes and a crew. |
+| 09:36 | This week's challenge | This week's challenge. |
+| 12:25 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
+| 18:25 | Close | Close. |
 
 ---
 

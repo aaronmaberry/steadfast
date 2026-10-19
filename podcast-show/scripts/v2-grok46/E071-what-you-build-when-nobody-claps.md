@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 3,164 (about 21:06 at 150 wpm, before laughs and pauses) |
+| Spoken words | 3,169 (about 21:08 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 58 lines (51% of words). JONATHON 55 lines (49% of words), 5 under 12 words (9.1%) |
 | Focus mark | Work for God's Pay |
@@ -62,7 +62,7 @@ WES: I've been the doctor at a sink. I sighed so she would take the towel. A few
 
 WES: I coached Little League in my thirties. Oldest was eight. Three seasons. Coach-of-the-year plaque went to my loud assistant. Next Thursday breakfast Mr. Abernathy tapped twice. "Who were you doing it for?" Then, if it was for the kids, you already got paid. They played ball. I coached one more season. The best of the four. A boy's first caught pop fly.
 
-JONATHON: That's the question I needed in a shop. Who were you doing it for. If I need a clap I've already missed the pay. Can I ask you something hard?
+JONATHON: That's the question I needed in a shop. Who were you doing it for. If I need a clap I've already missed the pay. What unseen thing will you refuse to report?
 
 WES: Go.
 
@@ -92,7 +92,7 @@ JONATHON: If I pick it back up I will say so on Friday. I'm not going to hide a 
 
 ## SEGMENT 4 · The Word
 
-WES: I've got a little under ten minutes, and I want the Bible open. First Corinthians fifteen, verse fifty-eight.
+WES: Under ten. The unseen verse, then we stop talking about claps. Open First Corinthians, chapter fifteen, fifty-eight.
 
 JONATHON: "Therefore, my dear brothers and sisters, stand firm. Let nothing move you. Always give yourselves fully to the work of the Lord, because you know that your labor in the Lord is not in vain."
 
@@ -116,7 +116,7 @@ JONATHON: Secret isn't hide. Secret isn't doing it for the hug. I've hidden so I
 
 ## SEGMENT 5 · Pushback and challenge
 
-WES: We're about halfway, and I want the push. A man says, if nobody notices I'll quit. Go ahead and push. Then you were doing it for the plaque. Ask Abernathy's question. Who were you doing it for. If it was for the kids, you already got paid.
+WES: Halfway. Push on the letter I haven't mailed. A man says, if nobody notices I'll quit. Go ahead and push. Then you were doing it for the plaque. Ask Abernathy's question. Who were you doing it for. If it was for the kids, you already got paid.
 
 JONATHON: A man says, my wife should notice. Maybe. Ask her what would help her notice without a sigh. Then do that or put the sigh down. I've sighed for a gold star. It made the kitchen smaller.
 
@@ -158,7 +158,7 @@ JONATHON: I'll leave the tacos and I won't wait for a plaque. If the younger tec
 
 WES: Dani does about ten hours with a mother. The doctor comes for the last twenty minutes, catches the baby, and the family hugs the doctor. She said she wasn't doing it for the picture. Some nights it still bothers her.
 
-JONATHON: Have I been the doctor in my own house this week, showing up for the catch and wanting the hug? I think I have. I want her to see the sink. That's the old boy who only got noticed for strikeouts.
+JONATHON: Have I been the doctor in my own house this week, showing up for the catch and wanting the hug? I think I have. I still want Dani to notice the dishes. That's the old boy who only got noticed for strikeouts.
 
 WES: You have. Show up for the labor. Skip the picture. The family hugging the doctor is not your wage, and a wife noticing a sink is not yours either.
 
@@ -206,7 +206,7 @@ JONATHON: I'll stop. I'm retiring the laminate. If I pick the star back up I wil
 
 WES: Stand firm is a Tuesday. Fully is a five-thirty honk. A sink is a seed because the dead rise. If there is no rising, a sink is a joke. Because there is, a sink counts.
 
-JONATHON: Does that sound like I'm arguing with Paul if I still want a clap this week? I wanted not in vain to mean noticed by Thursday, and I am having a hard time storing pay I cannot invoice.
+JONATHON: If I still want a clap this week, am I arguing with Paul? I wanted not in vain to mean noticed by Thursday, and I am having a hard time storing pay I cannot invoice.
 
 WES: [laughs] It sounds like you're listening. Keep the seed. Lose the invoice. Not in vain means kept, not posted.
 
@@ -232,7 +232,7 @@ WES: Write a letter that can't be liked. The eighth-grade coach. Science teacher
 
 JONATHON: Will you mail it even if he never answers? Because I want a reply so I can feel the seed sprout on a calendar I control, and that is not how this pay works.
 
-WES: I'll mail it. I won't need an answer. My son is twenty-one and still talks about the bus. That's already the harvest. The letter is thanks, not a trap.
+WES: I'll mail it. I won't need an answer. My son is twenty-one and still talks about the bus. That's already the harvest. The letter is thanks. I'm not baiting him for a reply.
 
 JONATHON: That's a seed. I'm sending the short text Tuesday and I won't wait for a heart on it either. Two sendings. Neither one is a plaque.
 
@@ -300,7 +300,7 @@ JONATHON: I'll take stored. I'm tired of loud.
 
 ## SEGMENT 20 · More on a 15
 
-WES: We're about halfway through the thing I actually have to do. Write the letter. Send the short text. One unseen thing you refuse to report unless asked. I've got about a minute and I want it on you.
+WES: We're in the last stretch of what I came here to name. Write the letter. Send the short text. One unseen thing you refuse to report unless asked. A minute. Write the letter. Send the short text. Don't report it.
 
 JONATHON: What are you picking, the letter or another long text with a star hiding in it? Because if you pick both you will write the long text and call it a letter.
 

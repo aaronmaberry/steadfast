@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,968 (about 19:47 at 150 wpm, before laughs and pauses) |
+| Spoken words | 3,006 (about 20:02 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 50 lines (51% of words). JONATHON 40 lines (49% of words), 1 under 12 words (2.5%) |
 | Focus mark | Go First |
@@ -100,7 +100,7 @@ WES: Saturday I looked up her degree program. Online. What's left. Cost. Monday 
 
 JONATHON: That's hard for you, because you like a clean loop, and a printout in a Bible is an unfinished loop. Are you actually going to leave it, or are you going to slide it across the table Friday when the house is quiet?
 
-WES: Yeah — I'm leaving it unfinished on purpose. She said she wanted me to hear it. Hearing is the job this month. If I slide a packet across the table I'm saying "What for?" with better stationery.
+WES: Yeah — I'm keeping the packet in the Bible on purpose. She said she wanted me to hear it. Hearing is the job this month. If I slide a packet across the table I'm saying "What for?" with better stationery.
 
 JONATHON: Hold on. I want to fix Dani's Tuesdays with a chart. Bath, socks, supper, a show. She didn't ask for a chart. She asked me to be okay out loud. A chart would be roses. Is a chart just a packet in a different font?
 
@@ -118,7 +118,7 @@ WES: Not yet. That's a speech too. I'm still deciding if the confession is for h
 
 ## SEGMENT 4 · The Word
 
-WES: I've got a little under ten minutes, and I want the Bible open. Ephesians five, verse twenty-five. You want to read it?
+WES: Under ten minutes. Open to the verse about laying it down. Ephesians five, verse twenty-five. You want to read it?
 
 JONATHON: "Husbands, love your wives, just as Christ loved the church and gave himself up for her"
 
@@ -126,13 +126,13 @@ JONATHON: "Husbands, love your wives, just as Christ loved the church and gave h
 
 WES: Paul isn't asking for a speech. He's asking for a cross-shaped week. Gave himself up. Past tense in Christ, present tense in a kitchen. The church didn't get a letter on a pillow. She got blood.
 
-JONATHON: "Gave himself up." That's hours. That's a call at seven-thirty. That's two in the morning. That's not a bouquet you can photograph. So which is it, a verse about dying, or a verse about a Tuesday?
+JONATHON: "Gave himself up." That's hours. That's a call at seven-thirty. That's two in the morning. That's not a bouquet you can photograph. Is Paul talking about a war, or about walking in the kitchen door first?
 
 WES: Hours. Not a bouquet. I keep wanting the photograph. First John says he laid down his life for us and we ought to lay down our lives for our brothers. Same shape. Smaller room. If your death needs an audience, it's still a paycheck.
 
 [BOARD: John 15:13 (NIV) · "Greater love has no one than this: to lay down one’s life for one’s friends."]
 
-JONATHON: That verse is going to make a man think of a fire or a war. Most of us will never get that scene. We will get a Tuesday. If we miss the Tuesday we haven't been saving ourselves for a better death. We've been refusing the one in front of us.
+JONATHON: That verse is going to make a man think of a fire or a war. Most of us will never get that scene. We will get a Tuesday. Skip the kitchen hour and you haven't been storing yourself for a fire. We've been refusing the one in front of us.
 
 WES: That's fair, but— no, that's actually it. The Tuesday is the death. The fire is the story we tell so we can skip the Tuesday.
 
@@ -140,7 +140,7 @@ WES: That's fair, but— no, that's actually it. The Tuesday is the death. The f
 
 ## SEGMENT 5 · Pushback
 
-WES: We're about halfway, and I want the push. A man says, I already die at work. Why've I got to die at home too? Go ahead and push.
+WES: Halfway. Push me on the unnamed thing I'm still carrying. A man says, I already die at work. Why've I got to die at home too? Go ahead and push.
 
 JONATHON: Because work pays you. Home does not. If the only place you lay yourself down is the place with a check, you have not learned Ephesians. You have learned employment. I don't totally buy that a regional call is a cross, and I still moved it. Does that make me a hypocrite?
 
@@ -148,11 +148,11 @@ WES: No. It makes you a man who did the Tuesday before he felt holy. A man says,
 
 JONATHON: Sometimes she doesn't. Do it anyway. I laid down a call and Dani didn't throw a parade. I still moved it. Notice isn't the wage. Wait, are you going to announce the kitchen door if she doesn't notice?
 
-WES: Last few minutes on what we're actually doing. I go in the kitchen door first now. I give her five minutes before the dresser. Every day. No announcement. If I announce it I've written another letter.
+WES: Last few minutes on the unnamed thing, not the speech about it. I go in the kitchen door first now. I give her five minutes before the dresser. Every day. No announcement. If I announce it I've written another letter.
 
-JONATHON: I'm laying down one unnamed thing for Dani every day. Friday's report is only yes or no. I'm not going to tell you the thing, because if I name it here I will want credit again. Can you live with not knowing?
+JONATHON: I'm laying down one unnamed thing for Dani every day. Friday's report is only yes or no. I'm not going to tell you the thing, because if I name it here I will want credit again. Can you sit with me not naming it?
 
-WES: I can live with not knowing. That's the point of unnamed.
+WES: I can sit with you not naming it. That's the point of unnamed.
 
 ---
 
@@ -166,7 +166,7 @@ WES: Kitchen door. Five minutes. No announcement. I've got a printout in a Bible
 
 JONATHON: And if you fail Wednesday, don't write a letter about the failure. Do Thursday. I already know I can fail a Wednesday. The question is whether I tell the truth about it on Friday.
 
-WES: Look around your house this week. The death is probably in a doorway, not in a journal. Pick one.
+WES: Look at the unnamed thing in your hand. The death is probably in a doorway, not in a journal. Pick one.
 
 ---
 
@@ -174,17 +174,17 @@ WES: Look around your house this week. The death is probably in a doorway, not i
 
 WES: I want to stay on the door, because a man will hear a verse and look for a war. I've been coming in and going to the dresser for twenty years. Wallet. Watch. Change. Then I find her. That order taught her that my absence means I'm fine. Fine is a closed door with a polite face.
 
-JONATHON: Dani learned the same thing from me and a laptop. If I sit down at the table first, she looks surprised, like I've been replaced. That's not cute. That's a report card I wrote with my feet. Are you actually going to leave the announcement off, or are you going to tidy it when she asks what's wrong?
+JONATHON: Dani learned the same thing from me and a laptop. If I sit down at the table first, she looks surprised, like I've been replaced. That's not cute. That's a grade I walked into the house for twenty years. Are you actually going to leave the announcement off, or are you going to tidy it when she asks what's wrong?
 
-WES: If she asks what's wrong I'll say nothing is wrong. I just came in. Don't hold me to a speech. Hold me to five minutes without a speech.
+WES: If she asks what's wrong I'll say nothing is wrong. I just came in. Don't hold me to a speech about laying it down. Hold me to the unnamed thing. Hold me to five minutes without a speech.
 
 JONATHON: [laughs] Fine. Five minutes. No speech. I'll be real with you. Five minutes feels like nothing until you try to give it when you're tired and late and you want the dresser. Then it feels like a cross. That's how you know it's the right size.
 
-WES: My dad fed cattle every morning of his life. Christmas. The morning the granddad died. The morning I was born. Nobody wrote him a letter about it. He just went. I've been wanting a letter for things he would have called Tuesday.
+WES: Dad put hay out before sunrise every day he was alive. Christmas. The morning the granddad died. The morning I was born. Nobody wrote him a letter about it. He just went. I still hunt for applause on chores he would have just done.
 
 JONATHON: I want a letter for a calendar change. That's the paycheck again. If I can't lay down a call without narrating it, I won't lay down a year when it comes. Does HVAC sales even have a year that isn't a number?
 
-WES: [laughs] It sounds like a man who knows his calendar. Put the unnamed thing on a Tuesday that already has a meeting. Or you never will.
+WES: [laughs] That sounds like the unnamed thing finally getting a Tuesday. Park the unnamed thing on a day that's already loud with a regional call. Waiting for a clean slot is how it never moves.
 
 ---
 
@@ -198,7 +198,7 @@ WES: A real death does not send reminders. A loan does. If I mention the kitchen
 
 JONATHON: I'm trying not to send Dani a reminder about the seven-thirty call. If I mention it every night I haven't laid it down. I've got rented it to her as gratitude. That's fair, but— I already told her once. Once is a report. Twice is an invoice.
 
-WES: We're about halfway through the thing I actually have to do, and I want you to hear this if your wife has a want that isn't about you. Her want isn't a verdict. Your speech might be a verdict on your pride.
+WES: We're in the back half now, and I want you to hear this if your wife has a want that isn't about you. Her want isn't a verdict. Your speech might be a verdict on your pride.
 
 JONATHON: And if your kids are in the room, they're watching which one you pick. Ruby watched me hear the lizard story. That's a better sermon than any pipeline call I've got ever run. Did your kids watch the letter, or the two a.m.?
 
@@ -210,7 +210,7 @@ WES: They watched the letter. They were little. They still learned which one I p
 
 WES: Last few minutes on the man who hears this and erases himself. That isn't the verse. Christ had a name. He prayed. He ate. He asked for company in a garden. Laying down isn't vanishing. Vanishing is how you come back later with a bill.
 
-JONATHON: I vanished into work and called it provision. Then I showed up with roses. Provision without presence is just a paycheck with petals. Can I ask you something hard?
+JONATHON: I vanished into work and called it provision. Then I showed up with roses. Provision without presence is just a paycheck with petals. What unnamed thing are you still holding?
 
 WES: Go.
 
@@ -220,9 +220,9 @@ WES: If you need a hobby so you don't resent her, keep the hobby and lay down th
 
 JONATHON: That's the push I needed. I can turn Dani into my priest if I'm not careful. She isn't my priest. She's my wife. She needs a husband who has a body and a friend and a Tuesday he already explained.
 
-WES: Look around your house this week. The unnamed thing is probably already on the calendar, wearing a better name. Move it. Don't narrate it. Then tell one man yes or no.
+WES: Look at the unnamed thing in your hand. The unnamed thing is probably already on the calendar, wearing a better name. Move it. Don't narrate it. Then tell one man yes or no.
 
-JONATHON: Friday I'll say yes or no. I won't tell you the thing. If I tell you the thing I will want you to clap, and then we're back at the roses.
+JONATHON: Friday I will only answer whether I did it. I won't tell you the thing. If I tell you the thing I will want you to clap, and then we're back at the roses.
 
 ---
 
@@ -240,7 +240,7 @@ WES: Say that to her. Not as a speech. As a confession. Then pick up the socks a
 
 JONATHON: I will. And if I fail Wednesday, I won't write her a letter about the failure. I will do Thursday. That's the only death I can offer this week.
 
-WES: Then take tonight. Kitchen door. Five minutes. No announcement. If she asks what's wrong, tell her nothing is wrong. You just came in. That's enough of a death for a Thursday. I can't get those two a.m. nights back. I can get tonight.
+WES: Then take tonight. Kitchen door. Five minutes. No announcement. If she asks what's wrong, tell her nothing is wrong. You just came in. That's the size of dying I can offer before Friday. I can't get those two a.m. nights back. I can get tonight.
 
 JONATHON: That's the sentence I need in my pocket. I can't get the first two years of marriage back, when I bought flowers and missed Mondays. I can get this Tuesday at seven-thirty, and the next one, and the one after Dani sings. And if she doesn't notice, I still do Friday. Notice isn't the wage.
 

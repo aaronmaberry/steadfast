@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm |
-| Spoken words | 1,929 (about 12:52 at 150 wpm, before laughs and pauses) |
+| Spoken words | 1,967 (about 13:07 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 29 lines (50% of words). JONATHON 28 lines (50% of words), 3 under 12 words (10.7%) |
 | Focus mark | Pick Up the Weight |
@@ -55,9 +55,9 @@ JONATHON: The tally is four a day now, all in the car. Hang on, bud. Theo said, 
 
 WES: We're about halfway. The text. Say it without decorating it.
 
-JONATHON: Sunday I will send my father Happy Father's Day. Period. The first in twenty-eight years. I've rewritten it about nine times. I decided not to send Ruby's fish photo. If he does not answer, then it's her picture he didn't answer. Maybe the picture next time. I'm still mad. Not yet is still not yet. I can send two words and stay mad. Those aren't opposites. I will report Tuesday. I'm not asking this table to clap for a text.
+JONATHON: Sunday I will send my father Happy Father's Day. Period. The first in twenty-eight years. I've rewritten it about nine times. I decided not to send Ruby's fish photo. If he doesn't write back, the silence lands on her picture, not on two words. Maybe the picture next time. I'm still mad. Not yet on the blessing is still an empty Thursday. I can send two words and stay mad. Those aren't opposites. I will report Tuesday. I'm not asking this table to clap for a text.
 
-WES: Good. Don't clap. Two words is an ask and a blessing and a risk. Leave the photo out. That's a father protecting a child from a silence. That's not cold. That's weight.
+WES: Good. Don't clap. Two plain words is an ask and a blessing and a risk. Leave the photo out. That's a father protecting a child from a silence. That's not cold. That's weight.
 
 JONATHON: Saturday I will call the nephew. Name first. He tells the truth when it costs him, the one in the morning call. I hope he becomes a man somebody calls at one in the morning. Then I will shut up. If I add a paragraph he will say don't make it weird, and he will be right.
 
@@ -87,7 +87,7 @@ WES: All week I've been saying my youngest's name first. He asked why I keep say
 
 JONATHON: If you can't bless a father, bless a younger man. If you can't send the text, write it and wait. I'm sending mine. I may get nothing back. Nothing back isn't a reason to skip a nephew. I won't stack them so I can fail both and feel deep.
 
-WES: Look around your house this week. The day is allowed to be complicated. The blessing is still simple. A name. One true thing. No photo that's not yours to risk.
+WES: Look at the complicated day and still bless someone. The day is allowed to be complicated. The blessing is still simple. A name. One true thing. No photo that's not yours to risk.
 
 JONATHON: I will send two words. I will call a twenty-two-year-old and not make it weird. If I come back with a novel about my father, stop me. The novel is how I skip the nephew.
 
@@ -98,7 +98,7 @@ WES: I used to let Father's Day turn me into a boy who needed a review. I'm a gr
 
 JONATHON: I'll send two words. I'll call a twenty-two-year-old and not make it weird. If I come back with a novel about my father, stop me. The novel is how I skip the nephew.
 
-WES: Two words is an ask and a blessing and a risk. Leave the photo out. That's a father protecting a child from a silence. That's not cold. That's weight.
+WES: Two plain words is an ask and a blessing and a risk. Leave the photo out. That's a father protecting a child from a silence. That's not cold. That's weight.
 
 JONATHON: I can send two words and stay mad. Those aren't opposites. I won't ask this table to clap for a text. I'll report Tuesday.
 
@@ -110,7 +110,7 @@ JONATHON: Wait, back up. Are you talking about me and twenty-eight years, or the
 
 WES: Both. You rewrote the text nine times. Are you actually sending two words, or are you going to attach a fish photo and let a seven-year-old carry a silence?
 
-JONATHON: Two words. Period. No photo. If he doesn't answer, that's mine to carry. Can I ask you something hard?
+JONATHON: Two words. Period. No photo. If he doesn't answer, that's mine to carry. Can the day be complicated and still hold a blessing?
 
 WES: Go.
 
@@ -118,7 +118,7 @@ JONATHON: Are you calling the twenty-four-year-old after the night shift, or are
 
 WES: [beat] I'll say his name. I may be wrong about the car. I'll still say one true thing I've watched. What are you actually doing besides the text?
 
-JONATHON: The nephew. Name first. Then I shut up. If I add a paragraph he'll say don't make it weird. If I pick three I'll do none.
+JONATHON: The nephew. Name first. Then I shut up. If I add a paragraph he'll say don't make it weird. If I add a paragraph after his name I will make it weird.
 
 WES: That's fair, but— no, don't stack the text and the nephew so you can fail both and feel deep.
 
@@ -132,13 +132,13 @@ WES: [laughs] I don't. I need to say a young man's name after a bus ride. Weird 
 
 JONATHON: Both. Those aren't opposites. I cried in the pantry over Steve on a card. Dani didn't come in. She knows that pantry. That's a kind of holding I didn't have at nine.
 
-WES: Good. Two words can sit next to that pantry. Don't use a child as a prop. Don't wait for a quieter Sunday.
+WES: Good. Two words can sit next to that pantry. Don't use a child as a prop. Don't wait for a Sunday with no bruise.
 
-JONATHON: Then I put two words on a day that already has a bruise. Does that sound like I'm making a quota out of a holiday?
+JONATHON: Then I put two words on a day that already has a bruise. Does two words on a bruised Sunday sound like I'm checking a holiday box?
 
-WES: [laughs] It sounds like a man who knows his calendar. Send it inside the bruise, or you never will.
+WES: [laughs] That sounds like a text sent while the bruise is still there. Send it inside the bruise, or you never will.
 
-JONATHON: What are you picking, for real?
+JONATHON: Name first then shut up — can you stop there?
 
 WES: The night-shift call. His name. One true thing. I may be wrong about the car.
 
@@ -158,11 +158,11 @@ WES: Saturday morning I call after a night shift. The bus. The donuts. I hope he
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. If the day is complicated, tell the truth and still bless a younger man.
+WES: Keep this: if the day is complicated, tell the truth and still bless. If the day is complicated, tell the truth and still bless a younger man.
 
 JONATHON: And two words can be a first in twenty-eight years.
 
-WES: Tuesday we talk about a hill. Until then: a name, a blessing, no speech.
+WES: Tuesday a boy gets a hill. Until then: a name, a blessing, no speech.
 
 JONATHON: Give it, then tell us at walksteadfast.com, and find us at @steadfastwalk.
 

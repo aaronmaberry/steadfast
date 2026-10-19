@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 2,109 (about 14:04 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,147 (about 14:19 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 33 lines (55% of words). JONATHON 28 lines (45% of words), 1 under 12 words (3.6%) |
 | Focus mark | Stop Waiting |
@@ -44,7 +44,7 @@ JONATHON: And I'll tell you the journeyman who calls him College, and why that a
 
 ## SEGMENT 1 · Check the box
 
-WES: Let's take the next few minutes on the texts, because Friday is the receipt. You go first. I already used the hook.
+WES: Let's sit with the texts for a few minutes, because Friday is the receipt on the nephew. You go first. I already used the hook.
 
 JONATHON: I texted him Saturday night. Not "Anybody special?" I wrote, "What's hard at work right now?" Twenty minutes later he called, then kept it in texts because he was on a job. Second-year apprentice electrician. A journeyman calls him College because he did one semester. He'd been thinking about quitting and told no one. I didn't give a speech. I asked what the journeyman is like on a good day.
 
@@ -70,7 +70,7 @@ WES: I like a clean loop. He said don't fix it. So I didn't. I sat with "thanks 
 
 JONATHON: His roommate came up in a later text. Vegan. Dani had made a separate pan of beans one Sunday and the roommate never forgot it. I'm not turning that into a cameo. The roommate is his. The text is mine. I'm staying in my lane.
 
-WES: Stay in the lane. Look around your house this week. If you've got a younger man on your phone, notice whether you're asking him to perform a life or tell you the truth.
+WES: Stay in the lane. Look at the four lines you left in the attic. If you've got a younger man on your phone, notice whether you're asking him to perform a life or tell you the truth.
 
 ---
 
@@ -112,7 +112,7 @@ JONATHON: "Each of you should use whatever gift you have received to serve other
 
 WES: Peter is writing to ordinary people, not a stage. The gift is already received. Past tense. You use it. You don't wait to feel titled. A cracked boot is a gift if you know how to see it. A semester you didn't finish isn't the whole name.
 
-JONATHON: "Various forms." That's the part that gets me. Nails. Sound. A Tuesday text. A melody from the back row. None of those look like a calling on a flyer, and all of them are grace in a form.
+JONATHON: "Various forms." That's the phrase that stops me. Nails. Sound. A Tuesday text. A melody from the back row. None of those look like a calling on a flyer, and all of them are grace in a form.
 
 WES: If you needed a prettier gift than the one in your hands, you would still be in the lobby. Use the one you have. A semester you didn't finish isn't the whole name. A cracked boot isn't small if a ceiling is staining Oklahoma.
 
@@ -140,7 +140,7 @@ WES: Two sentences is a lot if they're the right ones. Most of us send twenty an
 
 WES: Tool this week is a single man's Tuesday rhythm. Work you can stand on. One meal that isn't gas-station silence. One older man you text. One thing for somebody who can't pay you back. Four lines. That's a life. That's not a holding pattern. What are you actually writing?
 
-JONATHON: Answer his Wednesday text without a speech. Then ask the sound man his brother's name, because I don't know it and I've sat behind him for a year. Can I ask you something hard?
+JONATHON: Answer his Wednesday text without a speech. Then ask the sound man his brother's name, because I don't know it and I've sat behind him for a year. Did you write the four, or leave them in the attic?
 
 WES: Go.
 
@@ -148,9 +148,9 @@ JONATHON: Are you going to buy the boot and let him teach you, or turn Saturday 
 
 WES: [beat] Buy the boot. Let him teach me. If I tell this like a win before he comes back, I stole it. He knew the cracked boot. I didn't. That's honor, not charity.
 
-JONATHON: That's fair, but— don't start with Lubbock. Start with the boot. Then ask if he wants to come eat, not fix anything. What are you picking, for real?
+JONATHON: That's fair, but— don't start with Lubbock. Start with the boot. Then ask if he wants to come eat, not fix anything. The four lines, or the girls question you keep stepping over?
 
-WES: The boot. Saturday. I buy it. He shows me. Look around your house this week. The gift is already in your hands. A cracked boot. A Tuesday. A real question. Use the one you have.
+WES: The boot. Saturday. I buy it. He shows me. Look at the four lines you left in the attic. The gift is already in your hands. A cracked boot. A Tuesday. A real question. Use the one you have.
 
 JONATHON: No, hold on. You've got a habit of stacking tomatoes and Lubbock and the boot so you can miss the meal. Boot first?
 
@@ -160,15 +160,15 @@ JONATHON: I'll leave the girls question on the floor. If I pick it back up, stop
 
 WES: Divorced men, the four lines still work. One of them is your kids, even on the weeks they aren't with you. Widowed men, Merle already wrote the card. You can write a smaller one. And if he doesn't answer, you still asked. That's assigned. That's not a failed campaign, and it still counts.
 
-JONATHON: Then I answer Wednesday's text on a Tuesday that already has a meeting. Does that sound like a quota?
+JONATHON: Then I answer Wednesday's text on a Tuesday that's already booked. Does answering a nephew on a booked Tuesday sound like I'm counting lines so I can be done?
 
-WES: [laughs] It sounds like a man who knows his calendar. Answer inside the busy, or you never will. That's the whole takeaway. Write the four. Leave the girls question on the floor.
+WES: [laughs] That sounds like four lines written while the attic is still hot. Answer inside the busy, or you never will. That's the whole takeaway. Write the four. Leave the girls question on the floor.
 
 [BOARD: Four lines is a life, not a lobby.]
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. The gift is already in your hands. Use it.
+WES: Keep this: the gift is already in your hands. Use it. The gift is already in your hands. Use it.
 
 JONATHON: And ask a real question. Then leave the girls question on the floor.
 

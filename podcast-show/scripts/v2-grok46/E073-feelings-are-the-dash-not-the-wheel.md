@@ -5,9 +5,9 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,821 (about 18:48 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,858 (about 19:03 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 55 lines (53% of words). JONATHON 53 lines (47% of words), 4 under 12 words (7.5%) |
+| Line balance | WES 55 lines (54% of words). JONATHON 53 lines (46% of words), 4 under 12 words (7.5%) |
 | Focus mark | Stop Waiting |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Psalm 42:5. Board only: Proverbs 29:11; James 1:19 |
 | Board cues | 4 |
@@ -84,7 +84,7 @@ JONATHON: Ruby Wednesday stomped in, slammed her door. I sat on the floor outsid
 
 ## SEGMENT 4 · The Word
 
-WES: I've got a little under ten minutes, and I want the Bible open. Psalm forty-two, verse five.
+WES: Under ten. Dash and wheel. I want the text in front of us. Psalm forty-two, verse five.
 
 WES: You want to read it?
 
@@ -114,9 +114,9 @@ WES: A man says it's unmanly to cry. I cried at my daughter's wedding and not at
 
 JONATHON: If you're single, name the word to a brother. If you're divorced, don't let mad drive a handoff. Keys on the table. Then the road.
 
-WES: Look around your house this week. What have you been calling tired that's afraid. Name it. Then put the keys down.
+WES: Look at the keys before you drive mad. What have you been calling tired that's afraid. Name it. Then put the keys down.
 
-JONATHON: I'll ask how was it first. I won't take a quit at six. That's the wheel I can hold.
+JONATHON: Choir Night starts with how was it, before any close. I won't take a quit at six. That's the wheel I can hold.
 
 ---
 
@@ -164,7 +164,7 @@ JONATHON: Would you have turned the gate into a sermon last year? Because I woul
 
 WES: Last year I would have. This year I let a gate be a gate. That's Psalm forty-two in a pasture.
 
-JONATHON: I said that hurt with Theo, not you're okay. You're okay is how I leave a feeling. That hurt is two words and a stay.
+JONATHON: I said that hurt with Theo, not you're okay. You're okay is how I leave a feeling. That hurt is a stay in the driveway, two words, no rush.
 
 ---
 
@@ -172,11 +172,11 @@ JONATHON: I said that hurt with Theo, not you're okay. You're okay is how I leav
 
 WES: Left out. Under the glad. He had been calling it nervous. Naming left out keeps him from turning her folder into his abandonment story.
 
-JONATHON: Can I ask you something hard? When you named afraid on the porch, did you want her to fix October, or did you just need the word out of tired?
+JONATHON: What are you afraid of when you pick up the keys? When you named afraid on the porch, did you want her to fix October, or did you just need the word out of tired?
 
 WES: I needed the word. Tired was a costume. Afraid is a word you can pray. She said what's October, and I told her a younger reviewer, and I didn't hand her the keys.
 
-JONATHON: I'll ask how was it first on Tuesday so left out doesn't drive me into her black folder. The folder is hers. The word is mine.
+JONATHON: I'll lead Tuesday with how was the folder so left out doesn't drive me into her black folder. The folder is hers. The word is mine.
 
 ---
 
@@ -184,9 +184,9 @@ JONATHON: I'll ask how was it first on Tuesday so left out doesn't drive me into
 
 WES: I've been short with my wife, the dog, and a man at the shop, calling it tired. Sunday she asked what's October. On the porch I named it afraid.
 
-JONATHON: That's fair, but— HVAC still has an October number. If I wait for a quiet month to name left out, I'll still be waiting when Theo has a license. Do I name it on a loud week?
+JONATHON: That's fair, but— HVAC still has an October number. If I wait for a soft calendar to say left out out loud, Theo will be driving before I use the word. Do I name it on a loud week?
 
-WES: Name it on a loud week. That's the only week it costs. Quiet weeks don't need a porch.
+WES: Name it on a loud week. That's the only week putting the keys down costs you. A soft calendar won't teach me to name left out.
 
 JONATHON: I'll name it loud. Left out. Then the short text. Then how was it first. That's the wheel I can hold.
 
@@ -232,7 +232,7 @@ JONATHON: I'll sit the floor. If I start a campaign about a friend I will come b
 
 WES: The psalmist talks to his own soul. That's a dash he can read. He does not pretend the downcast isn't there. He also does not hand it the keys. Hope is the wheel. Praise is yet.
 
-JONATHON: Does that sound like I'm arguing with David if I still want to fake fine at supper so nobody has to hear afraid?
+JONATHON: If I still want to fake fine at supper, am I arguing with David?
 
 WES: [laughs] It sounds like you're listening. Use your words. That's Psalm forty-two in a hallway. Yet is not fake now. Yet is the wheel.
 
@@ -260,7 +260,7 @@ JONATHON: Will you actually write more than K, or will you tidy October into a j
 
 WES: More than K. Glad too, worried about October, still glad. That's a word with a passenger, not a bumper sticker.
 
-JONATHON: I'll send glad. I'll ask how was it first. I won't take a quit at six. That's the whole week wearing a dash I can read.
+JONATHON: I'll send glad. Choir Night starts with how was it, before any close. I won't take a quit at six. That's the whole week wearing a dash I can read.
 
 ---
 
@@ -270,7 +270,7 @@ WES: If you're single, name the word to a brother. If you're divorced, don't let
 
 JONATHON: What are you picking tonight, afraid or tired, because if you pick tired you will be short with the dog again?
 
-WES: Afraid. I've got about a minute and I want it on you. Name it. Then put the keys down. Don't drive mad.
+WES: Afraid. A minute. Name the fear. Then put the keys down. Name it. Then put the keys down. Don't drive mad.
 
 JONATHON: I'll name left out. I'll put the keys down. If I fail and drive I'll come back and say I drove, not that the game made me.
 
@@ -278,7 +278,7 @@ JONATHON: I'll name left out. I'll put the keys down. If I fail and drive I'll c
 
 ## SEGMENT 19 · More on a 14
 
-WES: Look around your house this week. What have you been calling tired that's afraid. Name it. Then put the keys down.
+WES: Look at the keys before you drive mad. What have you been calling tired that's afraid. Name it. Then put the keys down.
 
 JONATHON: Ask me Friday whether I asked how was it first, and whether I sat on a floor for two words without fixing a friend.
 
@@ -290,11 +290,11 @@ JONATHON: I won't pretty it up. Mad. Embarrassed. Left out. Afraid. Those are en
 
 ## SEGMENT 20 · More on the 15
 
-WES: I once drove a nine-year-old home from a bases-loaded strikeout. I didn't have a pocket square then. I had a quiet truck and a boy who needed the dash named, not a lecture.
+WES: Years back I drove a nine-year-old home after he struck out with the bases full. I didn't have a pocket square then. I had a quiet truck and a boy who needed the dash named, not a lecture.
 
 JONATHON: Did you say you're okay that night? Because I have said you're okay so I could leave the feeling, and I hate that I know that move.
 
-WES: I probably did. I'm trying not to now. That hurt is two words and a stay. You're okay is a lie we tell so we can go inside.
+WES: I probably did. I'm trying not to now. That hurt is a stay in the driveway, two words, no rush. You're okay is how I rush a boy into the house.
 
 JONATHON: I'll say that hurt. If I say you're okay I will come back and unsay it the same night, because same night is how a buzz stays a dash.
 
@@ -302,7 +302,7 @@ JONATHON: I'll say that hurt. If I say you're okay I will come back and unsay it
 
 ## SEGMENT 21 · More on the 16
 
-WES: We're about halfway through the thing I actually have to do. One word a night. Keys on a table. A quit that gets a morning. I've got one more minute and I want it on you.
+WES: We're in the back half of the work I still owe this porch. One word a night. Keys on a table. A quit that gets a morning. One more minute. Name the fear, then leave the keys on the hook.
 
 JONATHON: What are you picking, the porch word or another week of tired, because tired is how October drives the shop without a license?
 
@@ -318,7 +318,7 @@ WES: A farm road is how you listen when a boy finally talks. Twenty minutes. Win
 
 JONATHON: Can you live with not being wise, or are you going to tidy a gate into a proverb because silence makes you feel useless?
 
-WES: I can live with not being wise. Useless is sometimes the wheel. Useful is sometimes the wreck.
+WES: I can sit with looking unwise in a truck. Useless is sometimes the wheel. Useful is sometimes the wreck.
 
 JONATHON: I'll live with a floor and two words. If I start a proverb I will stop and sit back down like a Sabbath with a limp.
 
@@ -330,7 +330,7 @@ WES: Last few minutes. Name it. Don't let it drive. Anger can sit shotgun. Give 
 
 JONATHON: Ask me Friday whether I named left out out loud, not in a notes app, and whether the keys stayed on a table that wasn't mine to grab.
 
-WES: I'll ask. Don't hide left out inside nervous. Nervous is a costume. Left out is a dash.
+WES: I'll ask. Don't bury left out under the word nervous. Nervous is a costume. Left out is a dash.
 
 JONATHON: I won't hide it. Left out. Then the short text. Then her folder without my abandonment story riding in the passenger seat.
 

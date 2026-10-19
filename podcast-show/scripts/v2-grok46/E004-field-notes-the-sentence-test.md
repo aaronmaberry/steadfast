@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 2,002 (about 13:21 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,000 (about 13:20 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 31 lines (54% of words). JONATHON 26 lines (46% of words), 0 under 12 words (0.0%) |
 | Focus mark | None. Checks the sentence. |
@@ -36,7 +36,7 @@ WES: This is Walk Steadfast. I'm Wes Hart.
 
 JONATHON: And I'm Jonathon. Friday we check the box. We don't dress it up.
 
-WES: Tuesday we asked you to write the sentence you've actually been living, read it to one man, and if you're married, ask your wife what she thinks it is. If you tried it, or if you didn't, stay. Before we're done I'll tell you about the gutter, and he will tell you what Dani said when he finally asked.
+WES: Tuesday we asked you to write the sentence you've actually been living, read it to one man, and if you're married, ask your wife what she thinks it is. If you said the sentence, or if you swallowed it, stay. Before we're done I'll tell you about the gutter, and he will tell you what Dani said when he finally asked.
 
 JONATHON: And I'll tell you the text my sister's kid sent me, because it's the whole generation in four words.
 
@@ -44,7 +44,7 @@ JONATHON: And I'll tell you the text my sister's kid sent me, because it's the w
 
 ## SEGMENT 1 · Check the box
 
-WES: Let's take the next few minutes on what we actually did, because Friday is the receipt. I'd already told you my old one. "Pay the bills and don't make trouble." I figured I'd grown. Twenty years of Thursdays. I sat down Tuesday night to write a better one, and I couldn't decide, so I thought, I'll just ask her.
+WES: This Friday's stretch is the sentence you said out loud. I'd already told you my old one. "Pay the bills and don't make trouble." I figured I'd grown. Twenty years of Thursdays. I sat down Tuesday night to write a better one, and I couldn't decide, so I thought, I'll just ask her.
 
 JONATHON: Brave. Also a little stupid, which I say with respect, because I did the same thing and I was scared the whole walk down the hall.
 
@@ -140,7 +140,7 @@ WES: [beat] Well. That's fair.
 
 ## SEGMENT 5 · The card
 
-WES: Last few minutes on a tool you can use tonight. One index card. Three by five. Plain. On one side, write your old sentence. The real one. "I'll get to it." "Win the room." Whatever it is. Leave the other side blank.
+WES: Last few minutes on the sentence test you can run after supper. One index card. Three by five. Plain. On one side, write your old sentence. The real one. "I'll get to it." "Win the room." Whatever it is. Leave the other side blank.
 
 JONATHON: Why blank? Because I will fill both sides if nobody stops me, and then I'll call that being thorough.
 

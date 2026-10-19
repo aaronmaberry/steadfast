@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,329 spoken words, about 15:32). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,376 spoken words, about 15:50). Re-time them against the final edit before publishing.
 
 ---
 
@@ -35,22 +35,22 @@ Christian men podcast, grief, Psalm 34:18, Field Notes, Walk Steadfast, annivers
 |---|---|---|
 | 00:00 | Open | Open |
 | 00:46 | Pen | Pen |
-| 01:42 | Five dates | Five dates |
-| 02:47 | The Word | The Word |
-| 03:44 | What we're carrying | What we're carrying |
-| 04:53 | More on pen 1 | More on pen 1 |
-| 05:41 | More on pen 2 | More on pen 2 |
-| 06:30 | More on pen 3 | More on pen 3 |
-| 07:28 | More on pen 4 | More on pen 4 |
-| 08:22 | More on pen 5 | More on pen 5 |
-| 09:19 | More on pen 6 | More on pen 6 |
-| 10:09 | More on pen 7 | More on pen 7 |
-| 10:58 | More on five 8 | More on five 8 |
-| 11:44 | More on five 9 | More on five 9 |
-| 12:35 | More on five 10 | More on five 10 |
-| 13:26 | More on five 11 | More on five 11 |
-| 14:20 | More on five 12 | More on five 12 |
-| 15:12 | Close | Close |
+| 01:44 | Five dates | Five dates |
+| 02:49 | The Word | The Word |
+| 03:48 | What we're carrying | What we're carrying |
+| 05:00 | More on pen 1 | More on pen 1 |
+| 05:49 | More on pen 2 | More on pen 2 |
+| 06:40 | More on pen 3 | More on pen 3 |
+| 07:38 | More on pen 4 | More on pen 4 |
+| 08:36 | More on pen 5 | More on pen 5 |
+| 09:34 | More on pen 6 | More on pen 6 |
+| 10:25 | More on pen 7 | More on pen 7 |
+| 11:16 | More on five 8 | More on five 8 |
+| 12:02 | More on five 9 | More on five 9 |
+| 12:53 | More on five 10 | More on five 10 |
+| 13:45 | More on five 11 | More on five 11 |
+| 14:38 | More on five 12 | More on five 12 |
+| 15:31 | Close | Close |
 
 ---
 

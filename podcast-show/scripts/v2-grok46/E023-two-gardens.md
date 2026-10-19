@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,963 (about 19:45 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,971 (about 19:48 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 34 lines (52% of words). JONATHON 33 lines (48% of words), 2 under 12 words (6.1%) |
 | Focus mark | Go First |
@@ -76,7 +76,7 @@ JONATHON: The card says Ruby, then the request, in that order, even though the r
 
 ## SEGMENT 2 · The report that could wait
 
-WES: Mine is from spring 2018. My daughter was sixteen. Caught drinking at a party. My wife called me at four. I stayed at work until nine, finishing a report that wasn't due for a month. She handled all of it. That night she said, "I needed you at four o'clock." I had a garden and I hid in a spreadsheet. I told myself I was being useful. I was being first Adam with a badge.
+WES: Mine is from spring 2018. My daughter was sixteen. Caught drinking at a party. My wife called me at four. I stayed at work until nine, finishing a report that wasn't due for a month. She handled all of it. That night she said, "I needed you at four o'clock." I had a garden and I hid in a spreadsheet. I called that late report useful when it was a hide. I was being first Adam with a badge.
 
 JONATHON: I'll be real with you, I would have found a report. I would have called it providing. That's the oldest lie I know. What did you do with it this week, because 2018 is a long hide if it's still just a story.
 
@@ -102,7 +102,7 @@ JONATHON: I keep thinking a date is the same as done. It's not. I've dated the r
 
 ## SEGMENT 3 · The Word
 
-WES: We're about halfway, and I want the Bible open, because Paul names the two men in one breath. First Corinthians fifteen, verse forty-five.
+WES: Here at the middle, Paul names the two men in one breath. Corinthians, chapter fifteen, the forty-fifth verse.
 
 JONATHON: I've been hiding in trees since Christmas. A friend request from my dad. Profile picture, a man holding a redfish. I look at it about once a week. Fifty-some phone calls in twenty-eight years, and I learned more from that picture than from all of them. I told Dani I will decide Sunday night, Easter, after the kids are down. I'm still in the trees until then. So which is it? Hide until you look ready, or walk while you're still in the trees?
 
@@ -128,7 +128,7 @@ JONATHON: Yeah, here's my problem. Some men should not walk toward a father who 
 
 WES: Paint. If a man is dangerous, you don't owe him your kitchen. You owe God a decision, and you owe your kids a safe house. Go first toward wisdom, a pastor, a counselor, not toward a fist. This table isn't telling you to open a door that should stay shut. It's telling you to stop calling delay a plan. Jonathon's dad is a request in a phone, not a man in the driveway. Different case. If your case is the driveway, you get a different first step, and you take it with someone who isn't us.
 
-JONATHON: I don't totally buy a clean walk yet. I knelt in the dirt and I felt the bleachers anyway. I can collect a kneel. Is that still going first, or is that a plaque with dirt on it?
+JONATHON: A clean walk still sounds like a plaque to me. I knelt in the dirt and I felt the bleachers anyway. I can collect a kneel. Is that still going first, or is that a plaque with dirt on it?
 
 WES: That's a plaque if you stop there. Tell the truth about the bleachers, which you just did. Collecting is first Adam with better posture. Going first and then confessing the hunger to be seen is closer to the last. Do both.
 
@@ -138,7 +138,7 @@ WES: Sit. Then tell Ruby after. She already has far away. She asked if you have 
 
 JONATHON: I know. I keep buying time like time is free. It's not free. She's already writing a story.
 
-WES: I sat with my own girl sixteen years after a horn and I learned that late still counts and that late still costs. Don't buy sixteen years because Sunday feels heavy. Sunday is heavy. A seven-year-old is heavier if you leave her with far away and a promise you don't keep. Keep it. Clumsy. Short. Then stop talking and let her ask the next thing. If she asks whether he likes her, you will want to decorate. Don't decorate. Tell her what is true and what you don't know. Unknown is allowed. A wall isn't.
+WES: I sat with my own girl sixteen years after a horn and I learned that late still counts and that late still costs. Don't buy sixteen years because Sunday feels heavy. Sunday is heavy. A seven-year-old is heavier if you leave her with far away and a promise you don't keep. Keep it. Clumsy. Short. Then stop talking and let her ask the next thing. When she asks whether he likes her, you will want to pretty it up. Don't decorate. Tell her what is true and what you don't know. Unknown is allowed. A wall isn't.
 
 [BOARD: Meet the girl in the car. Do not hand her to Mom.]
 
@@ -146,7 +146,7 @@ WES: I sat with my own girl sixteen years after a horn and I learned that late s
 
 ## SEGMENT 5 · What we're actually doing
 
-WES: We've got a little under ten minutes. Sunday night you decide. What is the actual motion?
+WES: Ten minutes left, and both gardens stay on the table. Sunday night you decide. What is the actual motion?
 
 JONATHON: Kids down. Phone. Yes or no on the request. No message either way, not at first. If I write a speech I will be collecting again. I told Dani the hour. She said she will leave the lamp on. I said I don't want her in the room. She said okay. I will tell you Friday what I did. I will also tell Ruby this week, not in a month. That's a second walk, and it's the one I'm more afraid of.
 
@@ -156,7 +156,7 @@ JONATHON: Thursday I will look for the twin's dad early. If he's late I will sti
 
 WES: And if you're listening and you have a four o'clock, go at four. Not at nine. Not after a report. Four. The last Adam does not hide in work that can wait. I've practiced useful work as a hide for most of my adult life. It photographs well. It still leaves a girl in a kitchen. If your boss would understand a family emergency, this is one, even if nobody is bleeding. Go. Then come back and finish the paper. The paper will keep. The four o'clock won't.
 
-JONATHON: I've used a calendar as a hide too. Sunday night looks holy on a card. If I don't also take the walk in my own hallway, the card was a tree. I told my nephew by text that I've got a date and that I'm scared of it. He wrote, "same. different door." Twenty-two and he understood. I didn't ask him to sit with me. I asked him to pray. He wrote, "ok. thursday still?" Thursday is still. The texts stay. The garden in my house is still mine to walk.
+JONATHON: I've used a calendar as a hide too. Sunday night looks holy on a card. If I don't also take the walk in my own hallway, the card was a tree. I told my nephew by text that I've got a date and that I'm scared of it. He wrote, "same. different door." Twenty-two and he understood. I didn't ask that twenty-two-year-old to sit with me. I asked him to pray. He wrote, "ok. thursday still?" Thursday is still. The texts stay. The garden in my house is still mine to walk.
 
 ---
 
@@ -166,7 +166,7 @@ WES: Last few minutes. Pick one hiding place. A phone request. A report. A bleac
 
 JONATHON: I've got two steps. Sunday night, the request. This week, Ruby. I won't use the first as a way to skip the second. I already tried that with Mom in the car. It felt smooth. It was a hide.
 
-WES: Can I ask you something hard? Will you tell Ruby even if Sunday is a no?
+WES: Which garden are you standing in tonight? Will you tell Ruby even if Sunday is a no?
 
 JONATHON: Yes. Especially if Sunday is a no. She asked me. Mom isn't the wall.
 

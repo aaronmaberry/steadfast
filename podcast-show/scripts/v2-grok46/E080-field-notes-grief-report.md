@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 2,329 (about 15:32 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,376 (about 15:50 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 39 lines (53% of words). JONATHON 36 lines (47% of words), 0 under 12 words (0.0%) |
 | Focus mark | Pick Up the Weight |
@@ -44,9 +44,9 @@ JONATHON: And I'll tell you the truck in a church lot I still miss.
 
 ## SEGMENT 1 · Pen
 
-WES: Let's take the next few minutes on a calendar, because Friday is the receipt. You told her. She wrote in pen. That's a woman putting it on a table.
+WES: Begin with the five dates, because Friday only wants whether you told her. You told her. She wrote in pen. That's a woman putting it on a table.
 
-JONATHON: My sideways thing is being the loud guy. Practice. The pipeline call. Supper. One thing I miss: about seven, steering his truck in the church parking lot on Sunday afternoons, in his lap, him on the pedals. She put her hand on my knee. I haven't told Ruby yet. Her day's in February. A reminder a week ahead: Dad calls next week.
+JONATHON: My sideways thing is being the loud guy. Practice. The pipeline call. Supper. One thing I miss: about seven, steering his truck in the church parking lot on Sunday afternoons, in his lap, him on the pedals. She put her hand on my knee. I haven't told Ruby yet. Her day's in February. A week before her day I mark: tell Ruby, Dad's going to call.
 
 [BOARD: Pen is how a date becomes a place.]
 
@@ -56,9 +56,9 @@ WES: I called my brother Sunday. A long quiet. Well. Then, I'll be at the barn b
 
 ## SEGMENT 2 · Five dates
 
-WES: Wednesday at supper I told my wife how my dad said my name coming in from the barn, like a question. Wes? She told hers: he always asked about her garden first. How's the okra. That night I wrote five dates. Dad's day. Dad's birthday. Granddad's. Mr. Abernathy's. My mother-in-law's, because she goes quiet every April. On Abernathy's day I order his breakfast every year.
+WES: Wednesday at supper I told my wife how my dad said my name coming in from the barn, like a question. Wes? She told hers: he always asked about her garden first. How's the okra. That night I wrote five dates. Dad's day. Dad's birthday. Granddad's. Mr. Abernathy's. April is written for my wife's mom, the month she goes silent. Abernathy's morning still gets his eggs.
 
-JONATHON: That's an anniversary calendar. Not a mood. A list. Can I ask you something hard? Are five dates a way to be a good son on paper, or do you actually show up on them?
+JONATHON: That's an anniversary calendar. Not a mood. A list. What one thing will you say you miss? Are five dates a way to be a good son on paper, or do you actually show up on them?
 
 WES: Tool this week is the anniversary calendar. Write the dates. Tell one person what you do on them. A breakfast. A tailgate. A pen.
 
@@ -68,15 +68,15 @@ JONATHON: The 61-year-old rep, mother died in March at eighty-nine. A sister. He
 
 ## SEGMENT 3 · The Word
 
-WES: We're about halfway, and I want one verse for the man who thinks grief has a deadline. Psalm thirty-four, verse eighteen.
+WES: Center of the hour. Psalm 34 is for the man who thinks grief has a deadline. Psalm thirty-four, verse eighteen.
 
 JONATHON: "The Lord is close to the brokenhearted and saves those who are crushed in spirit."
 
 [BOARD: Romans 12:15 (NIV) · "Rejoice with those who rejoice; mourn with those who mourn."]
 
-WES: Close. Not finished. Brokenhearted is a pliers year and a mug in a cabinet. Crushed is a day after a birthday you refuse to name. He's close. You don't have to hurry up.
+WES: Close. Not finished. Brokenhearted is a pliers year and a mug in a cabinet. Crushed is a day after a birthday you refuse to name. He's close. Psalm 34 does not put a clock on crushed.
 
-JONATHON: How long is it supposed to take? That's the table question. The psalm does not give a number. It gives a nearness. I wanted a number so I could be done. Nearness is better and harder. Do you still want a number too?
+JONATHON: What's the legal length of a pliers year? That's the table question. Psalm 34 will not issue a count. It gives a nearness. I hunted a count so I could close the file. Nearness is better and harder. Are you still hunting a count too?
 
 WES: Context in two sentences. This psalm is a man who has been in trouble and is teaching others the taste of that nearness. It isn't a schedule. It's a location. Close.
 
@@ -90,9 +90,9 @@ JONATHON: I'll tell Ruby in February, not on a porch in October. I'll text the 6
 
 [BOARD: 1 Thessalonians 4:13 (NIV) · "Brothers and sisters, we do not want you to be uninformed about those who sleep in death, so that you do not grieve like the rest of mankind, who have no hope."]
 
-WES: We grieve. Not like men with no hope. Hope isn't a hurry. Hope is a table you keep setting.
+WES: We grieve. Not like men with no hope. Hope isn't a hurry. Hope keeps setting a place. It does not hurry the empty chair.
 
-JONATHON: Look around your house this week. Write the dates. Tell one person. Sit where a brother can find you. If you fail and go sideways, name the sideways and come back.
+JONATHON: Look at the one sentence you will say you miss. Write the dates. Tell one person. Sit where a brother can find you. If you fail and go sideways, name the sideways and come back.
 
 ---
 
@@ -116,9 +116,9 @@ WES: One thing I miss: about seven, steering his truck in the church parking lot
 
 JONATHON: Are you waiting for a prettier hour to tell her, because I wait and then the day is here and I improvise a speech in a doorway?
 
-WES: I'm waiting. I'm naming it. A reminder a week ahead: Dad calls next week. That's the room. Not a porch in October. February gets the sentence. Macaroni can have the rest.
+WES: I'm waiting. I'm naming it. A week before her day I mark: tell Ruby, Dad's going to call. That's the room. Not a porch in October. February gets the sentence. Macaroni can have the rest.
 
-JONATHON: I'll tell her in February, not on a porch in October. If I start a seminar I will stop at yes. She already asked if I would cry. Yes is the theology.
+JONATHON: Ruby hears it in February. October on a porch would be me performing. If I start teaching I will shut up at yes. She already asked if I would cry. Yes is the theology.
 
 ---
 
@@ -126,9 +126,9 @@ JONATHON: I'll tell her in February, not on a porch in October. If I start a sem
 
 WES: I called my brother Sunday. A long quiet. Well. Then, I'll be at the barn by two. The youngest said, do I have to talk. No. Okay. I'll come. You still disagree. I'm bringing him because he asked, not because I drafted him.
 
-JONATHON: No, hold on. Are you bringing him so you don't have to cry in front of your brother? Because a quiet boy can be a shield and still look like inclusion.
+JONATHON: No, hold on. Is the boy a shield so you don't have to cry in front of your brother? Because a quiet boy can be a shield and still look like inclusion.
 
-WES: That's the fear. I'm asking him, not drafting him. If he says no, that's a no. If he comes, he can be quiet. I don't get a seminar in a barn so I feel like a good father.
+WES: That's the fear. I'm asking him, not drafting him. If he says no, that's a no. If he comes, he can be quiet. A quiet boy in a barn is not a class that grades me as a dad.
 
 JONATHON: I'll let a boy be quiet. If I fill the quiet I will notice my mouth and shut it. Shutting it is mourn with. Filling it is manage in work boots.
 
@@ -138,11 +138,11 @@ JONATHON: I'll let a boy be quiet. If I fill the quiet I will notice my mouth an
 
 WES: Wednesday at supper I told my wife how my dad said my name coming in from the barn, like a question. Wes? She told hers: how's the okra. That night I wrote five dates. That's a list, not a mood.
 
-JONATHON: Can I ask you something hard? Are five dates a way to be a good son on paper, or do you actually show up on them when the week is ugly?
+JONATHON: What one thing will you say you miss? Are five dates a way to be a good son on paper, or do you actually show up on them when the week is ugly?
 
-WES: I have skipped. I'm naming that. This year they're written. Dad's day. Dad's birthday. Granddad's. Mr. Abernathy's. My mother-in-law's, because she goes quiet every April. On Abernathy's day I order his eggs.
+WES: I have skipped. I'm naming that. This year they're written. Dad's day. Dad's birthday. Granddad's. Mr. Abernathy's. April is written for my wife's mom, the month she goes silent. On Abernathy's day I order his eggs.
 
-JONATHON: I needed to see five. I've been acting like grief is one day in February. I'll write February and November. If I skip I will say I skipped, not that a region got loud.
+JONATHON: I needed to see five. I've been acting like grief is one day in February. I'll write February and November. If I blow past November I will own the miss. I won't blame a pipeline week.
 
 ---
 
@@ -152,7 +152,7 @@ WES: The 61-year-old rep, mother died in March at eighty-nine. A sister. He told
 
 JONATHON: Did just sad make you want to improve him? Because I felt a close rising, like I should give him a verse and a plan so I could leave the call clean.
 
-WES: It made me want a plan. I didn't give him one. Just sad is a dash. Nearness is the wheel. The psalm does not give a number. I wanted a number so I could be done.
+WES: It made me want a plan. I didn't give him one. Just sad is a dash. Nearness is the wheel. Psalm 34 will not issue a count. I hunted a count so I could close the file.
 
 JONATHON: I won't ask him if he's over it. I'll ask about the steak, or the exit, or the sister. If I ask how long I will unsay it. How long is a quiz. Sad is a table.
 
@@ -160,7 +160,7 @@ JONATHON: I won't ask him if he's over it. I'll ask about the steak, or the exit
 
 ## SEGMENT 10 · More on pen 6
 
-WES: Close. Not finished. Brokenhearted is a pliers year and a mug in a cabinet. Crushed is a day after you refuse to name. He's close. You don't have to hurry. Hope isn't a hurry. Hope is a table you keep setting.
+WES: Close. Not finished. Brokenhearted is a pliers year and a mug in a cabinet. Crushed is a day after you refuse to name. He's close. You don't have to hurry. Hope isn't a hurry. Hope keeps setting a place. It does not hurry the empty chair.
 
 JONATHON: So which is it for the barn? A table you set, or a job you finish so you can feel faithful by two-thirty?
 
@@ -178,7 +178,7 @@ JONATHON: You can keep not finishing it. Just don't pretend a quiet fan closed t
 
 WES: Yes. Sometimes. Lifting it is not hanging it. I'm telling the truth so Saturday doesn't get to be a mood again. Ask for a date if I sell you a mood.
 
-JONATHON: I'll keep asking about the jamb. You can keep not hanging it. I want a date when you say Saturday, not a feeling wearing gloves. Grief taught me the difference. A pen taught me the rest.
+JONATHON: I'll keep asking about the jamb. The plane can stay dusty. I still want a dated Saturday. I want a date when you say Saturday, not a feeling wearing gloves. Grief taught me the difference. A pen taught me the rest.
 
 ---
 
@@ -214,7 +214,7 @@ JONATHON: Ask me Friday whether I told Ruby's reminder to Dani, and whether Nove
 
 WES: I'll ask. A story without a reminder is a performance. Set the reminder. Then sit. Then don't ask if he's over it. Over it is a smaller god.
 
-JONATHON: I'll set November. I'll tell Dani the week-ahead line. If I skip I will say I skipped. I won't hide it in a pipeline week. Grief can find a pipeline week. That's why the pen exists.
+JONATHON: I'll set November. I'll tell Dani the week-ahead line. If I skip November I will name the skip. I won't hide it in a pipeline week. Grief can find a pipeline week. That's why the pen exists.
 
 ---
 

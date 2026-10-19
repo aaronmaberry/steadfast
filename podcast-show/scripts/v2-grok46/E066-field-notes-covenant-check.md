@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 2,223 (about 14:49 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,249 (about 15:00 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 45 lines (54% of words). JONATHON 33 lines (46% of words), 1 under 12 words (3.0%) |
 | Focus mark | Pick Up the Weight |
@@ -44,7 +44,7 @@ JONATHON: And I'll tell you the night Ruby had a bad dream and I wanted the phon
 
 ## SEGMENT 1 · Hiding
 
-WES: Let's take the next few minutes on the garage, because Friday is the receipt. Phone in the truck every night. That's the yes. Wednesday about two, Ruby had a bad dream. I wanted the phone the way you want a cigarette, and I didn't go. That's also a yes. Wait— that was your two a.m., not mine. You go first. What did you actually do in the garage?
+WES: Open this first stretch in the dark garage, because Friday only counts hiding though. The cord stayed in the pickup all week. That's the yes. Wednesday about two, Ruby had a bad dream. I wanted the phone the way you want a cigarette, and I didn't go. That's also a yes. Wait— that was your two a.m., not mine. You go first. What did you actually do in the garage?
 
 JONATHON: Tuesday I sat in the dark garage in the driver's seat about twenty minutes. Scores. A boat-restoration video. Weather. I was hiding. I told Dani Thursday morning. She asked, "Were you looking at anything?" I said no. She said, "I know it's not the point. I'm asking anyway." I texted Wes at seven-twenty. "Truck Tuesday. Twenty minutes. Nothing bad. Hiding though."
 
@@ -58,7 +58,7 @@ JONATHON: It's not clean. It's whole. Clean is a speech. Whole is a garage I don
 
 [BOARD: A secret garage is still a next door.]
 
-WES: Look around your house this week. Where do you go to hide that you have been calling nothing?
+WES: Look at the hiding place you still haven't named. Where do you go to hide that you have been calling nothing?
 
 ---
 
@@ -82,7 +82,7 @@ WES: Carry it tired. That's the only way I've ever carried one. No program.
 
 ## SEGMENT 3 · The Word
 
-WES: We're about halfway, and I want one verse for the man who treats his wife like a museum. Proverbs five, verse eighteen. You want to read it?
+WES: Clock says middle. Proverbs is for the man who treats his wife like a museum. Proverbs five, verse eighteen. You want to read it?
 
 JONATHON: "May your fountain be blessed, and may you rejoice in the wife of your youth."
 
@@ -90,7 +90,7 @@ JONATHON: "May your fountain be blessed, and may you rejoice in the wife of your
 
 WES: Rejoice is present tense. Youth is who she was when you started. The woman at the dishes is who you rejoice in now. A museum does not need a charger in a truck. A wife does.
 
-JONATHON: I've been rejoicing in a memory and skipping a sink. That's not honor. That's nostalgia with a ring. Does that sound like I'm arguing with Solomon?
+JONATHON: I've been rejoicing in a memory and skipping a sink. That's not honor. That's nostalgia with a ring. Am I picking a fight with the proverb, or actually hearing the fountain?
 
 WES: [laughs] It sounds like you're listening. Context in two sentences. Proverbs five is a father telling a son not to take his desire next door. The fountain is at home. If you hide in a garage you have already walked next door in your head.
 
@@ -106,17 +106,17 @@ JONATHON: Wait, back up. You made a joke at the gate after all that talk about n
 
 WES: That's a fence a seven-year-old can see. A box. A man. A Saturday. Not a speech about purity. A place she's allowed to be useful. Are you going to lesson her on the drive home?
 
-JONATHON: If I lesson her I've written a letter on a rain boot. She can have the hour. I can have the watching. Ruby has been taught her body belongs to her, no secrets about her body, she will never be in trouble for telling. The boots are part of that talk. Kids read what we let them hold.
+JONATHON: If I lesson her I've written a letter on a rain boot. She can have the hour. I can have the watching. We've already told Ruby her skin is hers, nothing stays hidden, telling never costs her. The boots are part of that talk. Kids read what we let them hold.
 
-WES: I got loud when my oldest found something at about ten. He didn't bring me anything for years. The youngest at about nine said, "I saw something bad." I said thank you and sit down. Two different fences. One shut a well.
+WES: I got loud when my oldest found something at about ten. My oldest went silent on me after that for a long stretch. The youngest at about nine said, "I saw something bad." I said thank you and sit down. Two different fences. One shut a well.
 
 ---
 
 ## SEGMENT 5 · The man who looks
 
-WES: Last few minutes on software, because men ask. Software is a post, not a savior. You used it about two years. The first reader never opened a report in six months. Then I opened every one. What did the unopened report actually do for you?
+WES: Last few minutes on software, because men ask. A dashboard is lumber. It is not the Lord. You used it about two years. The first reader never opened a report in six months. Then I opened every one. What did the unopened report actually do for you?
 
-JONATHON: An unopened report is a post in the grass with a logo on it. I needed a man who would actually look. Then I needed to tell him about a garage that wasn't in the report.
+JONATHON: If nobody opens the email, you bought a sticker in the weeds. I needed a man who would actually look. Then I needed to tell him about a garage that wasn't in the report.
 
 WES: If you install a dashboard and you don't give a man permission to ask, you bought a toy. Buy the man. Then the dashboard has somewhere to land.
 
@@ -150,9 +150,9 @@ JONATHON: I would have offered a plan for the kids. A meal train. A group text. 
 
 WES: I started a ministry in my head and I left it there. That's progress for me. Small. Real.
 
-JONATHON: Small and real is the fountain. I keep trying to bless a fountain with a program. She asked how I wasn't the program.
+JONATHON: Small and real is the fountain. I keep trying to run a ministry on a kitchen sink she already named. She asked how I wasn't the program.
 
-WES: Look around your house this week. What program have you been offering instead of a chair?
+WES: Look at the hiding place you still haven't named. What program have you been offering instead of a chair?
 
 JONATHON: I've been offering a garage and calling it winding down. I'm retiring that name.
 
@@ -162,7 +162,7 @@ JONATHON: I've been offering a garage and calling it winding down. I'm retiring 
 
 WES: A seven-year-old in rain boots handing screws is a kind of purity talk a conference can't write. She's near a man who prays and keeps a notebook. You will be there. That's the fence.
 
-JONATHON: If she hands the wrong size, Virgil says the size again. He doesn't say no. That's how I want to talk when she tells me something hard later. Say the size again. Don't say no to her courage. Can you ask me Friday whether I lessoned her on the drive?
+JONATHON: If she hands the wrong size, Virgil says the size again. He doesn't say no. That's the voice I want when Ruby brings me something heavy at twelve. Say the size again. Don't say no to her courage. Can you ask me Friday whether I lessoned her on the drive?
 
 WES: I will. I said no with my volume when my oldest was ten. I'm still paying that interest. Sit down. Thank you. That's the size.
 
@@ -188,9 +188,9 @@ WES: Keep the sentence. Proof is how we get paid. A sink doesn't pay. That's why
 
 WES: Results Monday. I won't turn a waiting room into a testimony before we hear. If it's treatable I will still sit. If it's worse I will still sit. Sitting is the post. Talking later is allowed. Talking early is how I leave a room with my mouth.
 
-JONATHON: I won't ask you for a holy sentence on Monday. I will ask if you sat. That's the only question I want. If I ask how you feel I will be managing you. I'm trying to stop managing men I love. Will you let me ask only that?
+JONATHON: I won't ask you for a holy sentence on Monday. I will ask if you sat. That's the only ask I'll take from you on Monday. If I ask how you feel I will be managing you. I'm trying to stop managing men I love. Will you let me ask only that?
 
-WES: Ask if I sat. That's the only question I want from you too.
+WES: Ask if I sat. Sit is the only word I want back from you too.
 
 ---
 
@@ -206,11 +206,11 @@ WES: K.
 
 ## SEGMENT 12 · What I'm carrying
 
-WES: Look around your house this week. Tell the hiding place to one man. Ask how she's. Open the report if you read for somebody. I will sit Monday. I won't joke a gate into a smaller room.
+WES: Look at the hiding place you still haven't named. Tell the hiding place to one man. Ask how she's. Open the report if you read for somebody. I will sit Monday. I won't joke a gate into a smaller room.
 
 JONATHON: I'll tell the garage without a joke. I'll ask how she's again, not once as a project. If I hide Tuesday I will say hiding though, because clean is a costume I can't afford. What are you picking, the chair or the joke at the gate?
 
-WES: The chair. I've got about a minute and I want it on you. Tell the hiding place tonight. Not after the next crisis.
+WES: The chair. A minute. Tell the hiding place before you leave this chair. Tell the hiding place tonight. Not after the next crisis.
 
 ---
 
@@ -218,7 +218,7 @@ WES: The chair. I've got about a minute and I want it on you. Tell the hiding pl
 
 WES: I got loud at ten and I called it leadership. It was fear with volume. A boy with something bad in his eyes needs a chair, not a storm. I've got a grown son who still measures whether I'm safe. That's interest on a shout.
 
-JONATHON: I don't want Ruby measuring me that way. If she tells me something bad I will sit down and say thank you, even if my chest wants a rule. Thank you is how a well stays open. Can I ask you something hard?
+JONATHON: I don't want Ruby measuring me that way. If she tells me something bad I will sit down and say thank you, even if my chest wants a rule. Thank you is how a well stays open. Did you tell the hiding place, or wait for a crisis?
 
 WES: Go.
 

@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,826 spoken words, about 18:50). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,854 spoken words, about 19:02). Re-time them against the final edit before publishing.
 
 ---
 
@@ -35,12 +35,12 @@ Christian men podcast, work, Genesis 2:15, vocation, Walk Steadfast
 | 00:00 | Open | Open. |
 | 00:58 | A column and a birthday week | A column and a birthday week. |
 | 02:26 | Midnight and goggles | Midnight and goggles. |
-| 04:49 | The Word | The Word. |
-| 06:24 | The man in the truck | The man in the truck. |
-| 07:56 | Pushback | Pushback. |
-| 09:22 | This week's challenge | This week's challenge. |
-| 12:55 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
-| 18:27 | Close | Close. |
+| 04:51 | The Word | The Word. |
+| 06:26 | The man in the truck | The man in the truck. |
+| 07:58 | Pushback | Pushback. |
+| 09:24 | This week's challenge | This week's challenge. |
+| 12:57 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
+| 18:37 | Close | Close. |
 
 ---
 

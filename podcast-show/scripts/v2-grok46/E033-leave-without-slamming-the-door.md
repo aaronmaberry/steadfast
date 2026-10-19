@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,898 (about 19:19 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,896 (about 19:18 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 33 lines (53% of words). JONATHON 29 lines (47% of words), 1 under 12 words (3.4%) |
 | Focus mark | Go First |
@@ -62,7 +62,7 @@ JONATHON: I didn't have a better answer in the moment, and I hated that, because
 
 [BOARD: Want is not a work order.]
 
-WES: It landed some. The pot pie ended the rest. You told her you wanted her. That's the leave without the slam. You didn't make her small. You also didn't pick up the capacitor again. Look around your house this week. If the only way you know how to love somebody is to need them for a task, you will keep inventing tasks.
+WES: It landed some. The pot pie ended the rest. You told her you wanted her. That's the leave without the slam. You didn't make her small. You also didn't pick up the capacitor again. Watch how you leave a room this week. If the only way you know how to love somebody is to need them for a task, you will keep inventing tasks.
 JONATHON: If you need her for a task, you'll keep inventing tasks. Hold on. That's why you're bringing tape to an apartment visit.
 WES: My mom measured the china cabinet. Fifty-one inches. We visit the apartments in May. I'm bringing tape anyway. I keep wanting a job in that visit so I don't have to just be a son in a hallway that smells like somebody else's cooking. I'm going to be a son anyway.
 
@@ -94,7 +94,7 @@ JONATHON: Dani was wrong in May, and I need that on the record because I used he
 
 ## SEGMENT 3 · The Word
 
-WES: We've got a little under fifteen minutes, and I want Genesis open. Chapter two, verse twenty-four. Before the fall. Before anybody has a mother-in-law or a dead battery. God is making a household.
+WES: Genesis stays open now. Chapter two, verse twenty-four. Before the fall. Before anybody has a mother-in-law or a dead battery. God is making a household.
 
 JONATHON: "That is why a man leaves his father and mother and is united to his wife, and they become one flesh."
 
@@ -122,7 +122,7 @@ JONATHON: Yeah, here's my problem. The guy whose parents are paying the rent. "I
 
 WES: Loyalty can move first. The guy who slammed it already. Has not called in five years. Thinks this isn't for him because he already left.
 
-JONATHON: You left. You also slammed. The verse wanted one of those, not both. Call. Not to move back in. To say I'm sorry I made you small on my way out. Then stay a son from a distance. If they're dangerous, you already know that exception. Honor without access. We said that when we talked about fathers, and it holds for a mother who harms.
+JONATHON: You left. You also slammed. The verse wanted one of those, not both. Call. Not to move back in. To say I'm sorry I made you small on my way out. Then stay a son from a distance. If they're dangerous, you already know that safety line. Honor without access. We said that when we talked about fathers, and it holds for a mother who harms.
 
 WES: The older man whose kids won't come home, and he's hearing this as an attack.
 
@@ -142,7 +142,7 @@ WES: We've got about seven minutes, and I want them on the next yes, not just th
 
 JONATHON: Monday I asked my mom to teach Ruby watercolor. Saturday mornings at ten, on video, and at her table when we visit in June. She said, "She's seven. She'll make a mess." I said, "You raised me." She said, "Saturday at ten. On the video. Tell her to wear an old shirt." That's a job she can have that's not a capacitor. It's a grandmother being for something.
 
-WES: That's honor. You didn't invent a fake emergency so she could feel needed. You gave her a seven-year-old and a mess and a Saturday. My version this week is smaller. I'm going to rehang my mom's dragging screen door after we see the apartments. The last thing I do on that house is a door that closes quiet. I'm not telling her first. I want her to notice the quiet. If I announce it, it becomes a performance. If I just hang it, it becomes a gift she can live inside without thanking me.
+WES: That's honor. You didn't invent a fake emergency so she could feel needed. You gave her a seven-year-old and a mess and a Saturday. My version this week is smaller. I'm going to rehang my mom's dragging screen door after we see the apartments. Rehanging Mom's dragging screen is the last quiet gift I do on that house. I'm not telling her first. I want her to notice the quiet. If I announce it, it becomes a performance. If I just hang it, it becomes a gift she can live inside without thanking me.
 
 JONATHON: I like that more than I want to. A quiet door is a sentence. I keep thinking I've got to explain every leave. Sometimes you just hang the hinge and let the house sound different.
 
@@ -156,7 +156,7 @@ WES: Good. The leave isn't only from parents. It's from the version of you that 
 
 ## SEGMENT 6 · This week's challenge
 
-WES: So here is your challenge. If you have a door you have not walked through, walk through it without slamming it. One leave. Tell your mom thank you, no, and I love you, in that order, about one real thing. Not a speech. One thing. Practice it once in the truck so the first time she hears it's not the first time you have said it out loud. Can I ask you something hard? Will you say those three, or send Dani to be the no again?
+WES: So here is your challenge. If you have a door you have not walked through, walk through it without slamming it. One leave. Tell your mom thank you, no, and I love you, in that order, about one real thing. Not a speech. One thing. Practice it once in the truck so the first time she hears it's not the first time you have said it out loud. Can you leave without making it a slam? Will you say those three, or send Dani to be the no again?
 
 JONATHON: I'll say them. I won't send her. Married men, don't send your wife to say it. Then tell her you said it. Single men, if you still live at home, leave in the first-call way this week. News goes to the person you're building a life with, or to a brother, before it goes to your mom. If your parents have died, write the sentence you never got to say and read it to one man.
 
@@ -172,7 +172,7 @@ WES: Carry this. Leave means the first loyalty moves. It does not mean you make 
 
 JONATHON: And you can tell a mother you want her without handing her a capacitor. Want is enough for a Sunday.
 
-WES: Friday I'll tell you whether I stayed in the chair, and whether the door at my mom's house closes quiet. Until then: thank you, no, I love you.
+WES: Friday I'll tell you whether I stayed in the chair, and whether the door at my mom's house closes quiet. Until then: those three sentences in your own mouth.
 
 JONATHON: Go say those three honest sentences, then tell us at walksteadfast.com, and find us at @steadfastwalk.
 

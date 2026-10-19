@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 3,199 (about 21:20 at 150 wpm, before laughs and pauses) |
+| Spoken words | 3,195 (about 21:18 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 57 lines (51% of words). JONATHON 56 lines (49% of words), 1 under 12 words (1.8%) |
 | Focus mark | Pick Up the Weight |
@@ -78,13 +78,13 @@ WES: I'm picking one younger man at work for lunch monthly. I will learn a name 
 
 [BOARD: Do not store this year in August.]
 
-JONATHON: I'm retiring the phrase. This year's version of the gym is a walk with Theo in the wagon after supper. I already have a five-year-old. Pancake is on a Saturday. I'm not storing life in August.
+JONATHON: I'm retiring the phrase. This season's gym is a wagon walk after we eat. Theo is already five. Pancake is on a Saturday. I'm not storing life in August.
 
 ---
 
 ## SEGMENT 4 · The Word
 
-WES: I've got a little under ten minutes, and I want the Bible open. Proverbs twenty, verse twenty-nine.
+WES: Under ten. Every season. Don't skip the line about time. Proverbs twenty, verse twenty-nine.
 
 JONATHON: "The glory of young men is their strength, gray hair the splendor of the old."
 
@@ -98,7 +98,7 @@ WES: Thursday the older one said, I've got three years. I don't want to spend th
 
 [BOARD: Psalm 92:14 (NIV) · "They will still bear fruit in old age, they will stay fresh and green,"]
 
-JONATHON: Can I ask you something hard? Are you picking the youngest for lunch because you like him, or because the verse is staring at you? I asked the 61-year-old for one thing I'm doing wrong as a manager. I didn't defend myself in the first minute.
+JONATHON: Which season are you treating like it doesn't count? Are you picking the youngest for lunch because you like him, or because the verse is staring at you? I asked the 61-year-old for one thing I'm doing wrong as a manager. I didn't defend myself in the first minute.
 
 ---
 
@@ -108,7 +108,7 @@ WES: This week's challenge. Eat with someone twenty years older or younger. Lear
 
 JONATHON: If you're 22, your season counts without topping out. If you're 62, your season counts without a farewell tour. If you're divorced, you can still sit at a table that isn't a waiting room.
 
-WES: Look around your house this week. The youngest has two years. I can learn a bead. I can learn a name. I can stop being a good ghost.
+WES: Look at the season you treat like filler. The youngest has two years. I can learn a bead. I can learn a name. I can stop being a good ghost.
 
 JONATHON: I'll host again in two weeks. I'll walk the wagon. I'll ask the 61-year-old the hard question and I won't defend myself in the first minute.
 
@@ -136,7 +136,7 @@ JONATHON: So which is it? Is topping out a date, or a lobby you taught him to wa
 
 WES: It's a date for a raise. It is not a date for becoming a man. Eighty-one under a car already answered that, and I almost drowned it in opinions.
 
-JONATHON: I'll stop storing life in August. This year's gym is a walk with a wagon after supper. I already have a five-year-old. Pancake is on a Saturday we actually have.
+JONATHON: I'll stop storing life in August. The gym I will actually use is a wagon after dishes. Pancake is on a Saturday we actually have.
 
 ---
 
@@ -160,7 +160,7 @@ JONATHON: Can you even pick him out of a lineup, or is he still a rumor you tell
 
 WES: I can pick him. Two years at home. I have been too proud to walk ten yards. Pride called itself being busy. Busy is how a ghost stays employed.
 
-JONATHON: I only text the reps who are winning. The others hear from me when something's wrong. That's a ghost with a region title. I'm walking toward the quiet ones this week.
+JONATHON: I only text the reps who are winning. Everybody else only gets a text when a deal dies. That's a ghost with a region title. I'm walking toward the quiet ones this week.
 
 ---
 
@@ -184,7 +184,7 @@ JONATHON: No, hold on. Were you asking because you were worried, or because you 
 
 WES: Both. I wanted to be useful. She wanted to keep her table. When I can't is a season that still counts. I'm not taking the roast from her to feel like a good son.
 
-JONATHON: Dani's dad is seventy-four and one-word answers. I used to wait for a better conversation. The water was there the whole time. I'm done waiting for his personality to change.
+JONATHON: Dani's dad is seventy-four and one-word answers. I used to wait for a better conversation. The season was already counting. I was the one calling it filler. I'm done waiting for his personality to change.
 
 ---
 
@@ -214,7 +214,7 @@ JONATHON: I'll stop faking the part of the calendar I don't like. If I don't kno
 
 ## SEGMENT 14 · More on a 9
 
-WES: Titus isn't a farewell tour. Older men first, because if they go soft the whole house goes soft. Endurance is a lunch, not a plaque at a retirement sheet cake.
+WES: Titus isn't a farewell tour. Start with the older men. If they go slack the house follows. Endurance is a lunch, not a plaque at a retirement sheet cake.
 
 JONATHON: So teach means I don't get to check out at 61 and call it paying dues in reverse?
 
@@ -280,7 +280,7 @@ JONATHON: I caught it in my own mouth like a man catching a lie. Can you retire 
 
 WES: Same week. Campaigns are how ghosts stay busy. A wagon after supper is how a year stops being stored in August.
 
-JONATHON: I'll walk tonight even if it looks small. Small is the point. August is a liar. I already have a five-year-old who will not be five in August.
+JONATHON: I'll walk tonight even if it looks small. Small is the point. August is a liar. Theo is five now and he will not stay five.
 
 ---
 
@@ -288,7 +288,7 @@ JONATHON: I'll walk tonight even if it looks small. Small is the point. August i
 
 WES: I keep wanting this season to wait until I've got a cleaner sentence. The three-eighths was the sentence. I almost missed it talking. That's the whole confession.
 
-JONATHON: That's fair, but— you still want a cleaner sentence right now. I can hear you reaching for one. Can you live with an ugly bead?
+JONATHON: That's fair, but— you still want a cleaner sentence right now. I can hear you reaching for one. Can you sit with a weld that isn't pretty?
 
 WES: I can live with an ugly bead. Clean sentences are how I delay a lunch.
 

@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 3,113 (about 20:45 at 150 wpm, before laughs and pauses) |
+| Spoken words | 3,137 (about 20:55 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 50 lines (52% of words). JONATHON 45 lines (48% of words), 3 under 12 words (6.7%) |
 | Focus mark | Pick Up the Weight |
@@ -106,7 +106,7 @@ WES: A heart is a text. She said no text. Believe her.
 
 ## SEGMENT 4 · The Word
 
-WES: I've got a little under ten minutes, and I want the Bible open. First Corinthians ten, verse twenty-four. You want to read it?
+WES: Under ten. I want the need verse where we can see it. First Corinthians ten, verse twenty-four. You want to read it?
 
 JONATHON: "No one should seek their own good, but the good of others."
 
@@ -114,7 +114,7 @@ JONATHON: "No one should seek their own good, but the good of others."
 
 WES: Paul is in a chapter about food and freedom and whether you make your brother stumble. The line is bigger than meat. Seek her good, not the good that would have soothed you. The porch soothed me. The kitchen needed a body.
 
-JONATHON: "The good of others" isn't a guess. It's a question. I guessed a pep talk. She needed three hours and a dark room. My guess was about my nerves. So which is it, a verse about meat, or a verse about a porch?
+JONATHON: "The good of others" isn't a guess. It's a question. I guessed a pep talk. She needed three hours and a dark room. My guess was about my nerves. Is this Paul on food rights, or Paul on sitting in the kitchen when she asked?
 
 WES: Both. Context in two sentences. Corinth was full of men who could defend their rights. Paul tells them to lay the rights down for somebody else's good. A diagnosis isn't the time to defend your barn habit.
 
@@ -126,17 +126,17 @@ JONATHON: Kind isn't a vibe. Kind is curtains. Kind is spaghetti on Thursday. Ki
 
 ## SEGMENT 5 · Pushback
 
-WES: We're about halfway, and I want the push. A man says, she won't tell me what she needs. Go ahead and push.
+WES: Halfway. I want you to argue with me about her need. A man says, she won't tell me what she needs. Go ahead and push.
 
 JONATHON: Ask anyway. Then believe the first answer. If she says quiet, don't come sit on the end of the bed "just for a minute." If she says company, don't go to the porch and call it respect. I don't totally buy that one ask is enough. Fine is sometimes a test. What do you do with fine?
 
-WES: Ask a smaller one. "Do you want company or quiet?" Then do the one she picks. A man says, I asked once and she said she was fine.
+WES: Ask a smaller one. "Do you want company or quiet?" Then do the one she picks. A man says, I checked once, she said she was fine, and I clocked out.
 
 JONATHON: I've asked and then done the other because I thought I knew. That's fair, but— a man says he's not a mind reader, and I want to shake his hand and then take the candle away.
 
 WES: Good. Stop pretending you're. Ask. Repeat it back. Do it. That's the whole tool. I thought mind reading was romance. It was laziness with a candle.
 
-JONATHON: Last few minutes on what we're actually doing. No text Thursday. Supper made. Kids in pajamas. No asking how it went until she tells me. I will sit on my hands if I've got to. Can you live with not knowing how it went until she says?
+JONATHON: Last few minutes on the ask, while the night is still calm. No text Thursday. Supper made. Kids in pajamas. No asking how it went until she tells me. I will sit on my hands if I've got to. Can you live with not knowing how it went until she says?
 
 WES: I will ask, "Do you want company or quiet?" and I will believe the answer. I will drive her to her friend's again Saturday. I will ask my mother at Tuesday PT whether she wanted my dad in the house or the barn.
 
@@ -148,7 +148,7 @@ WES: This week's challenge. Ask her, "Do you want company or quiet?" Believe the
 
 JONATHON: If you're dating, ask what would actually help, then don't upgrade it. If you're single, ask a friend what he needs and don't give him your medicine. If you're divorced, ask your kids' mom what would help a handoff, then do only that. What are you picking, because if you pick the barn and the bed you'll do the barn?
 
-WES: The question. Out loud. Then Saturday's drive. Look around your house this week. The rabbit is probably already in your hand. Put it down. Find the sock.
+WES: The question. Out loud. Then Saturday's drive. Look at the calm night you keep wasting. The rabbit is probably already in your hand. Put it down. Find the sock.
 
 JONATHON: And if you fail and give the pep talk, stop when she says please stop. Don't finish the speech. I finished speeches for years after she had already left the room.
 
@@ -178,7 +178,7 @@ JONATHON: Ask. Write it down. Don't turn it into a theory about men. Theories ar
 
 WES: The friend's scan is coming. My wife asked me to drive so she can sit in the back. I will go in. I will sit. I won't make jokes to the nurses. I made a joke to a man at a parking gate last year and called it lightening the mood. It was me being unable to sit in a hard room.
 
-JONATHON: I make jokes when Dani tells a floor story. She doesn't need a joke. She needs me on the kitchen floor where she can see me. I learned that after I asked three questions in a row and she said please stop. No, hold on. You're going to make a joke in that waiting room. I know you. What's the fence?
+JONATHON: When Dani talks about a loss on her unit I crack a joke. She doesn't need a joke. She needs me on the kitchen floor where she can see me. I learned that after I asked three questions in a row and she said please stop. No, hold on. You're going to make a joke in that waiting room. I know you. What's the fence?
 
 WES: Sit. Nod. No jokes. So the good of others includes your mouth. Sometimes the good is silence. Sometimes it's nothing-talk on the end of a bed. You don't get to pick from a menu in your head. You ask.
 
@@ -232,7 +232,7 @@ WES: I will sit. In the living room. In the waiting room. On the end of the bed 
 
 JONATHON: Nothing-talk is harder for me than a pep talk. Pep talks make me feel useful. Nothing-talk makes me feel small. Small is probably the good of others.
 
-WES: I've got one more minute and I want it on you. Ask the question this week when it costs you the porch. Then stay in the answer even if your chest wants the barn.
+WES: I've got one more minute. Ask her while the night is still calm. Ask the question this week when it costs you the porch. Then stay in the answer even if your chest wants the barn.
 
 JONATHON: I'll stay in the kitchen Thursday. No window. No heart. Spaghetti. A glass with ice. If I fail, I'll come back and put the phone in the other room, not write her a letter about the failure.
 
@@ -242,13 +242,13 @@ JONATHON: I'll stay in the kitchen Thursday. No window. No heart. Spaghetti. A g
 
 WES: I want the little place by the shop on the table, because I've mocked that order in my head. Chicken and rice. Television low. Nothing-talk. I thought a grown woman should want something more spiritual when she hurts. That thought is pride. Her body asked for a bowl and a voice about a dog.
 
-JONATHON: I've mocked Dani's oven. After a loss on her floor she comes home and cleans the oven. I used to ask three questions. She said please stop. Now I put coffee on the counter and I sit on the kitchen floor where she can see me. That's chicken and rice in another font. Hold on. Are you going to upgrade the bowl to a steak because a bowl looks too small?
+JONATHON: I've mocked Dani's oven. When a baby doesn't make it she comes home and scrubs the oven until it shines. I used to ask three questions. She said please stop. Now I put coffee on the counter and I sit on the kitchen floor where she can see me. That's chicken and rice in another font. Hold on. Are you going to upgrade the bowl to a steak because a bowl looks too small?
 
 WES: I will buy the bowl this week if she wants it. I won't upgrade it to a steak. I won't add a devotion. If she wants the dog down the road, we will talk about the dog down the road.
 
 JONATHON: Nothing-talk isn't empty. It's how some women come back into the room. I kept trying to make the room mean something. She needed the room to be a room.
 
-WES: Look around your house this week. What have you been upgrading because the real ask looked too small to be love?
+WES: Look at the calm night you keep wasting. What have you been upgrading because the real ask looked too small to be love?
 
 JONATHON: I've been upgrading Tuesdays into a program. She asked for okay out loud. I'm trying to retire the program and keep the sentence.
 
@@ -264,7 +264,7 @@ WES: K. If a man at your table is in a hard week, ask him what would help his wi
 
 JONATHON: And if you're the man, let a brother ask you. I needed you to say K when I wanted to send a heart. That's a kind of weight I can't pick up alone.
 
-WES: I've got about a minute and I want it on you. Ask tonight. Not after the next crisis. Tonight, on a calm night, so the question has a practice rep before the scan.
+WES: A minute. Ask tonight, on a calm night, before the scan. Ask tonight. Not after the next crisis. Tonight, on a calm night, so the question has a practice rep before the scan.
 
 JONATHON: I'll ask Dani a practice one that isn't about the audition. Company or quiet after a night shift. Then I'll do the one she picks, even if I want the other.
 

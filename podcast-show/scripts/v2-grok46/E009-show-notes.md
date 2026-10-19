@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (3,059 spoken words, about 20:24). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (3,073 spoken words, about 20:29). Re-time them against the final edit before publishing.
 
 ---
 
@@ -42,12 +42,12 @@ Christian men podcast, pick up the weight, Galatians 6:5, will, fatherhood, marr
 |---|---|---|
 | 00:00 | Open | No will. Two kids. The question of the two piles. |
 | 00:48 | The check-engine light | Over pie. Who gets the kids. Three years of driving around it. |
-| 03:55 | Wes and the dent | Yellow stickers. The tailgate. Same problem, different pile. |
-| 07:00 | The Word | Galatians 6:5. Duffel and couch. |
-| 09:30 | Pushback | Bootstraps. Mom's happiness. The man who can barely stand. The mortgage. |
+| 03:56 | Wes and the dent | Yellow stickers. The tailgate. Same problem, different pile. |
+| 07:01 | The Word | Galatians 6:5. Duffel and couch. |
+| 09:31 | Pushback | Bootstraps. Mom's happiness. The man who can barely stand. The mortgage. |
 | 13:44 | What we actually did | Lawyer Thursday. Ruby's bed. Twelve Saturdays. Knees tomorrow. |
-| 17:49 | This week's challenge | One that's yours. One that isn't. Ask her. Emergency contact. |
-| 19:53 | Close | Carry your duffel. Name both piles. |
+| 17:52 | This week's challenge | One that's yours. One that isn't. Ask her. Emergency contact. |
+| 19:58 | Close | Carry your duffel. Name both piles. |
 
 ---
 

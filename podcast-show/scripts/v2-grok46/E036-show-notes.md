@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (1,992 spoken words, about 13:17). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,002 spoken words, about 13:21). Re-time them against the final edit before publishing.
 
 ---
 
@@ -36,11 +36,11 @@ Christian men podcast, Field Notes, Mother's Day, Proverbs 31:28, Walk Steadfast
 | 00:52 | A real one | A real one. |
 | 02:22 | Cards and a baritone | Cards and a baritone. |
 | 03:28 | The Word | The Word. |
-| 05:01 | From the table | From the table. |
-| 06:03 | The note | The note. |
-| 07:04 | The shoebox and the pie | The shoebox and the pie. |
-| 09:32 | What we do with it | What we do with it. |
-| 12:44 | Close | Close. |
+| 04:51 | From the table | From the table. |
+| 05:51 | The note | The note. |
+| 06:49 | The shoebox and the pie | The shoebox and the pie. |
+| 09:18 | What we do with it | What we do with it. |
+| 12:48 | Close | Close. |
 
 ---
 

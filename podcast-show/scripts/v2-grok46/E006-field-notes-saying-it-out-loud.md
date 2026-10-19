@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 2,228 (about 14:51 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,230 (about 14:52 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 31 lines (51% of words). JONATHON 28 lines (49% of words), 1 under 12 words (3.6%) |
 | Focus mark | All four, check |
@@ -44,7 +44,7 @@ JONATHON: And I'll record a voice memo at this table, because Wes made me write 
 
 ## SEGMENT 1 · Check the box
 
-WES: Let's take the next few minutes on what we actually did. I'll go first. I wrote the sentence on the back of the card. That was easy. My weakest is stop waiting, which nobody who's been at this table is surprised by. The gutter is done. The brothers aren't. The fan still clicks. And I told my son-in-law.
+WES: We'll use the next few minutes on the boxes we actually checked. I'll go first. I wrote the sentence on the back of the card. That was easy. My weakest is stop waiting, which nobody who's been at this table is surprised by. The gutter is done. The brothers aren't. The fan still clicks. And I told my son-in-law.
 
 JONATHON: Your son-in-law? Not the Air Force guy? Because I thought that man already knew everything about you after he held your ladder and counted the seconds you spent deciding which screw.
 
@@ -90,7 +90,7 @@ JONATHON: I asked her which one I do best. She said, "Go first." And I said, rea
 
 WES: You went first. That's the one I would have missed if I was keeping score from the outside.
 
-JONATHON: I went first. Then I asked which one she'd like to see more. She said, "Stop waiting." I said, on what? She said, "On your dad."
+JONATHON: I went first. Then I asked which one she'd like to see more. She named stop waiting. I said, on what? She said, "On your dad."
 
 WES: [quietly] Yeah.
 
@@ -106,11 +106,11 @@ JONATHON: I know. I just wanted to say it out loud. That's the name of this one.
 
 ## SEGMENT 3 · From the table
 
-WES: We're about halfway, and I want the question men keep asking. Do I really need all four, or can I just work on the one I'm weak in?
+WES: Halfway now, and the question men keep asking is this one. Do I really need all four, or can I just work on the one I'm weak in?
 
 JONATHON: In sales you coach your weakest skill. But you sell with your strongest one. Every day. So my instinct is, pick the weak one and ignore the rest until next quarter.
 
-WES: Work on the one you're weak in. That's right. That's where your effort goes. But don't think you can drop the other three while you do it. They come together. Your strong mark is how you carry your weak one. My best one is pick up the weight. If I'm going to stop waiting, I do it by picking up something specific. The gutter was a weight. I stopped waiting by picking it up. Look around your house this week. Your strong one is probably already in your hand. The question is whether you're using it to move, or using it to hide.
+WES: Work on the one you're weak in. That's right. That's where your effort goes. But don't think you can drop the other three while you do it. They come together. Your strong mark is how you carry your weak one. My best one is pick up the weight. If I'm going to stop waiting, I do it by picking up something specific. The gutter was a weight. I stopped waiting by picking it up. Say the sentence in the kitchen, not in your head. Your strong one is probably already in your hand. The question is whether you're using it to move, or using it to hide.
 
 JONATHON: So the strong one pulls the weak one along. That's actually close to how I run a team. You don't bench a guy's best pitch while you fix his slider.
 
@@ -150,7 +150,7 @@ JONATHON: Then you've got two choices. You can send it to your one man. Instead 
 
 WES: Do it. Right now. I made you write on a receipt. You can talk into a phone for a minute.
 
-JONATHON: [into the phone, a little self-conscious] A steadfast man stops waiting, picks up the weight, goes first, and works for God's pay, not the room's. My weakest one is God's pay. Tomorrow, I'm going to do one thing at work nobody will see and nobody will thank me for, and I'm not going to tell anybody I did it. Including Wes.
+JONATHON: [into the phone, a little self-conscious] Stop waiting. Pick up the weight. Go first. Work for what God pays, not the room. My weakest one is God's pay. Tomorrow, I'm going to do one thing at work nobody will see and nobody will thank me for, and I'm not going to tell anybody I did it. Including Wes.
 
 [BOARD: Sixty seconds. A promise you can hear.]
 

@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,937 (about 19:35 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,936 (about 19:34 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 44 lines (51% of words). JONATHON 40 lines (49% of words), 2 under 12 words (5.0%) |
 | Focus mark | Go First |
@@ -60,7 +60,7 @@ WES: We sat an hour. About forty words. The Astros. A noise in his truck. I kept
 
 JONATHON: He asked you, and you answered about your dad, and you left the real sentence sitting there with the polish.
 
-WES: He washed the truck before his uncle's, nobody asked him to. Two Saturdays left. The paper is still on the fridge. I walk past it like a deer in the yard.
+WES: He washed the truck before his uncle's, nobody asked him to. Two Saturdays left. That visor paper is still stuck to the fridge. I walk past it like a deer in the yard.
 
 JONATHON: Two weeks ago my VP sent five words. "Can we talk about Q2." I lost a Wednesday morning. Thursday it was a territory change. Two counties out, two counties back. A scheduling email. I had written him four careful emails, no exclamation points, auditioning. Thursday night I'm brushing my teeth and it lands. Four emails for a man who wanted counties. Zero calls to my father in twenty-eight years. Every call we've ever had, he dialed.
 
@@ -96,7 +96,7 @@ JONATHON: I know. I won't make him a hero for dialing a phone. But he dialed it 
 
 ## SEGMENT 3 · The Word
 
-WES: We've got a little under fifteen minutes, and I want the Bible open, because this one is yours. Exodus twenty, verse twelve. The fifth of the Ten Commandments. First one about people, after the ones about God.
+WES: Open Exodus with me for about fifteen minutes, because this one is yours. Chapter twenty, verse twelve. The fifth of the Ten Commandments. First one about people, after the ones about God.
 
 JONATHON: "Honor your father and your mother, so that you may live long in the land the Lord your God is giving you."
 
@@ -116,7 +116,7 @@ JONATHON: Ruby asked if he knows about her. She's going to learn what I do with 
 
 [BOARD: The assignment is weight.]
 
-WES: Look around your house this week. If your dad is still alive, your kids already have that file. They don't need the speech you have been writing. They need to watch you give him the right weight while he's still here to receive it.
+WES: Look at the number you still haven't dialed. If your dad is still alive, your kids already have that file. They don't need the speech you have been writing. They need to watch you give him the right weight while he's still here to receive it.
 
 ---
 
@@ -172,7 +172,7 @@ WES: That's honor with no receipt. No thank-you. No memory on the other side of 
 
 ## SEGMENT 6 · Not yet
 
-WES: We've got about seven minutes, and I want them on a question I never asked. At my dad's funeral, my uncle, his younger brother, came up at the graveside and said, "You know your daddy had a scholarship to A&M?" Agriculture. Senior year. My granddad said the place needed him. He never went. He never mentioned it. Not to me. Not to anybody I know of.
+WES: Seven minutes left, and I want them on a question I never asked. At my dad's funeral, my uncle, his younger brother, came up at the graveside and said, "You know your daddy had a scholarship to A&M?" Agriculture. Senior year. My granddad said the place needed him. He never went. He never mentioned it. Not to me. Not to anybody I know of.
 
 JONATHON: Forty-three years you had him, and you never once asked what he wanted to be. He was just Dad. Shoes and games. And then you found the other life at a grave.
 
@@ -190,7 +190,7 @@ WES: So put a day on it. Out loud. I already promised the listener a day and an 
 
 JONATHON: Wednesday night. Tomorrow. Seven-thirty, after the kids are down. I'm going to sit in the truck in the driveway, because I'm not doing the first one in the house where Ruby can hear it. I will ask what his dad was like. I won't bring up the lamp. I won't give the speech I've been writing since I was nine. Then I will shut up the way you did with your mom.
 
-WES: Can I ask you something hard? If he says he'll let you go, will you actually say not yet, or does the speech come out?
+WES: Are you going to call him while he's still here? If he says he'll let you go, will you actually say not yet, or does the speech come out?
 
 JONATHON: Not yet. That's the line. If the speech comes out, I hung up on myself.
 
@@ -224,7 +224,7 @@ WES: Carry this. Honor is giving him his weight. Not a halo, and not nothing.
 
 JONATHON: And if he has been the one dialing for twenty-eight years, somebody else can pick up the phone.
 
-WES: Friday I'll tell you whether he made the call. Until then: one question, one day, one time.
+WES: Friday I'll tell you whether the truck call happened. Until then: one question, Wednesday, seven-thirty.
 
 JONATHON: Go make the call, then tell us at walksteadfast.com, and find us at @steadfastwalk.
 

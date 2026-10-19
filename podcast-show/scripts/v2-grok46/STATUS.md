@@ -97,7 +97,7 @@ E001 exception logged 2026-10-19 (Aaron): replace the earlier 40–45 min / 6,00
 | E079 | Grief at the Table | 3,190 | 21:16 | 54 / 46 | PASS 0/0 |
 | E080 | Field Notes: Grief Report | 2,329 | 15:32 | 53 / 47 | PASS 0/0 |
 
-**Tally:** 80 / 80 PASS (0 fail, 0 warn), re-checked 2026-10-19 after conversation pass 2 with `check_script.py --quiet --all`. E007 remains the locked pilot (word for word). Pass 2: host-to-host questions min 6 / avg 14.2 (was min 0 / avg 3.5); reused Sitting-with-it sermon stacks converted to live back-and-forth; max same-host run still 2 except E007; Jonathon short-line rate 5.5% (worst 14.7% on E046).
+**Tally:** 80 / 80 PASS (0 fail, 0 warn), re-checked 2026-10-19 after the de-dupe pass with `check_script.py --quiet --all`. E007 remains the locked pilot (word for word). `find_dupes.py`: 0 exact 6+ word spoken sentences shared across episodes (was 178 sentences / 752 hits) and 0 near-duplicate clusters >85% (was 115). Host-to-host questions still min 6 / avg 14.2. Max same-host run 2 except E007. Jonathon short-line worst 14.3% (E044).
 
 ## Continuity ledger (overrides + on-air facts)
 

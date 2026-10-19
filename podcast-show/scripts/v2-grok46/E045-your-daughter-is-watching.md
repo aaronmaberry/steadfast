@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,818 (about 18:47 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,858 (about 19:03 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 39 lines (53% of words). JONATHON 34 lines (47% of words), 2 under 12 words (5.9%) |
 | Focus mark | Go First |
@@ -57,7 +57,7 @@ WES: When my daughter was fifteen we had Saturday runs to buy feed, twenty minut
 
 JONATHON: You had been giving her a quiz. She asked for a person. I give Ruby quizzes too. How was the watercolor. Did you eat your lunch. I already know the shape of the answer. I'm grading. I'm not meeting her.
 
-WES: The son-in-law eventually asked her real questions. I'm grateful. Sunday I called her and asked what she learned about men from watching me. She said she learned to wait. She still does it. She does it with him. Then she asked what I was thinking about in those years. I said money, losing my job, whether I was any good as her daddy. She said she thought I was mad at her. That's not resolved. I'm leaving it unresolved on purpose. I won't tidy a wound I made so the show feels complete.
+WES: The son-in-law eventually asked her real questions. I'm grateful. Sunday I called her and asked what she learned about men from watching me. She said she learned to wait. She still does it. She does it with him. Then she asked what I was thinking about in those years. I said money, losing my job, whether I was any good as her daddy. She said she thought I was mad at her. That's not resolved. I'm leaving the mad-at-me line unresolved on purpose. I won't tidy a wound I made so the show feels complete.
 
 JONATHON: I needed that left open. I've a version coming with a cereal bowl and I don't want a bow on yours before I tell mine. Keep going. The funeral processions. I want that, because it's how a girl learns what a man does when nobody is performing.
 
@@ -98,9 +98,9 @@ WES: You gave her the line back. That's a man treating a girl as a person. Not a
 
 ## SEGMENT 5 · Pushback
 
-WES: Push. The man with a teenager who won't talk. And the man who says his daughter is fine because she makes good grades. Which one is sitting in you this week?
+WES: Push. The man with a teenager who won't talk. And the man who says his daughter is fine because she makes good grades. The quiet teenager, or the good-grades story — which one is you?
 
-JONATHON: The quiz one. If she won't talk, stop quizzing. Ask one thing you don't know. Then wait longer than is comfortable. A drive-through helps. Eyes forward. I will say more about that Friday. Grades aren't a soul. I was a good-grade kid with a shut door and headphones. Fine through the door isn't fine.
+JONATHON: The quiz one. If she won't talk, stop quizzing. Ask her one thing you don't already have graded. Then wait longer than is comfortable. A drive-through helps. Eyes forward. I will say more about that Friday. Grades aren't a soul. I was a good-grade kid with a shut door and headphones. Fine through the door isn't fine.
 
 WES: The man who had no dad thinks he can't do this. You can still ask a question you don't know. You can still pull over. You can still say a name at bedtime. You don't need a childhood you weren't given to give a girl a person. You need a Saturday and a mouth.
 
@@ -125,13 +125,13 @@ WES: Can I tell you the Sunday call without putting a bow on it?
 
 JONATHON: Please. I needed it left open. I've got a cereal bowl and I don't want a bow on yours.
 
-WES: I asked what she learned about men from watching me. She said she learned to wait. She still does it. She does it with him. Then she asked what I was thinking about in those years. I said money, losing my job, whether I was any good as her daddy. She said she thought I was mad at her. That's not resolved. I'm leaving it unresolved on purpose.
+WES: I asked what she learned about men from watching me. She said she learned to wait. She still does it. She does it with him. Then she asked what I was thinking about in those years. I said money, losing my job, whether I was any good as her daddy. She said she thought I was mad at her. That's not resolved. I'm leaving the mad-at-me line unresolved on purpose.
 
 JONATHON: Good. Don't tidy it. A daughter notices the voice. Did your dad teach the shoulder, or did the boys just copy it?
 
 WES: He pulled onto the shoulder for every funeral procession. Hat on his knee. Somebody's daddy. My sons still pull over. I still pull over. She learns a man can stop. Would you have pulled over at thirteen?
 
-JONATHON: I was headphones and fine through the door. A coach talked Astros. About every third time I said something real. Dani dated disasters in college, her word, even with a dad who came to everything. Showing up isn't a guarantee. It's still the work.
+JONATHON: I was headphones and fine through the door. A coach talked Astros. About every third ride I actually told the truth. Dani dated disasters in college, her word, even with a dad who came to everything. Showing up isn't a guarantee. It's still the work.
 
 WES: Magic is how men talk themselves out of Thursday. You don't need a childhood you weren't given. You need a Saturday and a mouth. The man at the table did six minutes and didn't comment. That's the shape I actually trust this week.
 
@@ -143,7 +143,7 @@ JONATHON: Wait, back up. Are you talking about me and the watercolor quiz, or th
 
 WES: Both. You were grading. She asked for a person. Are you actually going to ask something you don't know Thursday, or are you going to answer the worm for her?
 
-JONATHON: I'm asking the man. I won't answer for him. If I come home with a story about how well I taught her, I lied. Can I ask you something hard?
+JONATHON: I'm asking the man. I won't answer for him. If I come home with a story about how well I taught her, I lied. What is she learning from the way you drive?
 
 WES: Go.
 
@@ -151,7 +151,7 @@ JONATHON: Are you leaving the mad-at-me line open, or are you going to tidy it s
 
 WES: [beat] I'm leaving it. I was afraid. She read it as anger. I can't go back to fifteen. I won't paint it. What are you actually praying?
 
-JONATHON: Her name. Out loud. With the door open. If I pick three I'll do none. One name. Nobody prayed over me by name after I was nine. My mom prayed behind her door, about money. I can still hear the door.
+JONATHON: Her name. Out loud. With the door open. If I add a speech to her name I will say nothing. One name. Nobody prayed over me by name after I was nine. My mom prayed behind her door, about money. I can still hear the door.
 
 WES: That's fair, but— no, don't let two years of you did good, amen, turn into one more week of it.
 
@@ -163,15 +163,15 @@ JONATHON: No, hold on. You've got a church voice and a house voice. The house vo
 
 WES: [laughs] It bothers me now. A daughter notices. She will marry a man with a voice, and she will have a map from me whether I meant to draw one or not. Are you still doing the work voice in the doorway?
 
-JONATHON: I did it at her and let it be a bit. Then I sat with it. I have a coach voice too. I moved it once instead of fixing it. Same voice. Different stranger. Dani can hear the difference between a work voice and a kitchen. She stops me when I start handing people a door before they're in the room.
+JONATHON: I did it at her and let it be a bit. Then I sat with it. I have a coach voice too. I moved it once instead of fixing it. Same voice. Different stranger. Dani can hear the difference between a work voice and a kitchen. She cuts me off when I start handing people a door before they're even in the kitchen.
 
 WES: Good. Ask something you can't grade. I still remember the sweet feed in the back and my hands on the wheel doing nothing useful. She talked the rest of the way home. A friend's parents' divorce. A book she thought was wrong about God. I don't remember the book. I remember I finally asked.
 
-JONATHON: Then I put her name on a Monday that already has a meeting. Does that sound like I'm making a quota out of a bedtime?
+JONATHON: Then I say her name at Monday bedtime even if a meeting still sits on the calendar. Does saying her name at bedtime sound like I'm filling a sheet?
 
-WES: [laughs] It sounds like a man who knows his calendar. Put the name inside the busy, or you never will. Fine through the door isn't fine.
+WES: [laughs] That sounds like a name said while the house is still loud. Say the name while the house is loud, or you'll skip it. Fine through the door isn't fine.
 
-JONATHON: What are you picking, for real?
+JONATHON: Her name with the door open, or another quiet ride?
 
 WES: A question I don't know. And leaving the wound open. Pull over. Somebody's daddy. She learns a man can stop.
 
@@ -183,7 +183,7 @@ JONATHON: One more. If she's grown, do you still ask? Because mine is seven, and
 
 WES: Still ask. If she's grown, still ask. If she's seven, still ask. If you have no daughter, ask the girl you actually have. Don't steal a sentence this week.
 
-JONATHON: [laughs] He called you like it was a conversion. Large fry. Large shake. I can feel myself wanting that to be a content plan. It isn't. It's fries and a windshield. Ruby stood in the doorway with a cereal bowl to her ear. Oh, man. Oh, I hear you. Absolutely. And the nod. Then in the truck: why do you talk nicer on the phone. That's the map. I'm trying to mess up the map on purpose. You?
+JONATHON: [laughs] He rang you like a large fry had saved his week. Large fry. Large shake. I can feel myself wanting that to be a content plan. It isn't. It's fries and a windshield. Ruby stood in the doorway with a cereal bowl to her ear. Oh, man. Oh, I hear you. Absolutely. And the nod. Then in the truck: why do you talk nicer on the phone. That's the map. I'm trying to mess up the map on purpose. You?
 
 WES: Sweet feed in the back. Hands on the wheel doing nothing useful. A friend's parents' divorce. A book she thought was wrong about God. I don't remember the book. I remember I finally asked. That's the win I actually trust. Don't put a bow on a cereal bowl either. Leave it as a report.
 
@@ -195,7 +195,7 @@ WES: I'm leaving it. I can't go back to fifteen. I can ask a better question now
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. She's learning men from you first. Ask her something you don't already know.
+WES: Take this with you: she's learning men from you first. She's learning men from you first. Ask her something you don't already know.
 
 JONATHON: And pray her name out loud, even if you have only said amen for two years.
 

@@ -5,9 +5,9 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 1,983 (about 13:13 at 150 wpm, before laughs and pauses) |
+| Spoken words | 1,995 (about 13:18 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 28 lines (52% of words). JONATHON 24 lines (48% of words), 0 under 12 words (0.0%) |
+| Line balance | WES 28 lines (53% of words). JONATHON 24 lines (47% of words), 0 under 12 words (0.0%) |
 | Focus mark | Go First |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Colossians 3:13. Board only: Luke 15:20 |
 | Board cues | 5 (none repeats spoken words) |
@@ -42,7 +42,7 @@ JONATHON: And I will tell you I was mad after, not sad, which isn't the feeling 
 
 ## SEGMENT 1 · The truck
 
-WES: Let's take the next few minutes on the receipt. You first. Wednesday. Seven-thirty. Porch light on.
+WES: Let's take the next few minutes on whether the call left the phone. You first. Wednesday. Seven-thirty. Porch light on.
 
 JONATHON: Nine minutes with my thumb on the contact. I almost turned the truck around and called it wisdom. Then I hit it. Third ring. "Who died?" I said nobody. He said okay. Then, "Well, hey, bud." Same script. I asked the question anyway. "Dad, what was your dad like?"
 
@@ -80,7 +80,7 @@ WES: I wanted to. I didn't. I'm leaving it. The other thing in my house is my wi
 
 JONATHON: Her list is on the fridge next to the truck paper. A winery. A peach stand if they're early. A quilt shop she has wanted since 2003. You're in charge of the house for three days, and you're already treating it like a deployment.
 
-WES: I'm treating it like a deployment. She laminated nothing yet, and I'm already nervous. I will run the house for three days and I will probably call her about a grocery list she already wrote. Look around your house this week. Somebody has been waiting on a sentence that's not about a report card. Say it clumsy. Then let them talk about a wheel bearing.
+WES: I'm treating it like a deployment. She laminated nothing yet, and I'm already nervous. I will run the house for three days and I will probably call her about a grocery list she already wrote. Check whether the call left the notes app. Somebody has been waiting on a sentence that's not about a report card. Say it clumsy. Then let them talk about a wheel bearing.
 
 [BOARD: Say it without a trophy.]
 
@@ -108,7 +108,7 @@ WES: No. Forgiveness isn't a press release. It's handing the debt to God so it s
 
 ## SEGMENT 4 · From the table
 
-WES: We've got about six minutes, and I want them on the question men asked. Do I've got to forgive a dad who isn't sorry?
+WES: Six minutes left, and I want them on the sorry question men asked. Do I've got to forgive a dad who isn't sorry?
 
 JONATHON: That's the one I would have written in, because I'm living it. He laughed. He didn't repent. I don't want to be the guy who uses a Bible verse to rush myself past anger I haven't finished.
 
@@ -130,7 +130,7 @@ JONATHON: Single men, text one man after you hang up. Not the speech. "I called 
 
 ## SEGMENT 5 · The two-call rule
 
-WES: Last few minutes on the tool. Write it on a card if you have to. Two calls.
+WES: Last few minutes on the call, not the draft. Write it on a card if you have to. Two calls.
 
 JONATHON: Call one, if he's safe: one question about his life before you. Stay past the first goodbye. Don't give the speech. Call two: talk to God about whatever the first call left on the floor. The rods. The silence. The laugh that made you mad.
 
@@ -138,7 +138,7 @@ JONATHON: Call one, if he's safe: one question about his life before you. Stay p
 
 WES: Put a day on both. Not "sometime." Wednesday at seven-thirty. Then before you sleep. If you already made the first one and skipped the second, make the second tonight. If you made neither, you still have a driveway. Write the two times on a card and put it on the dash. A card is harder to talk yourself out of than a mood.
 
-JONATHON: I'm not sending him a paragraph. I'm not explaining this to him. I'm going to say the name to Ruby this week, and I'm going to let that be the next honest thing. If you need a next step smaller than another phone call, tell one child one true sentence about your father. Can I ask you something hard? If you sit in the truck and don't hit the button, are you going to say so, or dress it up as wisdom?
+JONATHON: I'm not sending him a paragraph. I'm not explaining this to him. I'm going to say the name to Ruby this week, and I'm going to let that be the next honest thing. If you need a next step smaller than another phone call, tell one child one true sentence about your father. Did the call happen, or did you draft it again? If you sit in the truck and don't hit the button, are you going to say so, or dress it up as wisdom?
 
 [BOARD: A name is a start, not a finish.]
 

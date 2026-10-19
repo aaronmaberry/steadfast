@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 2,234 (about 14:54 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,247 (about 14:59 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 48 lines (54% of words). JONATHON 40 lines (46% of words), 5 under 12 words (12.5%) |
 | Focus mark | Stop Waiting |
@@ -26,7 +26,7 @@ WES: She drew a cartoon duck under his line. No words.
 
 JONATHON: She said, "It's a duck."
 
-WES: That's a tree down. Don't ask the duck to be a paragraph.
+WES: That's a tree down. Don't make the cartoon write you a speech.
 
 [STING 2s]
 
@@ -44,7 +44,7 @@ JONATHON: And I'll tell you the grandmother who knitted a whole blanket through 
 
 ## SEGMENT 1 · The duck
 
-WES: Let's take the next few minutes on a fridge, because Friday is the receipt. You wrote lines. Saturday, you still pull your feet up. Sunday, I liked your laugh at the dog. Monday, your coffee is better than mine. Tuesday nothing came back. Did the fridge stay quiet, or did she answer?
+WES: Start with the whiteboard lines, because Friday only wants whether she answered. You wrote lines. Saturday, you still pull your feet up. Sunday, I liked your laugh at the dog. Monday, your coffee is better than mine. Tuesday nothing came back. Did the fridge stay quiet, or did she answer?
 
 JONATHON: Wednesday she drew a duck. No words. I wanted a paragraph. I said thank you. That's enjoy. If I had asked the duck to explain itself I would have been a manager again.
 
@@ -72,7 +72,7 @@ JONATHON: She looked like a person, not a chore I manage. I needed to see that. 
 
 ## SEGMENT 3 · The Word
 
-WES: We're about halfway, and I want one verse for the man who wants a paragraph from a duck. First Corinthians thirteen, verse four. You want to read it?
+WES: Halfway mark. Corinthians is for the man who wants a paragraph from a duck. First Corinthians thirteen, verse four. You want to read it?
 
 JONATHON: "Love is patient, love is kind. It does not envy, it does not boast, it is not proud."
 
@@ -80,7 +80,7 @@ JONATHON: "Love is patient, love is kind. It does not envy, it does not boast, i
 
 WES: Patient is a mile of quiet. Kind is a duck you don't interrogate. Not proud isn't turning a whiteboard into a testimony.
 
-JONATHON: I wanted to boast about the lines. The duck shut that down. Good. Does that sound like I'm arguing with Paul?
+JONATHON: I wanted to boast about the lines. The duck shut that down. Good. Am I cross-examining Paul about roommates, or hearing patience?
 
 WES: [laughs] It sounds like you're listening. Context in two sentences. Paul is telling a church that gifts without love are noise. A fridge without like is noise too. You can run a house and still be a clanging manager.
 
@@ -88,7 +88,7 @@ WES: [laughs] It sounds like you're listening. Context in two sentences. Paul is
 
 ## SEGMENT 4 · Finish something
 
-WES: Saturday on the ride I asked what she's looking forward to this year. About a mile of quiet. She said, "I'd like to finish something." I said like what. She said, "I'll tell you when I know." I didn't mention the printout in my Bible. I thought about the back door. I didn't say it. The plane is still on the workbench. She wants to finish something. I've got a jamb I keep not finishing.
+WES: Saturday on the ride I asked what she's looking forward to this year. About a mile of quiet. She said, "I'd like to finish something." I asked what kind of finish. She said, "I'll tell you when I know." I didn't mention the printout in my Bible. I thought about the back door. I didn't say it. There's dust on the plane. The back door still takes a lift. She wants to finish something. I've got a jamb I keep not finishing.
 
 JONATHON: Wait, back up. You heard finish and you thought of a hinge. That's honest. Did you almost slide the printout?
 
@@ -112,7 +112,7 @@ JONATHON: You didn't ask about a car. That's the assigned thing wearing a calend
 
 WES: Three. I'll sit in the back the second Thursday in September. I won't go up. I will leave before the cookies if I need to. I'm there for a man who already has a life.
 
-JONATHON: Last few minutes. Keep the line. Keep the step. Sit the back. Don't ask the duck to be a paragraph. Don't ask the young man to be a project.
+JONATHON: Last few minutes. Keep the line. Keep the step. Sit the back. Don't make the cartoon write you a speech. Don't ask the young man to be a project.
 
 ---
 
@@ -138,9 +138,9 @@ WES: The house goes back to an office. Tired is real. Tired is also how a porch 
 
 ## SEGMENT 8 · Cookies
 
-WES: I will leave before the cookies so I don't turn a hymn into my moment. The grandmother gets the front row. I get a folding chair. That's enough of a lot.
+WES: I will leave before the cookies so I don't turn a hymn into my moment. His grandma keeps the front pew. I get a folding chair. That's enough of a lot.
 
-JONATHON: Don't go up. Don't fix his Thursdays. He already assigned himself. Your job is a back and a quiet thank you later if he wants it. Will you actually leave before the cookies, or will you linger because lingering feels like love?
+JONATHON: Don't go up. Don't fix his Thursdays. He already assigned himself. You sit behind him and thank him later only if he asks. Will you actually leave before the cookies, or will you linger because lingering feels like love?
 
 WES: I'll leave. Lingering is how I steal a front row that isn't mine.
 
@@ -170,13 +170,13 @@ WES: I'm going to sit. I already joked a gate. I'm not doing that in a treatment
 
 WES: I almost mentioned the printout. That's the old Wes. Hearing is still the job. Finishing something is hers to name.
 
-JONATHON: I almost asked the duck what it meant after I said thank you. I didn't. That's the most Christian thing I've done to a fridge.
+JONATHON: I almost asked the duck what it meant after I said thank you. I didn't. That's the holiest I got with a marker this week.
 
 ---
 
 ## SEGMENT 12 · More on the 1
 
-WES: Stay on the duck a minute. Ruby can read a fridge. If the only new word is a duck, she has an answer without a speech. That's the whole point of a line that isn't shoes.
+WES: Don't leave that cartoon yet. Ruby can read a fridge. If the only new word is a duck, she has an answer without a speech. That's the whole point of a line that isn't shoes.
 
 JONATHON: I wanted a paragraph so I could feel like the marriage was getting better on paper. A duck isn't paper. Did I receive it, or did I grade it?
 
@@ -188,7 +188,7 @@ JONATHON: I'll keep receiving. If she draws nothing next week I won't write her 
 
 ## SEGMENT 13 · More on the 2
 
-WES: A mile of quiet made me want to teach. I watched the fence line instead. She said she'd like to finish something. I said tell me more. She said she'd tell me when she knows. That's the sentence. Not a project.
+WES: That silent farm-road stretch made me want to start a lesson. I watched the fence line instead. She said she'd like to finish something. I said tell me more. She said she'd tell me when she knows. That's the sentence. Not a project.
 
 JONATHON: I would have filled the mile. Filling is how I stay useful. Useful is a rabbit. How did you not fill it?
 
@@ -202,7 +202,7 @@ JONATHON: I'll bite a cheek on the step if I've got to. Her sentence is worth a 
 
 WES: Sitting the back in September is a death that looks like a folding chair. I want to go up. Going up would make his yes about me. Grandma gets the front row. I get a back.
 
-JONATHON: Don't ask him about a car. Don't ask him about a girlfriend. He already told you the assigned thing. Can you live with a man who has a life you didn't design?
+JONATHON: Don't ask him about a car. Don't ask him about a girlfriend. He already told you the assigned thing. Can you let that young man keep a life you didn't assign?
 
 WES: I can live with it. That's the point of assigned.
 
@@ -240,7 +240,7 @@ WES: Treatments Tuesdays after Labor Day. A long fall with a name. I drive the w
 
 JONATHON: I wanted a meal train so I could feel like a man in a hard room. Sit is harder. Are you going to let me ask only if you sat?
 
-WES: Ask if I sat. That's the only question I want.
+WES: Ask if I sat. Sit is the only word I want you to check.
 
 JONATHON: I'll ask that. I won't ask for a holy sentence.
 
@@ -260,7 +260,7 @@ JONATHON: I'll hold it. Yarn is a better sermon than a pep talk.
 
 ## SEGMENT 19 · More on the 8
 
-WES: Rain boots on a porch rebuild. Wrong size for an hour. He said the size again. Never no. That's how I want to talk when a girl tells me something hard at twelve.
+WES: Rain boots on a porch rebuild. Wrong size for an hour. He said the size again. Never no. That's the tone I want when Ruby brings me a hard thing at twelve.
 
 JONATHON: I almost lessoned her on the drive home. I didn't. If I lesson a rain boot I've written a letter on a Saturday. Did I steal the hour by watching too hard?
 
@@ -272,11 +272,11 @@ JONATHON: She looked like a person. I'm going to keep seeing that when the fridg
 
 ## SEGMENT 20 · More on the 9
 
-WES: The plane is still on the workbench. The back door still sticks. She wants to finish something. I'm not finishing the jamb this week so I can look obedient on a porch. I'm leaving the plane where it is and I'm hearing her sentence.
+WES: There's dust on the plane. The back door still takes a lift. The back door still sticks. She wants to finish something. I'm not finishing the jamb this week so I can look obedient on a porch. I'm leaving the plane where it is and I'm hearing her sentence.
 
-JONATHON: Don't finish the jamb so we can clap. The hinge can wait. What are you picking, the ride or the plane?
+JONATHON: Don't finish the jamb so we can clap. The hinge can wait. Which one are you taking this week, the Saturday ride or the swollen jamb?
 
-WES: The ride. I've got about a minute and I want it on you. Keep the line. Keep the step. Don't ask the duck to be a paragraph.
+WES: The ride. A minute. Keep the line. Don't ask the duck to explain itself. Keep the line. Keep the step. Don't make the cartoon write you a speech.
 
 JONATHON: I'll keep the line. I'll sit the back in my own house. A duck is a tree down. I'm not asking it to be a forest.
 

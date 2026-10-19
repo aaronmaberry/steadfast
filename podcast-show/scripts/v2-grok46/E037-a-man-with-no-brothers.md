@@ -5,9 +5,9 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,930 (about 19:32 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,967 (about 19:47 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 31 lines (52% of words). JONATHON 29 lines (48% of words), 1 under 12 words (3.4%) |
+| Line balance | WES 31 lines (51% of words). JONATHON 29 lines (49% of words), 1 under 12 words (3.4%) |
 | Focus mark | Stop Waiting |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Ecclesiastes 4:10. Board only: Genesis 2:18 |
 | Board cues | 4 (none repeats spoken words) |
@@ -42,7 +42,7 @@ JONATHON: And I will tell you I paid strangers to move us to San Antonio because
 
 WES: Let's take the next few minutes on Sunday and Saturday, because both houses did a grown thing. You first. The pie, and then the note, because I don't want the listener to think honor is only a hanging basket.
 
-JONATHON: Two helpings. She said that's good, Jonathon. Then the note to my sister. She raised the nephew mostly alone. I wrote that he could call at one in the morning because she taught him to say the hard thing out loud.
+JONATHON: Two helpings. She said that's good, Jonathon. Then the note to my sister. She did the raising of the nephew mostly by herself. I wrote that he could call at one in the morning because she taught him to say the hard thing out loud.
 WES: You wrote that he could call because she taught him to say the hard thing out loud. [beat] Then she said, who wrote this for you.
 JONATHON: She said, who wrote this for you. Then she went to the pantry because Mom said leave her be. She put the note in her purse and hugged me at the car. First time since my wedding.
 
@@ -67,11 +67,11 @@ JONATHON: Harper's Dad. Twins Dad, no apostrophe. Theo Soccer Coach. AC Guy Mom.
 
 WES: When you moved to San Antonio you hired a company. You had helped four Pasadena friends move, including a sleeper sofa up three flights. Would you rather pay a stranger than find out whether your friends would come?
 
-JONATHON: Yes. That's isolation dressed as competence. I told myself I was being easy. I was being safe. If nobody comes, I never have to know. Dani said in year three of counseling, I can't be your everything. I'm tired. She was right. I made her my whole brotherhood because brothers felt like a risk. I still do that when a week gets loud.
+JONATHON: Yes. That's isolation dressed as competence. I called the movers easy when I was being safe. I was being safe. If nobody comes, I never have to know. Dani said in year three of counseling, I can't be your everything. I'm tired. She was right. I made her my whole brotherhood because brothers felt like a risk. I still do that when a week gets loud.
 
 WES: The twin's dad is Brent. He wrote the card. A nurse read it to his mom Sunday. She said, that's a nice boy. Whoever wrote that. He said, yes ma'am. He's. Then he texted, thanks, Coach. I said Jonathon. He said Brent. That's a start the size of a first name, and it's bigger than most of the men in my phone ever got from me.
 
-JONATHON: My go-first this week is Saturday. Ask Harper's dad his name, then one thing that's not about baseball. Dani knows the name and won't tell me. She said ask him. It does not count if I get it from her. Will I actually ask him, or get it from her in the kitchen and call that brave?
+JONATHON: My go-first this week is Saturday on a field, asking a name. Ask Harper's dad his name, then one thing that's not about baseball. Dani knows the name and won't tell me. She said ask him. It does not count if I get it from her. Will I actually ask him, or get it from her in the kitchen and call that brave?
 
 WES: Ask him. The kitchen shortcut isn't brave. We're about halfway. Merle put a handwritten card on his church bulletin board. Bass seeks three. Gospel, the old way. Must read shape notes or be willing to fake it. Call Merle. The tenor is a youth pastor, thirty-four, three kids under six. He has been singing harmony by himself in his truck for ten years. Thursday nights in Merle's living room. They need a lead.
 
@@ -101,7 +101,7 @@ WES: A number you will dial. That's the isolation we mean. Not an empty apartmen
 
 WES: Jonathon, push. The men who like their quiet are already gone in their heads, and I don't want them to leave with a speech they can dismiss. Give me the shift guy and the cruel-brother guy. Go ahead.
 
-JONATHON: Yeah, here's my problem. The guy who says friends are a luxury. He has a shift and a second job and no Thursday night. I hear him. Then do the small version. One name. One text. The twenty-four-year-old at car-care takes the bus, has no car, brings donuts. He's already in a room of men. Learn his name. That counts. You don't need a cabin weekend. Can I ask you something hard? Are you going to ask Merle if they need a man who can't sing, or is the bulletin board going to stay a story?
+JONATHON: Yeah, here's my problem. The guy who says friends are a luxury. He has a shift and a second job and no Thursday night. I hear him. Then do the small version. One name. One text. The twenty-four-year-old at car-care takes the bus, has no car, brings donuts. He's already in a room of men. Learn his name. That counts. You don't need a cabin weekend. Who is your brother if it isn't blood? Are you going to ask Merle if they need a man who can't sing, or is the bulletin board going to stay a story?
 
 WES: [laughs] I can't sing either. The bulletin board isn't a story if a man walks in. The guy whose brothers are cruel. He thinks we're telling him to go back and make a barn into a reunion. We're not. I won't send a man back into a room that harms him and call that faithfulness.
 
@@ -109,14 +109,14 @@ JONATHON: We're not. Pity isn't a reunion with a man who harms you. Pity is, you
 
 WES: I was eighteen and I had four flats in a year on the Buick. The tire-shop man started saying, morning, Wes. That was a brother I didn't have language for. I still remember the way he said my name like I was a regular and not a problem. Nobody taught me to keep a man like that. I treated it like a service and left.
 
-JONATHON: I want that for the men in my phone who are still a role. Harper's dad is a role. If I know his name, he's a person. I've kept a lot of men as somebody's dad so I would never have to find out. Finding out is the risk. Not finding out is the pity. I'm tired of choosing the pity and calling it manners.
+JONATHON: I want that for the men in my phone who are still a role. Harper's dad is a role. Once I know his first name, he's a person I could call. I've stored a lot of men as roles so I would never have to learn a first name. Finding out is the risk. Not finding out is the pity. I'm tired of choosing the pity and calling it manners.
 
 [BOARD: The floor is the teacher.]
 
 
 ## SEGMENT 5 · Who is your Fredericksburg
 
-WES: We've got about seven minutes. My wife came home from Fredericksburg lighter. I asked, who is my Fredericksburg. I don't have an answer I like. My older brother talks to Dad in a barn. My little brother sends dogs. I've got a Thursday table. I still don't have a man I would call from a Target parking lot unless it's you, and you already know about the shark.
+WES: We've got about seven minutes. My wife came home from Fredericksburg lighter. I asked, who is my Fredericksburg. I don't have an answer I like. He talks to Dad out at the barn in the morning. My little brother sends dogs. I've got a Thursday table. I still don't have a man I would call from a Target parking lot unless it's you, and you already know about the shark.
 
 JONATHON: You can call me from a Target parking lot. I've got Theo screaming about a toy shark. That's not the same as a brother who lives in your town and knows your week. I'm going to ask a name Saturday. If he says Shane or Mike or whatever it is, I'm going to put it in the phone correctly. Then I'm going to ask one thing that's not baseball.
 
@@ -124,7 +124,7 @@ WES: I'm going to the barn at six. I'm going to Abilene later this month because
 
 JONATHON: Merle still has no lead. They sang Thursday in three parts, like reaching for a step that's not there. If you can sing, you know where to find him. If you can't, you still know where to find a man you have stored as a role. I keep wanting a cleaner map than that. There isn't one. There is a living room and a field and a barn.
 
-WES: Look around your house this week. Isolation isn't strength. It's a man who will fall and have no one to help him up, and he will call that independence until the kitchen tile teaches him otherwise. I've been that man with two brothers living. I'm done pretending the videos were enough.
+WES: Look at the men you treat like brothers. Isolation isn't strength. It's a man who will fall and have no one to help him up, and he will call that independence until the kitchen tile teaches him otherwise. I've been that man with two brothers living. I'm done pretending the videos were enough.
 
 JONATHON: I've been that man with a full calendar. A field, a team, a wife who is tired of being the only adult I confess to. Saturday I ask a name. If I freeze, I will say the embarrassing sentence first. Man, I've got to tell you something. I don't know your name. That's the whole speech. Then I listen.
 
@@ -151,15 +151,15 @@ WES: Before we go I want the man who has brothers and still feels this. Blood is
 
 JONATHON: I will show up Saturday and ask the name. If he laughs, I can live with a laugh. If he says everybody calls me Harper's dad, I will say I know, and I still want the name. Then I will ask what he does when he's not out there. That's the whole brave thing.
 
-WES: I keep wanting a brother to resolve in one barn Saturday, and it won't. The assignment is the name, asked on time, without a speech attached. I've left too many good talks on a table because I wanted a better closing line than the one I had.
+WES: A brother will not resolve in one barn Saturday. This week's job is the name, asked while you're still in the gravel, with no speech taped on. I've left brother-talks unfinished because I wanted a cleaner ending than I had.
 
-JONATHON: Honestly, I will try to add the speech anyway. Somebody should stop me. If you're sitting in a driveway doing that too, write the three sentences down before you dial, then read only those three. The fourth sentence is where I get cute and ruin it.
+JONATHON: Honestly, I'll try to recruit a brother with a paragraph anyway. Somebody should stop me. If you do this too, write three brother-sentences on a card, then read only those. The extra sentence is where I recruit a brother and make it weird.
 
 ## SEGMENT · Sitting with it
 
-WES: I want this back in your house, not in ours. Pick the one door that's yours. Not your brother's. Not a man on a screen. Yours. Put a day on it before supper, even if the day is tomorrow and the sentence is clumsy.
+WES: I want this back in your house, not in ours. Pick one brother door. Not a group chat. Not your brother's. Not a man in a group chat. A living one. Yours. Name a Saturday to ask him before you eat, even if the name comes out clumsy.
 
-JONATHON: Mine is already on a calendar. That's the only reason I trust it. A mood isn't a plan, and I've used moods for years to sound wise while I stayed still. I don't want to sound wise. I want to be on time.
+JONATHON: Mine is already a Thursday with a living man. A name on a card is the only reason I trust the brother move. A feeling about brothers isn't a name in the phone, and I've used feelings for years to look wise while I hid. Wise talk about brothers isn't a first name. I want to be on time with a name.
 
 ## CLOSE (word for word)
 

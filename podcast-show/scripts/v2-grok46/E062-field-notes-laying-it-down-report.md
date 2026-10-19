@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 2,127 (about 14:11 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,165 (about 14:26 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 35 lines (52% of words). JONATHON 33 lines (48% of words), 1 under 12 words (3.0%) |
 | Focus mark | Go First |
@@ -44,13 +44,13 @@ JONATHON: And I'll tell you the first picks Dani has been making that I never no
 
 ## SEGMENT 1 · The door
 
-WES: Let's take the next few minutes on the kitchen, because Friday is the receipt. Tuesday I came in the kitchen door. She was at the sink. She said, "What's wrong?" I said, "Nothing. I just came in." Twenty years of walking past her to the dresser had taught her that if I stop in the kitchen, something is broken. The back door, kitchen out to the porch, still sticks. I didn't stop to plane it. I came in to her. Those are two different doors, and I'm only working on one of them this week.
+WES: Give me the first stretch on the kitchen door, because Friday only wants yes or no. Tuesday I came in the kitchen door. She was at the sink. She said, "What's wrong?" I said, "Nothing. I just came in." Twenty years of walking past her to the dresser had taught her that if I stop in the kitchen, something is broken. The back door, kitchen out to the porch, still sticks. I didn't stop to plane it. I came in to her. Those are two different doors, and I'm only working on one of them this week.
 
-JONATHON: Wait, back up. You walked past the jammed one on purpose? That's a report card you wrote with your feet.
+JONATHON: Wait, back up. You walked past the jammed one on purpose? You graded yourself by walking past her to the dresser for twenty years.
 
 WES: [beat] The jammed one. Yeah. Two different doors. I'm not calling the jammed one done. I'm calling it not this week's death.
 
-JONATHON: You don't get to retire a delay by walking through a different hinge. Can I ask you something hard?
+JONATHON: You don't get to retire a delay by walking through a different hinge. Did you pick the door, or write about coming back?
 
 WES: Go.
 
@@ -58,7 +58,7 @@ JONATHON: Are you going to plane it Saturday, or are you going to keep lifting a
 
 WES: Saturday I'll still lift and shove. I'm not finishing the jamb this week. Wednesday she told me her sister's knee replacement is in September. She will drive up and stay a week. I will have the house, the youngest, and supper. I didn't announce that I would handle it. I just said, "Go." Announcing it would have been another letter.
 
-JONATHON: That's the unnamed thing wearing a calendar. You laid down a week and you didn't turn it into a speech. I would have written a paragraph about being the kind of man who can run a house. Did you actually say only "Go"?
+JONATHON: That's the death hiding inside a September week. You laid down a week and you didn't turn it into a speech. I would have written a paragraph about being the kind of man who can run a house. Did you actually say only "Go"?
 
 WES: Only "Go." Thursday I forgot. I got halfway down the hall. I came back. She handed me a knife and a bowl of okra. She didn't say good job. She handed me work. That's how you know it landed.
 
@@ -74,13 +74,13 @@ JONATHON: I would have followed her. I would have asked if she was okay. I would
 
 ## SEGMENT 2 · Cattle and pancakes
 
-WES: My dad fed cattle every morning of his life. Christmas. The morning the granddad died. The morning I was born. Nobody wrote him a letter. He just went. I've been wanting a letter for things he would have called Tuesday.
+WES: Dad walked to the barn before coffee every day of his life. Christmas. The morning the granddad died. The morning I was born. Nobody wrote him a citation. He just went. I still wait for a write-up on work he would have finished before breakfast.
 
 JONATHON: I wanted a letter for a calendar change. Dani didn't throw a parade about seven-thirty. I still moved the call. Notice isn't the wage, and I still want the wage. So what's your box, yes or no, and don't dress it up?
 
 WES: That's your box. You go first. Yes or no.
 
-JONATHON: Every day but Wednesday. Wednesday I picked me. I knew it while I was doing it. Dani didn't notice. I didn't tell her. Thursday I did the regular one. So the report isn't clean. It's six yes and one no.
+JONATHON: Every day but Wednesday. Wednesday I picked me. I felt the steal in real time. Dani didn't notice. I didn't tell her. Thursday I did the regular one. So the report isn't clean. It's six yes and one no.
 
 WES: That's an honest Friday. A clean Friday would have been a speech. No, hold on. You still have to tell her. The show isn't the sink.
 
@@ -88,7 +88,7 @@ JONATHON: Then I started seeing her first picks. She parks in the far spot at ch
 
 [BOARD: The burnt pancake was already a cross.]
 
-WES: Look around your house this week. Somebody has been laying things down in a room you walk through. You may have called it her personality.
+WES: Look at the door you said you'd come back to. Somebody has been laying things down in a room you walk through. You may have called it her personality.
 
 JONATHON: I called it Dani being Dani. That's how a man stays comfortable while he writes speeches about dying.
 
@@ -96,7 +96,7 @@ JONATHON: I called it Dani being Dani. That's how a man stays comfortable while 
 
 ## SEGMENT 3 · The Word
 
-WES: We're about halfway, and I want one verse for the man who uses freedom to keep the good pancake. Galatians five, verse thirteen. You want to read it?
+WES: Mid-porch now, and Galatians is for the man who uses freedom to keep the good pancake. Galatians five, verse thirteen. You want to read it?
 
 JONATHON: "You, my brothers and sisters, were called to be free. But do not use your freedom to indulge the flesh; rather, serve one another humbly in love."
 
@@ -104,9 +104,9 @@ JONATHON: "You, my brothers and sisters, were called to be free. But do not use 
 
 WES: Paul isn't canceling freedom. He's telling you what to do with it. Serve. Humbly. In love. A kitchen door is humble. A speech about a kitchen door isn't.
 
-JONATHON: "Indulge the flesh" for me is the good pancake and the near parking spot and the Wednesday I picked me. I can call those small. They're how I stay on the throne. Does that sound like I'm arguing with Paul?
+JONATHON: "Indulge the flesh" for me is the good pancake and the near parking spot and the Wednesday I picked me. I can call those small. They're how I stay on the throne. Am I scolding Paul over a kitchen door, or actually hearing serve?
 
-WES: [laughs] It sounds like you're listening to him. Context in two sentences. Galatians is about freedom from the law, and then immediately about not turning freedom into a snack. If your freedom always lands you on the warm side of the bed, you have not read the second half of the verse.
+WES: [laughs] Sounds to me like you finally heard the second half. Context in two sentences. Galatians is about freedom from the law, and then immediately about not turning freedom into a snack. If your freedom always lands you on the warm side of the bed, you have not read the second half of the verse.
 
 JONATHON: I'll be real with you. I wanted this verse to sound like a mission trip. It sounds like okra. That's why it's harder than the conference.
 
@@ -118,7 +118,7 @@ WES: Austin is back from Oregon. He said, "River was cold. Kids didn't care." Th
 
 JONATHON: That's a brother who knows I will turn a text into a speech. I needed that fence. Dani's audition is next week. Her report. Not mine. I'm still asking once a week about the song. I'm not driving by the store. Can you live with not reading his text here?
 
-WES: I can live with not reading it. Last few minutes on the man who did the thing and wants credit. Don't take the credit. Take the okra. If she hands you work, that's the thank you.
+WES: I can sit here without opening Austin's text. Last few minutes on the man who did the thing and wants credit. Don't take the credit. Take the okra. If she hands you work, that's the thank you.
 
 JONATHON: And if you failed Wednesday, say so. Don't hide it in a joke. I hid Wednesday for about an hour. Then I told the truth here, which is cheaper than telling Dani, and I still have to tell Dani. That's fair, but— I wanted the porch to count as the confession. It does not.
 
@@ -128,15 +128,15 @@ JONATHON: Tool this week is the first-pick swap. Take the cold side. Take the fa
 
 [BOARD: John 15:13 (NIV) · "Greater love has no one than this: to lay down one’s life for one’s friends."]
 
-WES: Most of us won't get a fire. We will get okra. If we miss the okra we haven't been saving ourselves for a better death.
+WES: Most of us won't get a fire. We will get okra. Pass on the bowl she handed you and you weren't banking a nobler hour.
 
-JONATHON: I'm swapping one first pick a day through the audition. Friday I'll say yes or no again. I won't name the pick, because if I name it I will want you to clap.
+JONATHON: I'm swapping one first pick a day through the audition. Friday I will only say whether I swapped the pick. I won't name the pick, because if I name it I will want you to clap.
 
 ---
 
 ## SEGMENT 5 · What we're carrying
 
-WES: Look around your house this week. The death is in a doorway. I've got a sister-in-law's week coming and a porch I finally left alone. I'm going in the kitchen first until it's boring.
+WES: Look at the door you said you'd come back to. The death is in a doorway. I've got a sister-in-law's week coming and a porch I finally left alone. I'm going in the kitchen first until it's boring.
 
 JONATHON: Boring is the goal. If it stays special I will keep narrating it. I want it to become cattle. Just something I do because I'm the man in the house. What are you picking, kitchen or jamb, because you keep naming both?
 
@@ -144,9 +144,9 @@ WES: Kitchen. The jamb still sticks. I'm not finishing it on the air so I can ge
 
 JONATHON: Married men, ask what she has been laying down that you called personality. Then shut up and take the cold side. That's the receipt.
 
-WES: I've got about a minute and I want it on you. Pick the door. Come back if you forget. Don't write a letter about the coming back.
+WES: One minute left. Pick the door. Come back if you forget. Pick the door. Come back if you forget. Don't draft an essay on how you returned from the hall.
 
-JONATHON: And if she asks what's wrong, tell her nothing is wrong. You just came in. That's enough of a sentence for a Thursday.
+JONATHON: And if she asks what's wrong, tell her nothing is wrong. You just came in. That's all the talk a Thursday needs from a kitchen doorway.
 
 ---
 
@@ -158,9 +158,9 @@ JONATHON: I would call every hour. I would send pictures of supper. I would turn
 
 WES: One sentence at night. "We're good. Love you." Then stop. If you write a paragraph you have written another letter.
 
-JONATHON: I know, because I write paragraphs when I'm scared I'm not enough. [laughs] HVAC sales doesn't wait for September to get quiet. If I wait for a quiet week to practice the door, I'll still be waiting when Theo has a license.
+JONATHON: I know, because I write paragraphs when I'm scared I'm not enough. [laughs] HVAC sales doesn't wait for September to get quiet. If I stall the kitchen practice until the calendar goes soft, Theo will be driving before I start.
 
-WES: Look around your house this week. If a week like that's coming, practice the door now. Don't wait for September to become a man in your own kitchen.
+WES: Look at the door you said you'd come back to. If a week like that's coming, practice the door now. Don't wait for September to become a man in your own kitchen.
 
 ---
 
@@ -168,7 +168,7 @@ WES: Look around your house this week. If a week like that's coming, practice th
 
 WES: You still have to tell Dani about Wednesday. Don't do it as a recap of this porch. Do it as a man who picked himself and knows it. When are you going to say it?
 
-JONATHON: I'll tell her at the sink. "Wednesday I picked me. I knew it while I was doing it." Then I won't explain the theology of pancakes. If I explain I'm asking her to comfort me for the thing I did to her.
+JONATHON: I'll tell her at the sink. "Wednesday I picked me. I felt the steal in real time." Then I won't explain the theology of pancakes. If I explain I'm asking her to comfort me for the thing I did to her.
 
 WES: Good. Let her have whatever face she has. If she says she didn't notice, don't take that as a pass. Notice isn't the judge. You're.
 

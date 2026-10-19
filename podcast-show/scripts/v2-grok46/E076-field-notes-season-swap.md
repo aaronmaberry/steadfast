@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 2,382 (about 15:53 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,392 (about 15:57 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 43 lines (54% of words). JONATHON 40 lines (46% of words), 1 under 12 words (2.5%) |
 | Focus mark | Pick Up the Weight |
@@ -44,9 +44,9 @@ JONATHON: And I'll tell you the three times I caught when Theo's in school in my
 
 ## SEGMENT 1 · Forty feet
 
-WES: Let's take the next few minutes on a floor, because Friday is the receipt. I learned his name. Lunch Wednesday. He's stuck on telling a man above him no without losing the man. I told him the two times I did it right. He said can we do this again. October. First time in about ten years someone at work asked me for something outside the job. I almost said I'm busy. I'm glad I didn't.
+WES: Open on a shop floor, because Friday will ask if you were a ghost. I learned his name. Lunch Wednesday. He's stuck on telling a man above him no without losing the man. I told him the two times I did it right. He said can we do this again. October. First time in about ten years someone at work asked me for something outside the job. I almost said I'm busy. I'm glad I didn't.
 
-JONATHON: That's splendor you almost missed because you were a ghost. I only talk to the reps who are winning. The others hear from me when something's wrong. The 61-year-old said that in his truck Monday. My own texts confirmed it.
+JONATHON: That's splendor you almost missed because you were a ghost. I only talk to the reps who are winning. The quiet reps only hear my name after a miss. The 61-year-old said that in his truck Monday. My own texts confirmed it.
 
 [BOARD: Forty feet is not far until you never walk it.]
 
@@ -58,7 +58,7 @@ WES: I've been forty feet from a man for two years. That's a kind of death I cal
 
 WES: You texted. Did the bottom three actually write back, or did you get silence and call it a try so you could feel clean?
 
-JONATHON: Tuesday, how's your week going, to the bottom three. One called back about his daughter's volleyball. That's a name I should have had a year ago. I caught when Theo's in school three times. This year's gym is a walk with Theo in the wagon after supper. I already have a five-year-old. I'm not storing him.
+JONATHON: Tuesday, how's your week going, to the bottom three. One called back about his daughter's volleyball. That's a name I should have had a year ago. I caught when Theo's in school three times. The gym I actually have is Theo in the wagon after dishes. Later will not keep him five. I'm not storing him.
 
 WES: My wife is at her sister's. The youngest and I eat at the counter. Frozen pizza twice. Welding and one girl, which is his. Second lesson Wednesday. The same bead six times. I put that's not bad on a sticky note on the fridge.
 
@@ -68,7 +68,7 @@ JONATHON: That's what you see. Not a speech. A note. Did putting that's not bad 
 
 ## SEGMENT 3 · The Word
 
-WES: We're about halfway, and I want one verse for the older men, and for the men who will be. Titus two, verse two.
+WES: This is the hinge of the hour. Titus is for the older men, and for the men who will be. Titus two, verse two.
 
 JONATHON: "Teach the older men to be temperate, worthy of respect, self-controlled, and sound in faith, in love and in endurance."
 
@@ -78,7 +78,7 @@ WES: Teach. Not retire. Sound in endurance is a lunch in October. I once ran a p
 
 JONATHON: I printed questions once. It became a review. Is shutting up after how's your week actually possible for a sales guy, or am I about to add a third question and call it care?
 
-WES: Context in two sentences. Titus is ordering a church by season. Older men first, because if they go soft the whole house goes soft. Endurance isn't a farewell tour.
+WES: Context in two sentences. Titus is ordering a church by season. Titus starts with the older ones, because softness at the top runs downhill. Endurance isn't a farewell tour.
 
 ---
 
@@ -86,7 +86,7 @@ WES: Context in two sentences. Titus is ordering a church by season. Older men f
 
 WES: The mechanic on Saturday. I asked how he learned all this. He said, same way you're. Somebody handed me wrenches. Black coffee, one sugar.
 
-JONATHON: Dani's dad is seventy-four. Years of one-word answers. I watched golf with him on Sundays. The third Sunday he said that kid on sixteen reminds me of my brother, then twenty minutes about the brother. The water was there the whole time.
+JONATHON: Dani's dad is seventy-four. Years of one-word answers. I watched golf with him on Sundays. The third Sunday he said that kid on sixteen reminds me of my brother, then twenty minutes about the brother. The swap was already happening. I just hadn't named it.
 
 [BOARD: Psalm 92:14 (NIV) · "They will still bear fruit in old age, they will stay fresh and green,"]
 
@@ -114,7 +114,7 @@ JONATHON: I'll walk toward the quiet ones. If I only text winners I've built a r
 
 WES: I told him the two times I did it right. He said can we do this again. October. That's not a mentoring packet. That's a sandwich on a calendar so I can't pretend I forgot.
 
-JONATHON: Did putting October on the calendar feel like a gold star? Because I can feel a star growing on a lunch, and that is the old receipt again.
+JONATHON: Did putting October on the calendar feel like a gold star? A lunch is growing a trophy in my head. That's last year's invoice as praise.
 
 WES: It felt like a star. I'm naming it so the lunch stays a lunch. If I need a star I will say so Friday instead of laminating a report about the 28-year-old.
 
@@ -148,7 +148,7 @@ JONATHON: [laughs] I needed the note more than a packet. If I start a packet thi
 
 ## SEGMENT 9 · More on forty 5
 
-WES: Titus says teach. Not retire. Sound in endurance is a lunch in October. Older men first, because if they go soft the whole house goes soft. I had gone soft at forty feet.
+WES: Titus says teach. Not retire. Sound in endurance is a lunch in October. Titus starts with the older ones, because softness at the top runs downhill. I had gone soft at forty feet.
 
 JONATHON: So which is it? Were you soft, or scared the 28-year-old would find out you don't have a formula for telling a man no?
 
@@ -176,7 +176,7 @@ WES: Dani's dad is seventy-four. Years of one-word answers. You watched golf wit
 
 JONATHON: No, hold on. Was I doing the Sundays so he would finally talk, or so I could say I tried? Because trying can be a receipt too.
 
-WES: You stayed. The water was there the whole time. Twenty minutes about a brother is fruit. The hole can wait. You almost left after one-word Sundays and called it respect.
+WES: You stayed. The swap was already happening. I just hadn't named it. Twenty minutes about a brother is fruit. The hole can wait. You almost left after one-word Sundays and called it respect.
 
 JONATHON: I'll stay for the boring Sundays. If he never talks I still sat. Sitting is not a tactic. It's how you stop treating an older man like a vending machine for stories.
 
@@ -208,7 +208,7 @@ JONATHON: I'll eat the failure and still send how's your week. If I need a clap 
 
 ## SEGMENT 14 · More on bottom-three 10
 
-WES: Endurance isn't a farewell tour. It's black coffee and a second lesson on the same bead. I put that's not bad on a fridge. That's the only report I trust this week.
+WES: Endurance isn't a farewell tour. It's black coffee and a second lesson on the same bead. I put that's not bad on a fridge. That's the only grade I'll take off a fridge this week.
 
 JONATHON: Will you take the note down if it starts feeling like a plaque? Because I would laminate it by Friday and call it culture.
 
@@ -244,7 +244,7 @@ JONATHON: I'll be a man. How's your week, then quiet. If I perform I will feel i
 
 ## SEGMENT 17 · More on bottom-three 13
 
-WES: This year's gym is a walk with Theo in the wagon after supper. I already have a five-year-old. I'm not storing him in a later season that will not come back.
+WES: The gym I actually have is Theo in the wagon after dishes. Later will not keep him five. I'm not storing him in a later season that will not come back.
 
 JONATHON: Ask me Friday whether I walked, and whether I said the old phrase even as a joke, because a joke is how a lobby sneaks in the side door.
 

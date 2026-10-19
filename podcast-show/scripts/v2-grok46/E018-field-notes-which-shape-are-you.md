@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 1,935 (about 12:54 at 150 wpm, before laughs and pauses) |
+| Spoken words | 1,946 (about 12:58 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 22 lines (55% of words). JONATHON 18 lines (45% of words), 0 under 12 words (0.0%) |
 | Focus mark | Stop Waiting |
@@ -44,7 +44,7 @@ JONATHON: And I'll tell you why Ruby brought a basket to a truck window and ende
 
 ## SEGMENT 1 · Check the box
 
-WES: Let's take the next few minutes on the receipts. Fan first, because I promised you a sentence.
+WES: Receipts get the next few minutes. Fan first, because I promised you a sentence.
 
 JONATHON: You promised me a sentence on Saturday. I texted you at eight-oh-two. You wrote back later. Did the click actually stop, or did you date another delay?
 
@@ -54,7 +54,7 @@ JONATHON: Good. I'll stop asking about the click. I'll start asking about the ne
 
 WES: That's a better ending than a shrugged room. Your contrary hour. Skip the house. First twenty minutes. How many nights?
 
-JONATHON: Three of four. Come in the door, phone in the jail, no couch, twenty minutes with whoever is standing there. Catch. Shoes. A story about a lizard. On the fourth night I sat in the truck in the driveway for eleven minutes on a work call I told myself was urgent. Ruby came out and knocked on the window holding the phone-jail basket. She didn't say a word. She held up the basket. I ended the call. I put the phone in. She is seven and she is still the sheriff. The fourth night still counts because she made it count.
+JONATHON: Three of four. Come in the door, phone in the jail, no couch, twenty minutes with whoever is standing there. Catch. Shoes. A story about a lizard. On the fourth night I sat in the truck in the driveway for eleven minutes on a work call I told myself was urgent. Ruby came out and knocked on the window holding the phone-jail basket. She didn't say a word. She held up the basket. I ended the call. I put the phone in. She's seven, and she still ran the driveway like a sheriff. The fourth night still counts because she made it count.
 
 [BOARD: A basket at a window beats a story about urgency.]
 
@@ -68,13 +68,13 @@ JONATHON: I wanted a hearing. I didn't send one. She was home. I was on. That se
 
 WES: Write it on a card. Don't shrink it.
 
-JONATHON: I wrote it on an index card. It's in my bag. I also texted my nephew the same ask. His roommates told him he's only fun when other people are around. He watched two episodes of their show with them, phone in another room. He wrote, "it was boring and i stayed." That's a contrary hour for a twenty-two-year-old. I told him boring and staying is the whole assignment. Yeah, and— I needed that text as much as he did.
+JONATHON: I wrote my sister's line on a three-by-five and stuffed it in my bag. I also texted my nephew the same ask. His roommates told him he's only fun when other people are around. He watched two episodes of their show with them, phone in another room. He wrote, "it was boring and i stayed." That's a contrary hour for a twenty-two-year-old. I told him boring and staying is the whole assignment. Yeah, and— I needed that text as much as he did.
 
 ---
 
 ## SEGMENT 2 · From the table
 
-WES: We're about halfway, and I want the question men sent. My wife says I run the room. I think she's wrong. Now what?
+WES: We're at the halfway mark, and I want the question men actually sent. My wife says I run the room. I think she's wrong. Now what?
 
 JONATHON: That was me for about four hours after my sister's text. I wanted to explain the nine-year-old. I wanted to explain the coach voice. I wanted a hearing. The hearing is how I run the room with a woman who isn't even in Pasadena.
 
@@ -112,7 +112,7 @@ WES: Doing is also not arguing the first night. Advice that you immediately cros
 
 ## SEGMENT 4 · Ask one person
 
-WES: Last few minutes on the tool. It's not fancy. Ask one person. Say your guess first so they're not doing your homework. Then ask which shape they see. Then stop talking. Write it down. Sit a day. Then one contrary hour that matches what they said, not what you hoped they would say. What hour are you matching, not the generic one?
+WES: Last few minutes on the shape, while the fan is still quiet. It's not fancy. Ask one person. Say your guess first so they're not doing your homework. Then ask which shape they see. Then stop talking. Write it down. Sit a day. Then one contrary hour that matches what they said, not what you hoped they would say. What hour are you matching, not the generic one?
 
 JONATHON: First twenty minutes. I guessed skip the house and my sister agreed. If she had said run the room I would have had to ask Dani a question I didn't already have the answer to. Matching the hour to the sentence is the part I will try to skip. I like a generic good deed. Generic is how I stay in charge. What's yours, and don't give me a speech about a title.
 

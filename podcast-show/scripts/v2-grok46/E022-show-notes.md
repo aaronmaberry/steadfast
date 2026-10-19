@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,166 spoken words, about 14:26). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,175 spoken words, about 14:30). Re-time them against the final edit before publishing.
 
 ---
 
@@ -37,9 +37,9 @@ Christian men podcast, Field Notes, screens, 1 Corinthians 16:13, Walk Steadfast
 | 00:00 | Open | Slipped. Starting over. Faster than last time. |
 | 00:50 | Check the box | Porch. Shark. Pot roast. Ugly numbers. |
 | 05:38 | From the table | How do I set up my phone so it does not own me? |
-| 08:37 | The Word | 1 Corinthians 16:13. Guard. Stand. |
+| 08:39 | The Word | 1 Corinthians 16:13. Guard. Stand. |
 | 10:33 | Grayscale and the hallway | Gray glass. Charger out. Thursday number. |
-| 14:05 | Close | Let the reach fail. Be the shark. |
+| 14:08 | Close | Let the reach fail. Be the shark. |
 
 ---
 

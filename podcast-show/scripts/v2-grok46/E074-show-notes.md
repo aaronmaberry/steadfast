@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,136 spoken words, about 14:14). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,166 spoken words, about 14:26). Re-time them against the final edit before publishing.
 
 ---
 
@@ -35,22 +35,22 @@ Christian men podcast, feelings, Proverbs 29:11, Field Notes, Walk Steadfast
 |---|---|---|
 | 00:00 | Open | Open |
 | 00:44 | The fork | The fork |
-| 01:42 | Choir Night | Choir Night |
-| 02:30 | The Word | The Word |
-| 03:24 | Gas station | Gas station |
-| 04:36 | More on a 1 | More on a 1 |
-| 05:21 | More on a 2 | More on a 2 |
-| 06:06 | More on a 3 | More on a 3 |
-| 06:52 | More on a 4 | More on a 4 |
-| 07:37 | More on a 5 | More on a 5 |
-| 08:24 | More on a 6 | More on a 6 |
-| 09:12 | More on a 7 | More on a 7 |
-| 10:01 | More on Choir 8 | More on Choir 8 |
-| 10:49 | More on Choir 9 | More on Choir 9 |
-| 11:34 | More on Choir 10 | More on Choir 10 |
-| 12:22 | More on Choir 11 | More on Choir 11 |
-| 13:11 | More on Choir 12 | More on Choir 12 |
-| 13:56 | Close | Close |
+| 01:46 | Choir Night | Choir Night |
+| 02:34 | The Word | The Word |
+| 03:28 | Gas station | Gas station |
+| 04:43 | More on a 1 | More on a 1 |
+| 05:29 | More on a 2 | More on a 2 |
+| 06:14 | More on a 3 | More on a 3 |
+| 07:00 | More on a 4 | More on a 4 |
+| 07:46 | More on a 5 | More on a 5 |
+| 08:34 | More on a 6 | More on a 6 |
+| 09:23 | More on a 7 | More on a 7 |
+| 10:12 | More on Choir 8 | More on Choir 8 |
+| 11:00 | More on Choir 9 | More on Choir 9 |
+| 11:45 | More on Choir 10 | More on Choir 10 |
+| 12:34 | More on Choir 11 | More on Choir 11 |
+| 13:22 | More on Choir 12 | More on Choir 12 |
+| 14:08 | Close | Close |
 
 ---
 

@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 2,235 (about 14:54 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,255 (about 15:02 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 28 lines (52% of words). JONATHON 25 lines (48% of words), 2 under 12 words (8.0%) |
 | Focus mark | Pick Up the Weight |
@@ -56,7 +56,7 @@ WES: He would have been six in 2012. I don't remember. My dad didn't say anythin
 
 JONATHON: What did you say after he handed you that, because I would have joked to get out of the quiet.
 
-WES: I said, "I'm sorry I didn't talk to you." He said, "It's okay. I liked it." Same sentence I used about my dad on Tuesday. I loved it, and there wasn't anything in it. Two generations. I asked him to come over Saturday night. He said, "I'm not driving twenty minutes to watch you polish shoes." Then he said, "What time?" Seven. He's coming. I'm going to talk this time.
+WES: I said, "I'm sorry I didn't talk to you." He said, "It's okay. I liked it." Same sentence I used about my dad on Tuesday. I loved that table, and there wasn't anything in it but a game on the little TV. Two generations. I asked him to come over Saturday night. He said, "I'm not driving twenty minutes to watch you polish shoes." Then he asked, "What time?" Seven. He's coming. I'm going to talk this time.
 
 [BOARD: Ask memory before you lecture.]
 
@@ -66,7 +66,7 @@ WES: I had the programs and I didn't give them. Tuesday I gave them. He was quie
 
 JONATHON: A boy asked you a real question at fourteen and you gave him a soft true. Soft true is still a hide when you have a glove box full of paper.
 
-WES: The finish line. The paper is back on the fridge. I put it back before he got home Tuesday. Tomorrow is Saturday ten. Two after that, the seventeenth and the twenty-fourth. I haven't said one word about insurance. Sunday is the pot roast. My brother and I ask Mom what she wants, together, after lunch.
+WES: The finish line. I put that paper back on the fridge before he got home Tuesday. I put it back before he got home Tuesday. Tomorrow is Saturday ten. Two after that, the seventeenth and the twenty-fourth. I haven't said one word about insurance. Sunday is the pot roast. My brother and I ask Mom what she wants, together, after lunch.
 JONATHON: You and your brother ask Mom what she wants, together, after lunch. Hold on. Then you both shut up. That's the hard part.
 WES: Then we both shut up. We practiced shutting up on the phone Wednesday. He's worse at it than I am. The recliner is still in his downstairs room. He says if Mom does not want it, it's his. He has been sitting in it. I think he has been sitting down there thinking about her.
 
@@ -80,7 +80,7 @@ WES: Forty seconds is a whole conversation if both men stay in it. You didn't dr
 
 ## SEGMENT 2 · One honest sentence
 
-WES: We're about halfway, and I want Ruby now, because she's the tool this week. One honest sentence. How did you build it, because I know you wrote it twice and crossed both out.
+WES: Middle of the chair report, I want Ruby now, because she's the tool this week. One honest sentence. How did you build it, because I know you wrote it twice and crossed both out.
 
 JONATHON: Monday morning, first draft. "Grandpa lives far away and we don't see him." Crossed out. She already had far away. Dani gave her that in the car a month ago. She didn't ask where he lives. She asked if I've got one. Second draft was three paragraphs. A whole speech. Crossed out. That one was for me. That was me trying to fix twenty-eight years in a bedtime.
 
@@ -112,7 +112,7 @@ WES: I know. I'm just saying is a child checking the chair in her own room. She 
 
 ## SEGMENT 3 · The Word
 
-WES: We've got a little under eight minutes, and I want the verse, because the question this week is how you talk to your kids about your dad. Paul is talking about mouths, not fathers, and that's the right door.
+WES: Eight minutes left for the verse, because the question this week is how you talk to your kids about your dad. Paul is talking about mouths, not fathers, and that's the right door.
 
 JONATHON: Ephesians four, twenty-nine. I read it on the floor after she rolled over. "Do not let any unwholesome talk come out of your mouths, but only what is helpful for building others up according to their needs, that it may benefit those who listen." According to their needs. Not my need to explain. Hers. She needed to know it was true, it wasn't scary, and I'm not leaving. That's what built her up. So which is it? My need to explain twenty-eight years, or her need to know she's safe?
 
@@ -120,7 +120,7 @@ JONATHON: Ephesians four, twenty-nine. I read it on the floor after she rolled o
 
 WES: Hers. Unwholesome is two things in a kitchen. The trash talk about your dad. Kids hear your grandfather is a deadbeat and they hear something about half of themselves. And the other unwholesome. The fake-nice. Grandpa is just very busy. That's a lie in a clean shirt. Kids figure those out about age twelve. I gave my oldest a clean shirt at fourteen. Of course he did, buddy. True. Soft. Not the stack. Tuesday I gave him the stack. I can't get fourteen back. I can still talk at seven on Saturday.
 
-JONATHON: A lie in a clean shirt is what I almost wrote on the first card. Far away and we don't see him. She already had the map. She asked if I've got a dad. My dad still has not written. A like is still the last thing. I used the like because it was true. I didn't dress it into a reunion. I wanted a paragraph from Louisiana. I got a heart and a girl who said she would be sad.
+JONATHON: A lie in a clean shirt is what I almost wrote on the first card. Far away and we don't see him. She already had the map. She asked if I've got a dad. My dad still has not written. A like is still the last thing a bedtime sentence needs. I used the like because it was true. I didn't dress it into a reunion. I wanted a paragraph from Louisiana. I got a heart and a girl who said she would be sad.
 
 ---
 
@@ -132,7 +132,7 @@ JONATHON: If your kids are older they can hold more. They might need your part t
 
 WES: And if your dad was dangerous, the sentence can be, my dad wasn't safe, and that's why you have not met him. You're safe with me. That's true. That's enough for a child. Give the true short line. Then stay for the next question. Stay is the part I failed at fourteen. Stay is the part I'm trying tomorrow night, with newspaper, with a boy who is coming even though he said he wouldn't.
 
-JONATHON: My sister on the lamp. I told her I wanted to replace it. She said, "Don't buy her a lamp. She'll think you're making a point. Take her to pick one out." Mom's birthday is May eighteenth. The plan is that weekend. I will walk a store. I didn't tell Ruby a lamp story. She got a sentence. The lamp is my anger. The sentence is her need. Those aren't the same job. Can I ask you something hard? Are you actually going to talk at seven on Saturday, or is the little TV going to win again?
+JONATHON: My sister on the lamp. I told her I wanted to replace it. She said, "Don't buy her a lamp. She'll think you're making a point. Take her to pick one out." Mom's birthday is May eighteenth. The plan is that weekend. I will walk a store. I didn't tell Ruby a lamp story. She got a sentence. The lamp is my anger. The sentence is her need. Those aren't the same job. Did you set the chair or just talk about it? Are you actually going to talk at seven on Saturday, or is the little TV going to win again?
 
 WES: I'll talk. [laughs] He said he wasn't driving twenty minutes to watch me polish shoes, then he asked what time. That's a boy who wants a chair with words in it. I won't hand him a mute.
 
@@ -140,7 +140,7 @@ WES: I'll talk. [laughs] He said he wasn't driving twenty minutes to watch me po
 
 WES: Tuesday we sit with a dad who is still alive. Twice-a-year phone calls. What you owe him. What you don't. I will report on the shoes after I've sat with my son and actually talked. Until then: write the sentence. Say it. Stop. Let them ask. If you live alone, write it to a brother, or to God, and then send one true short line to a person you have gone quiet on.
 
-JONATHON: I still want a message. I still check. I still think left was the right word. Dani still thinks it was big. We're both still here. The girl is asleep in a house where I said I'm not going anywhere. I named the empty chair. I didn't heal it. Then I stopped.
+JONATHON: I still want a message. I still check. I still think left was the right word on the floor. Dani still thinks it was big. We're both still here. The girl is asleep in a house where I said I'm not going anywhere. I named the empty chair. I didn't heal it. Then I stopped.
 
 ---
 

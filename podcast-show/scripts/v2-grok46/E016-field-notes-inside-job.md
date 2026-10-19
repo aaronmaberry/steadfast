@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 1,951 (about 13:00 at 150 wpm, before laughs and pauses) |
+| Spoken words | 1,959 (about 13:04 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 22 lines (53% of words). JONATHON 20 lines (47% of words), 1 under 12 words (5.0%) |
 | Focus mark | Pick Up the Weight |
@@ -62,9 +62,9 @@ JONATHON: She thought about it. Then she said, "You also yelled about the cereal
 
 [BOARD: Tired is a because you can always find.]
 
-WES: Mine was my older brother. Wednesday I called him and I said, "I left Thanksgiving early. That was wrong." Then I stopped. He said, "Well." A long time. Then he said, "Mom made a pecan pie for you. I ate it." That was all. Then we talked about her grab bar for twenty minutes. I don't know if that's forgiveness. I think for my brother a confession about a pie might be the whole language.
+WES: Mine was my older brother. Wednesday I called him and I said, "I left Thanksgiving early. That was wrong." Then I stopped. He said, "Well." A long time. Then he said, "Mom made a pecan pie for you. I ate it." And he stopped. Then we talked about her grab bar for twenty minutes. I don't know if that's forgiveness. I think for my brother a confession about a pie might be the whole language.
 
-JONATHON: And the fan. You put a date on it. Saturday. Tomorrow morning.
+JONATHON: And the fan. You actually put tomorrow morning on the click, and I'm holding you to it.
 
 WES: Tomorrow morning. My son-in-law is coming at eight. He's on the ladder. I'm on three rungs because of the knees, holding the bracket. My wife will sit in a lawn chair with coffee because she wants to see it with her own eyes. It's not done. It has an appointment. That's further than a clicking fan has been all winter. The click is still there tonight. Saturday it gets a date.
 
@@ -126,7 +126,7 @@ WES: I do mine with the lights out. My wife falls asleep in about ninety seconds
 
 JONATHON: And if you already said the sentence and the room shrugged, don't climb back into the two a.m. trial to collect a bigger feeling. The telling was the lift. The shrug isn't your god. Saturday you get on three rungs. I will text you. I want to hear the fan stop, or I want to hear why it did not, in a sentence a man can stand on.
 
-WES: You'll get a sentence. If weather moves it I will say weather, and I will set the next morning. I'm not letting a click become fourteen months. The gutter is already done. This is the new I'll-get-to-it, and it has a Saturday.
+WES: You'll get a sentence. If weather moves it I will say weather, and I will set the next morning. A click does not get to inherit the gutter's old calendar. The gutter is already done. This is the new I'll-get-to-it, and it has a Saturday.
 
 ---
 

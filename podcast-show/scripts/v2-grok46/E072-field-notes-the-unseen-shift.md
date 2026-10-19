@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 2,052 (about 13:41 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,071 (about 13:48 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 43 lines (51% of words). JONATHON 39 lines (49% of words), 1 under 12 words (2.6%) |
 | Focus mark | Work for God's Pay |
@@ -44,9 +44,9 @@ JONATHON: And I'll tell you the gold star that came back to a sink.
 
 ## SEGMENT 1 · The letter
 
-WES: Let's take the next few minutes on the receipt. Did you actually put the star down, or did it crawl back to the sink? I mailed the coach letter Tuesday. A page by hand. The bus in the rain, eleven at night, waiting till every boy had a ride. No answer yet, and that's not why I sent it. Some of my work list is still for the man reviewing me in October. I'm naming that so I don't get clean.
+WES: Let's take the next few minutes on the unseen shift you actually made. Did you actually put the star down, or did it crawl back to the sink? I mailed the coach letter Tuesday. A page by hand. The bus in the rain, eleven at night, waiting till every boy had a ride. No answer yet, and that's not why I sent it. Some of my work list is still for the man reviewing me in October. I'm naming that so I don't get clean.
 
-JONATHON: My list is almost all at home now. Lunches on Dani's sleep days. Theo's shoes. The sink. The gold star is back. I want her to see the sink. That's the truth. I'm putting it down again.
+JONATHON: My list is almost all at home now. Lunches on Dani's sleep days. Theo's shoes. The sink. The gold star is back. Part of me still hunts a clap for the lunches. That's the truth. I'm putting it down again.
 
 [BOARD: Mail it. Don't wait for a reply.]
 
@@ -58,7 +58,7 @@ WES: Tuesday drives came out clean. Clean isn't the same as unseen. Some of that
 
 WES: The custodian. Early drop-off. Nurses, cops, early-shift kids. He knows Theo too.
 
-JONATHON: I didn't know his name. Ruby says it every morning now. I asked. He said somebody's got to open it. That's 1 Corinthians without a pulpit. Can I ask you something hard?
+JONATHON: I didn't know his name. Ruby says it every morning now. I asked. He said somebody's got to open it. That's 1 Corinthians without a pulpit. Did you open the gym nobody thanks you for?
 
 WES: Go.
 
@@ -74,7 +74,7 @@ WES: I'm leaving it there. I won't turn a hymn into my moment.
 
 ## SEGMENT 3 · The Word
 
-WES: We're about halfway, and I want one verse for the man who is tired of not being seen. Galatians six, verse nine. You want to read it?
+WES: Midway, and Galatians is for the man who is tired of not being seen. Galatians six, verse nine. You want to read it?
 
 JONATHON: "Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up."
 
@@ -106,9 +106,9 @@ JONATHON: Last few minutes. Keep one line you won't read on a porch. Open a gym 
 
 WES: I mailed the coach letter Tuesday. A page by hand. The bus in the rain. No answer yet, and that's not why I sent it. Some of my work list is still for the man reviewing me in October.
 
-JONATHON: Wait, back up. Is the letter actually unseen if we keep talking about it here? Because I can feel a gold star growing on a mailbox, and that is the old receipt again.
+JONATHON: Wait, back up. Is the letter actually unseen if we keep talking about it here? I can already feel the gold star climbing back onto the mailbox, which is last year's clap wearing a new stamp.
 
-WES: The letter is thanks, not a trap. I named the October review so I don't get clean. Naming it is not the same as doing the list for him.
+WES: I'm mailing gratitude, not a hook. I named the October review so I don't get clean. Naming it is not the same as doing the list for him.
 
 JONATHON: I'll keep naming the star on the sink. I want Dani to see it. That's the truth. I'm putting it down again even if it crawls back tomorrow.
 
@@ -132,9 +132,9 @@ WES: Thursday I sat in the back of a rec room. Piano needs tuning. Four hymns. I
 
 JONATHON: He texted that night. Saw you in the back. Thanks for coming. That's a thumb in another font. Are you going to go up next time because a text felt like a clap?
 
-WES: I'm leaving it there. I won't turn a hymn into my moment. The grandmother gets the front row. I get a folding chair.
+WES: I'm leaving it there. I won't turn a hymn into my moment. Grandma keeps the pew. You get the cheap seat. I get a folding chair.
 
-JONATHON: Don't go up. Don't fix his Thursdays. He already has a life. Your job is a back and a quiet thank you later if he wants it.
+JONATHON: Don't go up. Don't fix his Thursdays. He already has a life. Sit the folding chair and thank him later only if he asks.
 
 ---
 
@@ -176,7 +176,7 @@ JONATHON: I'll name the sink the same way. For her, not for a star. If the star 
 
 ## SEGMENT 11 · More on the 7
 
-WES: Open a gym you won't be thanked for. Sit a back row. Mail a letter that can't be liked. That's the shift. I've got about a minute and I want it on you.
+WES: Open a gym you won't be thanked for. Sit a back row. Mail a letter that can't be liked. That's the shift. A minute. Open a gym you won't be thanked for.
 
 JONATHON: What are you picking this week, the back row or a cookie table where you can be seen? Because lingering is how I steal a front row that isn't mine.
 
@@ -202,9 +202,9 @@ JONATHON: A name and an erased line. If I fail I will say I failed, not that the
 
 WES: A boy on leave walked into a shop because somebody honked at five-thirty for three Augusts. That's harvest on a delay. You don't get to pick the month.
 
-JONATHON: I want the month. That's fair, but— HVAC will still have an October number. If I wait for a quiet month to erase a star, I'll still be waiting when Theo has a license. Do I erase it on a loud week?
+JONATHON: I want the month. That's fair, but— HVAC will still have an October number. If I wait for a calm October to wipe the star off the sink, Theo will have a learner's permit before I move. Do I erase it on a loud week?
 
-WES: Erase it on a loud week. That's the only week it costs. Quiet weeks don't need a verse.
+WES: Erase it on a loud week. That's the only week the unseen gym costs you. A calm month won't teach me to erase a star.
 
 JONATHON: I'll erase it loud. Then I'll say the name at six-forty-five even if a number is still in the truck.
 
@@ -214,7 +214,7 @@ JONATHON: I'll erase it loud. Then I'll say the name at six-forty-five even if a
 
 WES: Nurses, cops, early-shift kids. He knows Theo too. Somebody has to open it. That's 1 Corinthians without anybody preaching.
 
-JONATHON: That's the whole religion of a morning. Can you live with a man who has a life you didn't design, including a gym key and both of my kids' names?
+JONATHON: That's the whole liturgy of an unseen morning. Can you sit with a custodian who already has a life you didn't assign, including a gym key and both kids' names?
 
 WES: I can live with it. That's the point of assigned. I sat the back. I left. I didn't go up.
 
@@ -224,7 +224,7 @@ JONATHON: I'll live with it. I'll say his name. I won't turn a hymn into my mome
 
 ## SEGMENT 15 · More on a 11
 
-WES: Look around your house this week. Where have you been sowing for a clap? Put that seed in the ground without a sign. I've got one more minute and I want it on you.
+WES: Look at the gym nobody will thank you for. Where have you been sowing for a clap? Put that seed in the ground without a sign. One more minute. Open the gym nobody claps for.
 
 JONATHON: The sink. The list. The star. I'm putting the star down again. Ask me Friday whether it crawled back.
 
@@ -242,7 +242,7 @@ JONATHON: I would have offered a plan. A meal train. A group text. She needed a 
 
 WES: I almost stayed. I left. That's progress for me. Small. Real.
 
-JONATHON: Small and real is the harvest. I keep trying to bless a gym door with a program. He asked for a name. I'm trying to retire the program.
+JONATHON: Small and real is the harvest. I keep trying to turn a gym lock into a ministry plan. He asked for a name. I'm trying to retire the program.
 
 ---
 

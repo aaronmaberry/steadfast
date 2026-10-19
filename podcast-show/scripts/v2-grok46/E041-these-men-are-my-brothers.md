@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,862 (about 19:05 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,893 (about 19:17 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 42 lines (50% of words). JONATHON 39 lines (50% of words), 2 under 12 words (5.1%) |
 | Focus mark | Pick Up the Weight |
@@ -40,7 +40,7 @@ JONATHON: And I'll tell you I'm mad all week that "I don't know" is an answer, a
 
 ## SEGMENT 1 · The porch and the umbrella
 
-WES: Let's take the next few minutes on Sunday, because you actually asked. Brisket. Dishes. A porch. Don't clean it up.
+WES: Let's sit a few minutes with Sunday's porch, because you actually asked Dani's dad. Brisket. Dishes. A porch. Don't clean it up.
 
 JONATHON: I did all the dishes. First time in ten years of Sunday lunches. Dani's mom asked if something was wrong. Dani took her mom and the kids to the tomatoes. On the back porch I had his coffee and the card. How did you stay. Half a cup. A mockingbird. Then, I don't know, son. We didn't think about it like that. We just didn't leave.
 
@@ -61,7 +61,7 @@ JONATHON: I'm mad all week that it is an answer. I wanted a map I could sell to 
 
 ## SEGMENT 2 · Barn, dog, kitchen
 
-WES: Second Saturday at the barn. His thermos had two cups. A gate latch. About nine words. Hand me that. I'm going to Abilene Saturday because the little brother's father-in-law is in hospice now. My go-first this week is smaller. Thursday I call the little brother about nothing, and I learn the dog's name. Forty videos. I've never asked.
+WES: Second Saturday at the barn. His thermos had two cups. A gate latch. About nine words. Hand me that. I'm going to Abilene Saturday because the little brother's father-in-law is in hospice now. My go-first this week is the dog's name, not the hospice drive. Thursday I call the little brother about nothing, and I learn the dog's name. Forty videos. I've never asked.
 
 JONATHON: Wait, back up. You've watched a dog for years and never asked its name? That's the same sin as Harper's dad, just with fur. I have a version at work. I'll get to him. Finish the kitchen first, because I can tell you're not done being ashamed of it.
 
@@ -124,7 +124,7 @@ JONATHON: I've talked to you from a Target parking lot with Theo screaming about
 
 ## SEGMENT 5 · Pushback
 
-WES: Push. The man who says brothers are a luxury on a holiday week. And the man who only shows up for funerals. Which one is sitting in you this week?
+WES: Push. The man who says brothers are a luxury on a holiday week. And the man who only shows up for funerals. Luxury-on-a-holiday, or funeral-only — which man is you this week?
 
 JONATHON: The funeral one, if I'm honest. A holiday week is when we give speeches about men we never called. If you have a flag and no Thursday, you have a costume. I hear the guy with two jobs. Then do the small version. One voice call. Did you eat. How is the dog. That isn't a retreat. That's a minute in a parking lot.
 
@@ -137,9 +137,9 @@ JONATHON: I want to be the uncle. I don't need a theology of uncles. I need a ni
 
 WES: A title did not. The bass guy did. That's why the move this week is small. Call one man about nothing. Voice, not a text, unless text is the only way he'll answer. If a man has gone missing from your table, call by Friday noon. Ask about the small thing he's holding. Pancakes. A dog. A desk they moved. What are you actually dialing?
 
-JONATHON: Austin. Pancakes. I won't ask about the marriage. I won't tell anybody at work. If he says K, that's still a live wire. I won't need a paragraph from him to count it. What about you?
+JONATHON: Austin. Pancakes. I won't ask about the marriage. I won't tell anybody at work. If he says K, that's still a live wire. I won't need Austin to write me an essay before I count the call. What about you?
 
-WES: Last few minutes. The little brother. The dog's name. I won't make it a speech about Abilene. Abilene is Saturday. Thursday is the dog. Don't stack them so you can fail both and feel deep.
+WES: Last few minutes. The little brother. The dog's name. I won't turn the dog's name into a speech about hospice. Abilene is Saturday. Thursday is the dog. Don't stack them so you can fail both and feel deep.
 
 JONATHON: I'm not stacking the uncle plan with the Austin call. Austin is this Thursday. The uncle is a habit I have to start, not a project I announce. If I announce it I'll want credit before I have dialed. Will you stop me if I start announcing?
 
@@ -163,7 +163,7 @@ JONATHON: Wait, back up. Are you talking about me, or the guy with two jobs who 
 
 WES: Both. You asked Dani's dad how he stayed, and you got an uncle who dialed. Are you actually going to copy the Thursday, or are you going to stay mad that it isn't a framework?
 
-JONATHON: [laughs] I'm going to stay mad and copy it. I can do both. I wanted a map I could sell. I got Rangers, weather, and a dead man. Can I ask you something hard?
+JONATHON: [laughs] I'm going to stay mad and copy it. I can do both. I wanted a map I could sell. I got Rangers, weather, and a dead man. Which living man are you going to call?
 
 WES: Go.
 
@@ -171,7 +171,7 @@ JONATHON: Are you actually asking the dog's name this Thursday, or are you going
 
 WES: [beat] Thursday is the dog. Abilene is Saturday. If I stack them I'll fail both and feel deep. I won't stack them. Forty videos. I've never asked. That's the scenery problem. A video is not a name. What are you actually dialing?
 
-JONATHON: Austin. Pancakes. Not the marriage. If I pick three I'll do none, and I already know that about myself from sales. One Thursday. Voice.
+JONATHON: Austin. Pancakes. Not the marriage. If I stack Austin and the uncle and Shane I'll do the easy one, and sales already taught me that about myself. One Thursday. Voice.
 
 WES: That's fair, but— no, don't upgrade the question if he says K.
 
@@ -187,9 +187,9 @@ JONATHON: I'm very good at practice. Ruby can tell when I've only talked. She do
 
 WES: He treats ten extra minutes at the table like a holiday. Same size as Theo. If I disappear into a screen after supper, that's the report. Are you leaving a hole in Thursday on purpose?
 
-JONATHON: I'm trying. The calendar already has the Thursday. I'm putting Austin inside a meeting I already have, not waiting for a quiet week. If I wait for quiet I'll still be waiting when he's got a license. Does that sound like I'm making a quota out of a brother?
+JONATHON: I'm trying. The calendar already has the Thursday. I'm putting Austin inside a meeting I already have, not waiting for a quiet week. If I wait for a quiet week I'll still be waiting when Austin has a learner's permit. Does parking Austin on a Thursday I already have sound like I'm keeping score?
 
-WES: [laughs] It sounds like a man who knows his calendar. Put pancakes on a Thursday that already has a meeting, or you never will. I hid inside a full calendar in my forties. Three committees. A ball team. Fifty-five-hour weeks. A full week can still be a man walking past a kitchen. I don't need ready. I need on time.
+WES: [laughs] That sounds like pancakes parked on a Thursday I already have. Park the pancakes on a Thursday I already have, or the call never happens. I hid inside a full calendar in my forties. Three committees. A ball team. Fifty-five-hour weeks. A full week can still be a man walking past a kitchen. I don't need ready. I need on time.
 
 JONATHON: And the uncle? After I've actually asked about batter. If I announce the uncle habit this week I'll want credit before I've dialed. Can you live with that order?
 

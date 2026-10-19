@@ -5,9 +5,9 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,801 (about 18:40 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,825 (about 18:50 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 36 lines (56% of words). JONATHON 35 lines (44% of words), 4 under 12 words (11.4%) |
+| Line balance | WES 36 lines (55% of words). JONATHON 35 lines (45% of words), 4 under 12 words (11.4%) |
 | Focus mark | Go First |
 | Scripture (NIV, verified 2026-10-19) | Spoken: 1 Thessalonians 2:11-12. Board only: 1 Corinthians 16:13 |
 | Board cues | 4 (none repeats spoken words) |
@@ -42,7 +42,7 @@ JONATHON: And I will tell you the nephew hung up on a blessing, and his roommate
 
 WES: Let's take the next few minutes on the text, because it landed and you didn't answer it. Dani said well, there's your bud. Ruby is making Grandpa in Louisiana a card, markers, a fish on it, half done on the counter. You left it there. Tell me why you didn't answer.
 
-JONATHON: Because if I answer I will start a conversation I've not chosen. He called me a dad with the same word he used when he left. I can hold both. I won't tidy it so this table feels resolved. I sent two words. He sent three. That's enough for a Sunday. The card can wait. I'm still mad. Not yet is still not yet.
+JONATHON: Because if I answer I will start a conversation I've not chosen. He called me a dad with the same word he used when he left. I can hold both. I won't tidy it so this table feels resolved. I sent two words. He sent three. That's enough for a Sunday. The card can wait. I'm still mad. Not yet on the hill is still a boy in the truck.
 
 WES: My daughter said you're the best dad, Daddy, the way she does every year. This year I said only thank you, baby. She didn't notice. She went on about her tomatoes. Something is eating them. I didn't argue myself out of a blessing. That was the whole win. I wanted a parade. I got tomatoes. I'm taking tomatoes.
 
@@ -93,11 +93,11 @@ WES: Last few minutes. If your son only wants games, you still give him a Saturd
 
 JONATHON: Screws. A coffee can. If I name three I'll do none.
 
-WES: I would unplug a console for a summer if I were scared enough. We're unresolved on the closet. Agreed on Saturday. I can live with unresolved if Saturday is dated. I still owe a young man a name and a Thursday hello. He didn't want the car. I still owe the hello.
+WES: I would yank a plug for a whole summer if fear ran the house. We're unresolved on the closet. Agreed on Saturday. I can live with the closet unfinished if Saturday has a date on it. I still owe a young man a name and a Thursday hello. He didn't want the car. I still owe the hello.
 
 JONATHON: That's fair, but a fence isn't a creek. Don't confuse a password with dirt.
 
-WES: A fence can help. A hill is a Saturday that gets better when you work at it. Courage isn't a confiscation. Courage is sitting down. I stood in a shop door like a man at a museum once already this week, and I'm not going to do it on his hill. He files. I stay. Night is the right word. I'm practicing night.
+WES: A fence can help. A hill is a Saturday that improves the more a boy files or picks up screws. Courage isn't a confiscation. Courage is sitting down. I stood in a shop door like a man at a museum once already this week, and I'm not going to do it on his hill. He files. I stay. Night is the right word. I'm practicing night.
 
 JONATHON: And the jamb?
 
@@ -138,7 +138,7 @@ JONATHON: Wait, back up. Are you talking about me and minute two, or the guy who
 
 WES: Both. You wanted to tie the shoes at minute two. Minute nine was the work. Are you staying on the floor, or taking over because a nine o'clock call feels like death?
 
-JONATHON: I'm staying. I used the call as death on Monday. I'm not proud of it. Can I ask you something hard?
+JONATHON: I'm staying. I treated a nine o'clock call like a funeral on Monday. I'm not proud of it. Are you taking the saw, or staying on the floor?
 
 WES: Go.
 
@@ -146,49 +146,49 @@ JONATHON: Are you bringing him back Saturday, or making August at the creek a sp
 
 WES: [beat] I'll bring him back. Water is the speech. Years is the honest word. Crush it in a month is a stunt. What are you actually dating?
 
-JONATHON: A Saturday alarm. Screws in a coffee can. If Theo drops them, we pick them up. If I pick three I'll do none. One coffee can.
+JONATHON: A Saturday alarm. Screws in a coffee can. If Theo drops them, we pick them up. If I plan three hills I will stay in the truck. One coffee can.
 
 WES: That's fair, but— no, don't take the Velcro unless the call is truly life or death.
 
-JONATHON: [laughs] A nine o'clock call isn't death. Will you stop me if I skip because a call appears and then tell a story about almost?
+JONATHON: [laughs] A nine o'clock call is not a funeral. Will you stop me if I skip because a call appears and then tell a story about almost?
 
-WES: I'll stop you. Almost is your favorite lie. You stop me if I take the file. I stood in a shop door like a man at a museum. He was the work. I wanted to be the exhibit.
+WES: I'll stop you. Almost is your favorite lie. You stop me if I grab his file. I stood in a shop doorway like a tourist. He was the work. I wanted to be the man on display.
 
 JONATHON: No, hold on. You've got a plane and a story, and he has a vise and a file. Which one actually got used?
 
 WES: [laughs] His. The plane hasn't moved. The back door still sticks. June heat. I lift and shove. His hill is cedar. Mine is a jamb I keep walking around. I don't get to use his Saturday to skip mine. Are you still saying bud in the hallway?
 
-JONATHON: Twice at seven-thirty. Theo catches it. I want to be catchable. Dani asked what time Saturday because she needs the car. That's a woman who believes I might actually go.
+JONATHON: Twice at seven-thirty. Theo catches it. I want to be catchable. Dani asked Saturday's hour because she needs the Honda. That's a wife who thinks I might actually show up with screws.
 
 WES: Good. Date both. His Saturday. My jamb. Don't hide behind the perfect hill. He didn't want the car. I still owe a Thursday hello.
 
-JONATHON: Then I put the coffee can on a morning that already has a meeting. Does that sound like I'm making a quota out of dirt?
+JONATHON: Then I date the coffee can for Saturday even if morning is booked. Does a coffee can on a booked morning sound like I'm scoring dirt?
 
-WES: [laughs] It sounds like a man who knows his calendar. Put him on a slope inside the busy, or you never will.
+WES: [laughs] That sounds like a boy on a slope before the week gets pretty. Put him on a slope inside the busy, or you never will.
 
-JONATHON: What are you picking, for real?
+JONATHON: Coffee can on Saturday, or another speech about hills?
 
 WES: Cedar. Next Saturday. Don't take over. Night is the right word. I'm practicing night.
 
-JONATHON: The floor. Minute nine. That's the whole takeaway. Give him a hill. Be there. Don't take over. A hill with nobody on it is a slogan you were handed at nine.
+JONATHON: The floor. Minute nine. That's the whole takeaway. Give him a hill. Don't take over. A hill with nobody on it is a slogan you were handed at nine.
 
-WES: I can still smell the cedar. Green. Sticky. A boy asking about years. I'm taking years.
+WES: I can still smell the cedar. A boy asking about years. I'm taking years.
 
-JONATHON: You too, bud. First time in twenty-eight years he called me a dad. If I answer I start a conversation I haven't chosen. I sent two words. He sent three. That's enough for a Sunday. Ruby's card for Grandpa in Louisiana is half done on the counter. I left it. I'm still mad. Not yet is still not yet. The nephew hung up. Why are you doing this to me on a Saturday. Ten minutes later the roommate said that was nice. Don't make it weird. I said okay. That's a blessing that didn't feel like a movie. It still landed in a roommate's mouth. Did I make it weird?
+JONATHON: You too, bud. First time in twenty-eight years he called me a dad. If I answer I start a conversation I haven't chosen. I sent two words. He sent three. That's enough for a Sunday. Ruby's card for Grandpa in Louisiana is half done on the counter. I left it. I'm still mad. Not yet on the hill is still a boy in the truck. The nephew hung up. Why are you doing this to me on a Saturday. Ten minutes later the roommate said that was nice. Don't make it weird. I said okay. That's a blessing that didn't feel like a movie. It still landed in a roommate's mouth. Did I make it weird?
 
-WES: You didn't. You said okay. My daughter said you're the best dad, Daddy. I said only thank you, baby. She went on about tomatoes. Something is eating them. I wanted a parade. I got tomatoes. I'm taking tomatoes. I would unplug a console for a summer if I were scared enough. He said that's easy to say with a brother who has a slope of cedar. We're unresolved on the closet. Agreed on Saturday. A fence can help. A hill is a Saturday that gets better when you work at it. I don't want us to confuse a password with a creek.
+WES: You didn't. You said okay. My daughter said you're the best dad, Daddy. I said only thank you, baby. She went on about tomatoes. Something is eating them. I wanted a parade. I got tomatoes. I'm taking tomatoes. I would yank a plug all summer if fear ran the house. He said that's easy to preach with a brother who already owns cedar. We're unresolved on the closet. Agreed on Saturday. A fence can help. A hill is a Saturday that improves when a boy files or picks up screws. I don't want a router password mixed up with water.
 
-JONATHON: I can be strong about other people's sons and soft about my own floor. I want the verse in my hallway at seven-thirty, not in a speech about screens. If you have a four-year-old, the hill may be shoes. If you have a sixteen-year-old, it may be cedar and a helmet your wife still hates. Don't hide behind the perfect hill. I still feel the crunchy sock. I wanted to do it for him at minute two. Minute nine was the work. I may just be on time for him.
+JONATHON: I can be loud about other men's boys and quiet about my own Velcro. I want First Corinthians in my hallway at seven-thirty, not in a lecture about consoles. If you have a four-year-old, the hill may be shoes. If you have a sixteen-year-old, it may be cedar and a helmet your wife still hates. I still feel the crunchy sock. I wanted to do it for him at minute two. Minute nine was the work. I may be on time for him.
 
-WES: I'll bring him back next Saturday. I won't make August at the creek a speech. Water is the speech. I learned that from a man who is dead and a brother who says years. Name one hill. Put a younger man on it. Be there. Don't take over. If you were wrong about the hill, listen, and stay anyway. He didn't want a car. I still owe the hello.
+WES: I'll bring him back next Saturday. I won't make August at the creek a speech. Water is the speech. I learned that from a man who is dead and a brother who says years. Name one hill. Put a younger man on it. Don't take over. He didn't want a car. I still owe the hello.
 
-JONATHON: If I skip because a call appears, I'll tell you I skipped. I won't tell you a story about almost. A boy with a box of screws is a hill. Picking up what you dropped in a lot is a hill. I'm setting the alarm.
+JONATHON: If I skip because a call pops up, I'll say I skipped. I won't dress a skip up as almost going. A boy with a box of screws is a hill. Picking up what you dropped in a lot is a hill. I'm setting the alarm.
 
 ---
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. Give him a hill. Be there. Don't take over.
+WES: Walk out with this: give him a hill. Be there. Don't take over. Give him a hill. Be there. Don't take over.
 
 JONATHON: And a hill with nobody on it's just a slogan you were handed at nine.
 

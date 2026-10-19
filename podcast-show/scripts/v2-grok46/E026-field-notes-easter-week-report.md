@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 2,172 (about 14:29 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,186 (about 14:34 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 24 lines (56% of words). JONATHON 19 lines (44% of words), 1 under 12 words (5.3%) |
 | Focus mark | Work for God's Pay |
@@ -58,13 +58,13 @@ JONATHON: The one I skipped was the one I needed. The VP talk was a territory ch
 
 WES: Single check. Your nephew. Did you use him as a crowd for the like, or did the texts stay texts?
 
-JONATHON: He texted after Easter lunch, not from our table. He wrote, "Did you pick?" He listens. I wrote yes. He wrote, "Good." He's on day eleven, counting from Easter. I didn't ask him to come sit in the room. Texts stay texts. I wanted a crowd for a like. I didn't use him that way. Bluebonnets Saturday was rained out. Car-care is tomorrow. I will bring water and I won't coach the lot.
+JONATHON: He texted after Easter lunch, not from our table. He wrote, "Did you pick?" He listens. I wrote yes. He wrote, "Good." He's on day eleven, counting from Easter. I didn't pull him in as a crowd for the like. Texts stay texts. I wanted a crowd for a like. I didn't use him that way. Bluebonnets Saturday was rained out. Car-care is tomorrow. I will bring water and I won't coach the lot.
 
 [BOARD: Decide nothing about her kitchen until she speaks.]
 
 WES: I almost built my mother a life in a downstairs room she has not chosen. My brother almost did too. We're both the kind of men who will love a woman by deciding for her. That's run the room with a nicer coat. April eleventh we ask. I will kick him under the table if I start talking. He can kick me.
 
-JONATHON: I still have not told Ruby the sentence. I wrote it on a card. Dani thinks far away is enough. I don't. We didn't settle it. I will tell you next Friday if I said it. I won't use the unsettled as a hide. The card is in my bag.
+JONATHON: I still have not told Ruby the sentence. I wrote Ruby's sentence on a card. Dani thinks far away is enough. I don't. We didn't settle it. I will tell you next Friday if I said it. I won't use the unsettled as a hide. The card is in my bag.
 WES: Yeah, and—the card is in your bag. I'm with you. Don't skip it. The girl is in your house. She wanted Easter to finish it.
 JONATHON: The girl is in my house. I wanted Easter to finish the card. Easter finished a like. The girl is still waiting. I keep saying this week like a man who has more weeks than he does. She's seven. She won't stay seven while I polish a paragraph.
 
@@ -76,13 +76,13 @@ WES: I told my little brother, by text after, that we were going to ask her toge
 
 ## SEGMENT 2 · From the table
 
-WES: We're about halfway, and I want the question men asked. Does it matter if I don't feel it? Because Thursday you had paste. Did paste count, or were you waiting on a glow?
+WES: Middle of the Easter report, I want the paste question from Thursday. Does it matter if I don't feel it? Because Thursday you had paste. Did paste count, or were you waiting on a glow?
 
 JONATHON: Thursday I didn't feel well pleased. I felt like a man brushing his teeth with a verse. I wanted a glow. I got paste. If feeling is the test I failed. If the words are the test I still said them, three mornings out of four, and I told the truth about the fourth.
 
 WES: It matters that you say it. It does not matter that you glow. Glow is a cousin of the leaderboard. Paste is closer to a vow. I've had years of glow that didn't change a Tuesday. I've had toothbrush mornings that did. If you wait to feel like a beloved son you will wait through another Easter. Say the words. Then go ask your mother what she wants. Then stay ten minutes after a sentence with no because. Feeling can catch up. Or not. The walk still counts.
 
-JONATHON: My nephew asked by text if God was disappointed he didn't feel different on day eleven. I wrote, "No. Keep Thursday. Keep the roommate. Feeling is slow." He wrote, "ok. slow." I needed slow too. I checked the app more than I will say. No message. A like is still the last thing. I wanted a paragraph. I got silence. I said my sentences anyway. That's the only half I own. I told Dani I had checked again. She said, "Stop making him the weather." She's right. He's a man in Louisiana with a thumb. He's not the climate of my kitchen. If I let him be the climate I will skip Ruby again and call it grief. It would be a hide with a holy name.
+JONATHON: My nephew asked by text if God was disappointed he didn't feel different on day eleven. I wrote, "No. Keep Thursday. Keep the roommate. Feeling is slow." He wrote, "ok. slow." I needed slow too. I checked the app more than I will say. No message. A like on a fish post is still the last thing I should hunt. I wanted a paragraph. I got silence. I said my sentences anyway. Staying in my kitchen is the only half I own. I told Dani I had checked again. She said, "Stop making him the weather." She's right. He's a man in Louisiana with a thumb. He's not the climate of my kitchen. If I let him be the climate I will skip Ruby again and call it grief. It would be a hide with a holy name.
 
 WES: Stop making him the weather is a sentence I needed twenty years ago. I made my dad's silence the climate and then I made a title the climate and then I made a fog the climate. Climate is how a man avoids a Tuesday. Tuesday is a call, a card, a walk. I want Tuesdays back. I've enough climate. I told my wife that after the call. She said, "Then keep asking me what I want too." I had not asked her about the downstairs-room idea either. I had a whole plan for my mother and I had not asked the woman I live with. That's the shape again. I wrote it down. I won't run two kitchens at once.
 
@@ -92,9 +92,9 @@ WES: Stop making him the weather is a sentence I needed twenty years ago. I made
 
 ## SEGMENT 3 · The Word
 
-WES: We've got a little under eight minutes, and I want the same verse again, because a week of paste needs it. Matthew three, seventeen.
+WES: Eight minutes left, same verse again, because a week of paste needs it. Matthew three, seventeen.
 
-JONATHON: I can say it without looking now. That scares me a little. Familiar can be a hide. So which is it this week? Glow, or paste that still counts?
+JONATHON: I can say it without looking now. That scares me a little. Familiar can be a hide. Receipt or feeling this Easter week? Glow, or paste that still counts?
 
 WES: Paste. Glow is a cousin of the leaderboard. "This is my Son, whom I love; with him I am well pleased." Still true on a Thursday when it feels like toothpaste. Still true when a brother argues twenty minutes. Still true when a father likes a picture and writes nothing. You're not waiting on a glow to become a son. You already are, if you're in Christ. Then go act like a man who does not need a like to stay.
 
@@ -110,9 +110,9 @@ WES: You can stay. I can ask. Neither of us gets to decide a seventy-eight-year-
 
 ## SEGMENT 4 · The Saturday morning walk
 
-WES: Last few minutes on the tool. A Saturday morning walk. Twenty minutes. No phone. With her if she will come, or with a child, or alone. You don't have to talk the whole time. You do have to be in the same air. If you live alone, walk and then text one man one sentence with no because. That's the single version. Don't make it a program. Make it this Saturday.
+WES: Last few minutes on the Easter receipt, not the feeling. A Saturday morning walk. Twenty minutes. No phone. With her if she will come, or with a child, or alone. You don't have to talk the whole time. You do have to be in the same air. If you live alone, walk and then text one man one sentence with no because. That's the single version. Don't make it a program. Make it this Saturday.
 
-JONATHON: I will walk with Ruby before I try the card, or I will walk and then sit on her bed and say it. I haven't decided the order. I've decided it happens this week. Dani can disagree with the wording. She can't disagree me out of the owe. I owe. The card isn't the girl. If I polish the card one more night I'm hiding. Can I ask you something hard? Are you walking Saturday, or is the plane going to sit on the workbench again?
+JONATHON: I will walk with Ruby before I try the card, or I will walk and then sit on her bed and say it. I haven't decided the order. I've decided it happens this week. Dani can disagree with the wording. She can't disagree me out of the owe. I owe. The card isn't the girl. If I polish the card one more night I'm hiding. What did Easter week actually change at your house? Are you walking Saturday, or is the plane going to sit on the workbench again?
 
 WES: I'll walk. The plane can sit. Tomorrow is car-care. I will make coffee and I won't run the lot. Then Saturday week I walk. I told my wife. She said she might come. Might is enough to put on a calendar. I won't punish might. I will walk either way. The walk starts at the back door. I still have to lift it. She stood there Easter afternoon and said, "That's the walk," meaning the jamb, not the road. I laughed. The plane didn't move.
 

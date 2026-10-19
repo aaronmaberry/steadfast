@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 2,166 (about 14:26 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,175 (about 14:30 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 23 lines (54% of words). JONATHON 22 lines (46% of words), 1 under 12 words (4.5%) |
 | Focus mark | Stop Waiting |
@@ -74,7 +74,7 @@ JONATHON: I hated the number. I wanted to argue the work hour. The work hour is 
 
 ## SEGMENT 2 · From the table
 
-WES: Whole number. I'm not becoming a lawyer. We're about halfway, and I want the question men asked. How do I set up my phone so it doesn't own me?
+WES: Whole number. I'm not becoming a lawyer. Middle stretch, I want the phone question men actually asked. How do I set up my phone so it doesn't own me?
 
 JONATHON: I wanted a setting that would make me a better man. There isn't a setting for that. There are two boring ones that help. Grayscale, so the candy dies. And a charger that's not in the room where you sleep, so the first reach fails. The first reach is the whole war some mornings. If it fails, you have a chance to become a shark instead of a thumb.
 
@@ -86,13 +86,13 @@ JONATHON: And if your job is the phone, I know, I live there. Then the hallway s
 
 WES: If you live alone, the charger in the hallway still works. So does grayscale. So does a brother who will ask for the number and wait for a sentence. A setting without a brother is just a new way to be in charge of your own drift. I lived a lot of years as a man in charge of his own drift. I called it winding down. I called it knowing the weather. I called it rest. My wife had to say the fog twice in two different decades for me to hear it. Hear it the first time if you can. If you can't, hear it the second and don't punish her for the repeat. The repeat is love. The radar isn't.
 
-JONATHON: I asked my nephew what his number was. He wrote, "idk. a lot. worse when lonely." I told him idk isn't a number and lonely is the real one. He's going to send a screenshot on Thursday. I will send mine first so I can't ask him for a courage I won't use. That's the deal now. I go first on the ugly clock. He goes first on the slip. We will see who flinches. I already know I will want to flinch. I'm telling you so Friday I can't pretend I was surprised.
+JONATHON: I asked my nephew what his number was. He wrote, "idk. a lot. worse when lonely." I told him idk isn't a number and lonely is the real one. He's going to send a screenshot on Thursday. I will send mine first so I can't ask him for a courage I won't use. That's the deal now. I go first on the ugly clock. He goes first on the slip. We will see who flinches. I already know I will want to flinch. I'm putting that on the record so Friday I can't pretend the flinch was a surprise.
 
 ---
 
 ## SEGMENT 3 · The Word
 
-WES: We've got a little under eight minutes, and I want one short verse for a week of slipping and sitting. First Corinthians sixteen, verse thirteen.
+WES: Eight minutes left for a short verse after a week of slipping and sitting. First Corinthians sixteen, verse thirteen.
 
 JONATHON: I like a verse that does not pretend I already won. Guard. Stand. Be courageous. Be strong. That's a stance, not a streak. So which is it for a man who slipped Wednesday? Guard, or start a new streak speech?
 
@@ -110,7 +110,7 @@ WES: Where the radar was, the heart was. Where the late site was, the heart was.
 
 ## SEGMENT 4 · Grayscale and the hallway
 
-WES: Last few minutes on the tool. Two moves. Tonight, grayscale. In the settings, color off. You will hate it for a day. That hate is information. Second, the charger leaves the bedroom. Hallway, kitchen, truck if you have to, not the nightstand. In the morning you will reach. Let the reach fail. Then get up. If you fail the fail and walk to the hallway, say so on Thursday. Don't hide the walk.
+WES: Last few minutes on the drift check you can run tonight. Two moves. Tonight, grayscale. In the settings, color off. You will hate it for a day. That hate is information. Second, the charger leaves the bedroom. Hallway, kitchen, truck if you have to, not the nightstand. In the morning you will reach. Let the reach fail. Then get up. If you fail the fail and walk to the hallway, say so on Thursday. Don't hide the walk.
 
 JONATHON: I walked to the hallway the second morning and I felt like a man sneaking to a fridge. I told Dani. She said, "Good. Now come be the shark." She won't let me turn a walk into a testimony. I needed that. The tool is the tool. The bath is the life.
 
@@ -120,7 +120,7 @@ JONATHON: I will send mine even if it goes up. Up is data. Data is better than a
 
 [BOARD: Send the ugly number. Do not subtract your way clean.]
 
-WES: I walked to the porch four nights and I had to lift the back door every time. Swollen jamb. I said I would plane it Saturday. I made coffee for car-care instead. The plane is still on the workbench. The door is the new I'll-get-to-it, and I can feel it becoming weather.
+WES: I walked to the porch four nights and I had to lift the back door every time. Swollen jamb. I said I would plane it Saturday. I made coffee for car-care instead. That plane hasn't moved off the bench since I set it there. The door is the new I'll-get-to-it, and I can feel it becoming weather.
 
 JONATHON: No, hold on. You said Saturday and you made coffee. That's weather with a workbench. I'll text you Thursday about the jamb. Send a sentence, not a letter. If you write weather I will write back Saturday. I walked past my own pantry twice this week and called it later. Later is how I lose a Thursday. I'm sending you the hinge so you can send me the pantry. That's a fair trade and it's not a speech. Are you actually going to answer the hinge, or is coffee going to win again?
 

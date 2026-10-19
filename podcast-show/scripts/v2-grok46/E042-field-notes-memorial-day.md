@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm |
-| Spoken words | 1,918 (about 12:47 at 150 wpm, before laughs and pauses) |
+| Spoken words | 1,947 (about 12:59 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 30 lines (51% of words). JONATHON 28 lines (49% of words), 2 under 12 words (7.1%) |
 | Focus mark | Pick Up the Weight |
@@ -93,13 +93,13 @@ WES: The mechanic said something Wednesday while I brought coffee and asked noth
 
 JONATHON: My oldest-son version is your oldest. He called a trade-school friend. The friend asked if he was dying. They talked forty minutes about trucks. The friend is getting married. He didn't know. That's a Memorial Day week I can live with. The living, called about nothing, before the stone.
 
-WES: Look around your house this week. A flag is fine. A name is better. A Thursday call is the test. Don't let a holiday do your brotherhood for you and then go quiet until November.
+WES: Look at the living name you keep postponing. A flag is fine. A name is better. A Thursday call is the test. Don't let a holiday do your brotherhood for you and then go quiet until November.
 
 JONATHON: I'll get the mini chips to a man who asked for them. That isn't a strategy. That's breakfast. If I can't do breakfast I should stop talking about brothers on a holiday.
 
 [BOARD: Say evening to the missing.]
 
-WES: I've walked past that granite for years the way I walk past a man in a truck. Front only. The back is where the later wars are. I don't want to be a front-only man. Monday I walk around.
+WES: I've walked past that granite for years the way I walk past a man in a truck. Front only. The back is where the later wars are. I don't want to honor only the face of the stone. Monday I walk around.
 
 JONATHON: And I'll say evening, Chris, with Ruby, and I'll still owe Shane a live call. A plate without a Thursday is a costume with better lighting.
 
@@ -119,7 +119,7 @@ JONATHON: Wait, back up. Are you talking about me skipping Shane, or the guy who
 
 WES: Both. You can love a story about Chris and still not call Shane. Are you actually dialing him, or is the plate doing the week for you?
 
-JONATHON: I'm dialing him. The dead are safer. They don't say who calls about pancakes. Can I ask you something hard?
+JONATHON: I'm dialing him. The dead are safer. They don't say who calls about pancakes. Who are you remembering, and who are you avoiding?
 
 WES: Go.
 
@@ -127,7 +127,7 @@ JONATHON: Are you walking around the back of that granite Monday, or are you goi
 
 WES: [beat] Monday. Flashlight if I have to. Seven names, out loud, before the town is up. Then two coffees at a gate I didn't earn. Six-thirty. Fort Sam. Vietnam on the back. I've walked past the front for years. What are you actually doing besides evening, Chris?
 
-JONATHON: Shane. And mini chips to a man who asked for them. If I pick three I'll do none. One living call. Ruby already has the plate.
+JONATHON: Shane. And mini chips to a man who asked for them. If I try Shane and chips and a plate, I'll do the plate and hide. One living call. Ruby already has the plate.
 
 WES: That's fair, but— no, don't let Cherbourg skip the batter.
 
@@ -139,15 +139,15 @@ JONATHON: No, hold on. You've got a habit of stacking Monday at the stone and Sa
 
 WES: [laughs] The stone. Saturday is Abilene. I don't get the Christmases back when I said that's a good name and didn't ask. I get Monday. Are you leaving the half on the table, or are you pretending pancakes cleaned it?
 
-JONATHON: I'm leaving the half. I missed Shane. That's a half. Looking late is better than looking loyal. Dani can hear the difference between a tribute and a Thursday. She stops me when I start handing people a plate before I've dialed.
+JONATHON: I'm leaving the half. I missed Shane. That's a half. Looking late is better than looking loyal. Dani can tell a tribute from a Thursday call. She cuts me off when I start passing a plate before I've even dialed Shane.
 
-WES: Good. The back of the stone is the work. The office where you asked about batter was the work. Don't wait for a quieter Monday. There isn't one.
+WES: Good. The back of the stone is the work. The office where you asked about batter was the work. Don't wait for a Monday with no flags. There isn't one.
 
-JONATHON: Then I put Shane on a day that already has a meeting, and I buy the chips before I get cute about Cherbourg. Does that sound like I'm turning a cemetery into a quota?
+JONATHON: Then I put Shane on a day that's already booked, and I buy the chips before I get cute about Cherbourg. Does buying chips before I get cute about Cherbourg sound like I'm scoring a grave?
 
-WES: [laughs] It sounds like a man who knows his calendar. Put the living call inside the holiday, or the holiday will do your brotherhood and then go quiet until November.
+WES: [laughs] That sounds like a living call inside the holiday, not after it. Put the living call inside the holiday, or the holiday will do your brotherhood and then go quiet until November.
 
-JONATHON: What are you picking, for real?
+JONATHON: Shane or the chips — which one actually leaves your phone?
 
 WES: The back. Names, not a feeling. Then the gate with two coffees.
 
@@ -163,7 +163,7 @@ WES: Carry this. Honor the dead with their names, and the living with a Thursday
 
 JONATHON: And a plate the size of gum can still hold a whole man.
 
-WES: Tuesday we talk about a heading. Until then: read the names.
+WES: Tuesday we name a heading on a porch. Until then: read the names.
 
 JONATHON: Read them, then tell us at walksteadfast.com, and find us at @steadfastwalk.
 

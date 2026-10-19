@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,987 (about 19:55 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,994 (about 19:58 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 34 lines (55% of words). JONATHON 31 lines (45% of words), 2 under 12 words (6.5%) |
 | Focus mark | Work for God's Pay |
@@ -64,7 +64,7 @@ WES: That's a walk and a leftover hide. Both can be true. You walked at 9:40. Th
 
 [BOARD: A thumb on a picture is not a talk.]
 
-JONATHON: Yes. I wanted him to write first. That's a hide with a thumb. I keep wanting the like to count as the talk. It counts as a door. Doors aren't talks. A like is a fish, and I keep wanting to call it a conversation so I can stop being scared of the sentence I owe Ruby. I told my nephew by text that I picked. He wrote, "Good." He listens. He didn't come to lunch. I didn't ask him to sit in the room. Texts stay texts. I can want a crowd for a decision and I won't use him that way.
+JONATHON: Yes. I wanted him to write first. That's a hide with a thumb. I keep wanting the like to count as the talk. It counts as a door. Doors aren't talks. A like is a fish, and I keep wanting to call it a conversation so I can stop being scared of the sentence I owe Ruby. I told my nephew by text that I picked. He wrote, "Good." He listens. He didn't come to lunch. I didn't pull him into the room for the like. Texts stay texts. I can want a crowd for a decision and I won't use him that way.
 
 ---
 
@@ -84,7 +84,7 @@ JONATHON: Okay is enough. If you'd asked again you would have been collecting. Y
 
 WES: I've collected enough. I held the handle and I let him drive and I didn't add a lecture about the Saturdays. Four more. He knows. He does not need a speech on Easter afternoon. He needed a sentence without a score. I finally had one. I want another one for my wife tonight, and I want to leave it alone after I say it. Leaving it alone is the stay. Talking it to death is the old me.
 
-JONATHON: Theo at church, after the reading about the tomb, said, "Because he came back?" I said yes. He nodded like that settled the universe. I want a faith that nods. I also want a father who stays, and I can't make my dad into that with a button. I can stay. That's the only half of this I own.
+JONATHON: Theo at church, after the reading about the tomb, said, "Because he came back?" I said yes. He nodded like that settled the universe. I want a faith that nods. I also want a father who stays, and I can't make my dad into that with a button. I can stay. Staying is the only half of this I own.
 
 [BOARD: Leave the receipt off the kind words.]
 
@@ -96,7 +96,7 @@ JONATHON: Mine is a first sales manager in Beaumont. Same tie every Monday. "Not
 
 ## SEGMENT 3 · The Word
 
-WES: We're about halfway, and I want the Bible open, because a voice from heaven already said the sentence men wait decades to hear. Matthew three, verse seventeen.
+WES: Mid-episode, a voice from heaven already said the sentence men wait decades to hear. Matthew three, verse seventeen.
 
 JONATHON: I've wanted that voice from a man who posts fish. I won't get it that way. I might get a like. I might get a call in April. I might get nothing. The verse isn't about my dad. So which is it? Work for a thumb, or work for a voice that already spoke?
 
@@ -124,7 +124,7 @@ JONATHON: Yeah, here's my problem. A like isn't the same as a father who stays. 
 
 WES: Paint. A like is small. God isn't small. The chair can still be empty and the tomb can still be empty. Both true. We're not baptizing a profile picture. We're saying you can stay even if he does not. You can speak even if he likes and does not write. You can be well pleased with a boy who has not earned a truck yet.
 
-JONATHON: I don't totally buy a clean sentence yet. "I'm glad you're mine" can become a new plaque. I can say it and still miss bath. I can say it and still hand Ruby to Dani. Is that staying, or is that a commercial?
+JONATHON: A tidy sentence still sounds like a commercial to me. "I'm glad you're mine" can become a new plaque. I can say it and still miss bath. I can say it and still hand Ruby to Dani. Is that staying, or is that a commercial?
 
 WES: Then say it and stay. The stay is the pay. The sentence without the stay is a commercial. I said it and I let him drive. That's a stay I can measure in miles and a white knuckle on a handle.
 
@@ -140,11 +140,11 @@ WES: I can leave Easter in a glow and call it peace. It would be a cease-fire ag
 
 ## SEGMENT 5 · What we're actually doing
 
-WES: We've got a little under ten minutes. Ham. My mom has never met you. Your mom sent ham anyway.
+WES: Ten minutes left, and I want the father who stays. Ham. My mom has never met you. Your mom sent ham anyway.
 
-JONATHON: [laughs] She said, "Then that's for Wes." She does not listen to us. She sent food to a man she has not met because I said he has been a father-voice in my week. I didn't know where to put that. I put it in a foil pan. You will eat it. I will tell her you did. Can I ask you something hard? Will you eat it after you call, or instead of the call?
+JONATHON: [laughs] She said, "Then that's for Wes." She does not listen to us. She sent food to a man she has not met because I said he has been a father-voice in my week. I didn't know where to put that. I put it in a foil pan. You will eat it. I will tell her you did. Will you stay in the room when it gets quiet? Will you eat it after you call, or instead of the call?
 
-WES: After. I will eat it. I won't make a speech about it. I will call my brother at seven and I won't hide in leftover sweetness. The call is the walk.
+WES: After. I will eat it. I won't make a speech about the ham. I will call my brother at seven and I won't hide in leftover sweetness. The call is the walk.
 
 JONATHON: She will ask if you liked it. I will tell her you ate it and you called him. That's the report she actually wants. She does not listen to us. She listens for whether a man followed through.
 
@@ -178,9 +178,9 @@ WES: I don't get to forget it because the tomb is empty. An empty tomb is a reas
 
 JONATHON: If you live alone, say it to a brother, or to God, and then text one man. A Father who stays isn't a mood you wait to feel. He already spoke. You can borrow the words and give them away in a truck.
 
-[BOARD: Give the words away. Then stay in the room.]
+[BOARD: Give the words away. Then sit through the quiet.]
 
-WES: Look around your house this week. If there is a boy who already said I know, say it anyway. If there is a girl with far away, replace it with a true short line. If there is a brother at seven, pick up. The tomb is empty. The chair may still be empty. You don't have to be. I will say it again because some of you will use Easter as a day off from the people you live with. Don't take the day off. Take the sentence. Take the ten minutes. Take the seven o'clock. Then eat the ham if there is ham. Ham after the walk tastes like food. Ham instead of the walk tastes like a cease-fire with cloves in it. I've eaten that meal. I'm not eating it tonight.
+WES: Look at who stays when the room gets quiet. If there is a boy who already said I know, say it anyway. If there is a girl with far away, replace it with a true short line. If there is a brother at seven, pick up. The tomb is empty. The chair may still be empty. You don't have to be. I will say it again because some of you will use Easter as a day off from the people you live with. Don't take the day off. Take the sentence. Take the ten minutes. Take the seven o'clock. Then eat the ham if there is ham. Ham after the walk tastes like food. Ham instead of the walk tastes like a cease-fire with cloves in it. I've eaten that meal. I'm not eating it tonight.
 
 ---
 
@@ -190,7 +190,7 @@ WES: Carry this. The chair isn't the last word. A Father stays. Say a smaller ve
 
 JONATHON: And if all you got was a like, don't worship it. Tell the girl the true short line.
 
-WES: Friday we report the seven o'clock call. Until then: one sentence, no because.
+WES: Friday we report the seven o'clock call. Until then: glad you're mine, no because.
 
 JONATHON: Go say it, then tell us at walksteadfast.com, and find us at @steadfastwalk.
 

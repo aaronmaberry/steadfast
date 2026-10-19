@@ -5,9 +5,9 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 3,066 (about 20:26 at 150 wpm, before laughs and pauses) |
+| Spoken words | 3,097 (about 20:39 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 42 lines (56% of words). JONATHON 33 lines (44% of words), 1 under 12 words (3.0%) |
+| Line balance | WES 42 lines (55% of words). JONATHON 33 lines (45% of words), 1 under 12 words (3.0%) |
 | Focus mark | Stop Waiting |
 | Scripture (NIV, verified 2026-10-19) | Spoken: 1 Corinthians 7:17. Board only: 1 Corinthians 7:24; 1 Corinthians 7:7 |
 | Board cues | 4 |
@@ -56,7 +56,7 @@ WES: Thursday is his only night off. It's also his grandmother night. I'm not go
 
 [BOARD: The lobby is not a location. It is a story you were told.]
 
-WES: Then last night, a little after ten, he texted me from the warehouse break room. He said I could read it. Church asks him two questions, a girl and a car. I've asked the car one about three times, which is on me. He works forty hours of nights. Pays his own phone and half the rent. Does his grandmother's nails because the lady who did it quit. His grandmother was married fifty-one years, "worth it most years." Then: "dont fix it. sorry this is long."
+WES: Then last night, a little after ten, he texted me from the warehouse break room. He said I could share the break-room text. Church asks him two questions, a girl and a car. I've asked the car one about three times, which is on me. He works forty hours of nights. Pays his own phone and half the rent. Does his grandmother's nails because the lady who did it quit. His grandmother was married fifty-one years, "worth it most years." Then: "dont fix it. sorry this is long."
 
 JONATHON: Wait, he does her nails and they asked about a car? That's the line that sat with me, because nobody at church asked him that. They asked if he had a girl and if he had a car.
 
@@ -136,7 +136,7 @@ WES: Assigned isn't trapped. Assigned is: this is the ground under your feet tod
 
 JONATHON: I'll take that. I'm not fully at peace with how churches talk about this. The flyer for the men's breakfast is couples. The small group is couples. The jokes are about wives. A single man walks in and feels like he showed up to someone else's party. We can quote Paul and still build a lobby with the furniture.
 
-WES: Then we move the furniture. Ask him what he did Tuesday. Ask him who was glad. Put him on a crew. Stop asking about a girl until he brings her up. If the flyer is all couples, change the flyer. If the jokes are all wives, tell a different joke. A man should be able to walk into a Thursday and not feel like a plus-one who never arrived.
+WES: Then we move the furniture. Ask him who sat across from him Tuesday. Ask him who was glad. Put him on a crew. Stop asking about a girl until he brings her up. If the flyer is all couples, change the flyer. If the jokes are all wives, tell a different joke. A man should be able to walk into a Thursday and not feel like a plus-one who never arrived.
 
 ---
 
@@ -180,7 +180,7 @@ JONATHON: Wait, back up. You asked the car one three times. Are you actually don
 
 WES: Done. If he answers, I'll answer. If he doesn't, I still sent the right question. What about you? What's hard at work, or "Anybody special?" in a better shirt?
 
-JONATHON: What's hard at work. Then I'm asking him to be one of the men at Theo's morning. That's eight years out. He can say no. At least it won't be the lobby question. Can I ask you something hard?
+JONATHON: What's hard at work. Then I'm asking him to be one of the men at Theo's morning. That's eight years out. He can say no. At least it won't be the lobby question. Are you living the day you have, or sitting in the lobby?
 
 WES: Go.
 
@@ -188,7 +188,7 @@ JONATHON: Are you going to chase "thanks" if he writes it, or sit with a short a
 
 WES: [beat] Sit with it. He said don't fix it. So I won't. The text is about the song. Look around your week. If you've got a single man in your life, notice which questions you ask. If they all point at a missing woman or a missing car, you're telling him he isn't here yet.
 
-JONATHON: And if he writes back nope out of habit, I'll ask again, because I trained him to expect the lobby question. I can untrain it. That's assigned too. What are you picking, for real?
+JONATHON: And if he writes back nope out of habit, I'll ask again, because I trained him to expect the lobby question. I can untrain it. That's assigned too. The day you have, or another hour in the lobby?
 
 WES: The text. No car. No girl. No paragraph. If you're single, name one way you've been living like you're in the lobby. Then do one assigned thing this week that has nothing to do with finding a wife. A grandmother. A crew. A younger man. A church you join instead of visit. Write it down. Tell one man.
 
@@ -200,13 +200,13 @@ JONATHON: [laughs] Asking. This week. Text. He can say no. I'm not announcing a 
 
 WES: If you're divorced or widowed, take one Tuesday back. Not a dating plan. A Tuesday. Somebody who needs you in the room. Look around your house this week and pick the person you've been waiting to feel ready to serve.
 
-JONATHON: Then I send the work question on a night that already has a meeting. Does that sound like a quota?
+JONATHON: Then I send the work question on a night that's already stacked. Does a work text on a stacked night sound like I'm recruiting men out of the lobby?
 
-WES: [laughs] It sounds like a man who knows his calendar. Ask inside the busy, or you never will. That's the whole takeaway. You're not in the lobby. Live the day you have.
+WES: [laughs] That sounds like living the day you've got, not the lobby. Ask while the calendar is full, or the ask never happens. That's the whole takeaway. You're not in the lobby. Live the day you have.
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. You're not in the lobby. You're already assigned.
+WES: Keep this: you're not in the lobby. You're already assigned. You're not in the lobby. You're already assigned.
 
 JONATHON: And stop asking a man if his real life has started. Ask what he did Tuesday.
 

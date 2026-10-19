@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,984 (about 19:54 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,979 (about 19:52 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 30 lines (54% of words). JONATHON 28 lines (46% of words), 1 under 12 words (3.6%) |
 | Focus mark | Stop Waiting |
@@ -92,7 +92,7 @@ JONATHON: Say the word. Then don't punish her for saying it. I would have gotten
 
 ## SEGMENT 3 · The Word
 
-WES: We're about halfway, and I want the Bible open, because the heart is the well, not the screen. Proverbs four, verse twenty-three.
+WES: Halfway through this one, Proverbs four is the well, not the screen. Verse twenty-three.
 
 JONATHON: I've used guard your heart as a reason to hide. That's not what it means. Hiding is how I got a third screen and a couch nobody sits on. So which is it? Guard the spring, or hide until you look clean?
 
@@ -104,7 +104,7 @@ JONATHON: Everything you do flows from it. Including the way I coach first base.
 
 WES: Then be in the dirt. Guarding your heart this week might look like grayscale, or a charger in a hallway, or twenty minutes of porch. We will give you the tool Friday. Today is the name. Itch or drift. Which one is yours. The itch is the thing you keep reaching for. The drift is the way you leave without standing up. Some men have both. Name the one that owns eight to ten. I've been naming other men's screens for years and leaving my radar alone because a radar looks like weather, and weather looks like homework. It's not homework. It's a way to stay slightly gone. If your thing looks responsible, a forecast, a score, a work email at nine, I want you to be more suspicious of it, not less. The respectable drift is the one that lasts fifteen years.
 
-JONATHON: I told Dani the verse this week and she said, "Then stop refreshing the leaderboard in your head at bath." She's right. I can be in the dirt at first base and still be in a pocket I didn't take out of my jeans. The heart can leave while the body stays. That's the part that scares me more than a late site, because nobody can see it and I can still collect credit for being present. Ruby can see it. She always can. If I'm gone she looks at me the way she looked at the drawer. I don't want that look on a Saturday in March.
+JONATHON: When I brought her the verse she answered, "Then stop refreshing the leaderboard in your head at bath." She's right. I can be in the dirt at first base and still be in a pocket I didn't take out of my jeans. The heart can leave while the body stays. That's the part that scares me more than a late site, because nobody can see it and I can still collect credit for being present. Ruby can see it. She always can. If I'm gone she looks at me the way she looked at the drawer. I don't want that look on a Saturday in March.
 
 ---
 
@@ -116,7 +116,7 @@ JONATHON: Yeah, here's my problem. A man is going to hear porn and radar and thi
 
 WES: Draw it. Rest is a gift. A video can be rest. The drift is when she asks three times and you don't hear her. The itch is when the thing you reach for owns the hour you said belonged to them. Rest looks at a person. Drift looks at a glass. I'm not coming for your tractor. I'm coming for the third ask.
 
-JONATHON: I don't totally buy a clean line yet. I told a young man I've been there, and I won't tell this room the rest. Some guy is going to want the story so he can measure his against mine. I'm not giving him a scoreboard. Is that hiding, or is that a fence?
+JONATHON: I'm not sold on a clean line yet. I told a young man I've been there, and I won't tell this room the rest. Some guy is going to want the story so he can measure his against mine. I'm not giving him a scoreboard. Is that hiding, or is that a fence?
 
 WES: That's a fence. Don't give him a scoreboard. Give him a number and a roommate and a Thursday text. The details that make you look honest can also become a new plaque. You already know about plaques.
 
@@ -132,9 +132,9 @@ JONATHON: I keep wanting a clean category. Itch is dirty. Drift is sad. One I ca
 
 ## SEGMENT 5 · What we're actually doing
 
-WES: We've got a little under ten minutes on the actual week. I'm on the porch after supper, no phone, twenty minutes. If it rains I sit in the garage with the door open. I told my wife the word is still the fog. She has permission to say it. I won't get short when she does.
+WES: Ten minutes on the actual week now. I'm on the porch after supper, no phone, twenty minutes. If it rains I sit in the garage with the door open. I told my wife the word is still the fog. She has permission to say it. I won't get short when she does.
 
-JONATHON: I'm texting my nephew every Thursday. Day five today. I told him slip isn't the end. Silence is closer to the end. I'm also putting my charger in the hallway starting tonight, because the nightstand is a recliner I can reach without standing. Ruby already approved the hallway. She said it like a sheriff. Can I ask you something hard? Are you going to sit the porch if it rains, or is the garage the new radar?
+JONATHON: I'm texting my nephew every Thursday. Day five today. I told him slip isn't the end. Silence is closer to the end. I'm also putting my charger in the hallway starting tonight, because the nightstand is a recliner I can reach without standing. Ruby already approved the hallway. She said it like a sheriff. Is the itch the thing, or is the drift? Are you going to sit the porch if it rains, or is the garage the new radar?
 
 WES: The garage with the door open is still a porch. Radar would be the door shut. Sunday is Mom's first pot roast in a long time. We will tell you Friday who came and who prayed. I want that on the calendar so I don't drift past a table I already said yes to.
 
@@ -156,7 +156,7 @@ JONATHON: If you live alone, tell a roommate or a brother. If you have no one, t
 
 [BOARD: Name the pattern. Calendar an hour tonight.]
 
-WES: Look around your house this week. If a woman has to ask three times, you already have your card. If a boy is sitting on a couch nobody uses, you already have your hour. Don't shop for a nicer sin. The first one that makes your thumb restless is the assignment. I keep wanting to pick a sin from 2011 so I can feel like I already beat this. 2011 is done. Wednesday isn't. Wednesday I didn't hear her twice, and then I didn't hear her a third time, and then she said the fog. That's the assignment. Not a memoir. A Wednesday. Write the Wednesday. Tell her. Sit on the porch. If you skip the porch, say you skipped it. Don't tell a prettier story on Friday than the one you lived on Wednesday. We've already had enough plaques. Write the true Wednesday. Then sit down anyway, even if the chair is cold and you already want the radar back.
+WES: Watch where the itch turns into a drift. If a woman has to ask three times, you already have your card. If a boy is sitting on a couch nobody uses, you already have your hour. Don't shop for a nicer sin. The first one that makes your thumb restless is the assignment. I keep wanting to pick a sin from 2011 so I can feel like I already beat this. 2011 is done. Wednesday isn't. Wednesday I didn't hear her twice, and then I didn't hear her a third time, and then she said the fog. That's the assignment. Not a memoir. A Wednesday. Write the Wednesday. Tell her. Sit on the porch. If you skip the porch, say you skipped it. Don't tell a prettier story on Friday than the one you lived on Wednesday. We've already had enough plaques. Write the true Wednesday. Then sit down anyway, even if the chair is cold and you already want the radar back.
 
 ---
 
@@ -166,7 +166,7 @@ WES: Carry this. Guard the spring. Name the itch or the drift. Then do one contr
 
 JONATHON: And if a young man texts you at 1:14, pick up. Tomorrow is how we lose them.
 
-WES: Friday we check the porch and the charger. Until then: a card, a person, an hour. 988 if you need it.
+WES: Friday we check whether the porch happened, and whether the charger moved. Until then: a card, a person, an hour. 988 if you need it.
 
 JONATHON: Go name yours, then tell us at walksteadfast.com, and find us at @steadfastwalk.
 

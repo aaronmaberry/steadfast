@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,800 (about 18:40 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,807 (about 18:43 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 37 lines (51% of words). JONATHON 35 lines (49% of words), 4 under 12 words (11.4%) |
 | Focus mark | Pick Up the Weight |
@@ -22,7 +22,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 ## OPEN (word for word)
 WES: A man at the table went to the drive-through Saturday. Large fry. Large shake. He didn't comment.
 
-JONATHON: And she talked six minutes about a show he has never heard of. He called you like it was a conversion.
+JONATHON: And she talked six minutes about a show he has never heard of. He treated the drive-through like a conversion story.
 
 [STING 2s]
 
@@ -44,7 +44,7 @@ WES: Let's take the next few minutes on a fish and a farm road, because both hou
 
 JONATHON: Beside Ruby's sticky note. Your brother released the fish. On the way home she named it Steve. It looked like a Steve. Bedtime prayers now include, and help Steve, right after evening, Chris. I didn't laugh. I wanted to. I let a seven-year-old name a released fish and then ask God to help it. That's a better theology than most of my Monday calls.
 
-WES: Saturday my youngest drove me to buy feed. A funeral procession on the farm road, about twenty cars. He pulled onto the gravel, cap off, held on his knee, till the last car passed. Then he asked for a Coke. He was six when my dad died. He got the knee from me. I didn't know I did the knee. I said your granddad used to do that. He said, I know. You do it. I sat there with a Coke I had not earned and tried not to cry in a boy's truck.
+WES: Saturday my youngest drove me to buy feed. A funeral procession on the farm road, about twenty cars. He pulled onto the gravel, cap off, held on his knee, till the last car passed. Then he asked for a Coke. He was six the year my dad died. He got the knee from me. I didn't know I did the knee. I said your granddad used to do that. He said, I know. You do it. I sat there with a Coke I had not earned and tried not to cry in a boy's truck.
 
 JONATHON: He learned a liturgy you didn't know you were teaching. That's how sons work. They copy the thing you never announced. They also copy the nickname you didn't notice. I've been copying a word since I was nine and handing it to my kids like it was mine.
 
@@ -59,7 +59,7 @@ WES: Saturday I sat him on the porch steps. One step up, because of my knees. Hi
 
 JONATHON: Sunday you called the oldest.
 
-WES: Twenty-one. I said I'm proud of you. Not of a thing you did. You. He said, are you sick. I said no. He said huh. Then thanks, Dad. Fifteen minutes on a breaker panel. I let the panel be the rest of the love. I didn't tack on a speech. I've tacked on too many speeches and watched the word die inside them.
+WES: Twenty-one. I said I'm proud of you. Not of a thing you did. You. He said, are you sick. I said no. He said huh. Then thanks, Dad. Fifteen minutes on a breaker panel. I let the breaker panel carry the rest of the love. I didn't tack on a speech. I've tacked on too many speeches and watched the word die inside them.
 
 JONATHON: I typed good call, bud, to Austin and stopped. Bud is my father's word. Birthday and Christmas. Hey, bud. I think the last time he said Jonathon out loud I was nine, in the kitchen, with his keys. At the first Thanksgiving after he left, relatives said I was the man of the house now. They didn't say my name. They said a job. I've been giving my boys a job-word ever since.
 
@@ -89,13 +89,13 @@ JONATHON: Thirty-one. He walked away from a big deal rather than give a dishones
 
 ## SEGMENT 4 · Pushback
 
-WES: Push. The man who says names are just words. And the man whose father never said proud, so he won't either. Which one is sitting in you this week?
+WES: Push. The man who says names are just words. And the man whose father never said proud, so he won't either. Names-are-just-words, or I-won't-say-proud — which one is you?
 
 JONATHON: The leftover one. Names are how a boy finds himself in a room. If the only word he gets is a leftover, he will spend years trying to guess whether he's a person or a job. I guessed job. I don't want that for Theo. Words aren't just words. Isaiah didn't think so.
 
 WES: I used my dad's silence as a reason to stay silent. That's a cheap inheritance. You can break it on a porch in twenty seconds and a boy can still say okay and go inside. The break still happened. Don't wait for a movie reaction. You will use the missing movie as an excuse to never speak.
 
-JONATHON: The man who was called man of the house at nine thinks a name is a luxury. It's not. A name is how you give a boy his age back. You're not the man of the house. You're nine. Nobody said that to me. I'm trying to say the opposite to my son by saying Theo like it's enough.
+JONATHON: The man who was called man of the house at nine thinks a name is a luxury. It's not. A name is how you give a boy his age back. You are nine, not the man running this house. Nobody said that to me. I'm trying to say the opposite to my son by saying Theo like it's enough.
 
 [BOARD: The floor teaches first.]
 
@@ -118,7 +118,7 @@ WES: Can I tell you the oldest without tacking on a speech?
 
 JONATHON: Go. Then I'll tell you the keys.
 
-WES: Twenty-one. I said I'm proud of you. Not of a thing you did. You. He said, are you sick. I said no. He said huh. Then thanks, Dad. Fifteen minutes on a breaker panel. I let the panel be the rest of the love. I've tacked on too many speeches and watched the word die inside them.
+WES: Twenty-one. I said I'm proud of you. Not of a thing you did. You. He said, are you sick. I said no. He said huh. Then thanks, Dad. Fifteen minutes on a breaker panel. I let the breaker panel carry the rest of the love. I've tacked on too many speeches and watched the word die inside them.
 
 JONATHON: I think the last time my father said Jonathon out loud I was nine, in the kitchen, with his keys. Birthday and Christmas it was hey, bud. At Thanksgiving they said I was the man of the house. They didn't say my name. They said a job. I'm trying to say the opposite to Theo by saying Theo like it's enough. Did the youngest know he was doing the knee?
 
@@ -136,15 +136,15 @@ JONATHON: Wait, back up. Are you talking about me and bud, or the guy whose fath
 
 WES: Both. You tallied thirty-four. Are you actually going to say Theo at bath, or are you going to send Louisiana a lecture and skip the boy?
 
-JONATHON: I'm not skipping the bath. This week is Theo and Ruby and a fridge with Steve on it. Can I ask you something hard?
+JONATHON: I'm not skipping the bath. This week is Theo and Ruby and a fridge with Steve on it. Will you say his name out loud tonight?
 
 WES: Go.
 
 JONATHON: Are you going to say proud to his face again, or was the porch a one-time scene you get to retire?
 
-WES: [beat] I've got to say it every time or I'll use the missing movie as a way out. He said okay. Ten seconds later, thanks. I wanted a longer scene. I didn't get it. The break still happened. What are you actually deleting?
+WES: [beat] I've got to say proud every time or I'll use the missing movie as an exit. He said okay. Ten seconds later, thanks. I wanted a longer scene. I didn't get it. The break still happened. What are you actually deleting?
 
-JONATHON: Bud, when it's doing a job a name should do. The tally is down to nine. Nine is still a lot. Nine isn't thirty-four. If I pick three I'll do none. One name at bath.
+JONATHON: Bud, when it's doing a job a name should do. The tally is down to nine. Nine is still a lot. Nine isn't thirty-four. If I keep nine names in the tally I will say none at bath. One name at bath.
 
 WES: That's fair, but— no, don't aim at zero so you can fail and quit.
 
@@ -160,11 +160,11 @@ JONATHON: I'm trying not to. Bud was warmth in my head. It was a ghost. He has n
 
 WES: Good. Say it inside the busy. I rationed proud for years. There is always another season.
 
-JONATHON: Then I put his name on a Tuesday that already has a meeting. The rep too. I said his name first on a Monday call. He said thanks, boss. I didn't say bud. Does that sound like I'm making a quota out of a bath?
+JONATHON: Then I say Theo at bath even if Tuesday already has a call stacked on it. The rep too. I said his name first on a Monday call. He said thanks, boss. I didn't say bud. Does saying Theo at bath sound like I'm chasing a tally?
 
-WES: [laughs] It sounds like a man who knows his calendar. Put the name in the room you're already in. Work is allowed to be a place you practice a name.
+WES: [laughs] That sounds like a name practiced in the room you're already in. Work is allowed to be a place you practice a name.
 
-JONATHON: What are you picking, for real?
+JONATHON: Bud at bath, or another week of the tally?
 
 WES: His name first. Then one true thing. Proud of the man you're turning into. Not of a thing. And I'll watch my mouth the way he watched my knee.
 
@@ -172,11 +172,11 @@ JONATHON: Theo. Not bud. That's the whole takeaway. Say his name. Say the true t
 
 WES: My granddad called me Sport. Warmth and a hole. Both can be true. A nickname can be love. A nickname can also be how a man avoids the weight of a real name. Know which one you're doing.
 
-JONATHON: Ruby asked why I keep saying our names. I sound like a teacher. That's fine. A teacher is better than a ghost. The bluegill is Steve. Are you going to let okay be enough on the porch next time?
+JONATHON: Ruby asked why I keep saying our names. I sound like a teacher. A teacher is better than a ghost. The bluegill is Steve. Are you going to let okay be enough on the porch next time?
 
 WES: I have to. If I wait for a movie I'll never speak. Name first. True thing. Let him leave. I'm trying to watch my mouth the way he watched my knee.
 
-JONATHON: Bedtime prayers now include, and help Steve, right after evening, Chris. I wanted to laugh. I didn't. A seven-year-old named a released fish and then asked God to help it. That's a better theology than most of my Monday calls. If I have no son one week, I'll still say a younger man's name. A nephew is text. I'm not hiding inside a job-word because the week got loud. Will you say it to the twenty-one-year-old again, or only when a breaker panel gives you cover?
+JONATHON: Bedtime prayers now include, and help Steve, right after evening, Chris. I wanted to laugh. I didn't. A seven-year-old named a released fish and then asked God to help it. That's better theology than most of my Monday calls. If I have no son one week, I'll still say a younger man's name. A nephew is text. I'm not hiding inside a job-word because the week got loud. Will you say it to the twenty-one-year-old again, or only when a breaker panel gives you cover?
 
 WES: Again. Not of a thing. You. Thanks is allowed. A speech is how I kill it. Men believe numbers when they won't believe a feeling. Thirty-four down to nine is a number I trust more than a mood. Don't wait for a movie reaction. You'll use the missing movie as an excuse to never speak.
 
@@ -190,7 +190,7 @@ JONATHON: Don't wait for a movie. I used the missing movie for years. I'm deleti
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. Say his name. Say the true thing. Don't ration proud until a hospital bed.
+WES: Hold this: say his name. Don't ration proud. Say his name. Say the true thing. Don't ration proud until a hospital bed.
 
 JONATHON: And delete the nickname if it's doing a job a name should do.
 

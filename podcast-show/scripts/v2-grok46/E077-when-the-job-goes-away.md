@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 3,195 (about 21:18 at 150 wpm, before laughs and pauses) |
+| Spoken words | 3,199 (about 21:20 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 58 lines (52% of words). JONATHON 55 lines (48% of words), 2 under 12 words (3.6%) |
 | Focus mark | Stop Waiting |
@@ -84,7 +84,7 @@ WES: Sunday my wife and I will talk through what we would do if my job went. I w
 
 ## SEGMENT 4 · The Word
 
-WES: I've got a little under ten minutes, and I want the Bible open. Matthew six, verse thirty-four.
+WES: Under ten. When the job goes. I want the text, not my story first. Matthew six, verse thirty-four.
 
 JONATHON: "Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own."
 
@@ -92,13 +92,13 @@ JONATHON: "Therefore do not worry about tomorrow, for tomorrow will worry about 
 
 WES: Tomorrow stole 2009. Each day has a seven-year-old, a Friday to finish, a library table. Worry is how you miss the day you still have.
 
-JONATHON: I wrote regional manager first on my three and crossed it out. I'm Dani's husband. I'm Ruby and Theo's dad. I'm a man God went looking for at twenty-nine. That's on a sticky note in the truck console.
+JONATHON: I wrote regional manager first on my three and crossed it out. I'm Dani's husband. I'm Ruby and Theo's dad. I'm a man Christ came after at twenty-nine. That's on a sticky note in the truck console.
 
 WES: Context in two sentences. Jesus has just talked about birds and lilies and seeking the kingdom first. Then he says tomorrow will do its own worrying. You aren't required to help it.
 
 [BOARD: Philippians 4:6 (NIV) · "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God."]
 
-JONATHON: I've been anxious about a region like it was my name. Can a sticky note actually dethrone a title, or am I going to peek at the org chart by Thursday?
+JONATHON: I've been anxious about a region like it was my name. Will a console note knock a title off my chest, or will I peek at the org chart by Thursday?
 
 ---
 
@@ -108,7 +108,7 @@ WES: This week's challenge. Write three I'm sentences that would still be true i
 
 JONATHON: If you still have the job, talk through the if with your wife before you need it. If you don't, get up and go to the library in clothes that tell the truth about you. If you're 22, your name isn't topping out.
 
-WES: Look around your house this week. The job was never your name. I forgot a seven-year-old proving it. I'm not doing that again.
+WES: Look at the job-shaped hole and the table that remains. The job was never your name. I forgot a seven-year-old proving it. I'm not doing that again.
 
 JONATHON: I'll buy lunch. I'll keep the sticky note where a title used to live in my head.
 
@@ -160,7 +160,7 @@ JONATHON: Did hearing that late make you mad at her for hiding it, or mad at you
 
 WES: Mad at the costume, then proud. She wasn't going to let you kids see her sit home. Then a pharmacy for eighteen years. That's a name that outlived a badge.
 
-JONATHON: I carried we don't have enough for years from a night I saw her crying over bills. A sticky note is how I put that down. I'm still putting it down.
+JONATHON: I carried we don't have enough for years from a night I saw her crying over bills. I put that sentence on paper so it stops running my mouth. I'm still putting it down.
 
 ---
 
@@ -190,13 +190,13 @@ JONATHON: I would have read him the glove-box speech. That's heat wearing paper.
 
 ## SEGMENT 12 · More on a 7
 
-WES: My opinions were on a folded notepad in the glove box since May. I will throw them away unread. That's the only way that speech can die. Reading it would have been a second job loss, his.
+WES: My opinions were on a folded notepad in the glove box since May. I will throw them away unread. Unread in a bin is that speech's funeral. Reading it would have been a second job loss, his.
 
 JONATHON: Are you sure unread is love? Because I think unread can also be a father hiding from his own mouth so he can look gentle.
 
 WES: It can be hiding. I'm naming that. The porch was for me. He got thank you and it's yours. That's enough sentence. My opinions were never his assignment.
 
-JONATHON: I'll throw my speech away. If I fish it out of a bin I will tell you I fished it. I want a man who will not clap for the fishing.
+JONATHON: I'll throw my speech away. If I pull the notepad out of trash I will say I pulled it. I want a man who will not clap for the fishing.
 
 ---
 
@@ -214,9 +214,9 @@ JONATHON: I'll seek first and still make the calls. If I baptize sitting on a co
 
 ## SEGMENT 14 · More on library 9
 
-WES: I wrote regional manager first on my three and crossed it out. I'm Dani's husband. I'm Ruby and Theo's dad. I'm a man God went looking for at twenty-nine. That's on a sticky note in the truck.
+WES: I wrote regional manager first on my three and crossed it out. I'm Dani's husband. I'm Ruby and Theo's dad. I'm a man Christ came after at twenty-nine. That's on a sticky note in the truck.
 
-JONATHON: [laughs] You watched me cross a title like it was a conversion. Did crossing it actually move it out of my chest, or just off the paper?
+JONATHON: [laughs] You sat there while I crossed a title like baptism. Did crossing it actually move it out of my chest, or just off the paper?
 
 WES: Paper first. Chest later. Crossing it is a start. A title will crawl back. That's why it lives in a console where I can see the ink, not in a speech I give on a porch.
 
@@ -242,7 +242,7 @@ WES: If you still have the job, talk through the if with your wife before you ne
 
 JONATHON: Did you avoid the conversation because you thought talking about losing the job would make it happen? Because I treat some talks like hexes.
 
-WES: Yes. Superstition in a grown man. Asking didn't summon a layoff. It summoned a keel. Stubborn, she said. That one's going to get you through October.
+WES: Yes. Superstition in a grown man. Asking didn't summon a layoff. It summoned a keel. Stubborn, she said. That's what will carry him through the fall.
 
 JONATHON: I'll ask Dani the if this week. If I joke it off I will come back and ask it straight. Jokes are how I keep a title on the paper in small letters.
 
@@ -346,7 +346,7 @@ JONATHON: I'll listen past the first minute. If I joke stubborn I will unsay the
 
 ## SEGMENT 25 · More on a 20
 
-WES: Write the three. Read them. Then live the day you still have. Don't ask any luck. Ask how he's.
+WES: Write the three. Read them. Then spend the hours you still have. Don't ask any luck. Ask how he's.
 
 JONATHON: Ask me Friday whether I bought lunch and whether the sticky note is still honest, not decorated.
 

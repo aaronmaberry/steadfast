@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 2,103 (about 14:01 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,162 (about 14:25 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 35 lines (55% of words). JONATHON 32 lines (45% of words), 4 under 12 words (12.5%) |
 | Focus mark | Go First |
@@ -44,7 +44,7 @@ JONATHON: And I'll tell you why I washed a lasagna pan twice and still felt like
 
 ## SEGMENT 1 · The little ones
 
-WES: Let's take the next few minutes on the porch, because Friday is the receipt. Wednesday night I asked, "What else have you told me that I didn't hear?" She sat there a second and said, "Do you want the little ones or the real one?"
+WES: Let's use the next stretch on the porch question, because Friday is when we see if I heard her. Wednesday night I asked, "What else have you told me that I didn't hear?" She sat there a second and said, "Do you want the little ones or the real one?"
 
 JONATHON: That's a loaded menu. Wait, back up. Did you pick the little ones so you could feel brave without getting wet?
 
@@ -82,9 +82,9 @@ JONATHON: I'll take "I still go" over a testimony. The man who won't give you a 
 
 [BOARD: Proverbs 27:23 (NIV) · "Be sure you know the condition of your flocks, give careful attention to your herds;"]
 
-WES: Courting her we walked to the Dairy Queen every Friday, about a mile each way from her mother's house. I knew her daddy's bird dogs and the name she wanted for a daughter. I asked because I wanted her. Then I got her and I sent a letter K. That's the sin under this. Not ignorance. Retirement.
+WES: Courting her we walked to the Dairy Queen every Friday, about a mile each way from her mother's house. I knew the bird dogs at her daddy's place and the girl-name she wanted. I asked because I wanted her. Then I got her and I sent a letter K. That's the sin under this. Not ignorance. Retirement.
 
-JONATHON: I called Dani on the drive home to hear the radio go down. Then I started sending a letter K. She told me she wanted a call sometimes. I thought I was efficient. I was leaving the well and calling it work.
+JONATHON: I rang Dani on the commute so I could hear the volume fall. Then I started sending a letter K. She said she wanted a phone call now and then instead of a K. I thought I was efficient. I was leaving the well and calling it work.
 
 ---
 
@@ -106,11 +106,11 @@ WES: Context in two sentences. James is talking about the word planted in you, a
 
 ## SEGMENT 4 · Tuesdays out loud
 
-WES: Your box. Dani. And I want the kitchen, not the cleaned-up version.
+WES: Your box. Dani. And I want the lasagna sink, not the tidy version.
 
 JONATHON: Monday at the dishes. A lasagna pan. I said, "Part of me heard that you were leaving, and I'm sorry." She set the towel down. She said, "I thought you didn't want me to." Then she said, "If I get in, it's Tuesday nights. You'll have the kids every Tuesday. I need you to be okay with that out loud. Not quiet."
 
-WES: Quiet is how you make her carry your fear. Did you say Tuesdays out loud, or just wash the pan?
+WES: Silence is how you load your fear onto her back. Did you say Tuesdays out loud, or just wash the pan?
 
 JONATHON: I said, "I'm okay with Tuesdays. I want you to get in." I washed. She dried. She rewashed two plates I had already done. Thursday I asked about the song once. She said, "The high part's still ugly." That was the whole check-in. Tuesdays alone scare me. Ruby's bath. Theo's socks. I said that out loud too, which is new.
 
@@ -120,25 +120,25 @@ JONATHON: Dani's third answer, when I asked what I get right, was, "When you sit
 
 [BOARD: Out loud is how fear puts the bag down.]
 
-WES: Last few minutes on men who say they asked and she said she's fine. Fine is sometimes a locked well. Ask a smaller one. Then sit there. If she tests you with television and a letter K, don't yawn. The degree is behind that door.
+WES: Last few minutes on men who say they asked and she said she's fine. Fine can be a well somebody locked from the inside. Ask a smaller one. Then sit there. If she tests you with television and a letter K, don't yawn. The degree is behind that door.
 
-JONATHON: And if she names the real one and you freeze, write it in front of her. "I'm writing this so I don't lose it." Don't recover with a joke. I almost joked at the lasagna pan. I didn't. That's the most Christian thing I've done this week.
+JONATHON: And if she names the real one and you freeze, write it in front of her. "I'm writing this so I don't lose it." Don't recover with a joke. I almost joked at the lasagna pan. I didn't. That's the most Christian thing I've managed since the lasagna pan.
 
 ---
 
 ## SEGMENT 5 · What we're carrying
 
-WES: Look around your house this week. The woman in it has told you things you filed as preferences. They were maps. I filed a degree under money and lost ten years of a conversation. What are you actually doing, not announcing?
+WES: Look at whether you heard her or built a plan. The woman in it has told you things you filed as preferences. They were maps. I filed a degree under money and lost ten years of a conversation. What are you actually doing, not announcing?
 
-JONATHON: Asking about the song once a week. I won't drive by the store. I will call instead of a letter K at least once. If I fail, I'll say I failed, not that she got quiet.
+JONATHON: Asking about the song once a week. I won't loop the parking lot to check on her. I will call instead of a letter K at least once. If I skip the song question, I'll own the skip, not blame her hush.
 
-WES: I'm sitting with the card. I'm not booking a mountain. I'm not pricing a program. I'm listening first, because I booked a beach for twenty-two years and called it love.
+WES: I'm sitting with the card. I'm not booking a mountain. I'm not pricing a program. I'm sitting with the card first, because I booked a beach for twenty-two years and named it devotion.
 
-JONATHON: Single men, this still belongs to you. Ask one thing you don't know. Then listen like it matters. Don't treat a first date like a deposition.
+JONATHON: Single men, the well job is still yours to practice. Ask her one thing, then write it before you invent a plan. Then listen like it matters. Don't turn a first meal into a witness stand.
 
-WES: Divorced men, you can still retire "What for?" without rewriting the past into a romance. You can still learn to draw with your kids.
+WES: Divorced men, you can still retire "What for?" without painting the old years as a love story. You can still practice drawing deep water with your children.
 
-JONATHON: Older men, if you've been married forty years, ask anyway. She has a Tuesday you have never seen. The water was there the whole time. Somebody has to drop a bucket.
+JONATHON: Older men, if you've been married forty years, ask anyway. She keeps a Tuesday you have never even guessed at. She was already telling me. I just hadn't sat still. Somebody has to drop a bucket.
 
 ---
 
@@ -152,7 +152,7 @@ WES: I've not asked the third one yet. I'm still sitting with the degree. If I s
 
 JONATHON: A younger man at the table asked what questions aren't weird. Weird is asking like a cop. Not weird is asking like a man who wants to stay. If your face is already bored, stay home. If your face is open, the question can be simple.
 
-WES: Look around your house this week. Pick the room where she actually talks. Don't make her come to your truck if her room is the sink. I've been asking in the wrong room for years and then saying she never talks. Where does Dani actually talk?
+WES: Look at whether you heard her or built a plan. Pick the room where she actually talks. Don't make her come to your truck if her room is the sink. I've been dropping the bucket in my truck for years and then claiming she never talks. Where does Dani actually talk?
 
 JONATHON: The sink. A dark garage when she's tired. She does not talk while I'm scrolling scores. I've got to put the phone in the other room before I ask, or I'm not asking. I'm performing a question.
 
@@ -166,13 +166,13 @@ JONATHON: Wait, back up. Are you comparing a letter K to Oklahoma, or are you ac
 
 WES: Sitting. The ceiling stayed dry. She's painting over Oklahoma. That's done. The degree is not a leak I get to patch this week.
 
-JONATHON: Can I ask you something hard?
+JONATHON: Did you hear her, or start a plan?
 
 WES: Go.
 
 JONATHON: If she watched you write it on the card, are you going to turn the card into a plan by Friday, or leave it as hearing?
 
-WES: [beat] Leave it as hearing. She watched me write it. That mattered more than a speech about mountains. What are you picking, for real?
+WES: [beat] Leave it as hearing. She watched me write it. That mattered more than a speech about mountains. Hearing her, or pricing another program?
 
 JONATHON: The leaving sentence already happened. This week it's the call instead of a letter K. I failed the leaving sentence for weeks. I washed pans instead. Monday I said it. She had been carrying "I thought you didn't want me to" the whole time. My silence had a meaning I didn't authorize.
 
@@ -184,7 +184,7 @@ WES: [laughs] No. If you asked and she gave you something small, treat it like a
 
 JONATHON: I can talk about this for twenty minutes and still send a letter K on the drive home, which is why I need a man who will ask me tomorrow whether I called. Will you?
 
-WES: I will. You ask me if I priced a program. I've got about a minute and I want it on you. Pick the question. Not a cute one. Then ask it on a calm night. Then write what she says. Then don't fix it before Monday.
+WES: I will. You ask me if I priced a program. Sixty seconds. Ask her, then write what she said. Pick the question. Not a cute one. Then ask it on a calm night. Then write what she says. Then leave the answer unfixed till Monday.
 
 JONATHON: That's the whole takeaway. Three questions. A bucket. A porch. Hearing is the job. The plan can wait. Go.
 
@@ -192,7 +192,7 @@ JONATHON: That's the whole takeaway. Three questions. A bucket. A porch. Hearing
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. Hearing is the job. The plan can wait.
+WES: Keep this: hearing is the job. The plan can wait. Hearing is the job. The plan can wait.
 
 JONATHON: And if she needs Tuesdays out loud, say them out loud.
 

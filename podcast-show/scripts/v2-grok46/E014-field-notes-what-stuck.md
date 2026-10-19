@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 1,926 (about 12:50 at 150 wpm, before laughs and pauses) |
+| Spoken words | 1,934 (about 12:54 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 23 lines (54% of words). JONATHON 19 lines (46% of words), 1 under 12 words (5.3%) |
 | Focus mark | Work for God's Pay |
@@ -22,7 +22,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 
 ## OPEN (word for word)
 
-WES: My wife asked where I was Wednesday afternoon. I said, "Out." She asked, "Are you buying me a boat?" I said no. She said, "Then I don't care."
+WES: My wife wanted to know where I disappeared to on Wednesday. I said, "Out." She asked, "Are you buying me a boat?" I said no. She said, "Then I don't care."
 
 JONATHON: I got as far as "So, today" with Dani, and she said, "Don't. You'll ruin it." So the hidden thing stays hidden, and Friday isn't a reveal.
 
@@ -70,7 +70,7 @@ WES: I remember the yellow stickers. I remember not knowing who was on mine unti
 
 WES: We're about halfway, and I want a clean list. What stuck in your house, and what did not? You first. Don't give me the pretty version.
 
-JONATHON: The phone off the table at supper stuck. Most nights. Ruby enforces it with a basket she labeled PHONE JAIL. She is seven and she is the sheriff. If I reach, she looks at me like I reached for a drink I quit. The coffee made before Dani gets home stuck, decaf now, because she wrote it on the note and I finally listened. What did not stick is the ten minutes in the morning. I tried to give God ten minutes before the email. I did it nine times in three weeks. The other mornings I opened the leaderboard in my head even after I moved the email. I want that on the record so nobody thinks I became a monk.
+JONATHON: The phone off the table at supper stuck. Most nights. Ruby enforces it with a basket she labeled PHONE JAIL. Ruby is seven, and she runs PHONE JAIL like a sheriff. If I reach, she looks at me like I reached for a drink I quit. The coffee made before Dani gets home stuck, decaf now, because she wrote it on the note and I finally listened. What did not stick is the ten minutes in the morning. I tried to give God ten minutes before the email. I did it nine times in three weeks. The other mornings I opened the leaderboard in my head even after I moved the email. I want that on the record so nobody thinks I became a monk.
 
 WES: Asking before deciding stuck. I asked Mom what she wanted. I asked my wife about the diner. I'm slower now, and it's better. Tuesday PT with Mom stuck. We're side by side on those little tables and she still counts my reps. What did not stick is the clicking ceiling fan in the youngest's room. It has been clicking since winter and I keep saying I'll get to it. I said that about a lot of things before. I'm putting a date on this one. Saturday the twenty-seventh if I can get my son-in-law, and if not, March first. I'm saying it here so I can't turn it into weather.
 
@@ -82,7 +82,7 @@ WES: I'm buying the part. Saturday the twenty-seventh if I can get my son-in-law
 
 JONATHON: I have texted you "Did you do it?" every Thursday since the middle of January. I will keep doing it. That's my Thursday text, and I think every man listening needs one man who will ask that and wait for more than a letter.
 
-WES: That's the tool. The Thursday text. One sentence. Did you do it. Then a real answer. Look around your house this week. Who is allowed to ask you that? If the answer is nobody, that's the next duffel.
+WES: That's the tool. The Thursday text. One sentence. Did you do it. Then a real answer. Look at what actually stuck after six weeks. Who is allowed to ask you that? If the answer is nobody, that's the next duffel.
 
 ---
 

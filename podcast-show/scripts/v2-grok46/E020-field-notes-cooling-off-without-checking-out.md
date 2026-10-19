@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 2,177 (about 14:31 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,182 (about 14:33 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 28 lines (57% of words). JONATHON 23 lines (43% of words), 0 under 12 words (0.0%) |
 | Focus mark | Pick Up the Weight |
@@ -36,7 +36,7 @@ WES: This is Walk Steadfast. I'm Wes Hart.
 
 JONATHON: And I'm Jonathon. Friday we check the box. We don't dress it up.
 
-WES: Tuesday we asked you to name what the anger was guarding and tell one person. If you did it, or if you sat on it, stay. Before we're done I'll tell you what my little brother said when I called on his birthday, and he'll tell you three lines from a notes app he finally said out loud.
+WES: Tuesday we asked you to name what the anger was guarding and tell one person. If you used the twenty minutes, or if you sat on the timer, stay. Before we're done I'll tell you what my little brother said when I called on his birthday, and he'll tell you three lines from a notes app he finally said out loud.
 
 JONATHON: And I'll tell you why garage arguments are the worst arguments, and what a twenty-minute rule saved in a marriage that was three years old.
 
@@ -80,13 +80,13 @@ WES: I'll call anyway. He said don't make it a thing. I will make it a call. Sin
 
 ## SEGMENT 2 · From the table
 
-WES: We're about halfway, and I want the question. Is it ever right to be angry?
+WES: This is the middle, and I want the anger question on the table. Is it ever right to be angry?
 
 JONATHON: After the bald tires I wanted the answer to be yes, always, because I liked how clean that heat felt. After the spreadsheet I wanted the answer to be no, never, because I looked like a child. I need the middle.
 
-WES: Yes. Some anger is a smoke alarm. Jesus got angry. Paul said be angry and don't sin. Bald tires under kids. A man who won't stop putting his hands on people. A lie that's hurting a room. That heat should move your feet. It should not move your mouth first and your feet never. The test is what it buys by Wednesday. Tires. A call. A doctor. A card. If it buys a speech and a disappeared man, it wasn't the alarm. It was the horn.
+WES: Yes. Some heat is a working alarm, not a personality. Jesus got angry. Paul said be angry and don't sin. Bald tires under kids. A man who won't stop putting his hands on people. A lie that's hurting a room. That heat should move your feet. It should not move your mouth first and your feet never. The test is what it buys by Wednesday. Tires. A call. A doctor. A card. If it buys a speech and a disappeared man, it wasn't the alarm. It was the horn.
 
-JONATHON: And if it's the horn, the twenty minutes isn't a reward. It's a fence. I used to call the truck cooling off. It was checking out. I would leave, scroll, come back with a better argument and a colder face. Dani would still be standing in the same kitchen with the same sentence. I had used the time to load, not to name. That's why the rule has a return. No return is just abandonment with a clock. I told Dani that this week and she said, "Then stop taking the phone with you." She's right. The phone turns twenty minutes into a research project on why I'm correct. I left it on the counter last night and I walked to the mailbox and back. I came in and said, "I felt dumb about the spreadsheet." She said, "I know." Then we ate leftover ham. That's a better ending than a garage.
+JONATHON: And if it's the horn, the twenty minutes isn't a reward. It's a fence. I used to call the truck cooling off. It was checking out. I would leave, scroll, come back with a better argument and a colder face. Dani would still be standing in the same kitchen with the same sentence. I had used the time to load, not to name. That's why the rule has a return. No return is just abandonment with a clock. Dani heard that this week and answered, "Then stop taking the phone with you." She's right. The phone turns twenty minutes into a research project on why I'm correct. I left it on the counter last night and I walked to the mailbox and back. I came in and said, "I felt dumb about the spreadsheet." She said, "I know." Then we ate leftover ham. That's a better ending than a garage.
 
 WES: If you live alone, the return is a text to a brother, or a walk around the block and then the three questions with the lights out. You still don't get to disappear into a screen and call it wisdom. The screen will take the twenty minutes and then the next two hours. I know. I've given it both.
 
@@ -96,7 +96,7 @@ WES: If you live alone, the return is a text to a brother, or a walk around the 
 
 ## SEGMENT 3 · The Word
 
-WES: We've got a little under eight minutes, and I want one verse we can walk. James one, verse nineteen.
+WES: Eight minutes left, and I want James we can walk. Chapter one, verse nineteen.
 
 JONATHON: This is the one I need on a card in the truck, because my mouth is faster than my ears and my ears are faster than my feet. Do you actually hear "slow to speak" as stay in the room, or as go ice-cold until Thursday?
 
@@ -116,11 +116,11 @@ WES: Gone is checking out. We're not blessing gone. We're blessing twenty minute
 
 ## SEGMENT 4 · The twenty-minute rule
 
-WES: Last few minutes on the tool. Twenty minutes. You may leave the room. You tell her you're leaving and when you will be back. You don't take the fight to the garage to win it louder. You don't take the phone to load a better case. You walk. You name what it's guarding, out loud, even if only God hears it. Then you come back and you say the smaller word. Scared. Late. Dumb about money. Hurt. Then you stop. No because. If she needs more, she can ask. If you need a counselor, you call one this week, not after a nicer month.
+WES: Last few minutes on the twenty-minute rule. Twenty minutes. You may leave the room. You tell her you're leaving and when you will be back. You don't take the fight to the garage to win it louder. You don't take the phone to load a better case. You walk. You name what it's guarding, out loud, even if only God hears it. Then you come back and you say the smaller word. Scared. Late. Dumb about money. Hurt. Then you stop. No because. If she needs more, she can ask. If you need a counselor, you call one this week, not after a nicer month.
 
 JONATHON: We got this from a counselor in year three, when I was still the man who left and she was still the woman who followed. It felt stupid. It felt like a kitchen timer for grown people. It's the reason we still have a kitchen. I set an actual timer now, because I will negotiate nineteen into forty. Does that sound like a kitchen timer for grown people if I say it that way?
 
-WES: [laughs] It sounds like a man who knows his calendar. Put twenty on a Tuesday that already has a meeting.
+WES: [laughs] That sounds like twenty minutes with a real clock. Put twenty on a Tuesday that already has a meeting.
 
 JONATHON: The beep isn't spiritual. The beep is kind. I come back on the beep even if I don't feel finished. Feelings aren't the door. The door is the door.
 

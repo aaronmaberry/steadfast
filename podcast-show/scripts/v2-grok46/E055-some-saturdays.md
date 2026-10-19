@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 3,170 (about 21:08 at 150 wpm, before laughs and pauses) |
+| Spoken words | 3,191 (about 21:16 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 53 lines (50% of words). JONATHON 47 lines (50% of words), 4 under 12 words (8.5%) |
 | Focus mark | Work for God's Pay |
@@ -54,7 +54,7 @@ JONATHON: She said, "Daddy, are you on fire for Jesus?" I said "Some days," beca
 
 WES: Wait, back up. You used your mother's dodge on a seven-year-old who asked you a real question?
 
-JONATHON: I knew it while I was doing it. Later Dani said, "I wanted to hear your answer." I said I didn't have one. She said, "Mine's some days too." She's a nurse on nights. On fire at four in the morning holding somebody's baby, and flat at four in the afternoon trying to sleep through Theo. I thought she was the steady one.
+JONATHON: I knew I was dodging her while the words left my mouth. Later Dani said, "I wanted to hear your answer." I said I didn't have one. She said, "Mine's some days too." She's a nurse on nights. On fire at four in the morning holding somebody's baby, and flat at four in the afternoon trying to sleep through Theo. I thought she was the steady one.
 
 WES: If you live with somebody who looks solid, they may be counting some days too, and they've been waiting for you to say it first.
 
@@ -76,7 +76,7 @@ WES: I keep thinking about Mr. Abernathy. Six years of Thursdays at a bad diner 
 
 JONATHON: So the mark today is Work for God's Pay, because if you only work when you feel it, you're working for the feeling. That's a paycheck too. It's just not His.
 
-WES: Look around your house this week. Find the thing you've been waiting to feel like doing. Then notice who already showed up without the feeling.
+WES: Look at the Saturday you keep waiting to feel. Find the thing you've been waiting to feel like doing. Then notice who already showed up without the feeling.
 
 ---
 
@@ -144,7 +144,7 @@ JONATHON: "And he died for all, that those who live should no longer live for th
 
 WES: Quick context. Paul is talking about the love of Christ controlling him. Look at what's not in that verse. No feeling. Facts. He died. He was raised. You live. And you don't live for yourself anymore. The fire's not in your chest. The fire's what He did. Same fact on a flat Tuesday as at the conference in Dallas.
 
-JONATHON: "No longer live for themselves." That's the part that gets me. When I was on fire, I liked how I felt. This says the whole point is it stops being about me.
+JONATHON: "No longer live for themselves." That's the clause that lands on me. When I was on fire, I liked how I felt. This says the whole point is it stops being about me.
 
 WES: If your destiny depends on how you feel about it, it's about your chest. The thing God has for you doesn't need your feelings' permission. You can do it bored, tired, in a truck talking about the bullpen. Paul kept going because of what was true, not because of what he felt.
 
@@ -154,7 +154,7 @@ WES: The feeling's a gift. Ruby's hand motions are a gift. Don't make it the eng
 
 JONATHON: "He died for all." Not for the men who feel it. For the man in the truck. For Virgil. For the kid who doesn't feel called. Same cross. That's why it doesn't move when the feeling moves.
 
-WES: I've got a card in my wallet. Love God out loud, keep the people He gave me, and finish. Not one feeling on it. Love, keep, finish. Verbs. I think the man who wrote it had already been burned once.
+WES: I've got a card in my wallet. Love God out loud, keep the Saturday names, and finish the sheet. Not one feeling on it. Love, keep, finish. Verbs. I think the man who wrote it had already been burned once.
 
 ---
 
@@ -228,7 +228,7 @@ JONATHON: Wait, back up. Every night, or the nights you already feel like a man 
 
 WES: Every night. Friday I'll tell you how many I made. If it's four, I'll say four. I'm not rounding on a conversation about feelings. What about you? Crew sheet, or a speech about Virgil?
 
-JONATHON: Crew sheet through December. Last time I signed one Saturday. This week I'm putting my name on every one I can make, including the rotten-board days. Can I ask you something hard?
+JONATHON: Crew sheet through December. Last time I signed one Saturday. This week I'm putting my name on every one I can make, including the rotten-board days. Are you going Saturday, or waiting to feel fire?
 
 WES: Go.
 
@@ -240,7 +240,7 @@ JONATHON: I'm telling her. A man who's fixed widows' porches every Saturday sinc
 
 WES: That's fair, but— don't make the hand motions the enemy. They're a gift. The notebook is the engine.
 
-JONATHON: [laughs] I won't dunk on the song. I've already used "eat your chicken" once this week. What are you picking, for real?
+JONATHON: [laughs] I won't dunk on the song. I've already used "eat your chicken" once this week. Your name on the sheet, or waiting to feel ready?
 
 WES: Porch. Every night. Name the number Friday. Name one thing God has already put in front of you that you've been waiting to feel like doing. A person, a job, a prayer, a call. Then do it this week without the feeling. Notice afterward whether the feeling showed up. Either way, it counts.
 
@@ -252,15 +252,15 @@ JONATHON: If you're married, on a calm night, ask your wife, "Is there something
 
 WES: She'd say the porch, and she'd be half right. The other half is showing up at six when I don't want to. If you're divorced, find one thing for someone else this month. If you're older and the feeling left, keep going to the table. Somebody younger is watching you show up without it, and that's the lesson he needs most.
 
-JONATHON: Then I put the crew sheet on a Tuesday that already has a meeting. Does that sound like I'm making a quota out of a rotten board?
+JONATHON: Then I write my name on the crew sheet on a Tuesday that's already full. Does signing the crew sheet on a full Tuesday sound like I'm chasing fire?
 
-WES: [laughs] It sounds like a man who knows his calendar. Put your name inside the busy, or you never will. That's the whole takeaway. Some Saturdays. The notebook. Go anyway.
+WES: [laughs] That sounds like your name on a crew sheet, not a feeling. Put your name inside the busy, or you never will. That's the whole takeaway. Some Saturdays. The notebook. Go anyway.
 
 ---
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry out of here. The fire is what He did. Your chest does not get a vote.
+WES: Here's the weight I want in your pocket when you leave. The fire is what He did. Your chest does not get a vote.
 
 JONATHON: And some Saturdays. That's a whole life, if you go on the other ones too.
 

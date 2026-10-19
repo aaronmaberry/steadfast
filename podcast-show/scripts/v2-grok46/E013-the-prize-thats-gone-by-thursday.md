@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,946 (about 19:38 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,958 (about 19:43 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 33 lines (55% of words). JONATHON 30 lines (45% of words), 1 under 12 words (3.3%) |
 | Focus mark | Work for God's Pay |
@@ -44,7 +44,7 @@ JONATHON: And I'll tell you why I moved that email to ten o'clock, which sounds 
 
 ## SEGMENT 1 · The Monday email
 
-WES: Let's take the next few minutes on cheap prizes. Yours first, because you already named the inbox. What does he open before he's been a man in his own house? Not your job. His.
+WES: Cheap prizes get the next few minutes. Yours first, because you already named the inbox. What does he open before he's been a man in his own house? Not your job. His.
 
 JONATHON: The email lands at eight. Rank, dollars, a little arrow. For eleven years I've let that arrow tell me who I'm before I've told my kids good morning. Some Mondays I'm kind in the kitchen. Some Mondays I'm already in a fight with a spreadsheet I didn't write. By Thursday somebody else has the top spot. The prize doesn't even stay the week. I've snapped at Ruby over toast because a number in Indianapolis moved. She didn't know that. She just knew Dad was already gone before he left the house. That's who pays for a cheap prize. Not the regional manager. Your seven-year-old.
 
@@ -66,7 +66,7 @@ JONATHON: I know that move. I spent an hour Thursday after work helping the rep 
 
 [BOARD: A prize that needs a clap is already cheap.]
 
-WES: Look around your house this week. What prize do you reach for before you've been a husband? A number. A name from the front. A notification. If it can't love you back on Thursday, it's not the pay.
+WES: Check the prize you still want by Thursday. What prize do you reach for before you've been a husband? A number. A name from the front. A notification. If it can't love you back on Thursday, it's not the pay.
 
 ---
 
@@ -96,7 +96,7 @@ JONATHON: Marketing is the right word. I market myself to me. That's the sick pa
 
 ## SEGMENT 3 · The Word
 
-WES: We've got a little under fifteen minutes, and I want the Bible open, because Paul already named the pay. Colossians three, twenty-three and twenty-four. I'll read it.
+WES: Colossians three is open with a little under fifteen minutes on the clock, because Paul already named the pay. I'll read twenty-three and twenty-four.
 
 WES: "Whatever you do, work at it with all your heart, as working for the Lord, not for human masters, since you know that you will receive an inheritance from the Lord as a reward. It is the Lord Christ you are serving."
 
@@ -122,7 +122,7 @@ WES: Same. I wanted the church to say "rock" so I wouldn't have to remember I'm 
 
 WES: Mr. Abernathy kept the diner receipts. After he died his daughter found them. On the back of each one, names. Thirty-some men. He prayed for those men by name for years and told no one. I didn't know. I ate with him for six years and I didn't know. That's the pay that lasts. A list nobody clapped for. I've been thinking about that all week, because I want to be the man who is known for being a rock, and he was the man who was known by God for a list in his pocket. If you stacked his life next to a leaderboard, he would lose every Monday. I don't want to lose the way he won. I want the pocket list. I want the quiet names. I want to die and have somebody find out I loved men I never used for credit.
 
-JONATHON: That's better than every plaque in my building. Can I ask you something hard? If his list is the pay, why do you still want the church to say rock?
+JONATHON: That's better than every plaque in my building. Can I push on the prize you still want by Thursday? If his list is the pay, why do you still want the church to say rock?
 
 WES: Because the list is quiet and "rock" is loud, and I still like loud. I keep a short list now, on the back of my index card. I won't say who is on it. If I say who is on it I'm already collecting. The contractor told me he's going to teach welding at the high school at night. He's sixty. He said, "I've made money for forty years. I'd like to do something for a while that nobody pays me much for." That's a man changing prizes on purpose.
 
@@ -142,7 +142,7 @@ JONATHON: That's a clean test. I'll run it this week. If I get short at bath bec
 
 ## SEGMENT 5 · What we're actually doing
 
-WES: We're about halfway through the last stretch. What did you actually do?
+WES: Halfway, and the Thursday prize is already going stale. What did you actually do?
 
 JONATHON: Moved the email. Helped the rep and told nobody. Held the dinner and didn't turn it into a story. I also caught myself wanting someone to notice the car-care coffee I said I'd make. That's the same disease. I've not even made the coffee yet and I already wanted a thank-you.
 
@@ -150,11 +150,11 @@ WES: I declined the invitation to pray from the front. I asked my son-in-law. Af
 
 JONATHON: The hidden thing this week is going to be hidden. I'm not telling you what I did that I won't tell the room. Dani almost got it out of me and she said, "Don't. You'll ruin it." She is right. If I say it here it becomes another plaque.
 
-WES: Same. My wife asked where I was Wednesday afternoon. I said, "Out." She asked if I was buying her a boat. I said no. She said, "Then I don't care." That's a good marriage line, and it also kept me from collecting.
+WES: Same. My wife wanted to know where I'd gone Wednesday afternoon. I said, "Out." She asked if I was buying her a boat. I said no. She said, "Then I don't care." That's a good marriage line, and it also kept me from collecting.
 
 JONATHON: So Friday we report whether we hid something on purpose. That's a weird receipt, and I think it's the right one for this mark.
 
-WES: There's a man I want you to hear. The contractor again. He sat in his truck an hour, then went inside and asked his wife what roof she wanted. She said metal. She had wanted metal for six years. They have a metal roof now. He didn't post it. He told me because I asked about pay. That's the prize that lasts. She walks under a roof he finally heard. He also said he'd been running his house like a job site for thirty years, and she once told him she wasn't on his crew. Teaching welding is his way of working with somebody who is allowed to talk back. I want that sentence in this room. If your house feels like a crew, your prize has already come inside.
+WES: There's a man I want you to hear. The contractor again. He sat in his truck an hour, then went inside and asked his wife what roof she wanted. She said metal. She had wanted metal for six years. There's a metal roof over that house now. He didn't post it. He told me because I asked about pay. That's the prize that lasts. She walks under a roof he finally heard. He also said he'd been running his house like a job site for thirty years, and she once told him she wasn't on his crew. Teaching welding is his way of working with somebody who is allowed to talk back. I want that sentence in this room. If your house feels like a crew, your prize has already come inside.
 
 JONATHON: That's me when I bring the coach voice home. I've already done it. Theo called me on it. I will get to that when we talk shapes. For this week it's enough to say I've used my family as a place to keep winning after the email closed. That's not leadership. That's leftover hunger.
 
@@ -162,7 +162,7 @@ JONATHON: That's me when I bring the coach voice home. I've already done it. The
 
 ## SEGMENT 6 · This week's challenge
 
-WES: Last few minutes on the challenge. Do one thing this week that nobody will clap for. Then don't tell the room. You can tell one man. You can't tell the internet. I'm being strict about that on purpose, because we will turn a hidden thing into a story the first chance we get.
+WES: Last few minutes on the prize that's already going stale. Do one thing this week that nobody will clap for. Then don't tell the room. You can tell one man. You can't tell the internet. I'm being strict about that on purpose, because we will turn a hidden thing into a story the first chance we get.
 
 JONATHON: No, hold on. Who's your one man this week? Because if you pick a man who claps, you've just built a smaller church.
 

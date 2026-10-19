@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 1,921 (about 12:48 at 150 wpm, before laughs and pauses) |
+| Spoken words | 1,930 (about 12:52 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 34 lines (52% of words). JONATHON 29 lines (48% of words), 0 under 12 words (0.0%) |
 | Focus mark | Stop Waiting |
@@ -36,7 +36,7 @@ WES: This is Walk Steadfast. I'm Wes Hart.
 
 JONATHON: And I'm Jonathon. Friday we check the box. We don't dress it up.
 
-WES: Tuesday we asked you for one thing you've been waiting on, a day and a time, told to one man. If you did it, or if you sat on it, stay. Before we're done I'll tell you what my brother said after "Well," and he will tell you what a sales rep said when the truth finally landed.
+WES: Tuesday we asked you for one thing you've been waiting on, a day and a time, told to one man. Whether you moved the thing off the counter, or you still haven't, stay. Before we're done I'll tell you what my brother said after "Well," and he will tell you what a sales rep said when the truth finally landed.
 
 JONATHON: And I'll tell you why a ceramic chicken is about to run your week.
 
@@ -44,7 +44,7 @@ JONATHON: And I'll tell you why a ceramic chicken is about to run your week.
 
 ## SEGMENT 1 · Check the box
 
-WES: Let's take the next few minutes on what we actually did, because Friday is the receipt. I already used the funny letter. You get the rest of me first, then you go.
+WES: Let's take the next few minutes on the counter, because Friday will show if it moved. I already used the funny letter. You get the rest of me first, then you go.
 
 JONATHON: You get the letter, and then you owe the twenty minutes, because "K" isn't the story. The story is what happened after you sat in the truck.
 
@@ -78,7 +78,7 @@ JONATHON: That's twenty years hiding inside a limp. A lot of men listening are w
 
 ## SEGMENT 2 · The other boxes
 
-WES: Box checked on my side. Both of them. Now you, and I want the review first, not the cleaned-up version.
+WES: Box checked on my side. Both of them. Your boxes now, and I want Thursday's review first, not the polished one.
 
 JONATHON: Thursday I sat down with the guy I'd moved three times. I told him the numbers, what has to change, and what I'll do to help. I was braced for him to be mad. He sat there, and then he said, "Thank you. I knew. I've been waiting for somebody to say it."
 
@@ -132,7 +132,7 @@ WES: Then you're not that tired. You're avoiding. If you wouldn't get up for fre
 
 ## SEGMENT 4 · From the table
 
-WES: Look around your house this week. The question men keep sending is the two-tired-people version. Dani coming off three nights. You with the kids and a full day. A pile of dishes. Who goes first?
+WES: Look at the thing still sitting on the counter. The question men keep sending is the two-tired-people version. Dani coming off three nights. You with the kids and a full day. A pile of dishes. Who goes first?
 
 JONATHON: That's actually my house. We stand in the kitchen measuring who had the worse day, and the dishes win every time. Here's my problem with "you go first." What if I'm more tired than she is? Can I say that without sounding like a child?
 
@@ -152,7 +152,7 @@ WES: Kill it. Then do ten minutes. That's the tool, and I brought the chicken.
 
 ## SEGMENT 5 · The ten-minute start
 
-WES: Last few minutes on a tool you can use tonight. This is my wife's ceramic chicken. She's had it since 1999. It's the most reliable thing in our house.
+WES: Last few minutes on the thing on the counter, before it becomes furniture. This is my wife's ceramic chicken. She's had it since 1999. It's the most reliable thing in our house.
 
 JONATHON: You brought a chicken to the table and you want me to take this seriously. Fine. Tell me the rule before I turn this into a joke I can't take back.
 

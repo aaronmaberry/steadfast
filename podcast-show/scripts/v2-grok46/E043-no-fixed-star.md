@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,820 (about 18:48 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,868 (about 19:07 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 39 lines (52% of words). JONATHON 35 lines (48% of words), 2 under 12 words (5.7%) |
 | Focus mark | Go First |
@@ -40,11 +40,11 @@ JONATHON: And I will tell you Dani wants to sing again, and I tried to solve it 
 
 ## SEGMENT 1 · Fort Sam and the back of the stone
 
-WES: Let's take the next few minutes on Monday morning, because I was allowed into a walk I didn't earn. He took the cup with sugar and we walked. Flags on every stone. Scouts had done that Saturday. He stopped at the grave of a man he served with, died nineteen sixty-nine, age twenty-two. He said the name once, aloud, and stood about twenty minutes. Walking back he talked about the traffic on Loop four-ten, how they have ruined it. Then, see you Saturday. Car-care. I don't know the man's story. I don't know why I was allowed. I carried the second coffee and tried not to make it a lesson. Can you live with not knowing?
+WES: Let's take the next few minutes on Monday morning, because I was allowed into a walk I didn't earn. He took the cup with sugar and we walked. Flags on every stone. Scouts had done that Saturday. He stopped at the grave of a man he served with, died nineteen sixty-nine, age twenty-two. He said the name once, aloud, and stood about twenty minutes. Walking back he talked about the traffic on Loop four-ten, how they have ruined it. Then, see you Saturday. Car-care. I don't know the man's story. I don't know why I was allowed. I carried the second coffee and tried not to make it a lesson. Can you live with a walk you didn't earn?
 
 JONATHON: I can if you can. You wanted an invitation in English. You got a time and a gate. That's more than most of us get from older men. I called Shane after I told you I had a half. He said is Ruby okay. I said I'm calling about you. He said that's weird, man. Twenty minutes on the model's anchor chain, stuck two months. Weird is how men say thank you sometimes.
 
-WES: Before dawn I read the back of the courthouse memorial. Seven Vietnam names. Phone flashlight. Two share a last name. I looked them up. Brothers. I've walked past the front of that stone for years. The back is where I should have started. I don't want to be a front-only man anymore.
+WES: Before dawn I read the back of the courthouse memorial. Seven Vietnam names. Phone flashlight. Two share a last name. I looked them up. Brothers. I've walked past the front of that stone for years. The back is where I should have started. I don't want to keep walking the front of that memorial and skipping the back.
 
 JONATHON: Austin bought the mini chips. His son said these are better than last time. He took the credit. I didn't correct him. A man who has been holding pancakes like a life raft is allowed to take credit for chocolate. I'm trying not to turn every kindness into a teaching moment. That's my worst habit.
 
@@ -93,29 +93,29 @@ WES: Good. You tried to be the heading for her life. She asked you to hear a wan
 
 JONATHON: I wrote my heading on one of her yellow sticky notes. Make sure everybody is okay, starting at home. She said okay. Then, starting when. Then do the dishes. That's the most accurate vision review I've ever had. No slide. A sink.
 
-WES: Mine is on the back of an index card under the prayer list. Love God out loud, keep the people He gave me, and finish. Out loud costs me. I still pass on praying out loud at the Thursday table. I'm not going to pretend a card fixed my mouth. The card is the tree. My mouth is still the row.
+WES: Mine is on the back of an index card under the prayer list. Love God out loud, keep the people on the porch, and finish the heading. Out loud costs me. I still pass on praying out loud at the Thursday table. I'm not going to pretend a card fixed my mouth. The card is the tree. My mouth is still the row.
 
 [BOARD: A number is not a north.]
 
 
 ## SEGMENT 5 · Pushback
 
-WES: Push. The man who says vision is for executives. And the man who has a slogan on a wall and a house with no heading. Which one is sitting in you this week?
+WES: Push. The man who says vision is for executives. And the man who has a slogan on a wall and a house with no heading. Vision-is-for-executives, or slogan-on-a-wall — which one is you?
 
-JONATHON: The slogan one, if I'm honest. If you're not an executive you still have a home. A heading can be, I'm home for bath three nights. It can be, I call my mom and ask about her first. It can be, I don't plan my wife's Tuesday nights. That last one is on my page now. Dani said she's going to hold me to it. I want to be held to it.
+JONATHON: The slogan one, if I'm honest. If you're not an executive you still have a home. A heading can be, I'm home for bath three nights. It can be, I call my mom and ask about her first. It can be, I don't plan my wife's Tuesday nights. That last one is on my page now. Dani said she's going to hold me to leaving her Tuesdays alone. I want to be held to it.
 
 WES: A slogan on a wall is how men hide. We had a mission statement at work I could not have quoted if you paid me. I could quote the pecan. I could not quote a heading for my own house until I wrote it on a card. If your wall is louder than your porch, you have decoration.
 
-JONATHON: I steered by the Monday leaderboard. I checked Austin's number before my own. That's a heading I never wrote down and obeyed anyway. Written is better, because then somebody else can see it and tell you when you wander.
+JONATHON: I steered my week by the Monday sales board. I checked Austin's pancake count before I checked my own kids. That's a heading I never wrote down and obeyed anyway. Written is better, because then somebody else can see it and tell you when you wander.
 
-WES: I steered by whoever called last. That's how you get three committees and a wife asking where you're going. Last few minutes I want a sentence, not a defense of your busyness. Busyness is the wander. The tree is the sentence.
+WES: I steered by whoever rang last. That's how you get three committees and a wife asking where you're going. Last few minutes I want a sentence, not a defense of your busyness. Busyness is the wander. The tree is the sentence.
 
 
 ## SEGMENT 6 · This week's challenge
 
 WES: Write one heading in a sentence. Say it to one person who lives with you. Don't make it a slogan. If you can't say it on a porch, it's not ready, or you're not. Either way, write it. Did you already say yours?
 
-JONATHON: I already said mine at breakfast. Ruby asked if starting at home counts the dog. I said we don't have a dog. She said yet. Then she wrote her own. I will let Friday hold that. Today I want the listener to write his, not steal ours.
+JONATHON: I already said mine at breakfast. Ruby asked if starting at home counts the dog. I told her we don't own a dog. She said yet. Then she wrote her own. I will let Friday hold that. Today I want the listener to write his, not steal ours.
 
 WES: If you have been lining up on a row you already cut, pick a tree. A pecan. A card. A sticky note. Look at that when the week gets loud. The loud isn't the heading. The loud is the disk.
 
@@ -125,7 +125,7 @@ WES: I still don't know why the mechanic let me walk. I don't need to know. I ne
 
 JONATHON: I'll stop you. Then don't interview the pecan either. Look at it. Write the sentence. Do the dishes. That's how a heading gets into a house instead of into a speech about Fort Sam.
 
-WES: The card under the prayer list is the tree. Love God out loud, keep the people He gave me, and finish. My mouth is still the row. I still pass on praying out loud at the Thursday table. The card didn't fix my mouth. It gave me something to look at when Loop four-ten gets loud.
+WES: The card under the prayer list is the tree. Love God out loud, keep the people on the porch, and finish the heading. My mouth is still the row. I still pass on praying out loud at the Thursday table. The card didn't fix my mouth. It gave me something to look at when Loop four-ten gets loud.
 
 JONATHON: My sticky note says starting at home. Ruby already wrote a better one. I don't get to steal hers and call it vision. I've got to write mine small enough that a sink can grade it.
 
@@ -157,15 +157,15 @@ JONATHON: Wait, back up. Are you talking about me and the VP trophy, or the guy 
 
 WES: Both. You wrote number one in the region and stay there. Then you added vacation days. Which one did you mean?
 
-JONATHON: Both, which means I had no tree. I had two rows. I stared at both and wandered. Can I ask you something hard?
+JONATHON: Both, which means I had no tree. I had two rows. I stared at both and wandered. Where is north on your fridge this week?
 
 WES: Go.
 
 JONATHON: Are you actually going to pray out loud at the Thursday table, or is the card going to do that for you?
 
-WES: [beat] The card is the tree. Love God out loud, keep the people He gave me, and finish. My mouth is still the row. I still pass. I'm not going to pretend a card fixed my mouth. Saturday is donuts. Not a story. Donuts. What are you actually heeding?
+WES: [beat] The card is the tree. Love God out loud, keep the people on the porch, and finish the heading. My mouth is still the row. I still pass. I'm not going to pretend a card fixed my mouth. Saturday is donuts. Not a story. Donuts. What are you actually heeding?
 
-JONATHON: The sink. Make sure everybody is okay, starting at home. Dani said okay. Then, starting when. Then do the dishes. If I pick three I'll do none. One sticky note. Ruby already asked if it counts the dog.
+JONATHON: The sink. Make sure everybody is okay, starting at home. Dani said okay. Then, starting when. Then do the dishes. If I write three headings the sink still wins. One sticky note. Ruby already asked if it counts the dog.
 
 WES: That's fair, but— no, don't start fixing her Tuesday nights again.
 
@@ -175,23 +175,23 @@ WES: I'll stop you. You stop me if I interview a man who only said see you Satur
 
 JONATHON: No, hold on. You've got a habit of lining up on the row you already cut and calling the wander serving. Your wife asked where you were going. Did you give her a tree or a Saturday you could do?
 
-WES: [laughs] I gave her Saturday. That's a full week with no heading. Three committees. A ball team. Fifty-five-hour weeks. I called it serving. She was asking for a pecan. Are you still checking Austin's number before your own?
+WES: [laughs] I gave her Saturday. That's a full week with no heading. Three committees. A ball team. Fifty-five-hour weeks. I called it serving. She was asking for a pecan. Are you still checking Austin's pancake count before your own kids?
 
-JONATHON: I'm trying not to. I steered by the Monday leaderboard without writing it down. Written is better, because then somebody else can see it. Dani can hear the difference between a heading and a ticket. She stops me when I start handing people a Tuesday before they've asked.
+JONATHON: I'm trying not to. I steered my week by the Monday sales board without writing it down. Written is better, because then somebody else can see it. Dani can hear when a heading is just a ticket I sold myself. She stops me when I start handing people a Tuesday they never asked for.
 
 WES: Good. Write it inside the busy, or you never will. I hid inside three committees. There is always another season.
 
-JONATHON: Then I put the heading on a Tuesday that already has a meeting, and I leave her Tuesday nights alone. Does that sound like I'm making a quota out of a sink?
+JONATHON: Then I write the heading on a sticky note while the sink is still dirty, and her Tuesday nights stay hers. Does a heading on a dirty sink sound like I'm chasing a trophy?
 
-WES: [laughs] It sounds like a man who knows his calendar. Put the sentence on a porch that already has dishes, or you never will.
+WES: [laughs] That sounds like a heading that can survive dirty dishes. Put the sentence on a porch that already has dishes, or you never will.
 
-JONATHON: What are you picking, for real?
+JONATHON: Sink or slogan — which one gets the sticky note?
 
 WES: The pecan. Look at the tree, not the row I already cut. And donuts Saturday without an interview. I still don't know why I was allowed at the gate. I don't need to know. I need to show up.
 
 JONATHON: The sink. A clumsy sticky note that landed. That's the whole takeaway. A full week isn't a heading. Look at the tree.
 
-WES: A child can read written. A child can't read whoever called last. Say it on a porch. If you can't say it there, it's not ready, or you're not.
+WES: A child can read written. A child can't read a man who steers by whoever rang last. Say it on a porch. If you can't say it there, it's not ready, or you're not.
 
 ---
 

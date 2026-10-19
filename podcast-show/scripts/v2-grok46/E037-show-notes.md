@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,930 spoken words, about 19:32). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,967 spoken words, about 19:47). Re-time them against the final edit before publishing.
 
 ---
 
@@ -34,13 +34,13 @@ Christian men podcast, male friendship, Ecclesiastes 4:10, isolation, Pentecost,
 |---|---|---|
 | 00:00 | Open | Open. |
 | 00:58 | Store crust and a list | Store crust and a list. |
-| 04:09 | Harper's Dad | Harper's Dad. |
-| 07:24 | The Word | The Word. |
-| 09:34 | Pushback | Pushback. |
-| 12:08 | Who is your Fredericksburg | Who is your Fredericksburg. |
-| 14:37 | This week's challenge | This week's challenge. |
-| 18:35 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
-| 19:10 | Close | Close. |
+| 04:11 | Harper's Dad | Harper's Dad. |
+| 07:29 | The Word | The Word. |
+| 09:39 | Pushback | Pushback. |
+| 12:16 | Who is your Fredericksburg | Who is your Fredericksburg. |
+| 14:46 | This week's challenge | This week's challenge. |
+| 18:40 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
+| 19:24 | Close | Close. |
 
 ---
 

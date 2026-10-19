@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 1,940 (about 12:56 at 150 wpm, before laughs and pauses) |
+| Spoken words | 1,947 (about 12:59 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 26 lines (54% of words). JONATHON 25 lines (46% of words), 0 under 12 words (0.0%) |
 | Focus mark | Pick Up the Weight |
@@ -44,7 +44,7 @@ JONATHON: And I'll tell you what Dani said after she took the garage back.
 
 ## SEGMENT 1 · Check the box
 
-WES: Let's take the next few minutes on what we actually did. Knees first, because I already used the funny picture. You want the diagnosis or the screenshot?
+WES: I want these next few minutes on the knees first, then the screenshot, because I already used the funny picture. You want the diagnosis or the screenshot?
 
 JONATHON: Knees first, and then the part you sat with in the truck, because a thumbs-up isn't a diagnosis.
 
@@ -52,13 +52,13 @@ WES: Arthritis. Both of them. The right one's worse. They took pictures, and the
 
 JONATHON: So it's not your dad. That's the sentence you were afraid of, and I want you to say whether it left the room or just sat in the parking lot with you.
 
-WES: It's not my dad. Not yet, and maybe not ever, if I do the boring stuff. That was the first thing I thought. I sat in the truck and I said out loud, "It's not Dad." To nobody. I do all my important things in the truck.
+WES: It's not my dad. Not yet, and maybe not ever, if I do the boring stuff. That was the first thing I thought. I sat in the truck and I said out loud, "It's not Dad." To nobody. Every hard sentence I say, I say it in that cab.
 
 JONATHON: In the truck. Of course in the truck. Where is the physical therapy, because I already have a bad feeling about this one.
 
 WES: Same clinic as my mom. Same Tuesday. So now I drive her, and we both do the exercises, side by side, on those little tables. And she counts my reps. For real now. Out loud. "Eight. You're cheating. Eight."
 
-JONATHON: Your mom is your unpaid therapist, and she's tougher than the paid one. Eight. You're cheating. Eight. I'm going to need a minute with that picture.
+JONATHON: Your mom is your unpaid therapist, and she's tougher than the paid one. Eight. You're cheating. Eight. I need a second with your mom counting reps.
 
 [BOARD: Same clinic. Two tables. One counter.]
 
@@ -128,7 +128,7 @@ JONATHON: [laughs] I will. That's the only reason I trust you on this one.
 
 ## SEGMENT 4 · The two-column list
 
-WES: Last few minutes on a tool you can use tonight. I'm drawing a line down a legal pad. Left side, "Mine." Right side, "Not mine."
+WES: Last few minutes on putting down a load that was never yours. I'm drawing a line down a legal pad. Left side, "Mine." Right side, "Not mine."
 
 JONATHON: Very high-tech. What's the rule, because if you leave this fuzzy I will write three things and call it done?
 
@@ -142,7 +142,7 @@ WES: On the right, write whose it is. Some of those names will be God's, because
 
 JONATHON: Do it with your one man if you can. Read him the right side, because those are the things you'll try to pick back up next week, and he'll notice. If you live alone, nobody notices what you're carrying unless you write it down and tell somebody.
 
-WES: Look around your house this week. If you're a divorced dad, half your right column is stuff that happens at her house. Write her name on it, and then pray it. You can't carry that from across town. And if you live alone, this list is built for you. Nobody is going to notice the pile unless you write it down and tell one man. I would rather you have an ugly page than a quiet apartment that looks fine.
+WES: Notice the load you picked up that isn't yours. If you're a divorced dad, half your right column is stuff that happens at her house. Write her name on it, and then pray it. You can't carry that from across town. And if you live alone, this list is built for you. Nobody is going to notice the pile unless you write it down and tell one man. I would rather you have an ugly page than a quiet apartment that looks fine.
 
 ---
 

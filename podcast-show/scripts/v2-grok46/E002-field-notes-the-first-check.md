@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 2,209 (about 14:44 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,219 (about 14:48 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 53 lines (53% of words). JONATHON 49 lines (47% of words), 3 under 12 words (6.1%) |
 | Focus mark | Stop Waiting |
@@ -36,7 +36,7 @@ WES: This is Walk Steadfast. I'm Wes Hart.
 
 JONATHON: And I'm Jonathon. Friday we check the box. We don't dress it up.
 
-WES: Tuesday we asked you for one meal with no phone, one question at the table, and one text to one man. If you tried it, or if you didn't, stay. Before we're done I'll tell you what my wife has been doing every Tuesday since August, and he will tell you what a seven-year-old said when he reached for the drawer.
+WES: Tuesday we asked you for one meal with no phone, one question at the table, and one text to one man. If you wrote the check, or if you only thought about it, stay. Before we're done I'll tell you what my wife has been doing every Tuesday since August, and he will tell you what a seven-year-old said when he reached for the drawer.
 
 JONATHON: And I'll tell you the night I offered to buy blackout curtains for a window that already had them.
 
@@ -44,7 +44,7 @@ JONATHON: And I'll tell you the night I offered to buy blackout curtains for a w
 
 ## SEGMENT 1 · Check the box
 
-WES: Let's take the next few minutes on what we actually did, because Friday is the receipt. You go second. I already told the funny part.
+WES: First stretch this Friday is the check, because that's our receipt. You go second. I already told the funny part.
 
 JONATHON: You told the punch line. You didn't tell the part that sat with you in the truck after.
 
@@ -100,7 +100,7 @@ JONATHON: [quietly] Yeah. That's the part that isn't a punch line. That's the pa
 
 ## SEGMENT 2 · The second try
 
-WES: Box checked on my side. Both boxes. Now you, and I want the first night, not the cleaned-up version.
+WES: Box checked on my side. Both boxes. Your turn, and I want Tuesday night raw, not the version you cleaned up.
 
 JONATHON: I didn't check the box the first time, and I need that on the record before anybody thinks I walked in and got this right.
 
@@ -170,15 +170,15 @@ WES: Friday is just the receipt on the little thing. You don't get a new verse b
 
 JONATHON: That's annoying, and it's also the only reason I came back Thursday.
 
-WES: Look around your house this week. If the first try failed, that's not the end of the assignment. The little thing is still sitting there.
+WES: Check the basket before Friday supper. If the first try failed, that's not the end of the assignment. The little thing is still sitting there.
 
 ---
 
 ## SEGMENT 4 · From the table
 
-WES: We've got about six minutes, and I want them on a question men ask a lot. We're labeling it honestly. Not as a letter we invented.
+WES: Six minutes left, and I want them on a question men ask when they have never been the spiritual one. We're labeling it honestly. Not as a letter we invented.
 
-JONATHON: How do I start if I've never been the spiritual one? That was me. Dani's had faith since she was a kid. She sings alto. She knows where things are without the little tabs.
+JONATHON: How do I start if I've never been the spiritual one? That was me. Dani's had faith since she was a kid. She sings alto. She can find a verse without the little tabs I still need.
 
 WES: And you needed the tabs.
 
@@ -224,7 +224,7 @@ JONATHON: I prayed out loud in my truck for about a year before I did it at the 
 
 ## SEGMENT 5 · The phone basket
 
-WES: Last few minutes on a tool you can use tonight. I brought a basket from my kitchen.
+WES: Last few minutes on the first check you can still write tonight. I brought a basket from my kitchen.
 
 JONATHON: Does your wife know you took the bread basket, or is that a conversation for later?
 

@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,987 spoken words, about 19:55). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,994 spoken words, about 19:58). Re-time them against the final edit before publishing.
 
 ---
 
@@ -36,12 +36,12 @@ Christian men podcast, Easter, Matthew 3:17, fatherhood, Walk Steadfast, Wes Har
 |---|---|---|
 | 00:00 | Open | 9:40. A like. No words. |
 | 00:59 | The like | Ham. Fish. The girl still waits. |
-| 04:06 | Glad you're mine | A truck. A handle. Not bad, kid. |
+| 04:07 | Glad you're mine | A truck. A handle. Not bad, kid. |
 | 07:40 | The Word | This is my Son. Well pleased. |
-| 10:40 | Pushback | A like is small. Wednesday is still on the fridge. |
-| 13:34 | What we're actually doing | Ham for Wes. Seven o'clock call. |
-| 16:04 | This week's challenge | One sentence, no because. Then stay. |
-| 19:30 | Close | The chair is not the last word. |
+| 10:37 | Pushback | A like is small. Wednesday is still on the fridge. |
+| 13:32 | What we're actually doing | Ham for Wes. Seven o'clock call. |
+| 16:05 | This week's challenge | One sentence, no because. Then stay. |
+| 19:33 | Close | The chair is not the last word. |
 
 ---
 

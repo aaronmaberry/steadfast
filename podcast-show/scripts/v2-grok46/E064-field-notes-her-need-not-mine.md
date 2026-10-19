@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 2,066 (about 13:46 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,098 (about 13:59 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 37 lines (50% of words). JONATHON 35 lines (50% of words), 2 under 12 words (5.7%) |
 | Focus mark | Pick Up the Weight |
@@ -44,7 +44,7 @@ JONATHON: And I'll tell you the text I deleted at lunch.
 
 ## SEGMENT 1 · Audition night
 
-WES: Let's take the next few minutes on Thursday, because Friday is the receipt. You go first. I already used the driveway. Did you send the heart?
+WES: Spend this opening on audition night, because Friday is only going to ask whether you hovered. You go first. I already used the driveway. Did you send the heart?
 
 JONATHON: I typed "Thinking about you" at lunch and deleted it. I texted Wes instead. "Is a heart a text." He wrote back K. Spaghetti. Ruby set a glass of water with ice by Dani's plate. Theo in pajamas by seven. I stayed in the kitchen. I didn't go to the window.
 
@@ -56,7 +56,7 @@ WES: You believed the sock. That's the receipt. Telling a brother isn't hovering
 
 [BOARD: A driveway can be a room she asked for.]
 
-JONATHON: I wanted to upgrade "the way I sing it in the car" into a speech about courage. I didn't. I put my hand on her back. That's the most Christian thing I've done this week.
+JONATHON: I wanted to upgrade "the way I sing it in the car" into a speech about courage. I didn't. I put my hand on her back. That's the holiest work I managed this week: a hand on her back.
 
 ---
 
@@ -82,7 +82,7 @@ WES: I'm going to nod. That's the fence.
 
 ## SEGMENT 3 · The Word
 
-WES: We're about halfway, and I want one verse for the man who hovers and calls it kindness. Ephesians four, verse thirty-two. You want to read it?
+WES: We're in the middle now, and I need Ephesians for the husband who stands in a doorway and names it care. Ephesians four, verse thirty-two. You want to read it?
 
 JONATHON: "Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you."
 
@@ -90,7 +90,7 @@ JONATHON: "Be kind and compassionate to one another, forgiving each other, just 
 
 WES: Kind isn't a feeling in your chest. Kind is a driveway you don't interrupt. Kind is a barn you walk to because she asked. Kind is a chair without jokes.
 
-JONATHON: Compassionate is my hand on her back and my mouth closed. I wanted to be useful. Useful was a rabbit. Does that sound like I'm arguing with Paul?
+JONATHON: Compassionate is my hand on her back and my mouth closed. I wanted to be useful. Useful was a rabbit. Is that me picking a fight with Paul about her need, or hearing kindness?
 
 WES: [laughs] It sounds like you're listening. Context in two sentences. Paul is telling a church to put the old life away. Hovering was my old life wearing concern. Forgiving each other includes forgiving the Thursday you sat in a kitchen alone, and not making her pay interest.
 
@@ -122,7 +122,7 @@ WES: Last few minutes. Ask. Repeat. Do. I will sit in a waiting room without jok
 
 JONATHON: I won't hover. I won't text an audition. I will call my dad once a month and I won't use this porch as a stand-in for the work. What are you picking Thursday, the chair or the joke?
 
-WES: The chair. Look around your house this week. Where have you been hovering? Where have you been in the barn when she wanted the bed? Ask which one this week is.
+WES: The chair. Look at company or quiet — which she named. Where have you been hovering? Where have you been in the barn when she wanted the bed? Ask which one this week is.
 
 JONATHON: Company or quiet. Then the next smaller one. Then sit there. If she tests you with a driveway, don't yawn and don't rescue.
 
@@ -130,7 +130,7 @@ JONATHON: Company or quiet. Then the next smaller one. Then sit there. If she te
 
 ## SEGMENT 6 · Ice in the glass
 
-WES: Stay on the ice a minute. A seven-year-old put ice in a glass because she understood welcome better than most men I know. You didn't coach that. You made supper and stayed off the window. She filled the gap with water.
+WES: Hold on the ice in that glass a second. A seven-year-old put ice in a glass because she understood welcome better than most men I know. You didn't coach that. You made supper and stayed off the window. She filled the gap with water.
 
 JONATHON: I almost told Ruby to go get Mom. That would have been hovering by proxy. I said she's finishing her day. Ruby accepted it the way kids accept weather. Did I steal a job from her by almost sending her?
 
@@ -138,7 +138,7 @@ WES: That's leadership in a kitchen. Not a speech about auditions. A pot, pajama
 
 JONATHON: Theo was in pajamas by seven. He didn't know what Thursday was. He knew noodles. That's enough of a theology for a four-year-old.
 
-WES: Look around your house this week. What can a child do that's actually help, and what is you sending a child to do your hovering?
+WES: Look at company or quiet — which she named. What can a child do that's actually help, and what is you sending a child to do your hovering?
 
 JONATHON: I'll keep Ruby off the errand of fetching a woman who asked for a driveway. That's a line I can hold.
 
@@ -164,7 +164,7 @@ JONATHON: I'll write "don't hover" on a card by the sink. If my feet start towar
 
 WES: I make jokes when a room gets quiet. I made one at a parking gate last year and called it kindness. It was me leaving the room without moving my feet. Next Thursday I will sit. If a nurse looks at me I will nod. I won't improve the hallway.
 
-JONATHON: I make jokes when Dani tells a floor story. I'm going to try nodding. Nodding is harder than a joke. A joke asks her to take care of my nerves. Can I ask you something hard?
+JONATHON: When Dani brings a unit story home I reach for a joke first. I'm going to try nodding. Nodding is harder than a joke. A joke asks her to take care of my nerves. Company or quiet — which did she actually say?
 
 WES: Go.
 
@@ -202,11 +202,11 @@ WES: I keep getting the barn wrong. I used it as a story about men who hide. My 
 
 JONATHON: I steal Dani's tiredness to make my help look holy. If she's tired I get to be the hero. If I believe her answers I don't get to be the hero. I get to be a man stirring a pot. Whose name have you been using?
 
-WES: Look around your house this week. Whose name have you been using to excuse a habit you never asked about?
+WES: Look at company or quiet — which she named. Whose name have you been using to excuse a habit you never asked about?
 
 JONATHON: I've been using my dad's leaving to hear leaving in a woman who wanted to sing. Different week, same theft. I'm trying to put names back where they belong.
 
-WES: Put them back. Ask the living woman. Write what she says. Do that. I've got about a minute and I want it on you. Company or quiet tonight. Not after the next crisis.
+WES: Put them back. Ask the living woman. Write what she says. Do that. A minute for company or quiet. Not after the next crisis. Company or quiet tonight. Not after the next crisis.
 
 JONATHON: I'll ask after the next night shift, and I'll do the one she picks, even if I want the other, even if the other would make me feel like a better husband in my own head.
 

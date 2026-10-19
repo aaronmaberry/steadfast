@@ -5,9 +5,9 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,805 (about 18:42 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,824 (about 18:50 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 34 lines (55% of words). JONATHON 28 lines (45% of words), 1 under 12 words (3.6%) |
+| Line balance | WES 34 lines (56% of words). JONATHON 28 lines (44% of words), 1 under 12 words (3.6%) |
 | Focus mark | Go First |
 | Scripture (NIV, verified 2026-10-19) | Spoken: John 10:4. Board only: John 10:11; Hebrews 10:24 |
 | Board cues | 5 (none repeats spoken words) |
@@ -44,7 +44,7 @@ JONATHON: And I'll tell you why I reserved a table for Saturday, not Sunday, bec
 
 ## SEGMENT 1 · The coffee and the talk
 
-WES: Let's take the next few minutes on two kitchens. Mine first, then Sunday at yours.
+WES: I want the next few minutes on two kitchens. Mine first, then Sunday at yours.
 
 JONATHON: Yours first, because I need the eleven days. I'm a same-day guy. If I do a good thing I want it noticed before lunch.
 
@@ -62,7 +62,7 @@ JONATHON: Thursday at seven I call my mom. I put it on the calendar next to the 
 
 [BOARD: First is a direction, not a trophy.]
 
-WES: You say, "Everything's okay, and I have something to tell you." Then you tell her. Look around your house this week. If you have been waiting for her to start the hard talk, that wait has a name. It's not patience. It's her carrying the opener again.
+WES: You say, "Everything's okay, and I have something to tell you." Then you tell her. See where you should have gone first this week. If you have been waiting for her to start the hard talk, that wait has a name. It's not patience. It's her carrying the opener again.
 
 ---
 
@@ -72,7 +72,7 @@ WES: Saturday I was driving my sixteen-year-old out to my brother's place, one o
 
 JONATHON: How long until he said anything, because a sixteen-year-old can sit in a quiet truck like it's a career. I would've filled that quiet in the first mile. I always do that.
 
-WES: Twenty minutes. Then he said, "Sorry about the stop sign." That was it. I didn't get a speech. I got a sentence. Going first with your kid is often that. You say the hard line, and you ride in the quiet, and you don't fill it with a lecture so you can feel done.
+WES: Twenty minutes. Then he said, "Sorry about the stop sign." That was the whole speech from a sixteen-year-old. I didn't get a lecture. I got a sentence. Going first with your kid is often that. You say the hard line, and you ride in the quiet, and you don't fill it with a lecture so you can feel done.
 
 JONATHON: I would have filled it. I fill quiet the way I fill a pipeline. That's the sales habit I have to kill at home. If there's a gap I put words in it, and then I call those words leadership. They're not. They're me being uncomfortable. The earbud version is better. Say the true line and then let the road do the rest.
 
@@ -92,7 +92,7 @@ WES: Toward her. I can live with a brother being mad at me. I can't live with my
 
 ## SEGMENT 3 · The Word
 
-WES: We've got a little under fifteen minutes, and I want the Bible open, because the third mark has a picture. John ten, verse four. Jonathon.
+WES: John ten is open with a little under fifteen minutes on the clock, because the third mark already has a picture. Jonathon.
 
 JONATHON: "When he has brought out all his own, he goes on ahead of them, and his sheep follow him because they know his voice."
 
@@ -100,7 +100,7 @@ JONATHON: "When he has brought out all his own, he goes on ahead of them, and hi
 
 WES: Jesus is talking about himself. The good shepherd. He does not drive the sheep from behind with a stick. He goes on ahead. They follow because they know his voice. Going first, for a Christian man, isn't a personality. It's copying the man who already walked out in front.
 
-JONATHON: Okay, hold on. My wife has had faith since she was a kid. She sings alto. She knows where things are without the tabs. If going first means I have to be ahead of her in the Bible, I will be waiting until Theo is in college. So do I lead even if she is more mature in faith than I am?
+JONATHON: Okay, hold on. My wife has had faith since she was a kid. She sings alto. She can find the passage without those tabs I still use. If going first means I have to be ahead of her in the Bible, I will be waiting until Theo is in college. So do I lead even if she is more mature in faith than I am?
 
 WES: You lead as the man in the house, not as the scholar in the house. Going first can be, "I don't know how. Will you come with me?" That's still first. First is direction. It's not a test score. I've sat with a lot of men who are waiting to feel qualified. Qualification does not arrive. Obedience does, and it usually looks a little clumsy the first month. Your house does not need a polished man. It needs a man who will stand up and start.
 
@@ -140,7 +140,7 @@ WES: You can ask him yourself. That's the whole point. Can you hear the age in t
 
 ## SEGMENT 5 · What we're actually doing
 
-WES: We're about halfway through the last stretch. What are you actually doing?
+WES: Halfway. I want the part where somebody has to go first. What are you actually doing?
 
 JONATHON: Thursday at seven I call my mom. The sentence is, "We're hosting Easter lunch at our house, and I want you there, and I'm telling you myself." Then I shut up. Dani already said keep going. I don't get to outsource the second half. Saturday the thirteenth we've got a reservation, because she works Sunday night. I picked the place. I didn't ask her to plan her own Valentine's after a shift.
 
@@ -166,7 +166,7 @@ JONATHON: That's a hard one, and it's the right kind of hard. Going first isn't 
 
 ## SEGMENT 6 · This week's challenge
 
-WES: Last few minutes on the challenge. One first move this week. Not five. One. If you pick five you will do none of them and then tell yourself the assignment was too big. What's the one that makes your stomach tight? That's usually the right one.
+WES: Last few minutes on the step out ahead, not the speech about it. One first move this week. Not five. One. If you pick five you will do none of them and then tell yourself the assignment was too big. What's the one that makes your stomach tight? That's usually the right one.
 
 JONATHON: Thursday at seven. My mom. That's the tight one, and I already want a kinder hour. Married men, go first toward her on something she has been carrying the opener for. A talk, a plan, an apology, a reservation. Don't make her start it again. And don't turn it into a presentation. One sentence, then listen longer than you want to. That's the whole move.
 

@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,103 spoken words, about 14:01). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,162 spoken words, about 14:25). Re-time them against the final edit before publishing.
 
 ---
 
@@ -35,13 +35,13 @@ Christian men podcast, marriage, James 1:19, know your wife, Walk Steadfast, Go 
 |---|---|---|
 | 00:00 | Open | Little ones or the real one. |
 | 00:46 | The little ones | TV, notice, a letter K, then a degree. |
-| 03:03 | The room that talked | Welding, the boot, Dairy Queen walks. |
-| 04:48 | The Word | James 1:19. Quick to listen. |
-| 05:55 | Tuesdays out loud | The leaving sentence. Three-question walk. |
-| 07:59 | What we're carrying | Write it. Don't book the mountain yet. |
-| 09:14 | The three questions | Walk, porch, or sink. Write it. |
-| 11:04 | What we failed | Don't dress up a skipped ask. |
-| 13:38 | Close | Hearing is the job. |
+| 03:05 | The room that talked | Welding, the boot, Dairy Queen walks. |
+| 04:53 | The Word | James 1:19. Quick to listen. |
+| 06:00 | Tuesdays out loud | The leaving sentence. Three-question walk. |
+| 08:06 | What we're carrying | Write it. Don't book the mountain yet. |
+| 09:34 | The three questions | Walk, porch, or sink. Write it. |
+| 11:26 | What we failed | Don't dress up a skipped ask. |
+| 14:01 | Close | Hearing is the job. |
 
 ---
 

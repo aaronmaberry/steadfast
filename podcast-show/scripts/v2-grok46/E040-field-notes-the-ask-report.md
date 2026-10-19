@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm |
-| Spoken words | 1,903 (about 12:41 at 150 wpm, before laughs and pauses) |
+| Spoken words | 1,904 (about 12:42 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 29 lines (52% of words). JONATHON 27 lines (48% of words), 1 under 12 words (3.7%) |
 | Focus mark | Stop Waiting |
@@ -109,31 +109,31 @@ WES: My oldest asked his foreman how a man stays with one outfit thirty years. T
 
 JONATHON: I want a notepad page from Dani's dad. I may get four words. I'm trying to decide ahead of time that four words are enough. If I decide after, I will call it a miss and start a new notes-app novel.
 
-WES: I keep wanting the no under the van to resolve into a diner, and it won't. Black. One sugar. That's still a yes to the man. The assignment is the next honest ask, said on time, without a speech attached. I've left too many good talks on a table because I wanted a better closing line than the one I had.
+WES: The no under the van will not resolve into a diner. Black. One sugar. I will drink it anyway. That's still a yes to the man. Black coffee is the next honest ask, said on time, with no speech taped on. I've left good asks on a table because I wanted a conversion instead of coffee.
 
-JONATHON: Honestly, I will try to add the speech anyway. Somebody should stop me. If you're sitting in a driveway doing that too, write the three sentences down before you dial, then read only those three. The fourth sentence is where I get cute and ruin it.
+JONATHON: Honestly, I'll try to turn coffee into a conversion anyway. Somebody should stop me. If you're sitting on the ask, write three sentences, then dial before you improve them. The fourth sentence is where I turn coffee into a pitch.
 
 ## SEGMENT · Sitting with it
 
 WES: Wait, back up. A no to the table can still be a yes to the coffee. Did you actually ask, or did you only pick a later?
 
-JONATHON: I asked. I got a no to the table and a yes to the coffee. That's fair, but— I still wanted the bigger room. Can I ask you something hard? Are you going to keep the small kindness, or dress the no into a speech?
+JONATHON: I asked. I got a no to the table and a yes to the coffee. That's fair, but— I still wanted the bigger room. Did the ask land, or did you cancel it? Are you going to keep the small kindness, or dress the no into a speech?
 
-WES: Keep the small kindness. Later isn't never unless I make it never. So which is it this week? One ask, or a notes app full of almosts?
+WES: Keep the small kindness. Later isn't never unless I make it never. Coffee, or another canceled ask this week? One ask, or a notes app full of almosts?
 
-JONATHON: [laughs] One. If I pick three I'll do none. I already know that from sales and from home. No, hold on. Your house can be quiet after a polite no and you can still call it peace. Is quiet settled?
+JONATHON: [laughs] One. If I load the week with men I will see none of them. I already know that from sales and from home. No, hold on. Your house can be quiet after a polite no and you can still call it peace. Is quiet settled?
 
-WES: Quiet isn't settled. A polite holiday can look like peace. The test is whether the true thing got said to the man, not to a mug. I've sat through a quiet no and called it settled before. It wasn't.
+WES: Quiet isn't settled. A polite holiday can look like peace. Did the ask actually reach the man, or only a mug? I've sat through a quiet no and called it settled before. It wasn't.
 
 JONATHON: Then I pick the coffee. One name. One time. Looking late with a yes to coffee is better than looking peaceful with a list I never used.
 
 WES: Four words from Dani's dad. Are you going to decide ahead of time they're enough, or write a novel after?
 
-JONATHON: Ahead of time. If I decide after I'll call it a miss. That's the whole trap. I used the first miss as a way out for most of my twenties. I'm trying not to do that at thirty-seven.
+JONATHON: Ahead of time. If I decide after I'll call it a miss. That's the whole trap. I used the first canceled ask as a way out for most of my twenties. I'm trying not to cancel the ask at thirty-seven.
 
 WES: Second try still counts. I keep wanting the no under the van to resolve into formica. It won't. Black, one sugar is still a yes to the man.
 
-JONATHON: Then coffee is the door that's mine. Not a man on a screen. A day before supper. If I pick three I'll do none, and I already know that from sales. One is how I get free of the notes app.
+JONATHON: Then coffee is the door that's mine. Not a man on a screen. A day before supper. A day before supper. If I load three asks I'll do none, and I already know that from sales. One is how I get free of the notes app.
 
 WES: Wait, back up. You wanted a notepad page from Dani's dad. Four words. Will you take four words, or start the novel?
 

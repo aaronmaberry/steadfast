@@ -5,9 +5,9 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 3,063 (about 20:25 at 150 wpm, before laughs and pauses) |
+| Spoken words | 3,095 (about 20:38 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 63 lines (50% of words). JONATHON 54 lines (50% of words), 7 under 12 words (13.0%) |
+| Line balance | WES 63 lines (50% of words). JONATHON 54 lines (50% of words), 6 under 12 words (11.1%) |
 | Focus mark | Work for God's Pay |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Ephesians 2:10. Board only: Colossians 3:23; Galatians 6:9 |
 | Board cues | 4 |
@@ -50,7 +50,7 @@ JONATHON: Annual ride-along, usually June, with the senior tech. Sixty. Thirty-o
 
 WES: Wait, back up. You thanked him for not selling her a unit. What did he actually say?
 
-JONATHON: He said she didn't need one. That's the whole religion of a Thursday. I've got a rule since I took the region four years ago. If it can be fixed, fix it. Don't upsell a repair. I lost numbers the first year. My boss asked twice. I kept the rule.
+JONATHON: He said she didn't need one. That's the whole creed of a Thursday attic. I've got a rule since I took the region four years ago. If it can be fixed, fix it. Don't upsell a repair. I lost numbers the first year. My boss asked twice. I kept the rule.
 
 [BOARD: She did not need a unit.]
 
@@ -68,7 +68,7 @@ JONATHON: I sold extended warranties at an electronics store. I quit mid-Saturda
 
 WES: Your mom worked every Labor Day. Two jobs. Holiday shifts paid better. A list on the counter and a sandwich with your name on the foil. At eleven you hated Labor Day.
 
-JONATHON: That's a heavy sentence for a boy. I'm thirty-seven. I can say it without making her a villain. She kept us. The foil had my name. That's a kind of handiwork too. Can you sit in that without making her a sermon?
+JONATHON: That's a heavy sentence for a boy. I'm thirty-seven. I can say it without making her a villain. She kept us. The foil had my name. Foil with a name is handiwork a boy can hold. Can you sit in that without making her a sermon?
 
 WES: Theo is five. Don't let a loud season steal a pancake Saturday. Write it where a dentist would go. Then heat the pan. I'm not making her a sermon. I'm making a pan.
 
@@ -92,7 +92,7 @@ WES: The best man I worked beside hated the job and still brought an extra lunch
 
 ## SEGMENT 4 · The Word
 
-WES: I've got a little under ten minutes, and I want the Bible open. Ephesians two, verse ten. You want to read it?
+WES: Under ten. Prepared-good, not a pep talk. Ephesians two, verse ten. You want to read it?
 
 JONATHON: "For we are God’s handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do."
 
@@ -100,7 +100,7 @@ JONATHON: "For we are God’s handiwork, created in Christ Jesus to do good work
 
 WES: Handiwork. Not a slot. Prepared in advance. The attic was already on the calendar in heaven before it was on a truck. A capacitor isn't small if a woman is in a car.
 
-JONATHON: I wanted handiwork to mean a stage. It means a flashlight. It means foil with a name. It means a chest at the foot of a bed. So which is it, a verse about a calling, or a verse about a wire?
+JONATHON: I wanted handiwork to mean a stage. It means a flashlight. It means foil with a name. It means a chest at the foot of a bed. Is Ephesians talking about a stage, or about a burnt wire in an attic?
 
 WES: Both. Context in two sentences. Paul has just said saved by grace, not works. Then immediately, you were made for works. Not to get in. Because you're in. That's the split that keeps a man from selling a unit she doesn't need so he can feel saved by a number.
 
@@ -112,7 +112,7 @@ JONATHON: Weary is 138 degrees. Good is a wire. Harvest may be tea and a face in
 
 ## SEGMENT 5 · Pushback
 
-WES: We're about halfway, and I want the push. A man says, my job is just a job. Go ahead and push.
+WES: Halfway. Push on the foil and the lid, not the calling feeling. A man says, my job is just a job. Go ahead and push.
 
 JONATHON: Then do it as handiwork anyway. The verse does not require a feeling. It requires a prepared good. A flashlight is a good. A lunch is a good. A honest no on an upsell is a good. I don't totally buy that a flashlight is leadership. Does it still count if it looks like a helper?
 
@@ -122,9 +122,9 @@ JONATHON: Hate it and still bring the lunch. Then, if you can, look for the prep
 
 WES: A man says, nobody sees it.
 
-JONATHON: That's a see. Virgil's notebook is a see. A widow's tea is a see. If you need a stage you will miss the attic. That's fair, but— last few minutes on what we're actually doing. I'll ride with a tech every month and hold the flashlight. Labor Day Monday, tacos at the shop at six. I'll shake each man's hand by name. If I've got to look a name up, I'll look it up. That's not cute. That's honor. Can you live with looking a name up?
+JONATHON: That's a see. Virgil's notebook is a see. A widow's tea is a see. If you need a stage you will miss the attic. That's fair, but— close of the hour, here's the work in my hands. I'll ride with a tech every month and hold the flashlight. Labor Day Monday, tacos at the shop at six. I'll shake each man's hand by name. If I've got to look a name up, I'll look it up. That's not cute. That's honor. Can you live with looking a name up?
 
-WES: Last few minutes on what we're actually doing. I will ask my youngest to show me a weld bead he's proud of and I will say what I see, even the whole way, without a speech about manhood. I will tell one man at work something true. The friend. The Tuesdays. I can live with looking a name up. That's the honor.
+WES: Last few minutes on the foil and the lid, not the calling feeling. I will ask my youngest to show me a weld bead he's proud of and I will say what I see, even the whole way, without a speech about manhood. I will tell one man at work something true. The friend. The Tuesdays. I can live with looking a name up. That's the honor.
 
 ---
 
@@ -134,7 +134,7 @@ WES: This week's challenge. Do one prepared good that isn't on your performance 
 
 JONATHON: If you're between jobs, the prepared good is still in your hands. A grandmother. A flashlight you borrow. A name you shake. If you're retired, you aren't off the verse. Handiwork does not have a pension date. What are you picking, bead or flashlight, because if you pick a stage you'll miss the attic?
 
-WES: Bead. One true sentence. Look around your house this week. The work you were made for may be a lid, a lunch, a wire. Don't wait to feel called. The car is already running in a driveway.
+WES: Bead. One true sentence. Look at the work that was prepared, not the mood. The work you were made for may be a lid, a lunch, a wire. Don't wait to feel called. The car is already running in a driveway.
 
 JONATHON: And if you sell, keep the rule. If it can be fixed, fix it. Numbers can wait. A face in your hands can't.
 
@@ -174,9 +174,9 @@ WES: I'll sit in even. A lecture is a stage. A bead is a chest.
 
 WES: A sandwich with a name is a theology. I've mocked foil. I'm done. Somebody kept a boy alive with turkey and a marker.
 
-JONATHON: I'll pack a name this week for a man on a late call. Not a speech. Foil. If he texts a thumb that's enough pay. Does that sound like a sales pitch if I say it that way?
+JONATHON: I'll pack a name this week for a man on a late call. Not a speech. Foil. If he texts a thumb that's enough pay. If I talk foil like that, does it land like a pitch?
 
-WES: [laughs] It sounds like a man who knows his calendar. Put a name on foil on a Monday that already has a number.
+WES: [laughs] That sounds like a name on foil on a Monday that already has a number. Put a name on foil on a Monday that already has a number.
 
 ---
 
@@ -256,9 +256,9 @@ WES: Your boss asked twice. That's a real cost. I missed a promotion once for a 
 
 JONATHON: I'll take the cost. I don't want a story that ends with a number and a widow in a car. That's fair, but— do I keep the rule on a loud week?
 
-WES: Keep it on a loud week. That's the only week it costs.
+WES: Keep it on a loud week. That's the only week the foil costs you.
 
-JONATHON: I'll keep it loud. Quiet weeks don't need a rule.
+JONATHON: I'll keep it loud. A loud week is the only week a rule costs you.
 
 ---
 
@@ -348,9 +348,9 @@ JONATHON: Stop. Then ask me Friday if I said it to a tech when it was true.
 
 ## SEGMENT 26 · More on the 12
 
-WES: Tacos at the shop at six. Shake each man by name. Looking it up first isn't fake. Fake is a smile with no name under it.
+WES: Tacos at the shop at six. Shake each man by name. Looking it up first isn't fake. Fake is grinning at a man whose name you refused to learn.
 
-JONATHON: I'll look them up Sunday night. If a younger tech claps for me I will turn it back. Wrong direction. The work is them. Ask me whether I looked them up.
+JONATHON: I'll look them up Sunday night. If a younger tech claps for me I will turn it back. Wrong direction. The work is them. Check Friday if I actually learned the names.
 
 WES: I'll ask. Names. Not a speech about culture.
 
@@ -364,7 +364,7 @@ WES: Pancake Saturday is a prepared good. If the shop needs you, send someone el
 
 JONATHON: I'll write pancake where a dentist would go. If I move it I will say I moved a boy for a number. I don't want to say that. What are you picking this week, bead or crusade?
 
-WES: Bead. I've got about a minute and I want it on you. Do the good that was prepared. A wire. A name. A lid. Don't wait to feel called. The car is already running in a driveway, and a flashlight is still a kind of leadership even if it looks like a helper.
+WES: Bead. A minute. Do the good that was prepared. A wire. A name. A lid. Do the good that was prepared. A wire. A name. A lid. Don't wait to feel called. The car is already running in a driveway, and a flashlight is still a kind of leadership even if it looks like a helper.
 
 JONATHON: I'll hold the light. I'll keep the rule. I'll heat a pan. The car is already running. I'm going.
 

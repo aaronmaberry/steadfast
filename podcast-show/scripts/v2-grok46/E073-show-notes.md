@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,821 spoken words, about 18:48). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,858 spoken words, about 19:03). Re-time them against the final edit before publishing.
 
 ---
 
@@ -39,25 +39,25 @@ Christian men podcast, feelings, Psalm 42:5, anger, Walk Steadfast, Stop Waiting
 | 02:43 | Ashamed | Ashamed |
 | 03:48 | The Word | The Word |
 | 05:06 | Challenge | Challenge |
-| 06:12 | More on keys 1 | More on keys 1 |
-| 06:55 | More on keys 2 | More on keys 2 |
-| 07:33 | More on keys 3 | More on keys 3 |
-| 08:12 | More on keys 4 | More on keys 4 |
-| 08:50 | More on keys 5 | More on keys 5 |
-| 09:35 | More on keys 6 | More on keys 6 |
-| 10:17 | More on keys 7 | More on keys 7 |
-| 11:05 | More on a 8 | More on a 8 |
-| 11:47 | More on a 9 | More on a 9 |
-| 12:29 | More on a 10 | More on a 10 |
-| 13:12 | More on a 11 | More on a 11 |
-| 13:57 | More on a 12 | More on a 12 |
-| 14:38 | More on a 13 | More on a 13 |
-| 15:16 | More on a 14 | More on a 14 |
-| 15:50 | More on the 15 | More on the 15 |
-| 16:37 | More on the 16 | More on the 16 |
-| 17:16 | More on the 17 | More on the 17 |
-| 17:52 | More on the 18 | More on the 18 |
-| 18:32 | Close | Close |
+| 06:14 | More on keys 1 | More on keys 1 |
+| 06:58 | More on keys 2 | More on keys 2 |
+| 07:36 | More on keys 3 | More on keys 3 |
+| 08:14 | More on keys 4 | More on keys 4 |
+| 08:54 | More on keys 5 | More on keys 5 |
+| 09:41 | More on keys 6 | More on keys 6 |
+| 10:27 | More on keys 7 | More on keys 7 |
+| 11:15 | More on a 8 | More on a 8 |
+| 11:57 | More on a 9 | More on a 9 |
+| 12:39 | More on a 10 | More on a 10 |
+| 13:19 | More on a 11 | More on a 11 |
+| 14:03 | More on a 12 | More on a 12 |
+| 14:46 | More on a 13 | More on a 13 |
+| 15:23 | More on a 14 | More on a 14 |
+| 15:59 | More on the 15 | More on the 15 |
+| 16:49 | More on the 16 | More on the 16 |
+| 17:29 | More on the 17 | More on the 17 |
+| 18:06 | More on the 18 | More on the 18 |
+| 18:47 | Close | Close |
 
 ---
 

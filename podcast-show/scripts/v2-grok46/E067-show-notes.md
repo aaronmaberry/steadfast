@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (3,073 spoken words, about 20:29). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (3,090 spoken words, about 20:36). Re-time them against the final edit before publishing.
 
 ---
 
@@ -35,27 +35,27 @@ Christian men podcast, marriage, Ecclesiastes 9:9, roommates, Walk Steadfast, St
 |---|---|---|
 | 00:00 | Open | Open |
 | 00:45 | Who is this | Who is this |
-| 02:02 | Bored with you | Bored with you |
-| 03:02 | The ride | The ride |
-| 04:27 | The Word | The Word |
+| 02:03 | Bored with you | Bored with you |
+| 03:04 | The ride | The ride |
+| 04:29 | The Word | The Word |
 | 05:41 | Pushback | Pushback |
-| 07:12 | The challenge | The challenge |
-| 08:14 | Mesquite | Mesquite |
-| 09:14 | Fourth night | Fourth night |
-| 10:20 | Sales lens | Sales lens |
-| 11:17 | What I like | What I like |
-| 12:24 | Pancake later | Pancake later |
-| 13:32 | The forty seconds | The forty seconds |
-| 14:16 | Hardware store | Hardware store |
-| 14:56 | Hymns by number | Hymns by number |
-| 15:36 | Relay year | Relay year |
-| 16:24 | Clearing | Clearing |
-| 16:53 | What I'm actually doing | What I'm actually doing |
-| 17:35 | Wes on the calendar | Wes on the calendar |
-| 18:03 | Quiet mile | Quiet mile |
-| 18:54 | Labor Day stretch | Labor Day stretch |
-| 19:22 | What I want you to do | What I want you to do |
-| 20:11 | Close | Close |
+| 07:13 | The challenge | The challenge |
+| 08:16 | Mesquite | Mesquite |
+| 09:16 | Fourth night | Fourth night |
+| 10:21 | Sales lens | Sales lens |
+| 11:18 | What I like | What I like |
+| 12:26 | Pancake later | Pancake later |
+| 13:34 | The forty seconds | The forty seconds |
+| 14:18 | Hardware store | Hardware store |
+| 14:57 | Hymns by number | Hymns by number |
+| 15:38 | Relay year | Relay year |
+| 16:27 | Clearing | Clearing |
+| 16:56 | What I'm actually doing | What I'm actually doing |
+| 17:37 | Wes on the calendar | Wes on the calendar |
+| 18:05 | Quiet mile | Quiet mile |
+| 19:00 | Labor Day stretch | Labor Day stretch |
+| 19:27 | What I want you to do | What I want you to do |
+| 20:18 | Close | Close |
 
 ---
 

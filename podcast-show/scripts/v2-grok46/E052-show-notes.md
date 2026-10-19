@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (1,946 spoken words, about 12:58). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (1,978 spoken words, about 13:11). Re-time them against the final edit before publishing.
 
 ---
 
@@ -34,11 +34,11 @@ Christian men podcast, Field Notes, Independence Day, Galatians 5:1, Walk Steadf
 |---|---|---|
 | 00:00 | Open | Open. |
 | 00:48 | The porch and the card | The porch and the card. |
-| 02:42 | A truck and a hundred days | A truck and a hundred days. |
-| 04:12 | The Word | The Word. |
-| 05:26 | The porch prayer | The porch prayer. |
-| 08:32 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
-| 12:34 | Close | Close. |
+| 02:44 | A truck and a hundred days | A truck and a hundred days. |
+| 04:14 | The Word | The Word. |
+| 05:28 | The porch prayer | The porch prayer. |
+| 08:37 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
+| 12:46 | Close | Close. |
 
 ---
 

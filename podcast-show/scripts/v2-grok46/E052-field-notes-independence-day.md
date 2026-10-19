@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm |
-| Spoken words | 1,946 (about 12:58 at 150 wpm, before laughs and pauses) |
+| Spoken words | 1,978 (about 13:11 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 27 lines (50% of words). JONATHON 27 lines (50% of words), 3 under 12 words (11.1%) |
 | Focus mark | Work for God's Pay |
@@ -42,7 +42,7 @@ JONATHON: And I will tell you I prayed in the truck and Dani knocked because she
 
 WES: Let's take the next few minutes on a prayer I almost made pretty. Alone. Out loud. Thanks: the chain. Person: the youngest, for October. Put down: the oldest saying you didn't do one for me. I can't fix that. You can. I heard myself ask for the day to go good, and I asked again, because good is a mush word and I was rushing the end. I still can't pray out loud with my wife. That crack is still a crack. I'm not closing it for a holiday.
 
-JONATHON: Wednesday after the dishes you read her the four lines. She said say it slower. You rush the end. You said that's better. She read the card twice to herself and went to bed. The end is what it's for. You practice that at the barn. I needed to hear a woman edit a blessing. That's a kind of freedom. Not being the only adult in the sentence.
+JONATHON: Wednesday after the dishes you read her the four lines. She said say it slower. You rush the end. You said that's better. She read the card twice to herself and went to bed. The last line is why you practice at the barn. You practice that at the barn. I needed to hear a woman edit a blessing. That's a kind of freedom. Not being the only adult in the sentence.
 
 WES: I will practice at the barn. I rush purpose. I can describe a boy all day. I get cheap when I say what he's for. Cheap is a yoke. I pick it up because it feels humble. It's just fear in a soft shirt.
 
@@ -55,7 +55,7 @@ JONATHON: Sunday on the New Braunfels back porch I asked Dani's dad to be one of
 
 WES: We're about halfway. You prayed in a truck. I want that next to my porch so nobody thinks this only works with a view.
 
-JONATHON: Wednesday. Driveway. Three false starts. Dani knocked, thinking it was a work call. I said I'm praying. She said oh. I prayed for the man with the screws. I still don't know his name. I will ask in July. The nephew is past a hundred days. I will send him this one. He will text back k. That's allowed. I won't need a paragraph to count it.
+JONATHON: Wednesday. Driveway. Three false starts. Dani knocked, thinking it was a work call. I said I'm praying. She said oh. I prayed for the man with the screws. I still don't know his name. I will ask in July. The nephew is past a hundred days. I will send him this one. He will text back k. That's allowed. I won't need a nephew essay before I count the k.
 
 WES: My Fourth is fireworks in town Sunday night, a lawn chair, my wife. In my family the Fourth was the creek. I won't make the town fireworks pretend to be the creek. Both can be good. Only one of them taught me a hill. I can sit in a chair and still remember water.
 
@@ -87,7 +87,7 @@ WES: What stuck. Proud, said to two sons. Staying out of my daughter's marriage 
 
 JONATHON: If freedom means anything this week, I will either finish the card with her or tell her why we wait, in words a seven-year-old can stand. I won't say soon again. Soon is how I stay enslaved to a maybe.
 
-WES: Look around your house this week. Sit on the porch. Say the three parts. Don't post it. Don't wear a flag as a personality. A chair and a sentence are enough.
+WES: Look at the yoke you pick back up after the porch. Sit on the porch. Say the three parts. Don't post it. Don't wear a flag as a personality. A chair and a sentence are enough.
 
 JONATHON: I will pour coffee again if I've got to. I already got a name. I don't need to turn eighty-two into a speech. I need to stand firm when I want to pick up soon.
 
@@ -110,7 +110,7 @@ JONATHON: Wait, back up. Are you talking about me saying soon, or the guy who ca
 
 WES: Both. You have a half-done card. Are you finishing it with her, or saying soon again?
 
-JONATHON: I won't say soon. Finish the card or tell her why we wait, in words a seven-year-old can stand. Can I ask you something hard?
+JONATHON: I won't say soon. Finish the card or tell her why we wait, in words a seven-year-old can stand. What yoke are you picking back up?
 
 WES: Go.
 
@@ -118,7 +118,7 @@ JONATHON: Are you rushing the end of a sentence, or sitting on the porch and put
 
 WES: [beat] The porch. Thank God for one concrete thing. Name one person. Put one thing down. The crack can stay a crack while I still open my mouth. What are you actually putting down?
 
-JONATHON: The card on the counter. That's the yoke I can see. Bud is mostly gone. The first text got sent. If I pick three I'll do none. One honest sentence.
+JONATHON: The card on the counter. That's the yoke I can see. Bud is mostly gone. The first text got sent. If I pick a card and a yoke and a speech, I'll pick the yoke. One honest sentence.
 
 WES: That's fair, but— no, don't pick up the old yoke because a holiday made you lonely.
 
@@ -134,11 +134,11 @@ JONATHON: Driveway. I already got a name. I don't need to turn eighty-two into a
 
 WES: Good. Sit on the porch. Don't post it. Don't wear a flag as a personality. A chair and a sentence are enough.
 
-JONATHON: Then I put the card on a day that already has fireworks. Does that sound like a quota?
+JONATHON: Then I put the card on a day that already has fireworks. Does that sound like I'm selling freedom as a product?
 
-WES: [laughs] It sounds like a man who knows his calendar. Stand firm then. Then is after you've been set free.
+WES: [laughs] That sounds like standing free after you've actually been set free. Stand firm then. Then is after you've been set free.
 
-JONATHON: What are you picking, for real?
+JONATHON: The card on the counter, or another yoke?
 
 WES: The porch prayer. Three parts. Out loud. If a neighbor light comes on, finish anyway.
 
@@ -152,7 +152,7 @@ JONATHON: I pick up the yoke when I say soon to a girl with a marker. I pick it 
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. Freedom is a porch and a sentence you don't rush. Not a yoke you pick back up.
+WES: Carry the porch, not the yoke you like picking up. Freedom is a porch and a sentence you don't rush. Not a yoke you pick back up.
 
 JONATHON: And a calendar entry can be a kind of liberty.
 

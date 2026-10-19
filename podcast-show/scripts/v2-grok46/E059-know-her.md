@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 3,061 (about 20:24 at 150 wpm, before laughs and pauses) |
+| Spoken words | 3,131 (about 20:52 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 47 lines (53% of words). JONATHON 41 lines (47% of words), 2 under 12 words (4.9%) |
 | Focus mark | Go First |
@@ -62,13 +62,13 @@ WES: When I was twenty-four I knew her radio songs, her sister's birthday, her m
 
 JONATHON: I did the same with Dani. Shifts, nurses, cilantro, the old R and B station. I used to call her on the drive home just to hear her turn the radio down. Then kids. Then I started giving her the number when she asked about a meeting, and never the part that made me feel small.
 
-WES: Look around your house this week. What have you been getting wrong on purpose because the old answer is easier?
+WES: Look at the question you still haven't asked her. What have you been getting wrong on purpose because the old answer is easier?
 
 ---
 
 ## SEGMENT 2 · The parking lot
 
-WES: Your turn. Dani. And I want the H-E-B, not the cleaned-up version.
+WES: Your turn. Dani. And I want the H-E-B parking lot, not the polished story.
 
 JONATHON: Thursday after the kids were down I asked, "What's something you've been doing lately that I don't know about?" She said, "I sing in the car." Since the Fourth, every drive home from the hospital. Scales, then the audition piece. She won't tell me which. She said I'd look it up and listen forty times, and she's right.
 
@@ -84,7 +84,7 @@ JONATHON: That's my job. And here's the part I've got to say. When she said she 
 
 WES: You're going to tell her that, or are you going to keep it as a confession she never hears?
 
-JONATHON: I'm going to tell her that. Not as a speech. As a confession. "Part of me heard that you were leaving, and I'm sorry." Then I've got to be okay with Tuesdays out loud, not quiet. Quiet is how I make her carry my fear.
+JONATHON: I'm going to tell her that. Not as a speech. As a confession. "Part of me heard that you were leaving, and I'm sorry." Then I've got to be okay with Tuesdays out loud, not quiet. Quiet is how I hand her my fear to haul.
 
 WES: We're about halfway, and I want you to hear this if your wife has a want that isn't about you. Her want isn't a verdict on your marriage. Your fear might be a verdict on an old story.
 
@@ -108,7 +108,7 @@ JONATHON: I kicked dirt in with jokes. "You're fine. You're always fine." Dani i
 
 ## SEGMENT 4 · The Word
 
-WES: I've got a little under ten minutes, and I want the Bible open. Proverbs twenty, verse five. You want to read it?
+WES: We've got a little under ten, and I want the well verse in our hands. Proverbs twenty, verse five. You want to read it?
 
 JONATHON: "The purposes of a person’s heart are deep waters, but one who has insight draws them out."
 
@@ -130,13 +130,13 @@ WES: If your prayers feel like a blank ceiling, start with the woman in the othe
 
 ## SEGMENT 5 · What else
 
-WES: Last few minutes on what I'm actually doing. I'm going back to the porch. "What else have you told me that I didn't hear?" I'm going to write what she says on a card for my wallet. I'm not booking mountains yet. I'm listening first, because I booked a beach for twenty-two years. What about you?
+WES: Last few minutes on the porch question I'm actually asking. I'm going back to her porch with a card. "What else have you told me that I didn't hear?" I'm going to write what she says on a card for my wallet. I'm not booking mountains yet. I'm listening first, because I packed a beach cooler for twenty-two years. What about you?
 
 JONATHON: I'm telling Dani the leaving sentence. Then I'm asking once a week about the song, and I won't drive by the H-E-B. Courting her I knew the radio. Knowing her now means I don't steal the piece.
 
-WES: Pushback. A man says, I asked and she said she's fine. Now what?
+WES: Pushback. A man says he asked once and she answered fine. Now what?
 
-JONATHON: Fine is sometimes a locked well. Ask a smaller question. "What's something you've been doing lately that I don't know about?" Then sit there. If she tests you with a small one, don't yawn. The next one is deeper.
+JONATHON: Fine is sometimes a well with a lid on it. Ask a smaller question. "What's something you've been doing lately that I don't know about?" Then sit there. If she tests you with a small one, don't yawn. The next one is deeper.
 
 WES: A man says, I know her. We've been married thirty years.
 
@@ -154,13 +154,13 @@ WES: This week's challenge. Ask her one question you don't know the answer to. W
 
 JONATHON: If you're dating, same job. If you're single, ask an older married man what he got wrong about his wife and stayed wrong for years. If you're divorced, you can still learn the job for the next conversation with your kids' mom, without pretending it will turn back into a romance.
 
-WES: Look around your house this week. The woman in it's not the woman you married in every way, and that's not a failure. That's a well. Draw. I packed a cooler for a beach she never asked for, and I called that love because I was in the picture.
+WES: Look at the question you still haven't asked her. The woman in it's not the woman you married in every way, and that's not a failure. That's a well. Draw. I packed a cooler for a beach she never asked for, and I called that love because I was in the picture.
 
 ---
 
 ## SEGMENT 7 · Two more rooms
 
-WES: I want two more rooms before we go, because a man will hear the beach story and think his house is fine. First room: the meeting. She asks how it went. You give her the number. You don't give her the part that made you feel small. I've done that for years. I thought I was protecting her. I was protecting my pride.
+WES: I want two more rooms before we go, because a man will hear the beach story and think his house is fine. First room: the meeting. She asks how it went. You give her the number. You don't give her the part that made you feel small. I've done that for years. I thought keeping quiet was protecting her. I was protecting my pride.
 
 JONATHON: I give Dani the number. "It was fine. We moved two counties." I don't tell her the VP made me feel twelve. Then I wonder why she doesn't know me. She can't draw water I won't put in the well.
 
@@ -182,13 +182,13 @@ JONATHON: I'll be real with you. I wanted this to be a technique. Three question
 
 WES: Then throw the technique out and keep the job. Ask. Write. Sit. Draw. If you need a walk, walk. If you need a porch, porch. The place isn't the point. The bucket is the point.
 
-JONATHON: Single men, this still belongs to you. You're practicing on friends and sisters and the woman you're not marrying yet. Don't treat a first date like a deposition. Treat a person like deep water. Ask one thing you don't know. Then listen like it matters.
+JONATHON: Single men, the bucket still belongs in your hand. You're practicing on friends and sisters and the woman you're not marrying yet. Don't treat a first coffee like a court reporter's table. Treat a person like deep water. Ask her one thing whose answer might rearrange the week. Then listen like it matters.
 
-WES: Divorced men, you can still repent of "What for?" without rewriting the past into a romance. You can still learn to draw with your kids. You can still become the man who does not answer before he listens. That's not getting her back. That's getting you back.
+WES: Divorced men, you can still repent of "What for?" without turning the past into a romance. You can still learn to drop a bucket with your kids. You can still become the man who does not answer before he listens. That's not getting her back. That's getting you back.
 
-JONATHON: Older men, if you've been married forty years and you think you know, ask anyway. She has a Tuesday you have never seen. I watched Dani's dad talk golf for a decade and then one Sunday he talked about his brother. The water was there the whole time. Somebody finally dropped a bucket.
+JONATHON: Older men, if you've been married forty years and you think you know, ask anyway. She has a Tuesday you have never sat through. I watched Dani's dad talk golf for a decade and then one Sunday he talked about his brother. The water in that story was already there. I was the one late. Somebody finally dropped a bucket.
 
-WES: I've got about a minute and I want it on you. Pick the question. Not a cute one. A question whose answer might change your week. Then ask it on a calm night, not at the end of a fight. Then write what she says. Then don't fix it before Monday.
+WES: I've got one minute and I want the question in your mouth. Pick the question. Not a cute one. A question whose answer might change your week. Then ask it on a calm night, not at the end of a fight. Then write what she says. Then don't patch her answer before Monday.
 
 JONATHON: And if she cries, don't panic. Deep water sometimes comes out the eyes. Sit there. Hand her a towel. Don't explain her to herself. That's yelling at the well.
 
@@ -196,13 +196,13 @@ JONATHON: And if she cries, don't panic. Deep water sometimes comes out the eyes
 
 ## SEGMENT 8 · The walk and the sink
 
-WES: One more picture, because I don't want you leaving with only a question. My wife and I used to walk to the Dairy Queen every Friday night, about a mile each way from her mother's house. I knew her daddy's bird dogs, her sister's boyfriend, the name she wanted for a daughter. I asked questions because I wanted her. Then I got her, and I stopped wanting the answers. That's the sin under this. Not ignorance. Retirement. I retired from the job that got me the woman, and I called the retirement peace.
+WES: One more picture, because I don't want you leaving with only a question. My wife and I used to walk to the Dairy Queen every Friday night, about a mile each way from her mother's house. I knew her daddy's pointers, her sister's boyfriend, the daughter-name she already loved. I asked questions because I wanted her. Then I got her, and I stopped wanting the answers. That's the sin under this. Not ignorance. Retirement. I retired from the job that got me the woman, and I called the retirement peace.
 
-JONATHON: I called Dani on her drive home to hear the radio go down. That was knowing her. Then I started sending "K." For about nine years. She told me later she wanted a call sometimes. I thought "K" was efficient. It was me leaving the well and calling it work.
+JONATHON: I called Dani on her drive home so I could hear the radio drop. That was knowing her. Then I started sending "K." For about nine years. She told me later she wanted a voice sometimes, not a letter K. I thought "K" was efficient. It was me leaving the well and calling it work.
 
 WES: So if your wife has been getting "K" from you, that's the assignment. Call. Ask. Write it down. I'm not above this. I packed a beach she does not want and I text "K" like it's a personality.
 
-JONATHON: And if she doesn't want a walk, don't make the walk the test. Some women talk in a car. Some talk in the dark. Some talk while they dry a pan. Find the room where she actually speaks, then shut up in that room.
+JONATHON: And if she doesn't want a walk, don't make the walk the test. Some wives talk only in a moving car. Some talk in the dark. Some talk while they dry a lasagna pan. Find the room where she actually speaks, then shut up in that room.
 
 WES: I've been the man who asks in the wrong room and then says she never talks. That's on me. The porch is her room. The truck is sometimes mine. I need to go to her room.
 
@@ -212,17 +212,17 @@ WES: Then that's your map. The sink. The porch. The parking lot. The walk. Go th
 
 JONATHON: Wait, back up. Are you asking what else you didn't hear, or booking mountains so you can feel like you listened?
 
-WES: Asking. Card in the wallet. Sit with it a day. I'm not booking yet. I booked a beach for twenty-two years.
+WES: Asking. Card in the wallet. Sit with it a day. I'm not booking yet. I packed a beach cooler for twenty-two years.
 
-JONATHON: Can I ask you something hard?
+JONATHON: What question would change your week if she answered?
 
 WES: Go.
 
 JONATHON: If she names a degree, are you going to say "What for?" with nicer words, or "Tell me more" and mean it even if your chest wants a number?
 
-WES: [beat] Tell me more. I mean it. I've yawned at the little ones. I called them preferences. They were her telling me how to live with her. The little ones are the training for the real one. If you skip them, you have not earned the mountains. What are you picking, for real?
+WES: [beat] Tell me more. I mean it. I've yawned at the little ones. I called them preferences. They were her telling me how to live with her. The little ones are the training for the real one. If you skip them, you have not earned the mountains. The question that might change the week — which one?
 
-JONATHON: The leaving sentence. Then the song once a week. I won't drive by the store. If I fail, I'll say I failed, not that she got quiet. And I will call her instead of sending a letter K at least once, because nine years of that's long enough.
+JONATHON: The leaving sentence. Then the song once a week. I won't cruise past the H-E-B like a scout. If I miss the call, I'll say I missed it, not that she went silent. And I will call her instead of sending a letter K at least once, because nine years of that's long enough.
 
 WES: That's fair, but— don't stack three so you can miss two. Pick one.
 
@@ -230,7 +230,7 @@ JONATHON: [laughs] Leaving sentence. That's the one. No, hold on. You've got a h
 
 WES: [laughs] Porch. Her room. The truck is sometimes mine. I need to go to her room. TV off at supper isn't cute. A day's notice before company isn't cute. A phone call instead of a letter K isn't cute. Those are the little wells. If you yawn at those, she won't hand you the real one.
 
-JONATHON: Then I say the leaving sentence at a sink that already has a pan. Does that sound like a quota?
+JONATHON: Then I say the leaving sentence at a sink that already has a pan. Does that sound like I'm turning her into a homework set?
 
 WES: It sounds like a man who knows the room. Ask in the room where she speaks, or you never will. That's the whole takeaway. Knowing her is a job. Memory isn't the work.
 
@@ -238,11 +238,11 @@ WES: It sounds like a man who knows the room. Ask in the room where she speaks, 
 
 ## CLOSE (word for word)
 
-WES: Here's what I want you to carry. Knowing her is a job. Memory isn't the work.
+WES: Keep this: knowing her is a job. Memory isn't the work. Knowing her is a job. Memory isn't the work.
 
 JONATHON: And if part of you hears leaving when she wants something, say that out loud. Don't make her carry it.
 
-WES: Friday we check the porch and the parking lot. Until then: one question you don't know.
+WES: Friday we check the porch question and the H-E-B parking lot. Until then: one question you don't know.
 
 JONATHON: Then go ask her, and tell us how it went at walksteadfast.com, and find us everywhere at @steadfastwalk.
 

@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 1,989 (about 13:16 at 150 wpm, before laughs and pauses) |
+| Spoken words | 1,993 (about 13:17 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 27 lines (55% of words). JONATHON 22 lines (45% of words), 0 under 12 words (0.0%) |
 | Focus mark | Go First |
@@ -44,7 +44,7 @@ JONATHON: And I'll tell you what Theo said when he saw dirt on my face.
 
 ## SEGMENT 1 · Check the box
 
-WES: Let's take the next few minutes on the room. Tuesday at two. Mom, my older brother, the doctor.
+WES: Tuesday at two gets the next few minutes. Mom, my older brother, the doctor.
 
 JONATHON: Start with her sentence, because that's the one you said you wouldn't improve, and I want to know if you kept your hands off it.
 
@@ -118,7 +118,7 @@ WES: Drop the because. "I was short with you. I was wrong. I'm sorry." Then shut
 
 ## SEGMENT 4 · The first apology
 
-WES: Last few minutes on the tool. The first apology. One clean sentence. No because. No history lesson. No "and you also."
+WES: Last few minutes on going first, not on the flowers. The first apology. One clean sentence. No because. No history lesson. No "and you also."
 
 JONATHON: I need examples, because I will write a speech if you leave this open. What are the short ones a man can actually say tonight?
 
@@ -130,7 +130,7 @@ WES: Then you already did the first move. The receipt isn't the point. God saw i
 
 JONATHON: The single check came by text. My nephew made chili for two guys. Seven showed up. He had chili for four. He texted me a picture of the pot and the line, "I should've gone first on the beans." I wrote back, "Next time double it." That's his version. He invited. He didn't wait for a better Sunday.
 
-WES: Look around your house this week. If you owe an apology, don't wait for Valentine's dinner to make it pretty. Pretty is how we postpone. Say it in the kitchen. Then go eat. Can I ask you something hard? Are you going to let the ham close October, or are you going to keep the night you picked?
+WES: Look at the Valentine leftover and the ash. If you owe an apology, don't wait for Valentine's dinner to make it pretty. Pretty is how we postpone. Say it in the kitchen. Then go eat. Mind if I press on the leftover Valentine? Are you going to let the ham close October, or are you going to keep the night you picked?
 
 [BOARD: No because. Then stop talking.]
 

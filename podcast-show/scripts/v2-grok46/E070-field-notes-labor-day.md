@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 1,985 (about 13:14 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,020 (about 13:28 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 43 lines (50% of words). JONATHON 40 lines (50% of words), 4 under 12 words (10.0%) |
 | Focus mark | Work for God's Pay |
@@ -44,7 +44,7 @@ JONATHON: And I'll tell you the four minutes I lasted in a Sabbath hour before I
 
 ## SEGMENT 1 · The bead
 
-WES: Let's take the next few minutes on a gate, because Friday is the receipt. Saturday at the back of the shop my youngest showed me a cattle gate for the man's own place. He did the hinges. I said, "It's even the whole way. You didn't rush the end." He said that's the hard part.
+WES: Begin on the cattle gate, because Friday will only ask if you stopped after even. Saturday at the back of the shop my youngest showed me a cattle gate for the man's own place. He did the hinges. I said, "It's even the whole way. You didn't rush the end." He said that's the hard part.
 
 JONATHON: That's what you see. Not a talk about manhood. A hinge. I needed that sentence more than he did. Wait, back up. Did you add a speech after even, or did you actually stop?
 
@@ -68,15 +68,15 @@ JONATHON: "Tell them I got in. Second alto. Tell them I sat in the H-E-B parking
 
 WES: Don't make it a thing. That's the sock. You wanted a parade. She wanted a cake in a car.
 
-JONATHON: I wrote it the way she wrote it. That's honor. Tuesdays scare me. I'm still taking them. Can I say the ugly part? HVAC still has Tuesday numbers. If I wait for a quiet Tuesday I'll still be waiting when Theo has a license.
+JONATHON: I wrote it the way she wrote it. That's honor. Tuesdays scare me. I'm still taking them. Can I say the ugly part? HVAC still has Tuesday numbers. If I stall baths until HVAC has a soft Tuesday, Theo will be driving before I run the house.
 
-WES: Put baths on a Tuesday that already has a number. Or you never will.
+WES: Run baths on the same Tuesday a quote is due. Waiting for a blank day is how they never happen.
 
 ---
 
 ## SEGMENT 3 · The Word
 
-WES: We're about halfway, and I want one verse for the man who can't sit down. Hebrews four, verse nine. You want to read it?
+WES: This is the middle stretch. Hebrews is for the man who can't sit down. Hebrews four, verse nine. You want to read it?
 
 JONATHON: "There remains, then, a Sabbath-rest for the people of God;"
 
@@ -84,7 +84,7 @@ JONATHON: "There remains, then, a Sabbath-rest for the people of God;"
 
 WES: Remains. Not earned. Left for you. My dad could not sit on Sundays. A screen door. A fence that didn't need checking. Late in life he sat on the tailgate and watched the cows. That's how I knew he had grown. I still stand up at a drip. I'm practicing sitting anyway.
 
-JONATHON: Sunday I took an hour, two to three. About four minutes in I stood up to look at a drip at a gutter corner. I sat back down. A mockingbird. That's the whole report. Dani's hour is Thursday around two, backyard, coffee, folding nothing. Does that sound like I failed the hour?
+JONATHON: Sunday I took an hour, two to three. About four minutes in I stood up to look at a drip at a gutter corner. I sat back down. A mockingbird. That's the whole report. Dani's hour is Thursday around two, backyard, coffee, folding nothing. Did sitting four minutes and standing look like I failed the hour?
 
 WES: You sat back down. That's the hour. Context in two sentences. Hebrews is telling tired people there is still a rest, because Joshua's land wasn't the last word. If you can't sit, you're still trying to finish a land God already gave.
 
@@ -106,7 +106,7 @@ JONATHON: A second ask this week: a rep's mother fell in July and moved in. He h
 
 ## SEGMENT 5 · More on the 1
 
-WES: Stay on the hinge a minute. Even the whole way. You didn't rush the end. If I add manhood I steal a gate.
+WES: Keep the cattle-gate hinge in front of us. Even the whole way. You didn't rush the end. If I add manhood I steal a gate.
 
 JONATHON: I needed that sentence. I rush ends so I can get to the next number. Can you ask me Friday whether I rushed a close?
 
@@ -190,9 +190,9 @@ JONATHON: I'll name the step. Skip all last week. Theo's cough. Still a skip.
 
 ## SEGMENT 12 · More on tres 8
 
-WES: Labor Day tacos Monday at six. Shake names. Looking them up Sunday isn't fake. Fake is a smile with no name.
+WES: Labor Day tacos Monday at six. Shake names. Looking them up Sunday isn't fake. Fake is a grin you throw at a man you didn't bother to learn.
 
-JONATHON: I'll look them up. If I fake a name I have sold a unit again. Ask me whether I shook them.
+JONATHON: I'll look them up. If I fake a name I have sold a unit again. Friday, did my hand hit every name at the taco table?
 
 WES: I'll ask. Hands. Names. Tacos. That's Monday.
 
@@ -240,7 +240,7 @@ JONATHON: I'll put the laptop in the truck with the phone. Two fences. One bed.
 
 WES: A drip at a corner can wait until Monday. Rest remains. If I finish every drip I will never sit. That's how I skip a land already given.
 
-JONATHON: I stood up at four minutes. I sat back down. That's the whole religion of a Sunday. Will you let that be the report, or do you need a clean hour from me?
+JONATHON: I stood up at four minutes. I sat back down. Sitting back down is the entire Sabbath I have. Will you let that be the report, or do you need a clean hour from me?
 
 WES: That's the report. Clean hours are costumes.
 
@@ -250,11 +250,11 @@ JONATHON: Then I'll bring the limp. Whole is better than clean on a Sabbath too.
 
 ## SEGMENT 17 · More on tres 13
 
-WES: Don't rush the end. A gate taught me. A coffee pot taught me. A cake in a car taught me. I've got about a minute and I want it on you. Sit the hour. Shake the names. Don't make her yes a thing.
+WES: Don't rush the end. A gate taught me. A coffee pot taught me. A cake in a car taught me. A minute. Sit the hour. Shake the names. Don't rush the gate. Sit the hour. Shake the names. Don't make her yes a thing.
 
-JONATHON: I'll sit. I'll shake. I'll write it the way she wrote it. Second alto. Cake. Car. That's all. What are you picking, the hinge or the recliner?
+JONATHON: I'll sit. I'll shake. I'll write it the way she wrote it. Second alto. Cake. Car. That's all. Which one gets you this week, the cattle-gate hinge or the ninth-inning chair?
 
-WES: The hinge. Even. Then stop. I've got about a minute and I want it on you. Sit the hour you already named. Don't improve a cake. Don't rush a gate.
+WES: The hinge. Even. Then stop. A minute. Sit the hour. Shake the names. Don't rush the gate. Sit the hour you already named. Don't improve a cake. Don't rush a gate.
 
 JONATHON: Even. Then stop. I'll take Tuesdays scared. I'm still taking them.
 

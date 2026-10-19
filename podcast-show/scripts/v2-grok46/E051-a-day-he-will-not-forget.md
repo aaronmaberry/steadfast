@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,807 (about 18:43 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,821 (about 18:48 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 35 lines (53% of words). JONATHON 31 lines (47% of words), 3 under 12 words (9.7%) |
 | Focus mark | Work for God's Pay |
@@ -89,7 +89,7 @@ WES: He said the headset was the same four guys since sixth grade. One of them i
 
 JONATHON: I wrote Theo's morning on the calendar. The August he turns thirteen. Eight years out. I wrote your name. I could not write a second. The date was easy. The men are the hill. I don't have an uncle who called on Thursdays. I've you, and I've a porch I'm still scared to use a second time.
 
-WES: The youngest's day is a Saturday in October after the first cold front. The barn at six after feeding. The men: the older brother, the little brother if Abilene lets him, the oldest. My wife hears the sentence first. I will practice it at the barn because I rush the end. The end is what it's for. I rush purpose. I can describe a boy. I get shy when I say what the boy is for.
+WES: The youngest's day is a Saturday in October after the first cold front. The barn at six after feeding. The men: the older brother, the little brother if Abilene lets him, the oldest. My wife hears the sentence first. I will practice it at the barn because I rush the end. The last line is the point of the morning. I rush purpose. I can describe a boy. I get shy when I say what the boy is for.
 
 JONATHON: I don't have the sentence for Theo yet. I've a date. A date without men is a party. I would rather have three men and a short true thing than a bounce house and a speech. I'm not against cake. I'm against a booth I pay for so I can feel marked.
 
@@ -98,13 +98,13 @@ JONATHON: I don't have the sentence for Theo yet. I've a date. A date without me
 
 ## SEGMENT 5 · Pushback
 
-WES: Push. The man who says this is for people with money and land. And the man who missed his older son's day and thinks he's disqualified. Which one is sitting in you this week?
+WES: Push. The man who says this is for people with money and land. And the man who missed his older son's day and thinks he's disqualified. Money-and-land, or I'm-disqualified — which excuse is yours?
 
 JONATHON: The missed-day one, if I'm honest. A ramp in a church lot costs a Saturday and a coffee can. A living room costs coffee. A porch costs dishes. You don't need a barn. You need witnesses and one true thing. If you missed the older one, say you're sorry and don't use him as a prop to make the younger day pretty. Wes already did that part out loud. Copy the sorry. Don't copy a fantasy where the older boy claps.
 
 WES: I'm not disqualified. I'm late. Late still has to tell the truth. I won't buy the younger a day that pretends the older got one. The older is coming for his brother. That's more honest than a matching ceremony I invent to manage my guilt.
 
-JONATHON: The man who got be good for your mom thinks he can't give a day without repeating the job. Then give a day that gives the boy his age back. You're thirteen. You're not the man of the house. Here is what I've seen. Here are men who will keep seeing you. That's the opposite of the job.
+JONATHON: The man who got be good for your mom thinks he can't give a day without repeating the job. Then give a day that gives the boy his age back. You're thirteen. You don't carry this house. Here is what I've seen. Here are men who will keep seeing you. That's the opposite of the job.
 
 
 ## SEGMENT 6 · This week's challenge
@@ -133,7 +133,7 @@ JONATHON: Wait, back up. Are you talking about me and the blank, or the guy who 
 
 WES: Both. You wrote one name and couldn't write a second. Are you going to fill the blank so the card looks complete, or leave it honest?
 
-JONATHON: I'm leaving it. Filling it with a random man is how you get a booth. Can I ask you something hard?
+JONATHON: I'm leaving it. Filling it with a random man is how you get a booth. Are you writing the true thing or the speech?
 
 WES: Go.
 
@@ -141,7 +141,7 @@ JONATHON: Are you going to tidy what the oldest said, or leave a wound and a yes
 
 WES: [beat] I won't tidy it. He said you didn't do one for me. I said I'm sorry. He will come, for his brother. That's more honest than a matching ceremony I invent to manage my guilt. What are you actually doing in July?
 
-JONATHON: Getting a name. Not a picture. The crew goes out again. If I pick three I'll do none. One name in a lot. Theo prayed, and help the lady get her mail. I can copy that without posting it.
+JONATHON: Getting a name. Not a picture. The crew goes out again. If I chase a photo and a name and a booth, I'll get the booth. One name in a lot. Theo prayed, and help the lady get her mail. I can copy that without posting it.
 
 WES: That's fair, but— no, don't take the photo you already decided not to take.
 
@@ -153,29 +153,29 @@ JONATHON: No, hold on. You've got a habit of writing what you wished your dad ha
 
 WES: [laughs] From the boy. The shoulder of the road. The chain. The slope. I get shy when I say what the boy is for. I can describe him. I rush purpose. Are you still trying to give Theo his age back in a better room than a booth?
 
-JONATHON: I am. You're thirteen. You're not the man of the house. I got be good for your mom, then a steakhouse and three drinks I didn't need. I drove home when I should not have. I wanted a day I wouldn't forget. I got a lie. Dani can hear the difference between a stone and a booth. She stops me when I start handing people a ceremony before they're in the morning.
+JONATHON: I am. You're thirteen. You don't carry this house. I got be good for your mom, then a steakhouse and three drinks I didn't need. I drove home when I should not have. I wanted a day I wouldn't forget. I got a lie. Dani can tell a stone from a rented booth. She cuts me off when I start handing people a ceremony before morning starts.
 
 WES: Good. Stones wait for a question. If you can't answer a boy in a minute, you wrote a speech. October after the first cold front. Barn at six. Loppers on a wall I didn't look at for ten years. A brother kept a tool for a day we had not named.
 
-JONATHON: Then I put July on a Tuesday that already has a meeting. Does that sound like I'm making a quota out of a parking lot?
+JONATHON: Then I block July on a workday that already has a call I could hide behind. Does blocking July sound like I'm chasing a photo?
 
-WES: [laughs] It sounds like a man who knows his calendar. Put the name inside the busy, or you never will. A ramp costs a Saturday and a coffee can. You don't need a barn.
+WES: [laughs] That sounds like a name in a lot, not a photo. Write the name while work is loud, or you'll wait till never. A ramp costs a Saturday and a coffee can.
 
-JONATHON: What are you picking, for real?
+JONATHON: July and a name, or a card that looks finished?
 
 WES: One true thing I've seen. Read it to her so I don't rush the end. Put October on the calendar. And I want to keep a tool for somebody else's boy.
 
 JONATHON: July. A name. A blank. That's the whole takeaway. A day he won't forget is witnesses, words, and cost. Not a party. The date is easy. The men are the hill.
 
-WES: If I come back with a booth, stop me. Huh is allowed. Water can wait until August. The youngest said huh and kept cutting. That's a kind of stone too.
+WES: If I come back with a booth, stop me. Huh is allowed. Water can wait until August. The youngest said huh and kept cutting. That's a kind of marker too.
 
 JONATHON: Ruby talked about every board at supper for twenty minutes. That's allowed, right? A child can tell a story a widow didn't ask a stranger to post. I never got the screw man's name. Five minutes on his knees, handing them back one at a time. Theo then handed screws to everyone all day. That's the witness I want at thirteen. Can I ask Dani's dad when I have a second question that isn't a performance, or is that me filling a blank with a porch I'm scared to use twice?
 
 WES: Ask when you've got a real question. Not to complete a card. The oldest's headset is four guys since sixth grade. One of them is in the Army now. They still play Thursdays. Ten minutes about the friend. Then the wound. I won't use him as a prop to make October pretty. Copy the sorry. Don't copy a fantasy where he claps.
 
-JONATHON: [laughs] I don't have an uncle who called on Thursdays. I've you, and I've a porch. A date without men is a party. I'd rather have three men and a short true thing than a bounce house. I'm not against cake. I'm against paying for a booth so I can feel marked. What are you practicing at the barn, actually?
+JONATHON: [laughs] I don't have an uncle who called on Thursdays. I've you, and I've a porch. A date without men is a party. I'd rather have three men and a short true thing than a bounce house. I'm not against cake. I'm against paying for a booth so I feel marked. What are you practicing at the barn, actually?
 
-WES: The end. I rush it. The end is what it's for. Older brother said one true thing, and I will be there, and the loppers. Little brother if Abilene lets him. Wife first. I'm late. I'm not disqualified. Late still has to tell the truth.
+WES: The end. I rush it. The last line is the point of the morning. Older brother said one true thing, and I will be there, and the loppers. Little brother if Abilene lets him. Wife first. I'm late. I'm not disqualified. Late still has to tell the truth.
 
 ---
 
@@ -185,7 +185,7 @@ WES: Carry this. Witnesses, words, and cost. Not a party.
 
 JONATHON: And the date is easy. The men are the hill.
 
-WES: Friday we sit with the Fourth. Until then: one true thing, written. Don't decorate the blank.
+WES: Friday we sit with the Fourth. Until then: one true thing, in your own hand. Don't decorate the blank.
 
 JONATHON: Write it, then tell us at walksteadfast.com, and find us at @steadfastwalk.
 
