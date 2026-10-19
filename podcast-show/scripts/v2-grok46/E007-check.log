@@ -1,0 +1,35 @@
+== E007-waiting-is-not-peace.md
+Spoken words: 3138 (about 20:55 at 150 wpm)
+WES: 46 lines, 1636 words (52%)
+JONATHON: 36 lines, 1502 words (48%), 2 under 12 words (5.6%)
+Format: main (spoken-word window 2800-3200)
+  Jonathon short lines:
+    [3] And I'm Jonathon.
+    [10] Oh, man. In front of everybody. What'd you say back?
+Hook before first sting: 55 words (about 22 s)
+Segments (start times at 150 wpm):
+  00:00  OPEN (word for word)  (157 words)
+  01:03  SEGMENT 1 · The quiet  (415 words)
+  03:49  SEGMENT 2 · Who's paying  (564 words)
+  07:34  SEGMENT 3 · The Word  (398 words)
+  10:14  SEGMENT 4 · Pushback  (502 words)
+  13:34  SEGMENT 5 · The question  (465 words)
+  16:40  SEGMENT 6 · What we're actually doing  (425 words)
+  19:30  SEGMENT 7 · This week's challenge  (121 words)
+  20:19  CLOSE (word for word)  (91 words)
+  20:55  END
+Board cues: 5
+  ok (NIV exact) Jeremiah 6:14
+  ok (idea) Delay isn't free. Check whose name is on the bill.
+  ok (NIV exact) James 4:14
+  ok (idea) Patience has a reason and a date. Waiting has a mood and a "
+  ok (NIV exact) Proverbs 3:28
+  scripture quote ok (James 4:17): "If anyone, then, knows the good they ought to do and doesn't"
+  scripture quote ok (Matthew 5:24): 'First go and be reconciled to them; then come and offer your'
+  scripture quote ok (Matthew 5:23-24): 'your brother or sister has something against you.'
+  scripture quote ok (Psalm 27:14): 'Wait for the Lord.'
+  scripture quote ok (Psalm 27:14): 'Wait for the Lord; be strong and take heart and wait for the'
+Show notes: E007-show-notes.md
+  show notes ok checks done; 6 NIV quotes verified
+
+RESULT E007-waiting-is-not-peace.md: PASS (0 fail, 0 warn)
