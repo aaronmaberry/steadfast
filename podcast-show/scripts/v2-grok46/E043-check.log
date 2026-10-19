@@ -1,0 +1,29 @@
+== E043-no-fixed-star.md
+Spoken words: 2873 (about 19:09 at 150 wpm)
+WES: 37 lines, 1540 words (54%)
+JONATHON: 31 lines, 1333 words (46%), 1 under 12 words (3.2%)
+Format: main (spoken-word window 2800-3200)
+  Jonathon short lines:
+    [3] And I'm Jonathon.
+Hook before first sting: 39 words (about 16 s)
+Segments (start times at 150 wpm):
+  00:00  OPEN (word for word)  (133 words)
+  00:53  SEGMENT 1 · Fort Sam and the back of the stone  (312 words)
+  02:58  SEGMENT 2 · Abilene and a pecan  (312 words)
+  05:03  SEGMENT 3 · The Word  (196 words)
+  06:21  SEGMENT 4 · She wants to sing  (289 words)
+  08:17  SEGMENT 5 · Pushback  (236 words)
+  09:51  SEGMENT 6 · This week's challenge  (554 words)
+  13:33  SEGMENT · Sitting with it  (772 words)
+  18:42  CLOSE (word for word)  (69 words)
+  19:09  END
+Board cues: 4
+  ok (idea) The floor teaches first.
+  ok (idea) Look toward the pecan.
+  ok (NIV exact) Habakkuk 2:2
+  ok (idea) A number is not a north.
+  scripture quote ok (Proverbs 29:18): 'Where there is no revelation, people cast off restraint; but'
+Show notes: E043-show-notes.md
+  show notes ok checks done; 2 NIV quotes verified
+
+RESULT E043-no-fixed-star.md: PASS (0 fail, 0 warn)

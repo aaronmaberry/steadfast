@@ -1,0 +1,29 @@
+== E039-ask-the-man.md
+Spoken words: 2822 (about 18:49 at 150 wpm)
+WES: 35 lines, 1505 words (53%)
+JONATHON: 31 lines, 1317 words (47%), 1 under 12 words (3.2%)
+Format: main (spoken-word window 2800-3200)
+  Jonathon short lines:
+    [3] And I'm Jonathon.
+Hook before first sting: 40 words (about 16 s)
+Segments (start times at 150 wpm):
+  00:00  OPEN (word for word)  (139 words)
+  00:56  SEGMENT 1 · The green lamp  (294 words)
+  02:53  SEGMENT 2 · The barn and a receipt  (435 words)
+  05:47  SEGMENT 3 · The Word  (196 words)
+  07:06  SEGMENT 4 · The men ahead  (291 words)
+  09:02  SEGMENT 5 · Pushback  (254 words)
+  10:44  SEGMENT 6 · This week's challenge  (573 words)
+  14:33  SEGMENT · Sitting with it  (574 words)
+  18:22  CLOSE (word for word)  (66 words)
+  18:49  END
+Board cues: 4
+  ok (idea) Bad light is not a personality.
+  ok (idea) The floor teaches first.
+  ok (NIV exact) Proverbs 27:17
+  ok (idea) Wanting it is the invitation.
+  scripture quote ok (Proverbs 13:20): 'Walk with the wise and become wise, for a companion of fools'
+Show notes: E039-show-notes.md
+  show notes ok checks done; 2 NIV quotes verified
+
+RESULT E039-ask-the-man.md: PASS (0 fail, 0 warn)

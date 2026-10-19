@@ -23,7 +23,34 @@ E001 exception logged 2026-10-19 (Aaron): replace the earlier 40–45 min / 6,00
 | E005 | What a Steadfast Man Looks Like | 3,173 | 21:09 | 52 / 48 | PASS 0/0 |
 | E006 | Field Notes: Saying It Out Loud | 2,204 | 14:42 | 50 / 50 | PASS 0/0 |
 | E007 | Waiting Is Not Peace (locked pilot, copied word for word, no SLATE) | 3,138 | 20:55 | 52 / 48 | PASS 0/0 |
-| E008–E080 | remaining | — | — | — | pending |
+| E008–E028 | in progress | — | — | — | pending |
+| E029 | When Your Dad Is Still Alive | 2,910 | 19:24 | 52 / 48 | PASS 0/0 |
+| E030 | Field Notes: Calling Him Back | 1,906 | 12:42 | 53 / 47 | PASS 0/0 |
+| E031 | When Home Never Handed You Off | 2,805 | 18:42 | 54 / 46 | PASS 0/0 |
+| E032 | Field Notes: Cutting the String | 1,900 | 12:40 | 53 / 47 | PASS 0/0 |
+| E033 | Leave Without Slamming the Door | 2,804 | 18:42 | 54 / 46 | PASS 0/0 |
+| E034 | Field Notes: The Door Report | 1,915 | 12:46 | 54 / 46 | PASS 0/0 |
+| E035 | Your Mom, Mother's Day, and Being a Grown Man | 2,800 | 18:40 | 55 / 45 | PASS 0/0 |
+| E036 | Field Notes: Mother's Day Field Notes | 1,902 | 12:41 | 54 / 46 | PASS 0/0 |
+| E037 | A Man With No Brothers | 2,856 | 19:02 | 54 / 46 | PASS 0/0 |
+| E038 | Field Notes: Season Review: The Father Who Stays | 1,906 | 12:42 | 53 / 47 | PASS 0/0 |
+| E039 | Ask the Man | 2,822 | 18:49 | 53 / 47 | PASS 0/0 |
+| E040 | Field Notes: The Ask Report | 1,900 | 12:40 | 53 / 47 | PASS 0/0 |
+| E041 | These Men Are My Brothers | 2,831 | 18:52 | 54 / 46 | PASS 0/0 |
+| E042 | Field Notes: Memorial Day | 1,908 | 12:43 | 54 / 46 | PASS 0/0 |
+| E043 | No Fixed Star | 2,873 | 19:09 | 54 / 46 | PASS 0/0 |
+| E044 | Field Notes: Finding North | 1,916 | 12:46 | 54 / 46 | PASS 0/0 |
+| E045 | Your Daughter Is Watching | 2,843 | 18:57 | 53 / 47 | PASS 0/0 |
+| E046 | Field Notes: The Daddy-Daughter Report | 1,956 | 13:02 | 54 / 46 | PASS 0/0 |
+| E047 | Give Your Son a Name | 2,814 | 18:46 | 53 / 47 | PASS 0/0 |
+| E048 | Field Notes: Father's Day When It's Complicated | 1,920 | 12:48 | 54 / 46 | PASS 0/0 |
+| E049 | Give Your Son a Hill | 2,832 | 18:53 | 54 / 46 | PASS 0/0 |
+| E050 | Field Notes: The Hill Report | 1,928 | 12:51 | 53 / 47 | PASS 0/0 |
+| E051 | A Day He Will Not Forget | 2,831 | 18:52 | 54 / 46 | PASS 0/0 |
+| E052 | Field Notes: Independence Day | 1,940 | 12:56 | 53 / 47 | PASS 0/0 |
+| E053 | Before Anything Went Wrong | 2,810 | 18:44 | 53 / 47 | PASS 0/0 |
+| E054 | Field Notes: Work It and Keep It | 1,927 | 12:51 | 54 / 46 | PASS 0/0 |
+| E055–E080 | remaining | — | — | — | pending |
 
 ## Continuity ledger (overrides + on-air facts)
 
