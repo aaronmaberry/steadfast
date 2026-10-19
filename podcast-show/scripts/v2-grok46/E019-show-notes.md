@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,819 spoken words, about 18:48). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (3,043 spoken words, about 20:17). Re-time them against the final edit before publishing.
 
 ---
 
@@ -20,7 +20,7 @@ What Your Anger Is Guarding | Walk Steadfast
 A stuck horn, a juice box, Ephesians 4:26-27, and the fear standing under the heat.
 
 **Episode description (for podcast apps and YouTube)**
-Wes hit the horn in 2009 with a seven-year-old in the booster. This week she said she thought she had kicked the seat. Jonathon threw batting practice on a sore shoulder and snapped at a juice box. Anger is fruit. Ask what it is guarding. Ephesians 4:26-27: do not let the sun go down. Name the fear. Tell one person. No because.
+Wes hit the horn in 2009 with a seven-year-old in the booster. This week she said she thought she had kicked the seat. Jonathon threw batting practice on a sore shoulder and snapped at a juice box. Anger is fruit. Ask what it is guarding. Ephesians 4:26-27: do not let the sun go down. Name the fear. Tell one person. No because. The fan is quiet. The new house delay is the sticking back door.
 
 **Keywords**
 Christian men podcast, anger, Ephesians 4:26, fatherhood, Walk Steadfast, pick up the weight, Wes Hart, Jonathon Hale
@@ -40,8 +40,8 @@ Christian men podcast, anger, Ephesians 4:26, fatherhood, Walk Steadfast, pick u
 | 06:53 | The ledge and the lot | A bump. Astros people. |
 | 09:42 | The Word | Do not let the sun go down. |
 | 12:44 | Pushback | Fists stay his. Ice still counts. |
-| 15:19 | This week's challenge | Write what it was guarding. Tell one person. |
-| 18:18 | Close | Say it before dark. |
+| 15:43 | This week's challenge | Write what it was guarding. Tell one person. |
+| 19:47 | Close | Say it before dark. |
 
 ---
 

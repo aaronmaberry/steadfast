@@ -5,9 +5,9 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 1,900 (about 12:40 at 150 wpm, before laughs and pauses) |
+| Spoken words | 1,985 (about 13:14 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 23 lines (53% of words). JONATHON 21 lines (47% of words), 0 under 12 words (0.0%) |
+| Line balance | WES 24 lines (54% of words). JONATHON 22 lines (46% of words), 0 under 12 words (0.0%) |
 | Focus mark | Pick Up the Weight |
 | Scripture (NIV, verified 2026-10-19) | Spoken: 1 Corinthians 13:11. Board only: Luke 2:51 |
 | Board cues | 5 (none repeats spoken words) |
@@ -135,6 +135,10 @@ JONATHON: I am doing mine on the drive Sunday, and then again at her table. I am
 WES: Tomorrow is truck Saturday twelve. Seven in the morning. I bought donuts. I would put money on the donuts. Then he is done, and I have to learn how to be his dad without a paper on the fridge. That is my version of handing a job back. I keep wanting to invent Saturday thirteen so I do not have to feel the quiet. I am not going to invent it. I am going to buy donuts and wave from the driveway and come inside when my wife tells me to.
 
 JONATHON: Bring the donuts. Do not add a new condition in the driveway. You already wrote the paper. Let the paper be the paper.
+
+WES: I came back through the kitchen to the porch after the last truck Saturday and I still had to lift the back door. Paper bag in one hand. Plane on the workbench. I looked at it and I kept walking. I am good at waving from a driveway. I am still not good at a jamb.
+
+JONATHON: You bought donuts for a finished paper and you walked past a door that is still yours. I'll ask if the plane moved. Ok is allowed. Weather is not.
 
 ---
 

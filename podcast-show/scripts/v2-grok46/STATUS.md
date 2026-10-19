@@ -29,75 +29,75 @@ E001 exception logged 2026-10-19 (Aaron): replace the earlier 40–45 min / 6,00
 | E011 | Somebody Has to Step Out Ahead | 2,800 | 18:40 | 56 / 44 | PASS 0/0 |
 | E012 | Field Notes: Valentine's, Ash Wednesday, and Going First | 1,900 | 12:40 | 58 / 42 | PASS 0/0 |
 | E013 | The Prize That's Gone by Thursday | 2,800 | 18:40 | 58 / 42 | PASS 0/0 |
-| E014 | Field Notes: What Stuck | 1,900 | 12:40 | 56 / 44 | PASS 0/0 |
+| E014 | Field Notes: What Stuck | 1,925 | 12:50 | 56 / 44 | PASS 0/0 |
 | E015 | The Part That's Mine | 2,908 | 19:23 | 59 / 41 | PASS 0/0 |
 | E016 | Field Notes: Inside Job | 1,913 | 12:45 | 52 / 48 | PASS 0/0 |
 | E017 | Skip the House, Run the Room | 2,908 | 19:23 | 50 / 50 | PASS 0/0 |
 | E018 | Field Notes: Which Shape Are You | 1,908 | 12:43 | 55 / 45 | PASS 0/0 |
-| E019 | What Your Anger Is Guarding | 2,819 | 18:48 | 59 / 41 | PASS 0/0 |
+| E019 | What Your Anger Is Guarding | 3,043 | 20:17 | 56 / 44 | PASS 0/0 |
 | E020 | Field Notes: Cooling Off Without Checking Out | 1,908 | 12:43 | 58 / 42 | PASS 0/0 |
-| E021 | The Itch and the Drift | 2,800 | 18:40 | 55 / 45 | PASS 0/0 |
-| E022 | Field Notes: Drift Check | 1,905 | 12:42 | 56 / 44 | PASS 0/0 |
+| E021 | The Itch and the Drift | 2,821 | 18:48 | 55 / 45 | PASS 0/0 |
+| E022 | Field Notes: Drift Check | 2,023 | 13:29 | 56 / 44 | PASS 0/0 |
 | E023 | Two Gardens | 2,802 | 18:41 | 53 / 47 | PASS 0/0 |
 | E024 | Field Notes: Good Friday | 1,911 | 12:44 | 57 / 43 | PASS 0/0 |
 | E025 | The Father Who Stays | 2,826 | 18:50 | 58 / 42 | PASS 0/0 |
-| E026 | Field Notes: Easter Week Report | 1,952 | 13:01 | 57 / 43 | PASS 0/0 |
+| E026 | Field Notes: Easter Week Report | 2,052 | 13:41 | 56 / 44 | PASS 0/0 |
 | E027 | The Empty Chair at Your Table | 2,810 | 18:44 | 56 / 44 | PASS 0/0 |
 | E028 | Field Notes: The Chair Report | 2,097 | 13:59 | 54 / 46 | PASS 0/0 |
 | E029 | When Your Dad Is Still Alive | 2,910 | 19:24 | 52 / 48 | PASS 0/0 |
 | E030 | Field Notes: Calling Him Back | 1,906 | 12:42 | 53 / 47 | PASS 0/0 |
 | E031 | When Home Never Handed You Off | 2,805 | 18:42 | 54 / 46 | PASS 0/0 |
-| E032 | Field Notes: Cutting the String | 1,900 | 12:40 | 53 / 47 | PASS 0/0 |
+| E032 | Field Notes: Cutting the String | 1,985 | 13:14 | 54 / 46 | PASS 0/0 |
 | E033 | Leave Without Slamming the Door | 2,804 | 18:42 | 54 / 46 | PASS 0/0 |
 | E034 | Field Notes: The Door Report | 1,915 | 12:46 | 54 / 46 | PASS 0/0 |
 | E035 | Your Mom, Mother's Day, and Being a Grown Man | 2,800 | 18:40 | 55 / 45 | PASS 0/0 |
 | E036 | Field Notes: Mother's Day Field Notes | 1,902 | 12:41 | 54 / 46 | PASS 0/0 |
 | E037 | A Man With No Brothers | 2,856 | 19:02 | 54 / 46 | PASS 0/0 |
-| E038 | Field Notes: Season Review: The Father Who Stays | 1,906 | 12:42 | 53 / 47 | PASS 0/0 |
+| E038 | Field Notes: Season Review: The Father Who Stays | 1,974 | 13:10 | 53 / 47 | PASS 0/0 |
 | E039 | Ask the Man | 2,822 | 18:49 | 53 / 47 | PASS 0/0 |
 | E040 | Field Notes: The Ask Report | 1,900 | 12:40 | 53 / 47 | PASS 0/0 |
 | E041 | These Men Are My Brothers | 2,831 | 18:52 | 54 / 46 | PASS 0/0 |
 | E042 | Field Notes: Memorial Day | 1,908 | 12:43 | 54 / 46 | PASS 0/0 |
 | E043 | No Fixed Star | 2,873 | 19:09 | 54 / 46 | PASS 0/0 |
-| E044 | Field Notes: Finding North | 1,916 | 12:46 | 54 / 46 | PASS 0/0 |
+| E044 | Field Notes: Finding North | 1,975 | 13:10 | 54 / 46 | PASS 0/0 |
 | E045 | Your Daughter Is Watching | 2,843 | 18:57 | 53 / 47 | PASS 0/0 |
 | E046 | Field Notes: The Daddy-Daughter Report | 1,956 | 13:02 | 54 / 46 | PASS 0/0 |
 | E047 | Give Your Son a Name | 2,814 | 18:46 | 53 / 47 | PASS 0/0 |
 | E048 | Field Notes: Father's Day When It's Complicated | 1,920 | 12:48 | 54 / 46 | PASS 0/0 |
 | E049 | Give Your Son a Hill | 2,832 | 18:53 | 54 / 46 | PASS 0/0 |
-| E050 | Field Notes: The Hill Report | 1,928 | 12:51 | 53 / 47 | PASS 0/0 |
+| E050 | Field Notes: The Hill Report | 1,991 | 13:16 | 54 / 46 | PASS 0/0 |
 | E051 | A Day He Will Not Forget | 2,831 | 18:52 | 54 / 46 | PASS 0/0 |
 | E052 | Field Notes: Independence Day | 1,940 | 12:56 | 53 / 47 | PASS 0/0 |
 | E053 | Before Anything Went Wrong | 2,810 | 18:44 | 53 / 47 | PASS 0/0 |
 | E054 | Field Notes: Work It and Keep It | 1,927 | 12:51 | 54 / 46 | PASS 0/0 |
 | E055 | Some Saturdays | 2,800 | 18:40 | 52 / 48 | PASS 0/0 |
-| E056 | Field Notes: The Feeling Isn't the Fire | 1,904 | 12:42 | 57 / 43 | PASS 0/0 |
+| E056 | Field Notes: The Feeling Isn't the Fire | 2,018 | 13:27 | 56 / 44 | PASS 0/0 |
 | E057 | If There Is No Wife Yet | 2,800 | 18:40 | 56 / 44 | PASS 0/0 |
 | E058 | Field Notes: Not in the Lobby | 1,900 | 12:40 | 54 / 46 | PASS 0/0 |
 | E059 | Know Her | 2,940 | 19:36 | 52 / 48 | PASS 0/0 |
 | E060 | Field Notes: Study Her | 1,979 | 13:12 | 55 / 45 | PASS 0/0 |
 | E061 | Lay It Down | 2,806 | 18:42 | 53 / 47 | PASS 0/0 |
-| E062 | Field Notes: Laying It Down Report | 1,910 | 12:44 | 52 / 48 | PASS 0/0 |
+| E062 | Field Notes: Laying It Down Report | 1,973 | 13:09 | 53 / 47 | PASS 0/0 |
 | E063 | What She Actually Needs | 2,824 | 18:50 | 54 / 46 | PASS 0/0 |
 | E064 | Field Notes: Her Need, Not Mine | 1,904 | 12:42 | 52 / 48 | PASS 0/0 |
 | E065 | The Bed Is a Covenant | 2,841 | 18:56 | 52 / 48 | PASS 0/0 |
 | E066 | Field Notes: Covenant Check | 1,914 | 12:46 | 55 / 45 | PASS 0/0 |
 | E067 | When Marriage Feels Like Roommates | 2,806 | 18:42 | 52 / 48 | PASS 0/0 |
-| E068 | Field Notes: Roommates No More | 1,963 | 13:05 | 55 / 45 | PASS 0/0 |
+| E068 | Field Notes: Roommates No More | 2,022 | 13:29 | 55 / 45 | PASS 0/0 |
 | E069 | You Were Made for a Work | 2,880 | 19:12 | 52 / 48 | PASS 0/0 |
 | E070 | Field Notes: Labor Day | 1,962 | 13:05 | 53 / 47 | PASS 0/0 |
 | E071 | What You Build When Nobody Claps | 2,812 | 18:45 | 53 / 47 | PASS 0/0 |
 | E072 | Field Notes: The Unseen Shift | 1,929 | 12:52 | 55 / 45 | PASS 0/0 |
 | E073 | Feelings Are the Dash, Not the Wheel | 2,826 | 18:50 | 54 / 46 | PASS 0/0 |
-| E074 | Field Notes: Dash and Wheel | 1,944 | 12:58 | 55 / 45 | PASS 0/0 |
+| E074 | Field Notes: Dash and Wheel | 1,991 | 13:16 | 55 / 45 | PASS 0/0 |
 | E075 | Every Season Still Counts | 2,819 | 18:48 | 53 / 47 | PASS 0/0 |
 | E076 | Field Notes: Season Swap | 1,960 | 13:04 | 54 / 46 | PASS 0/0 |
 | E077 | When the Job Goes Away | 2,860 | 19:04 | 53 / 47 | PASS 0/0 |
 | E078 | Field Notes: Between Jobs | 1,911 | 12:44 | 55 / 45 | PASS 0/0 |
 | E079 | Grief at the Table | 2,862 | 19:05 | 57 / 43 | PASS 0/0 |
-| E080 | Field Notes: Grief Report | 1,950 | 13:00 | 55 / 45 | PASS 0/0 |
+| E080 | Field Notes: Grief Report | 2,009 | 13:24 | 55 / 45 | PASS 0/0 |
 
-**Tally:** 80 / 80 PASS (0 fail, 0 warn), re-checked 2026-10-19 with `check_script.py --quiet --all`.
+**Tally:** 80 / 80 PASS (0 fail, 0 warn), re-checked 2026-10-19 after the back-door thread with `check_script.py --quiet --all`.
 
 ## Continuity ledger (overrides + on-air facts)
 
@@ -110,7 +110,12 @@ Locked host facts (Aaron overrides v2 bible R2):
 Household delay item (Aaron, overrides v1):
 - **Gutter is fixed in E004/E005** (the 14-month loose back-porch gutter is done then).
 - After that, the delay item is the **youngest’s clicking ceiling fan**.
-- Fan is **fixed Sat Feb 27**, reported in **E018**.
+- Fan is **fixed Sat Feb 27**, reported in **E018**. Fan is **not** the last put-off.
+- After the fan, the running house delay is the **sticking back door** (kitchen to the back porch). Swollen jamb. Wes has to lift and shove. Plane sits on the workbench. Wife has mentioned it. Youngest slams it because slamming is how it opens. Wes keeps saying Saturday.
+- **Seeded E019** (Tue Mar 9). Light callbacks: E021, E022, E026, E032, E038 (creek rock on the shelf by that same door), E044, E050, E056, E062, E068, E074, **still unfinished in E080**.
+- Leave it unfinished through E080. It is **not** necessarily the last put-off.
+- Distinct from the July **guest-room water stain / Oklahoma** (named E056, attic try E058, painted E060). That one gets done. The door does not.
+- Do not reopen the gutter after E005. Do not un-fix the fan after E018.
 
 E001 established (keep):
 - Wes 52, Hill Country, married 27 years; kids 25 (daughter, married, teaches second grade), 21 (son, electrical apprenticeship), 16 (just licensed). Fog years. Dad said “I’m proud of you” when Wes was 43. Mr. Abernathy, lineman 40 years, mug at the funeral in a paper towel. Book named once, no tour.
@@ -126,17 +131,19 @@ E007 locked (do not contradict):
 v1 contradictions logged:
 1. Jonathon age/birthday: v2 bible R2 said November / 37. Aaron: February / 36 at launch.
 2. Surname: some packs used Reese. On air: Hale.
-3. Gutter arc in v1 ran through E014–E021. Aaron: gutter done E004/E005; fan is the later delay item, fixed Sat Feb 27 / E018.
+3. Gutter arc in v1 ran through E014–E021. Aaron: gutter done E004/E005; fan is the later delay item, fixed Sat Feb 27 / E018. Fan is not last: sticking back door runs E019–E080 and stays unfinished.
 4. Nephew: v1 had him at games / chili / in-person. Aaron: text only.
 5. v1 standing outro, subscribe asks, on-mic book/training plugs, spoken episode numbers, and “Produced with AI…” are gone in v2. Plugs live in show-notes **Mentioned** only.
 
 ## Open decisions for Aaron
 
-1. Confirm fan-for-gutter swap is the whole remaining household-delay thread (no third item after E018).
-2. E014 calendar title is “Season One Review”; v1 slug is `what-stuck`. Using the v1 slug unless you say otherwise.
-3. E025 wardrobe note in WARDROBE.md disagrees with the row (linen vs white oxford). Scripts will follow the table row, not the Notes sentence.
-4. Talk-share aim is Wes 52–56 / Jonathon 44–48. Checker allows Jonathon 35–50. E001 landed 51 / 49 (pass). Later mains will aim the tighter split.
-5. Field Notes must still read **one exact NIV verse** (checker warns on zero quotes). v1 E002 quoted none; v2 E002 quotes Luke 16:10.
+1. E025 wardrobe note in WARDROBE.md disagrees with the row (linen vs white oxford). Scripts will follow the table row, not the Notes sentence.
+2. Talk-share aim is Wes 52–56 / Jonathon 44–48. Checker allows Jonathon 35–50. Later mains still aim the tighter split. Door-thread inserts stay inside checker range.
+3. Field Notes must still read **one exact NIV verse** (checker warns on zero quotes). v1 E002 quoted none; v2 E002 quotes Luke 16:10.
+
+Closed 2026-10-19 (Aaron):
+- Fan is **not** the last house put-off. Sticking back door is the next running delay (E019–E080, unfinished; not necessarily last).
+- E014 on-air title stays **What Stuck**. Spoken frame added: this Friday is a look back over season one. Calendar title “Season One Review” is production-only.
 
 ## How to check
 

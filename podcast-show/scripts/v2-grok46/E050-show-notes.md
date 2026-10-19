@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (1,928 spoken words, about 12:51). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (1,991 spoken words, about 13:16). Re-time them against the final edit before publishing.
 
 ---
 
@@ -37,8 +37,8 @@ Christian men podcast, Field Notes, 1 Corinthians 16:13, sons, Walk Steadfast
 | 02:08 | The chain and the games | The chain and the games. |
 | 04:02 | The Word | The Word. |
 | 04:46 | The Saturday project | The Saturday project. |
-| 08:35 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
-| 12:27 | Close | Close. |
+| 09:00 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
+| 12:52 | Close | Close. |
 
 ---
 

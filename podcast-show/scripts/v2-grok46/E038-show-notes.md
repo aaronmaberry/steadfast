@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (1,906 spoken words, about 12:42). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (1,974 spoken words, about 13:10). Re-time them against the final edit before publishing.
 
 ---
 
@@ -37,8 +37,8 @@ Christian men podcast, Field Notes, Proverbs 20:6, fathers, Walk Steadfast
 | 02:21 | Abilene and a text | Abilene and a text. |
 | 04:20 | The Word | The Word. |
 | 05:31 | The memorial stone | The memorial stone. |
-| 09:05 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
-| 12:18 | Close | Close. |
+| 09:32 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
+| 12:46 | Close | Close. |
 
 ---
 

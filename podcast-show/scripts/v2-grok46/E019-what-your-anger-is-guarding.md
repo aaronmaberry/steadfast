@@ -5,9 +5,9 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,819 (about 18:48 at 150 wpm, before laughs and pauses) |
+| Spoken words | 3,043 (about 20:17 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 27 lines (59% of words). JONATHON 20 lines (41% of words), 2 under 12 words (10.0%) |
+| Line balance | WES 28 lines (56% of words). JONATHON 23 lines (44% of words), 2 under 12 words (8.7%) |
 | Focus mark | Pick Up the Weight |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Ephesians 4:26-27. Board only: Proverbs 16:32; Proverbs 29:11 |
 | Board cues | 5 (none repeats spoken words) |
@@ -16,7 +16,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | Slate (unspoken) | [SLATE: E019 · What Your Anger Is Guarding] after the sting. Do not say the episode number. |
 | Wardrobe (production only) | Wes: navy work shirt with chest pockets. Jonathon: denim-blue fitted tee. |
 
-**Arc.** *Hook:* Wes hit the horn and kept it going with a seven-year-old in the back. *Tension:* anger is fruit, not personality. What is it guarding? *Turn:* do not let the sun go down. *Resolution:* name the fear under the heat. Twenty-minute rule Friday.
+**Arc.** *Hook:* Wes hit the horn and kept it going with a seven-year-old in the back. *Tension:* anger is fruit, not personality. What is it guarding? *Turn:* do not let the sun go down. *Resolution:* name the fear under the heat. Fan is done; the back door is the new house delay. Twenty-minute rule Friday.
 
 ---
 
@@ -132,6 +132,8 @@ JONATHON: Third. Naming the fear can become a new performance. I can say, "What'
 
 WES: Then put a date on it. Shoulder. Horn. Parking lot. Doctor. Conversation. Write it where a seven-year-old can see it if you have one. Ruby already has a basket. She can have a card. I told my wife I would ask her tonight what she sees my anger guarding this month. I will not explain first. I said the job last time and she said my mother. I am ready to be wrong again. I have been ready to be right for fifty-two years. Being wrong in a kitchen is a newer skill and I am still clumsy at it. Clumsy is fine. Hidden is not. If she names a thing I do not like I will write it on the same card as the horn and I will not add a footnote until morning. Morning is allowed to kill footnotes. Night is not allowed to grow them.
 
+JONATHON: Fourth. Some of us use the good heat as a cover for the cheap kind. I can get loud about bald tires and still ice Dani over a toaster. If I only confess the tires I will never confess the kitchen. I need a man who will ask me about the toaster, not the speech I gave in a parking lot.
+
 ---
 
 ## SEGMENT 6 · This week's challenge
@@ -144,7 +146,13 @@ WES: Mine is the horn I already told and the short voice I still get at PT. I wi
 
 JONATHON: And if you cannot think of an anger, ask the person who lives with you what she has been walking around. She already has a list. Do not pick a nicer one from 2009 if she names a juice box from Saturday. The first one that makes your stomach tight is the assignment.
 
-WES: Look around your house this week. If there is a booster, a juice box, a hard hat, a silent kitchen, that is enough. You do not need a cliff. You need a bump, a sentence, and a clock that still has daylight. I keep a list on the fridge now, under the PT times, of the things I have called weather. A horn. A title. A fan that finally got a Saturday. Anger wants to join that list and call itself climate. It is not climate. It is a Tuesday with a name. Write the name. Tell one person. Then stop feeding it after dark. If you cannot sleep, you already handed it over, and that still counts more than a speech you will write at two in the morning to win a case nobody asked you to try.
+WES: Look around your house this week. If there is a booster, a juice box, a hard hat, a silent kitchen, that is enough. You do not need a cliff. You need a bump, a sentence, and a clock that still has daylight. I keep a list on the fridge now, under the PT times, of the things I have called weather. A horn. A title. A fan that finally got a Saturday.
+
+JONATHON: So the click is gone. What is sitting on the list now?
+
+WES: The new house job is the back door, kitchen out to the porch. Swollen jamb. You have to lift and shove. My wife mentioned it. My youngest slams it because slamming is how it opens. I have a plane on the workbench and another Saturday in my mouth. Anger wants to join that list and call itself climate. It is not climate. It is a Tuesday with a name. Write the name. Tell one person. Then stop feeding it after dark. If you cannot sleep, you already handed it over, and that still counts more than a speech you will write at two in the morning to win a case nobody asked you to try.
+
+JONATHON: Fan's quiet. Door's loud. You just moved the delay to a different hinge. I'll ask you about that jamb the way I asked about the click. Don't turn Saturday into weather again. I have a sticky pantry at my place I keep walking past, so I'm not clean on this. Name yours. I'll name mine if you want a Thursday on a hinge. And if your anger this week is at a door that will not open, write that down too. A jammed door can guard the same story a horn did. I will not let you hide a paycheck behind a plane.
 
 ---
 

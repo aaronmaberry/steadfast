@@ -5,9 +5,9 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 1,952 (about 13:01 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,052 (about 13:41 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 20 lines (57% of words). JONATHON 15 lines (43% of words), 1 under 12 words (6.7%) |
+| Line balance | WES 20 lines (56% of words). JONATHON 15 lines (44% of words), 1 under 12 words (6.7%) |
 | Focus mark | Work for God's Pay |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Matthew 3:17. Board only: Luke 15:20; Romans 5:8 |
 | Board cues | 5 (none repeats spoken words) |
@@ -104,11 +104,11 @@ WES: You can stay. I can ask. Neither of us gets to decide a seventy-eight-year-
 
 WES: Last few minutes on the tool. A Saturday morning walk. Twenty minutes. No phone. With her if she will come, or with a child, or alone. You do not have to talk the whole time. You do have to be in the same air. If you live alone, walk and then text one man one sentence with no because. That's the single version. Do not make it a program. Make it this Saturday.
 
-JONATHON: I will walk with Ruby before I try the card, or I will walk and then sit on her bed and say it. I have not decided the order. I have decided it happens this week. Dani can disagree with the wording. She cannot disagree me out of the owe. I owe. The card is not the girl.
+JONATHON: I will walk with Ruby before I try the card, or I will walk and then sit on her bed and say it. I have not decided the order. I have decided it happens this week. Dani can disagree with the wording. She cannot disagree me out of the owe. I owe. The card is not the girl. If I polish the card one more night I am hiding. Hiding is how I skipped her the first time. I would rather be clumsy on her bed than careful in my bag.
 
-WES: Tomorrow is car-care. I will make coffee and I will not run the lot. Then Saturday week I walk. I told my wife. She said she might come. Might is enough to put on a calendar. I will not punish might. I will walk either way.
+WES: Tomorrow is car-care. I will make coffee and I will not run the lot. Then Saturday week I walk. I told my wife. She said she might come. Might is enough to put on a calendar. I will not punish might. I will walk either way. The walk starts at the back door. I still have to lift it. She stood there Easter afternoon and said, "That's the walk," meaning the jamb, not the road. I laughed. The plane did not move.
 
-JONATHON: My nephew is walking the apartment hallway because he does not like the street. I told him hallway counts. He wrote, "ok. boring." Boring is the assignment. We keep learning that. I will tell him Saturday I walked too, even if Ruby talks the whole time about eggs in one bush. Talking is not drift if I am listening. Listening is the stay. I have been present and gone at the same time most of my life. I do not want that on a Saturday morning with a girl who already asked me if I have a dad.
+JONATHON: My nephew is walking the apartment hallway because he does not like the street. I told him hallway counts. He wrote, "ok. boring." Boring is the assignment. We keep learning that. I will tell him Saturday I walked too, even if Ruby talks the whole time about eggs in one bush. Talking is not drift if I am listening. Listening is the stay. I have been present and gone at the same time most of my life. I do not want that on a Saturday morning with a girl who already asked me if I have a dad. She named your Saturday and you still have a plane collecting dust. I'll ask. You can ask me if I walked or if I only talked about eggs in a bush.
 
 [BOARD: Same air. Twenty minutes. No pocket.]
 

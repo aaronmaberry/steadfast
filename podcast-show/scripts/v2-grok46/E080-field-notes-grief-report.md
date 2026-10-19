@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 1,950 (about 13:00 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,009 (about 13:24 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 27 lines (55% of words). JONATHON 24 lines (45% of words), 0 under 12 words (0.0%) |
 | Focus mark | Pick Up the Weight |
@@ -84,9 +84,9 @@ WES: Context in two sentences. This psalm is a man who has been in trouble and i
 
 ## SEGMENT 4 · What we're carrying
 
-WES: Last few minutes. I'll be at the barn at two. I'll say one thing I miss. I'll let the boy be quiet. On Abernathy's day I'll order the eggs. That's the calendar.
+WES: Last few minutes. I'll be at the barn at two. I'll say one thing I miss. I'll let the boy be quiet. On Abernathy's day I'll order the eggs. That's the calendar. The fan got a Saturday in February. The back door is still waiting. I am not calling it the last thing. I am calling it the thing I still lift every time I go to the porch.
 
-JONATHON: I'll keep the pen. I'll tell Ruby in February, not on a porch in October. I'll text the 61-year-old in November. I will not ask him if he's over it.
+JONATHON: I'll keep the pen. I'll tell Ruby in February, not on a porch in October. I'll text the 61-year-old in November. I will not ask him if he's over it. I'll keep asking about the jamb too. You can keep not finishing it. Just don't pretend a quiet fan closed the list.
 
 [BOARD: 1 Thessalonians 4:13 (NIV) · "Brothers and sisters, we do not want you to be uninformed about those who sleep in death, so that you do not grieve like the rest of mankind, who have no hope."]
 

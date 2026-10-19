@@ -5,9 +5,9 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 1,904 (about 12:42 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,018 (about 13:27 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 32 lines (57% of words). JONATHON 27 lines (43% of words), 0 under 12 words (0.0%) |
+| Line balance | WES 32 lines (56% of words). JONATHON 28 lines (44% of words), 0 under 12 words (0.0%) |
 | Focus mark | Work for God's Pay |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Psalm 37:3. Board only: James 1:22; 2 Corinthians 5:7 |
 | Board cues | 5 |
@@ -68,7 +68,9 @@ WES: She said, "The guest room ceiling." There's a water stain. Two years. Shape
 
 JONATHON: So Saturday you are going into a July attic on those knees because Oklahoma has been waiting on you.
 
-WES: Saturday morning. I'm going up. And the truck, week three. Monday and Tuesday, Rangers and heat. Wednesday his truck wasn't in the lot. I stood there with a paper sack like a man whose date didn't show. Thursday he was back and said, "Dentist," before I could ask. Then, halfway through the sandwich, he asked if I had kids. I said three. He nodded. He didn't say if he does. I didn't ask.
+WES: Saturday morning. I'm going up. The attic is one Saturday because she named Oklahoma. The back door is still the job I keep calling Saturday when nobody names it. Those are different lists. I can do an attic and still leave a jamb. And the truck, week three. Monday and Tuesday, Rangers and heat. Wednesday his truck wasn't in the lot. I stood there with a paper sack like a man whose date didn't show. Thursday he was back and said, "Dentist," before I could ask. Then, halfway through the sandwich, he asked if I had kids. I said three. He nodded. He didn't say if he does. I didn't ask.
+
+JONATHON: So she handed you a stain and you already had a door. Do the attic. I will still ask about the hinge. I have a line I keep waiting to feel like writing to my dad. I write Ruby's permission slips the same week and I call that enough. It is not enough. The attic is one Saturday. The sentence is another. I do not get to skip the sentence because I filled out a form.
 
 JONATHON: Monday the water. Thursday a question. That's three weeks of knocking, and you still don't know his name the way you want to.
 

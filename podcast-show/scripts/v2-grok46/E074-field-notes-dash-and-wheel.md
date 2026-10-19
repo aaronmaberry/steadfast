@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 1,944 (about 12:58 at 150 wpm, before laughs and pauses) |
+| Spoken words | 1,991 (about 13:16 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 27 lines (55% of words). JONATHON 24 lines (45% of words), 1 under 12 words (4.2%) |
 | Focus mark | Stop Waiting |
@@ -90,9 +90,9 @@ JONATHON: With Theo I said that hurt, not you're okay. You're okay is a lie we t
 
 [BOARD: James 1:19 (NIV) · "My dear brothers and sisters, take note of this: Everyone should be quick to listen, slow to speak and slow to become angry,"]
 
-WES: Last few minutes. Keep the word at supper. Repair the short mouth. Sit with two words. Don't take a quit the same hour.
+WES: Last few minutes. Keep the word at supper. Repair the short mouth. Sit with two words. Don't take a quit the same hour. I walked past the back door again this week. Dust on the plane. Same lift. Same shove. I said Saturday like a man who still believes his own mouth.
 
-JONATHON: I'll keep Choir Night. I'll ask how was it first. I'll say that hurt when it hurts. If I say you're okay I will come back and unsay it.
+JONATHON: I'll keep Choir Night. I'll ask how was it first. I'll say that hurt when it hurts. If I say you're okay I will come back and unsay it. I'll ask about the dust too. If you say Saturday again I want a date, not a mood.
 
 ---
 

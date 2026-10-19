@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (1,916 spoken words, about 12:46). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (1,975 spoken words, about 13:10). Re-time them against the final edit before publishing.
 
 ---
 
@@ -37,8 +37,8 @@ Christian men podcast, Field Notes, Habakkuk 2:2, vision, Walk Steadfast
 | 02:00 | A sister and a badge | A sister and a badge. |
 | 03:50 | The Word | The Word. |
 | 04:36 | The one-page house plan | The one-page house plan. |
-| 07:58 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
-| 12:22 | Close | Close. |
+| 08:21 | SEGMENT · Sitting with it | SEGMENT · Sitting with it. |
+| 12:46 | Close | Close. |
 
 ---
 

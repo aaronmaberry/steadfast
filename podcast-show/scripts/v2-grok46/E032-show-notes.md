@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (1,900 spoken words, about 12:40). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (1,985 spoken words, about 13:14). Re-time them against the final edit before publishing.
 
 ---
 
@@ -41,7 +41,7 @@ Christian men podcast, Field Notes, adult son, 1 Corinthians 13:11, Sunday call,
 | 05:52 | The Word | 1 Corinthians 13:11. The ways, not the people. |
 | 07:24 | From the table | Daily calls. Pat. The pay phone in 2000. |
 | 10:08 | The Sunday call | Thirty minutes. Donuts on the last truck Saturday. |
-| 12:10 | Close | Hand the job back. Keep the Sunday. |
+| 12:44 | Close | Hand the job back. Keep the Sunday. |
 
 ---
 

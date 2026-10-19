@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 1,963 (about 13:05 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,022 (about 13:29 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 32 lines (55% of words). JONATHON 30 lines (45% of words), 2 under 12 words (6.7%) |
 | Focus mark | Stop Waiting |
@@ -86,9 +86,9 @@ WES: Context in two sentences. Paul is telling a church that gifts without love 
 
 ## SEGMENT 4 · Finish something
 
-WES: Saturday on the ride I asked what she is looking forward to this year. About a mile of quiet. She said, "I'd like to finish something." I said like what. She said, "I'll tell you when I know." I did not mention the printout in my Bible.
+WES: Saturday on the ride I asked what she is looking forward to this year. About a mile of quiet. She said, "I'd like to finish something." I said like what. She said, "I'll tell you when I know." I did not mention the printout in my Bible. I thought about the back door. I did not say it. The plane is still on the workbench. She wants to finish something. I have a jamb I keep not finishing.
 
-JONATHON: That's hearing. I would have slid the printout. You left it. That's enjoy without a project.
+JONATHON: That's hearing. I would have slid the printout. You left it. That's enjoy without a project. You heard finish and you thought of a hinge. That's honest. Next time say the hinge out loud so she doesn't have to guess which Saturday you mean.
 
 WES: The friend's results Monday: treatable. A long fall. Treatments Tuesdays after Labor Day. My wife drives most weeks. I drive the weeks she's at her sister's. She asked. I repeated it. She nodded.
 

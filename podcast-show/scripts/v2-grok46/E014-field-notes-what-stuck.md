@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 1,900 (about 12:40 at 150 wpm, before laughs and pauses) |
+| Spoken words | 1,925 (about 12:50 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 21 lines (56% of words). JONATHON 17 lines (44% of words), 0 under 12 words (0.0%) |
 | Focus mark | Work for God's Pay |
@@ -16,7 +16,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | Slate (unspoken) | [SLATE: E014 · Field Notes: What Stuck] after the sting. Do not say the episode number. |
 | Wardrobe (production only) | Wes: charcoal waffle henley under a waxed-canvas field jacket (jacket off after the open, on the chair back). Jonathon: cream waffle henley. |
 
-**Arc.** *Hook:* both men hid a thing and will not say what it was. *Tension:* what stuck after six weeks, and what did not. The fan is still clicking. *Turn:* Luke 16:10 again. The little thing is still the test. *Resolution:* one thing each man will keep. The Thursday text.
+**Arc.** *Hook:* both men hid a thing and will not say what it was. *Tension:* season one review: what stuck after six weeks, and what did not. The fan is still clicking. *Turn:* Luke 16:10 again. The little thing is still the test. *Resolution:* one thing each man will keep. The Thursday text.
 
 ---
 
@@ -36,9 +36,9 @@ WES: This is Walk Steadfast. I'm Wes Hart.
 
 JONATHON: And I'm Jonathon. Friday we check the box. We do not dress it up.
 
-WES: Six weeks in, we take a look at what actually stayed in the house. If you have been with us since the first Tuesday, stay. Before we're done I'll tell you the one thing I'm keeping, and he will tell you about tacos in a truck after a lawyer.
+WES: Six weeks in, this Friday is a look back over season one. What actually stayed in the house. If you have been with us since the first Tuesday, stay. Before we're done I'll tell you the one thing I'm keeping, and he will tell you about tacos in a truck after a lawyer.
 
-JONATHON: And I'll tell you why Ruby labeled a basket PHONE JAIL in marker that will not wash off.
+JONATHON: And I'll tell you why Ruby labeled a basket PHONE JAIL in marker that will not wash off. If you just sat down with us, you still get the list. We will not turn season one into a trophy.
 
 ---
 

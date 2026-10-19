@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (1,900 spoken words, about 12:40). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (1,925 spoken words, about 12:50). Re-time them against the final edit before publishing.
 
 ---
 
@@ -22,7 +22,7 @@ Hidden things stay hidden. A will, tacos, phone jail, a clicking fan, Luke 16:10
 **Episode description (for podcast apps and YouTube)**
 Six weeks in, what actually stayed in the house?
 
-Wes and Jonathon will not say the hidden thing. Jonathon and Dani signed the will and ate tacos in the truck. Ruby runs PHONE JAIL. Wes still has a clicking ceiling fan and a date to fix it. Luke 16:10 again: the little thing is still the test.
+A spoken look back over season one. Wes and Jonathon will not say the hidden thing. Jonathon and Dani signed the will and ate tacos in the truck. Ruby runs PHONE JAIL. Wes still has a clicking ceiling fan and a date to fix it. Luke 16:10 again: the little thing is still the test. Title stays What Stuck.
 
 Tool: the Thursday text. Did you do it? Then a real sentence, not K.
 
@@ -39,11 +39,11 @@ Christian men podcast, Field Notes, Walk Steadfast, Luke 16:10, season review, w
 | Time | Segment | Summary |
 |---|---|---|
 | 00:00 | Open | Out. Not a boat. The hidden thing stays hidden. |
-| 01:04 | The hidden thing and the will | Tacos in the truck. The nephew's text. |
-| 04:26 | What stuck | Phone jail. PT. The clicking fan. K is not an answer. |
-| 07:08 | The Word | Luke 16:10. The little thing is still the test. |
-| 08:58 | One thing to keep | The table. The fan date. The Thursday text. |
-| 12:12 | Close | Keep one little thing. Write a sentence. |
+| 01:14 | The hidden thing and the will | Tacos in the truck. The nephew's text. |
+| 04:36 | What stuck | Phone jail. PT. The clicking fan. K is not an answer. |
+| 07:18 | The Word | Luke 16:10. The little thing is still the test. |
+| 09:08 | One thing to keep | The table. The fan date. The Thursday text. |
+| 12:22 | Close | Keep one little thing. Write a sentence. |
 
 ---
 

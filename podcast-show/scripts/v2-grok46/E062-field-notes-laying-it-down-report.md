@@ -5,9 +5,9 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 1,910 (about 12:44 at 150 wpm, before laughs and pauses) |
+| Spoken words | 1,973 (about 13:09 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 33 lines (52% of words). JONATHON 31 lines (48% of words), 1 under 12 words (3.2%) |
+| Line balance | WES 33 lines (53% of words). JONATHON 31 lines (47% of words), 1 under 12 words (3.2%) |
 | Focus mark | Go First |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Galatians 5:13. Board only: Ephesians 5:28; John 15:13 |
 | Board cues | 4 |
@@ -44,9 +44,9 @@ JONATHON: And I'll tell you the first picks Dani has been making that I never no
 
 ## SEGMENT 1 · The door
 
-WES: Let's take the next few minutes on the kitchen, because Friday is the receipt. Tuesday I came in the kitchen door. She was at the sink. She said, "What's wrong?" I said, "Nothing. I just came in." Twenty years of walking past her to the dresser had taught her that if I stop in the kitchen, something is broken.
+WES: Let's take the next few minutes on the kitchen, because Friday is the receipt. Tuesday I came in the kitchen door. She was at the sink. She said, "What's wrong?" I said, "Nothing. I just came in." Twenty years of walking past her to the dresser had taught her that if I stop in the kitchen, something is broken. The back door, kitchen out to the porch, still sticks. I did not stop to plane it. I came in to her. Those are two different doors, and I am only working on one of them this week.
 
-JONATHON: That's a report card you wrote with your feet. I get the same look when I sit down at the table before I open a laptop.
+JONATHON: That's a report card you wrote with your feet. I get the same look when I sit down at the table before I open a laptop. I'll take the kitchen door. I'll still ask about the jammed one. You don't get to retire a delay by walking through a different hinge.
 
 WES: Wednesday she told me her sister's knee replacement is in September. She will drive up and stay a week. I will have the house, the youngest, and supper. I did not announce that I would handle it. I just said, "Go." Announcing it would have been another letter.
 

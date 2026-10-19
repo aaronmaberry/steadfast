@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (1,963 spoken words, about 13:05). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,022 spoken words, about 13:29). Re-time them against the final edit before publishing.
 
 ---
 
@@ -38,23 +38,23 @@ Christian men podcast, marriage, 1 Corinthians 13:4, Field Notes, Walk Steadfast
 | 01:48 | Rain boots | Rain boots |
 | 02:24 | The Word | The Word |
 | 03:08 | Finish something | Finish something |
-| 03:53 | Lead | Lead |
-| 04:49 | Catfish booth | Catfish booth |
-| 05:17 | Porch ten | Porch ten |
-| 05:41 | Cookies | Cookies |
-| 06:04 | Hold that | Hold that |
-| 06:25 | Long fall | Long fall |
-| 06:44 | What we failed | What we failed |
-| 07:02 | More on the 1 | More on the 1 |
-| 07:49 | More on the 2 | More on the 2 |
-| 08:31 | More on the 3 | More on the 3 |
-| 09:05 | More on the 4 | More on the 4 |
-| 09:37 | More on the 5 | More on the 5 |
-| 10:07 | More on the 6 | More on the 6 |
-| 10:54 | More on the 7 | More on the 7 |
-| 11:35 | More on the 8 | More on the 8 |
-| 12:10 | More on the 9 | More on the 9 |
-| 12:44 | Close | Close |
+| 04:17 | Lead | Lead |
+| 05:13 | Catfish booth | Catfish booth |
+| 05:40 | Porch ten | Porch ten |
+| 06:04 | Cookies | Cookies |
+| 06:27 | Hold that | Hold that |
+| 06:49 | Long fall | Long fall |
+| 07:08 | What we failed | What we failed |
+| 07:26 | More on the 1 | More on the 1 |
+| 08:13 | More on the 2 | More on the 2 |
+| 08:55 | More on the 3 | More on the 3 |
+| 09:29 | More on the 4 | More on the 4 |
+| 10:00 | More on the 5 | More on the 5 |
+| 10:31 | More on the 6 | More on the 6 |
+| 11:18 | More on the 7 | More on the 7 |
+| 11:59 | More on the 8 | More on the 8 |
+| 12:34 | More on the 9 | More on the 9 |
+| 13:08 | Close | Close |
 
 ---
 

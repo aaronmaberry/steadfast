@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (1,904 spoken words, about 12:42). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,018 spoken words, about 13:27). Re-time them against the final edit before publishing.
 
 ---
 
@@ -38,11 +38,11 @@ Christian men podcast, Field Notes, Walk Steadfast, Psalm 37:3, calling, next fa
 |---|---|---|
 | 00:00 | Open | Five out of seven. One prayer was forty seconds. |
 | 00:51 | Check the box | Porch nights, Oklahoma on the ceiling, the truck, Dentist. |
-| 04:02 | Ruby and the fourth line | Virgil, the screws, the dad card, the call not made. |
-| 06:09 | The Word | Psalm 37:3. Trust, do good, dwell, enjoy. |
-| 07:36 | From the table | The crop-insurance man. Called to Somebody first. |
-| 10:27 | The next-faithful-thing list | Three lines. Home, work, somebody who can't pay you back. |
-| 12:17 | Close | You're already called. Write the next thing. |
+| 04:48 | Ruby and the fourth line | Virgil, the screws, the dad card, the call not made. |
+| 06:55 | The Word | Psalm 37:3. Trust, do good, dwell, enjoy. |
+| 08:22 | From the table | The crop-insurance man. Called to Somebody first. |
+| 11:13 | The next-faithful-thing list | Three lines. Home, work, somebody who can't pay you back. |
+| 13:02 | Close | You're already called. Write the next thing. |
 
 ---
 

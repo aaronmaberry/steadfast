@@ -5,9 +5,9 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm |
-| Spoken words | 1,916 (about 12:46 at 150 wpm, before laughs and pauses) |
+| Spoken words | 1,975 (about 13:10 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 26 lines (54% of words). JONATHON 23 lines (46% of words), 2 under 12 words (8.7%) |
+| Line balance | WES 26 lines (54% of words). JONATHON 24 lines (46% of words), 2 under 12 words (8.3%) |
 | Focus mark | Go First |
 | Scripture (NIV, verified 2026-10-19) | Spoken: Habakkuk 2:2. Board only: Proverbs 29:18 |
 | Board cues | 4 (none repeats spoken words) |
@@ -93,7 +93,9 @@ JONATHON: I will not plan Tuesday nights. I will do dishes. I will call my mom a
 
 [BOARD: Plain enough to run.]
 
-WES: I wanted my wife to say more than okay. She said okay and went back inside. I stood on the porch like a man who had given a speech. I had given a sentence. A sentence is enough. I am trying to believe that.
+WES: I wanted my wife to say more than okay. She said okay and went back inside. I stood on the porch like a man who had given a speech. I had given a sentence. A sentence is enough. I am trying to believe that. One line on my page was plane the back door. I have written that line more than once. The wood is swelling in the heat and I still lift and shove. The plane has not moved.
+
+JONATHON: Write it again if you have to. Then pick up the plane. A house plan that never touches a jamb is a slogan.
 
 WES: I keep wanting this to resolve in one conversation, and it will not. The assignment is the next honest sentence, said on time, without a speech attached. I have left too many good talks on a table because I wanted a better closing line than the one I had.
 

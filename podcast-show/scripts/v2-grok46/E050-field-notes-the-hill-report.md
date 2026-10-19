@@ -5,9 +5,9 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm |
-| Spoken words | 1,928 (about 12:51 at 150 wpm, before laughs and pauses) |
+| Spoken words | 1,991 (about 13:16 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 25 lines (53% of words). JONATHON 23 lines (47% of words), 2 under 12 words (8.7%) |
+| Line balance | WES 25 lines (54% of words). JONATHON 24 lines (46% of words), 2 under 12 words (8.3%) |
 | Focus mark | Go First |
 | Scripture (NIV, verified 2026-10-19) | Spoken: 1 Corinthians 16:13. Board only: 1 Thessalonians 2:11-12 |
 | Board cues | 4 (none repeats spoken words) |
@@ -93,7 +93,9 @@ JONATHON: I used the call as death on Monday. I am not proud of it. I am going b
 
 [BOARD: Sit down before you unplug.]
 
-WES: I stood in that shop door like a man at a museum. I wanted to be the exhibit. He was the work. Night was the right word. I am practicing night. It is harder than a speech about work ethic.
+WES: I stood in that shop door like a man at a museum. I wanted to be the exhibit. He was the work. Night was the right word. I am practicing night. It is harder than a speech about work ethic. I dated a Saturday for him. I have not dated one for the back door. June heat made the jamb worse. He can file a chain. I can still not plane a door. That is a hill I keep walking around.
+
+JONATHON: Your boy has a vise and a file. You have a plane and a story. I'll ask which one actually got used.
 
 WES: I keep wanting this to resolve in one conversation, and it will not. The assignment is the next honest sentence, said on time, without a speech attached. I have left too many good talks on a table because I wanted a better closing line than the one I had.
 

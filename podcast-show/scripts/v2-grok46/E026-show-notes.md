@@ -2,7 +2,7 @@
 
 Walk Steadfast · Field Notes · v2
 
-Timestamps are estimated from the script at 150 words per minute (1,952 spoken words, about 13:01). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,052 spoken words, about 13:41). Re-time them against the final edit before publishing.
 
 ---
 
@@ -39,7 +39,7 @@ Christian men podcast, Field Notes, Easter, Matthew 3:17, Walk Steadfast, Wes Ha
 | 05:47 | From the table | Does it matter if I do not feel it? |
 | 08:33 | The Word | Well pleased, even as paste. |
 | 10:29 | The Saturday morning walk | Same air. Twenty minutes. |
-| 12:31 | Close | Ask her. Do not build her a room. |
+| 13:11 | Close | Ask her. Do not build her a room. |
 
 ---
 

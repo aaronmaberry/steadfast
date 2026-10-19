@@ -5,7 +5,7 @@ Walk Steadfast · main episode · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 20 min at 150 wpm |
-| Spoken words | 2,800 (about 18:40 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,821 (about 18:48 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 25 lines (55% of words). JONATHON 22 lines (45% of words), 1 under 12 words (4.5%) |
 | Focus mark | Stop Waiting |
@@ -70,7 +70,7 @@ WES: I put the phone on the fridge. I went to the back porch for twenty minutes.
 
 JONATHON: Dani's dad is seventy-four. Thirty years of golf on TV with the sound low. When we were dating she said, "My dad's been in the room my whole life, and I don't know him. I'm marrying you because you talk." Last Christmas he asked Ruby to teach him a card game. He is trying, late. I do not want to become the golf with the sound low. I can feel the itch in my thumb at supper. Ruby still has the basket. Some nights I still reach.
 
-WES: The fan is done. The new I'll-get-to-it is a glass I can hold in a chair while a woman talks about her sister. I will not let a radar become fourteen months. I told my youngest I am on the porch after supper this week. He said, "Can I come." I said yes, some nights. A sixteen-year-old on a porch is better than a radar I already know.
+WES: The fan is done. The house job now is the back door. Still sticks. I still have to lift it to get to that porch. The other I'll-get-to-it is a glass I can hold in a chair while a woman talks about her sister. I will not let a radar become fourteen months. I told my youngest I am on the porch after supper this week. He said, "Can I come." I said yes, some nights. A sixteen-year-old on a porch is better than a radar I already know.
 
 [BOARD: Refresh is how a man leaves without standing up.]
 

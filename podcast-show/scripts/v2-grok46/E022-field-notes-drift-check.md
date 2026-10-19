@@ -5,9 +5,9 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm (Field Notes: 1,900-2,400 spoken words) |
-| Spoken words | 1,905 (about 12:42 at 150 wpm, before laughs and pauses) |
+| Spoken words | 2,023 (about 13:29 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
-| Line balance | WES 18 lines (56% of words). JONATHON 17 lines (44% of words), 1 under 12 words (5.9%) |
+| Line balance | WES 19 lines (56% of words). JONATHON 18 lines (44% of words), 1 under 12 words (5.6%) |
 | Focus mark | Stop Waiting |
 | Scripture (NIV, verified 2026-10-19) | Spoken: 1 Corinthians 16:13. Board only: Matthew 6:21; Proverbs 4:23 |
 | Board cues | 5 (none repeats spoken words) |
@@ -111,6 +111,10 @@ WES: Send the weekly number with the Thursday text. Minutes. Whole number. No su
 JONATHON: I will send mine even if it goes up. Up is data. Data is better than a story about how I meant to do better. My nephew is sending me day counts. I can send a clock. If I am too proud to send a clock I am too proud to be in this, and I already told a twenty-two-year-old that silence is closer to the end than a slip.
 
 [BOARD: Send the ugly number. Do not subtract your way clean.]
+
+WES: I walked to the porch four nights and I had to lift the back door every time. Swollen jamb. I said I would plane it Saturday. I made coffee for car-care instead. The plane is still on the workbench. The door is the new I'll-get-to-it, and I can feel it becoming weather.
+
+JONATHON: I'll text you Thursday about the jamb. Send a sentence, not a letter. If you write weather I will write back Saturday. I walked past my own pantry twice this week and called it later. Later is how I lose a Thursday. I am sending you the hinge so you can send me the pantry. That is a fair trade and it is not a speech.
 
 WES: Tuesday is Holy Week. Two gardens. Until then: grayscale, hallway, number, and if you slip, tell it faster than last time. Faster is a kind of strength. So is a mother who prays over a truck and then tells you to eat. I sat at her table and I wanted to correct the store rolls. I wanted to explain the leaf. I wanted to be useful. Useful was going to be running the room again. I ate a store roll and I said it was fine. It was not homemade. It was still bread. Sometimes the contrary hour is letting a brother bring the wrong thing and not making it a meeting. I need that as much as I need grayscale. Maybe more. The gray glass is easy next to a man I have been quiet with since Thanksgiving.
 

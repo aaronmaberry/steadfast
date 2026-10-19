@@ -5,7 +5,7 @@ Walk Steadfast · Field Notes · script v2 (rewrite of v1)
 | | |
 |---|---|
 | Runtime target | About 14 min at 150 wpm |
-| Spoken words | 1,906 (about 12:42 at 150 wpm, before laughs and pauses) |
+| Spoken words | 1,974 (about 13:10 at 150 wpm, before laughs and pauses) |
 | Hosts | WES (driver), JONATHON (color) |
 | Line balance | WES 26 lines (53% of words). JONATHON 22 lines (47% of words), 1 under 12 words (4.5%) |
 | Focus mark | Stop Waiting |
@@ -85,9 +85,9 @@ WES: My brother does not know he is teaching you yet. That is fine. June is comi
 
 ## SEGMENT 4 · The memorial stone
 
-WES: Last few minutes. Tool is one written line. I took a creek rock from by the barn and put it on the shelf by the back door. Dad stayed. So did my brother. That is the whole thing. I can see it when I hang the keys.
+WES: Last few minutes. Tool is one written line. I took a creek rock from by the barn and put it on the shelf by the back door. Dad stayed. So did my brother. That is the whole thing. I can see it when I hang the keys. I still have to lift that door to hang them. The jamb is swollen. The plane is still on the workbench. The rock sits there watching me not do Saturday.
 
-JONATHON: Mine is a card on Ruby's mirror. We learned his name. The grandfather's name stays off this table. The card is for her to see that we asked. I want her to grow up thinking names are normal, not a special project for men who finally got brave at thirty-seven.
+JONATHON: Mine is a card on Ruby's mirror. We learned his name. The grandfather's name stays off this table. The card is for her to see that we asked. I want her to grow up thinking names are normal, not a special project for men who finally got brave at thirty-seven. The rock is doing its job. The door is doing yours, and you keep walking past it. I'll ask about the jamb. You can ask if I put the card up or only talked about putting it up.
 
 WES: What stuck for me is going inside so a boy can leave. What is not stuck is praying out loud at the Thursday table. I still pass. I am not pretending the rock fixed my mouth. The rock is about my dad and my brother. My mouth is still my work.
 

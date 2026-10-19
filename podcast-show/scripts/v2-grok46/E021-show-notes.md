@@ -2,7 +2,7 @@
 
 Walk Steadfast · main episode · v2
 
-Timestamps are estimated from the script at 150 words per minute (2,800 spoken words, about 18:40). Re-time them against the final edit before publishing.
+Timestamps are estimated from the script at 150 words per minute (2,821 spoken words, about 18:48). Re-time them against the final edit before publishing.
 
 ---
 
@@ -37,11 +37,11 @@ Christian men podcast, screens, porn, Proverbs 4:23, Walk Steadfast, 988, Wes Ha
 | 00:00 | Open | How do you stop. He picked up. |
 | 00:57 | How do you stop | Day five. He is after you. 988. |
 | 03:54 | The fog again | Tractor videos. The third ask. The porch. |
-| 06:37 | The Word | Proverbs 4:23. Guard the spring. |
-| 09:46 | Pushback | Rest is not drift. Go first in your chair. |
-| 12:54 | What we're actually doing | Porch. Hallway charger. Pot roast Sunday. |
-| 15:22 | This week's challenge | Write the pattern. Put an hour on tonight. |
-| 18:09 | Close | Name it. Do the hour. 988 if you need it. |
+| 06:45 | The Word | Proverbs 4:23. Guard the spring. |
+| 09:54 | Pushback | Rest is not drift. Go first in your chair. |
+| 13:03 | What we're actually doing | Porch. Hallway charger. Pot roast Sunday. |
+| 15:30 | This week's challenge | Write the pattern. Put an hour on tonight. |
+| 18:17 | Close | Name it. Do the hour. 988 if you need it. |
 
 ---
 
