@@ -27,9 +27,19 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.font.FontFamily
+import androidx.compose.ui.text.font.FontStyle
+import androidx.compose.ui.unit.dp
+import androidx.compose.ui.unit.sp
 import androidx.compose.ui.viewinterop.AndroidView
 import android.webkit.WebView
 import android.webkit.WebViewClient
+import com.walksteadfast.app.Config
+import com.walksteadfast.app.data.DevotionStore
+import com.walksteadfast.app.data.Product
+import com.walksteadfast.app.data.Social
+import java.text.SimpleDateFormat
+import java.util.Date
+import java.util.Locale
 
 @Composable
 fun InAppWeb(url: String, modifier: Modifier = Modifier) {
@@ -44,16 +54,6 @@ fun InAppWeb(url: String, modifier: Modifier = Modifier) {
         modifier = modifier.fillMaxSize()
     )
 }
-import androidx.compose.ui.unit.dp
-import androidx.compose.ui.unit.sp
-import com.walksteadfast.app.Config
-import com.walksteadfast.app.data.DevotionStore
-import com.walksteadfast.app.data.Product
-import com.walksteadfast.app.data.Social
-import java.text.SimpleDateFormat
-import java.util.Date
-import java.util.Locale
-
 @Composable
 fun TodayScreen(store: DevotionStore, openUrl: (String) -> Unit, modifier: Modifier) {
     val d = store.today
