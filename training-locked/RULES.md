@@ -74,10 +74,41 @@ Imagine redraws the A's wrong. Stamp LOCKED-stage-screen.jpg onto the screen aft
 4. Show Aaron the plate. Do not lock it and do not send it to video until he signs it.
 5. Lock only after he says so. Copy into training-locked/ with the next number. Commit and push main.
 
-## Locked Lesson 1 audio
+## Descript post rules (hard, check before every cut)
 
-File: training-locked/audio/S01-A-Quiet-Tuesday-LOCKED.mp3
-Also at: walksteadfast/audio/s01-quiet-tuesday.mp3
+Reference cut: training/w01-poc/best/w01-poc-5min-REFERENCE.mp4 (2026-10-20). Build on this. Do not start over.
+
+### Continuous audio
+- Wes talks through every transition. Audio never stops. Boards and new angles fade under him.
+- No blank screens. No silent gaps. If a board is up, his voice continues underneath.
+- Crossfade duration: 0.6–0.8s. Overlap the clips so the outgoing and incoming have extra frames.
+
+### Movement
+- He works the stage. Torso shifts. Hands move. Not static.
+- Hands stay consistent. No watch. No extra fingers. No sudden jumps.
+- After a board, come back on a different angle. Do not reuse the same angle back-to-back.
+- Start on the wider second-half angle from the reference. Use the tighter angle later.
+
+### Boards
+- Full-screen only. Use the locked board plate (A6-SCRIPTURE-COVER-FULL-clean.png style).
+- Same font, same periwinkle highlight, same dark field, every time.
+- Scripture boards: one verse, key phrases highlighted.
+- Bullet boards: short points he is saying. Not the whole script.
+- Boards stay up long enough to write. Fade in, hold, fade out. He keeps talking.
+
+### Descript workflow
+- Import locked audio + stage clips as the script track.
+- Boards and new angles go on layers above. Mute their audio.
+- Use Crossfade (not Smart Transition) between stage angles and boards.
+- Underlord can apply crossfades if prompted: "crossfades only, 0.8s, no smart transitions."
+- Regenerate only for lip-sync gaps. Do not regenerate the locked voice.
+
+### Hard checks before generation
+1. Read this file.
+2. Confirm stage plate is 69-wes-screen-lock-plate.jpg.
+3. Confirm Lesson 1 audio is S01-A-Quiet-Tuesday-LOCKED.mp3.
+4. Confirm no watch, no new face, no new stage, no new board style.
+5. Confirm audio continues under every board.
 
 This is the locked Lesson 1 lecture audio. Use only this file for Lesson 1. Do not generate new audio for Lesson 1. Lip-sync and cut to this file.
 
