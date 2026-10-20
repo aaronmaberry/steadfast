@@ -307,6 +307,20 @@
     document.querySelectorAll("[data-audio]").forEach(btn => {
       btn.addEventListener("click", () => {
         const n = btn.getAttribute("data-audio");
+        if (n === "01") {
+          let player = document.getElementById("lesson-01-player");
+          if (!player) {
+            player = document.createElement("audio");
+            player.id = "lesson-01-player";
+            player.controls = true;
+            player.preload = "metadata";
+            player.style.cssText = "width:100%;margin:12px 0";
+            player.innerHTML = '<source src="files/lessons/lesson-01.mp3" type="audio/mpeg">';
+            btn.parentNode.insertAdjacentElement("afterend", player);
+          }
+          player.play();
+          return;
+        }
         const note = document.getElementById("act-note-" + n);
         if (note) note.textContent = "The lecture audio for lesson " + n + " is not filed yet.";
       });
