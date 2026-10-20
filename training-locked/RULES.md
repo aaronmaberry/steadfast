@@ -26,23 +26,15 @@ Negative: different man, younger, older, clean-shaven, long hair, glasses, smile
 
 ## Wardrobe (never change)
 
-WARDROBE-LOCK (Aaron, 2026-10-12): training-locked/WARDROBE-LOCK.jpg is the shirt. It is cut from master plate 69.
+Long-sleeve henley. Sleeves pushed up. Same shirt on every plate and every clip.
 
-Identical in every shot and every session: plain charcoal-grey long-sleeve henley, same dark charcoal shade, soft matte slub cotton, four-button placket with the top button open, full-length sleeves down to the wrists, relaxed fit, no logo or print. Small black lav clipped on the placket between the second and third buttons. Dark jeans, black belt.
-
-Note: this file used to say "sleeves pushed up". Master 69 has the sleeves down, so the lock follows 69. Pushed-up sleeves are now a mismatch.
-
-QA every new plate and clip against WARDROBE-LOCK.jpg. Reject any change in shade (navy or blue-grey is a fail), fit, logo, sleeve length or texture. Audit 2026-10-12: plates 75 and 79 have pushed-up sleeves, so they fail the lock and are excluded from new renders.
-
-Never short sleeves. Never a polo on new plates. Never a jacket.
+Never short sleeves. Never a polo on new plates. Never a jacket. Plates 01–02 are older navy-polo frames. Do not use them as the current look.
 
 ## Stage (signed 2026-10-09, Aaron confirmed the plate)
 
 Master plate: training-locked/69-wes-screen-lock-plate.jpg
 
 This is the stage. Dark floor. Black curtains. One screen on the left of this frame. No chairs. Phone chrome is not part of the plate.
-
-Stills 01–34 and 39–68 were rebuilt 2026-10-09 by cutting each pose onto this plate. The room pixels are the plate. 01 is the plate itself. Do not put a generated room back in this folder.
 
 Every new still starts from this plate. Camera, pose, and his spot may change. The room does not. Do not invent a new stage.
 
@@ -74,12 +66,6 @@ What the screen shows:
 
 Imagine redraws the A's wrong. Stamp LOCKED-stage-screen.jpg onto the screen after generation. The header file LOCKED-logo-steadfast-men.jpg stays the site and book mark. It is not the stage screen.
 
-
-Animated sessions (S01 v3 on): stamp before HeyGen, never after. Run tools/stamp_logo.py on the upscaled plate. It lifts the letters out of LOCKED-stage-screen.jpg (crops off Wes's face at the right edge), sizes them to the plate's screen, keeps them inside the waist-up crop, and masks them behind Wes so he stays in front. HeyGen keeps the stamped background still. Reject any clip whose screen reads as plain blue, any clip where the letters warp, and any clip with a second logo.
-Logo cut-offs (v4): the stamped letters must never end in mid-air. If the stamp lands on curtain or is cut by anything but Wes or the frame, erase it in post (static inpaint, since HeyGen keeps the background still) or reframe. Dim the stamped letters to about 78% against the screen, with a light blur, so they sit in the room's light.
-Walk shots (v4): never send a stamped plate to image-to-video, because it redraws the logo and adds podiums. Lip-sync the walk on any clean plate, matte Wes out (rembg u2net_human_seg, largest component only), and composite him onto the locked plate-69 room, with Wes 69 removed and the logo intact. Let the room drift with his movement.
-Plate sharpness: tools/upscale.py (Real-ESRGAN x4plus) to 2x, blended 68/32 with Lanczos plus light grain. Don't just ffmpeg-scale a plate.
-
 ## How a new still is made
 
 1. Start from training-locked/69-wes-screen-lock-plate.jpg. That plate is the stage.
@@ -88,7 +74,27 @@ Plate sharpness: tools/upscale.py (Real-ESRGAN x4plus) to 2x, blended 68/32 with
 4. Show Aaron the plate. Do not lock it and do not send it to video until he signs it.
 5. Lock only after he says so. Copy into training-locked/ with the next number. Commit and push main.
 
-## How a clip is made
+## Locked Lesson 1 audio
+
+File: training-locked/audio/S01-A-Quiet-Tuesday-LOCKED.mp3
+Also at: walksteadfast/audio/s01-quiet-tuesday.mp3
+
+This is the locked Lesson 1 lecture audio. Use only this file for Lesson 1. Do not generate new audio for Lesson 1. Lip-sync and cut to this file.
+
+Duration: ~25:32. Voice: locked Wes Hart Option C.
+
+## Hard rules (do not break)
+
+- No watch on Wes. Ever. If a plate or clip shows a watch, discard it. He does not wear one. Do not generate a new clip if the source plate has a watch. Edit it out or start over.
+- Locked voice only: ElevenLabs Wes Hart Option C, id o4XQFIFZbnVGJNZmuUuK. Do not use any other voice or clone for class tape.
+- Do not loop the same speaking clip. If the clip ends, cut to a board, a walk, or a new angle. Never restart the same clip under continuing audio.
+- Walking clips (35–38) are used. They are part of the cut. Do not leave them out. Walk 35 has a podium; do not use it for new cuts.
+- Board transitions are fades, not hard cuts. Fade in on the line, hold, fade out. No black frames between cuts. Boards are full screen, text only. No Wes on the board. His audio continues underneath.
+- Boards only appear when the spoken line matches the text on the board. Do not put up a board that is not in the dialogue.
+- Stage is locked to 69-wes-screen-lock-plate.jpg. Black stage. Purple logo screen. No other stage.
+- Lip sync must match the locked voice. If the mouth is off, regenerate the clip. Do not ship a mismatch.
+- Audio has natural pauses. He is delivering a training talk, not reading a script at constant speed. Pause before key lines.
+
 
 Pipeline locked 2026-10-05:
 
@@ -99,22 +105,17 @@ Pipeline locked 2026-10-05:
 
 Imagine Video 1.5 on the Grok app / grok.com/imagine is the mouth path. Aaron generates those. Jarvis does not have Imagine Video on the bot computer. Jarvis owns the shot list, the prompts, and the Descript order.
 
-HeyGen mouth was rejected 2026-10-09 (test 766a54b213eb4f6797607ff3b25293db melted the face).
-Update 2026-10-12, Aaron's direction: HeyGen Avatar IV lip-sync at low expressiveness is allowed for SHORT clips (about 4–10 s) from plates 72–81, with Wes angled to the room. Reject any clip with an unnatural mouth, face drift, halo or glitch.
-In training, Wes NEVER talks to the camera. He faces the unseen audience, works the room and walks the stage.
+HeyGen mouth is rejected. Test 766a54b213eb4f6797607ff3b25293db melted the face. Do not retry HeyGen for mouth.
 
 HeyGen image-to-video was used only for the four signed walks (35–38), 8 seconds each. Clip 35 invented a podium and a guitar. Aaron signed it anyway. Do not repeat that. No new props.
 
 ## Voice
 
-ElevenLabs Voice Design. Wes Hart - Option D.
-Voice id: krjoGt4x3CttlxSuoDYW
-Model: eleven_v4, one take per section (generations_count 1). Lecture post: locked/post.sh (atempo 0.93 + retime).
+ElevenLabs Voice Design. Wes Hart - Option C.
+Voice id: o4XQFIFZbnVGJNZmuUuK
 
-Evidence: the approved S01-v2 recording (training-ep01/rec/S01-v2/S01-full.mp3) was made with this voice. See rec/S01-v2/STATUS-secs03-12.txt ("Voice: Wes Hart Option D krjoGt4x3CttlxSuoDYW, eleven_v4"), locked/LOCKED-LECTURE-STYLE.md, and the S02/S03 RECORD-STEPS files. All 24 session masters use Option D.
-
-Use this id for lectures, shorts, and Wes on the table show.
-Option C (o4XQFIFZbnVGJNZmuUuK) is retired. Do not use it for Wes.
+Use this id for lecture lines and for Wes on the table show.
+Eleven v3 for YouTube and dialogue. Multilingual v2 for long chapters.
 Kepler is temp only if this id is missing. No celebrity clone.
 
 ## Lecture clock
@@ -140,17 +141,8 @@ training-locked/ on main.
 - 03–07 early scripture and close plates.
 - 08–34 signed 2026-10-09. 09 is the preferred turn-to-screen plate.
 - 35–38 signed walks, 8 seconds, HeyGen. 35 has a podium and a guitar. Leave them.
-- 69-wes-screen-lock-plate.jpg — locked 2026-10-09. Aaron confirmed this plate. Stage master and screen master.
-- 70–81 — Aaron signed 2026-10-12 as training clip plates (16:9, clean plate-69 stage, blank dark screen, charcoal henley, lav). Source for short training clip renders. 70 and 71 face the camera: non-talking use only, never a talking render. See README for the list. Next new plate is 82.
-- 82–115 — waist-up plate pool, 2026-10-12 (S01 proof v2). Each plate is used once, ever. Tracked in training-locked/PLATE-MANIFEST.json (used_in = session and segment). Before a render, pick only plates with empty used_in; after it, write the use. Next new plate id is in the manifest (next_id).
-
-## Plate pool rules (Aaron, 2026-10-12)
-
-1. Waist-up only. No wides, no knees-up, no full body.
-2. Lip-synced whenever his voice plays. Silent motion only under a board with no Wes on screen.
-3. Never repeat a plate or an angle across the 24 sessions. Same shoot day: same henley, same light.
-4. Eyes off the lens. Frontal plates pull HeyGen's eyes to camera, so use three-quarter and profile plates only.
+- 69-wes-screen-lock-plate.jpg — locked 2026-10-09. Aaron confirmed this plate. Stage master and screen master. Next new plate is 70.
 
 ## Prompt block (paste under a signed plate)
 
-Keep this exact face. Wes Hart, mid-40s, fair-olive skin, short dark brown hair with a little lift at the front, light beard and mustache kept close, brown eyes, straight nose, calm closed-mouth look. Same charcoal henley as WARDROBE-LOCK.jpg, sleeves down to the wrists, lav on the placket. Same dark stage: dark floor, black curtains, one screen, no chairs. Eyes on the room, not the camera. No audience. No podium. Photoreal, ordinary man, not a model, not a celebrity. Do not change the background. Do not redraw the logo. Stamp training-locked/LOCKED-stage-screen.jpg on the screen after. Negative: different man, younger, older, clean-shaven, long hair, glasses, smile-for-camera, beauty skin, plastic face, extra fingers, melted mouth, celebrity likeness, short sleeves, podium, audience, chairs.
+Keep this exact face. Wes Hart, mid-40s, fair-olive skin, short dark brown hair with a little lift at the front, light beard and mustache kept close, brown eyes, straight nose, calm closed-mouth look. Same long-sleeve henley, sleeves pushed up. Same dark stage: dark floor, black curtains, one screen, no chairs. Eyes on the room, not the camera. No audience. No podium. Photoreal, ordinary man, not a model, not a celebrity. Do not change the background. Do not redraw the logo. Stamp training-locked/LOCKED-stage-screen.jpg on the screen after. Negative: different man, younger, older, clean-shaven, long hair, glasses, smile-for-camera, beauty skin, plastic face, extra fingers, melted mouth, celebrity likeness, short sleeves, podium, audience, chairs.
