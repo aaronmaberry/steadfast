@@ -70,7 +70,7 @@
             <a class="btn btn-line" href="group-inquiry.html">Group inquiry</a>
           </div>
           <div class="group-mid file-mid">
-            <a class="btn btn-ghost" href="files/steadfast-way-workbook.pdf" download="Steadfast-Way-workbook.pdf">Download the workbook</a>
+            <a class="btn btn-ghost" href="private/steadfast-way-workbook.pdf" download="Steadfast-Way-workbook.pdf">Download the workbook</a>
             <a class="btn btn-ghost" href="/api/audio">Download the audiobook</a>
           </div>
         </article>
@@ -146,7 +146,7 @@
   </section>
 
   <script src="site.js?v=236"></script>
-  <script src="auth.js?v=temp1"></script>
+  <script src="auth.js?v=srv1"></script>
   <script>SMAuth.require("program.html");</script>
   <script>
     const marks = [
@@ -197,7 +197,7 @@
         '</div>' +
         '<p class="lede">Watch this before the first mark. Wes names the path. Then the lessons start.</p>' +
         '<div class="file-row">' +
-          '<a class="btn btn-line" href="files/lessons/lesson-00-transcript.pdf" download>Transcript</a>' +
+          '<a class="btn btn-line" href="private/lessons/lesson-00-transcript.pdf" download>Transcript</a>' +
           '<button class="btn btn-ghost audio-btn" type="button" data-audio="00"><svg class="audio-ico" width="14" height="14" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path class="ico-play" d="M4.5 2.8v10.4a.6.6 0 0 0 .9.5l8.2-5.2a.6.6 0 0 0 0-1L5.4 2.3a.6.6 0 0 0-.9.5z" fill="currentColor"/><g class="ico-pause" fill="currentColor"><rect x="4" y="2.5" width="3" height="11" rx=".6"/><rect x="9" y="2.5" width="3" height="11" rx=".6"/></g></svg><span>Audio</span></button>' +
         '</div>' +
       '</div>';
@@ -223,9 +223,9 @@
             '</div>' +
             '<p class="lede">' + blurb + '</p>' +
             '<div class="file-row">' +
-              '<a class="btn btn-line" href="files/lessons/lesson-' + n + '-transcript.pdf" download>Transcript</a>' +
+              '<a class="btn btn-line" href="private/lessons/lesson-' + n + '-transcript.pdf" download>Transcript</a>' +
               '<button class="btn btn-ghost audio-btn" type="button" data-audio="' + n + '"><svg class="audio-ico" width="14" height="14" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path class="ico-play" d="M4.5 2.8v10.4a.6.6 0 0 0 .9.5l8.2-5.2a.6.6 0 0 0 0-1L5.4 2.3a.6.6 0 0 0-.9.5z" fill="currentColor"/><g class="ico-pause" fill="currentColor"><rect x="4" y="2.5" width="3" height="11" rx=".6"/><rect x="9" y="2.5" width="3" height="11" rx=".6"/></g></svg><span>Audio</span></button>' +
-              '<a class="btn btn-ghost" href="files/lessons/lesson-' + n + '-page.pdf" download>Lesson Pages</a>' +
+              '<a class="btn btn-ghost" href="private/lessons/lesson-' + n + '-page.pdf" download>Lesson Pages</a>' +
             '</div>' +
           '</div>';
         board.appendChild(el);
@@ -314,9 +314,9 @@
         paintPips();
       });
     });
-    /* Lesson audio. Each lesson streams from files/lessons/lesson-NN.mp3.
+    /* Lesson audio. Each lesson streams from private/lessons/lesson-NN.mp3.
        To fill an empty slot, drop the mp3 at that path. The button finds it on load. */
-    function audioSrc(n) { return "files/lessons/lesson-" + n + ".mp3"; }
+    function audioSrc(n) { return "private/lessons/lesson-" + n + ".mp3"; }
     function setAudioLabel(btn, text) { btn.querySelector("span").textContent = text; }
     document.querySelectorAll("[data-audio]").forEach(btn => {
       const n = btn.getAttribute("data-audio");
@@ -324,7 +324,7 @@
       btn.classList.add("soon");
       setAudioLabel(btn, "Audio coming soon");
       btn.setAttribute("aria-disabled", "true");
-      fetch(audioSrc(n), { method: "HEAD", cache: "no-store" }).then(r => {
+      fetch(audioSrc(n), { method: "HEAD", cache: "no-store", credentials: "same-origin" }).then(r => {
         const type = r.headers.get("content-type") || "";
         if (!r.ok || type.indexOf("audio") !== 0) return;
         btn.classList.remove("soon");
