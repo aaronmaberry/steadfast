@@ -10,6 +10,16 @@
   <link rel="canonical" href="https://www.walksteadfast.com/program">
   <link rel="icon" href="img/logo-lockup.jpg">
   <link rel="stylesheet" href="styles.css?v=263">
+  <style>
+    .audio-btn { gap: 7px; }
+    .audio-btn .audio-ico { color: #8b9cff; flex: none; }
+    .audio-btn .ico-pause { display: none; }
+    .audio-btn.playing .ico-play { display: none; }
+    .audio-btn.playing .ico-pause { display: inline; }
+    .audio-btn.soon { opacity: .55; cursor: default; }
+    .audio-btn.soon:hover { border-color: var(--line-strong); background: transparent; }
+    .lesson-audio { width: 100%; margin: 12px 0; }
+  </style>
 </head>
 <body class="member">
   <header class="nav">
@@ -188,7 +198,7 @@
         '<p class="lede">Watch this before the first mark. Wes names the path. Then the lessons start.</p>' +
         '<div class="file-row">' +
           '<a class="btn btn-line" href="files/lessons/lesson-00-transcript.pdf" download>Transcript</a>' +
-          '<button class="btn btn-ghost" type="button" data-audio="00">Audio</button>' +
+          '<button class="btn btn-ghost audio-btn" type="button" data-audio="00"><svg class="audio-ico" width="14" height="14" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path class="ico-play" d="M4.5 2.8v10.4a.6.6 0 0 0 .9.5l8.2-5.2a.6.6 0 0 0 0-1L5.4 2.3a.6.6 0 0 0-.9.5z" fill="currentColor"/><g class="ico-pause" fill="currentColor"><rect x="4" y="2.5" width="3" height="11" rx=".6"/><rect x="9" y="2.5" width="3" height="11" rx=".6"/></g></svg><span>Audio</span></button>' +
         '</div>' +
       '</div>';
     board.appendChild(intro);
@@ -214,7 +224,7 @@
             '<p class="lede">' + blurb + '</p>' +
             '<div class="file-row">' +
               '<a class="btn btn-line" href="files/lessons/lesson-' + n + '-transcript.pdf" download>Transcript</a>' +
-              '<button class="btn btn-ghost" type="button" data-audio="' + n + '">Audio</button>' +
+              '<button class="btn btn-ghost audio-btn" type="button" data-audio="' + n + '"><svg class="audio-ico" width="14" height="14" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path class="ico-play" d="M4.5 2.8v10.4a.6.6 0 0 0 .9.5l8.2-5.2a.6.6 0 0 0 0-1L5.4 2.3a.6.6 0 0 0-.9.5z" fill="currentColor"/><g class="ico-pause" fill="currentColor"><rect x="4" y="2.5" width="3" height="11" rx=".6"/><rect x="9" y="2.5" width="3" height="11" rx=".6"/></g></svg><span>Audio</span></button>' +
               '<a class="btn btn-ghost" href="files/lessons/lesson-' + n + '-page.pdf" download>Lesson Pages</a>' +
             '</div>' +
           '</div>';
@@ -304,25 +314,43 @@
         paintPips();
       });
     });
+    /* Lesson audio. Each lesson streams from files/lessons/lesson-NN.mp3.
+       To fill an empty slot, drop the mp3 at that path. The button finds it on load. */
+    function audioSrc(n) { return "files/lessons/lesson-" + n + ".mp3"; }
+    function setAudioLabel(btn, text) { btn.querySelector("span").textContent = text; }
     document.querySelectorAll("[data-audio]").forEach(btn => {
+      const n = btn.getAttribute("data-audio");
+      btn.setAttribute("data-src", audioSrc(n));
+      btn.classList.add("soon");
+      setAudioLabel(btn, "Audio coming soon");
+      btn.setAttribute("aria-disabled", "true");
+      fetch(audioSrc(n), { method: "HEAD", cache: "no-store" }).then(r => {
+        const type = r.headers.get("content-type") || "";
+        if (!r.ok || type.indexOf("audio") !== 0) return;
+        btn.classList.remove("soon");
+        btn.removeAttribute("aria-disabled");
+        btn.dataset.ready = "1";
+        setAudioLabel(btn, "Audio");
+      }).catch(() => {});
       btn.addEventListener("click", () => {
-        const n = btn.getAttribute("data-audio");
-        if (n === "01") {
-          let player = document.getElementById("lesson-01-player");
-          if (!player) {
-            player = document.createElement("audio");
-            player.id = "lesson-01-player";
-            player.controls = true;
-            player.preload = "metadata";
-            player.style.cssText = "width:100%;margin:12px 0";
-            player.innerHTML = '<source src="files/lessons/lesson-01.mp3" type="audio/mpeg">';
-            btn.parentNode.insertAdjacentElement("afterend", player);
-          }
-          player.play();
-          return;
+        if (btn.dataset.ready !== "1") return;
+        let player = document.getElementById("lesson-" + n + "-player");
+        if (!player) {
+          player = document.createElement("audio");
+          player.id = "lesson-" + n + "-player";
+          player.className = "lesson-audio";
+          player.controls = true;
+          player.preload = "metadata";
+          player.src = audioSrc(n);
+          player.addEventListener("play", () => {
+            document.querySelectorAll("audio.lesson-audio").forEach(a => { if (a !== player) a.pause(); });
+            btn.classList.add("playing");
+          });
+          player.addEventListener("pause", () => btn.classList.remove("playing"));
+          player.addEventListener("ended", () => btn.classList.remove("playing"));
+          btn.parentNode.insertAdjacentElement("afterend", player);
         }
-        const note = document.getElementById("act-note-" + n);
-        if (note) note.textContent = "The lecture audio for lesson " + n + " is not filed yet.";
+        if (player.paused) player.play(); else player.pause();
       });
     });
     paintPips();
