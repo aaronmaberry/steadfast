@@ -1,26 +1,32 @@
-/* Temp door only. This file is public. Replace before real member sales. */
+/* Paywall door. Sign-in is checked on the server (api/login.js), which sets a signed HttpOnly cookie.
+   Paid files under /private/ are gated by middleware.js on that cookie. This file only keeps the page UX. */
 (function () {
   const KEY = "sm-auth";
-  const ACCOUNTS = {
-    "member@walksteadfast.com": { pass: "steadfast-temp", role: "member", next: "program.html" },
-    "bundle@walksteadfast.com": { pass: "steadfast-temp", role: "bundle", next: "program-bundle.html" }
-  };
-
   window.SMAuth = {
     session() {
       let sess = null;
       try { sess = JSON.parse(localStorage.getItem(KEY) || "null"); } catch { return null; }
-      return sess && Object.prototype.hasOwnProperty.call(ACCOUNTS, sess.email) ? sess : null;
+      return sess && sess.server && sess.email ? sess : null;
     },
-    login(email, password) {
-      const row = ACCOUNTS[(email || "").trim().toLowerCase()];
-      if (!row || row.pass !== password) return null;
-      const sess = { email: email.trim().toLowerCase(), role: row.role, at: Date.now() };
+    async login(email, password) {
+      let r;
+      try {
+        r = await fetch("/api/login", {
+          method: "POST", credentials: "same-origin",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ email: (email || "").trim(), password: password || "" })
+        });
+      } catch { return null; }
+      if (!r.ok) return null;
+      const data = await r.json().catch(() => null);
+      if (!data || !data.ok) return null;
+      const sess = { email: data.email, role: data.role, ent: data.ent, server: true, at: Date.now() };
       localStorage.setItem(KEY, JSON.stringify(sess));
       return sess;
     },
     logout() {
       localStorage.removeItem(KEY);
+      return fetch("/api/logout", { method: "POST", credentials: "same-origin" }).catch(() => {});
     },
     require(next) {
       if (this.session()) return true;
@@ -30,11 +36,11 @@
     }
   };
 
-  document.addEventListener("click", (e) => {
+  document.addEventListener("click", async (e) => {
     const a = e.target.closest("#logout");
     if (!a) return;
     e.preventDefault();
-    SMAuth.logout();
+    await SMAuth.logout();
     location.href = "login.html";
   });
 })();

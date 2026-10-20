@@ -113,14 +113,14 @@
     <div class="wrap tiny">© <span id="y">2026</span> Steadfast Men</div>
   </footer>
   <script src="site.js?v=236"></script>
-  <script src="auth.js?v=temp1"></script>
+  <script src="auth.js?v=srv1"></script>
   <script>
     const q = new URLSearchParams(location.search);
     const next = safeNext(q.get("next"));
     if (SMAuth.session()) location.replace(next);
-    document.getElementById("gate").addEventListener("submit", (e) => {
+    document.getElementById("gate").addEventListener("submit", async (e) => {
       e.preventDefault();
-      const ok = SMAuth.login(
+      const ok = await SMAuth.login(
         document.getElementById("email").value,
         document.getElementById("password").value
       );
@@ -128,8 +128,7 @@
         document.getElementById("gate-err").textContent = "Wrong email or password.";
         return;
       }
-      const row = { "member@walksteadfast.com": "program.html", "bundle@walksteadfast.com": "program-bundle.html" };
-      location.href = row[ok.email] || next;
+      location.href = ok.role === "bundle" ? "program-bundle.html" : next;
     });
     function safeNext(raw) {
       const fallback = "program.html";
