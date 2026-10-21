@@ -282,7 +282,7 @@ private fun PairBlock(store: DevotionStore, openUrl: (String) -> Unit) {
         BrassButton("Ask him: did you do the act?") {
             store.savePair(draft)
             store.pingPair()
-            val body = java.net.URLEncoder.encode("Did you do the act this week? Phone down at the table. — Steadfast", "UTF-8")
+            val body = java.net.URLEncoder.encode("Did you do the act from this lesson? Phone down at the table. — Steadfast", "UTF-8")
             openUrl("sms:?body=$body")
         }
         if (store.pairPinged.isNotBlank()) {

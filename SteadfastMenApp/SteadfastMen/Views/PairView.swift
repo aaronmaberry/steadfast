@@ -37,7 +37,7 @@ struct PairView: View {
                     .buttonStyle(PairFill())
                     Button("Ask him: did you do the act?") {
                         store.pingPair()
-                        let body = "Did you do the act this week? Phone down at the table. — Steadfast"
+                        let body = "Did you do the act from this lesson? Phone down at the table. — Steadfast"
                         let q = body.addingPercentEncoding(withAllowedCharacters: .urlQueryAllowed) ?? body
                         if let url = URL(string: "sms:&body=\(q)") {
                             openURL(url)
