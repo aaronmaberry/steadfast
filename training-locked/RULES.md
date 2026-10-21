@@ -209,6 +209,10 @@ Keep this exact face. Wes Hart, mid-40s, fair-olive skin, short dark brown hair 
 ### Pre-generation check
 Read this file before any training video generation. Do not start clips until the board timings and angle plan are written.
 
+## Steadfast video rules (all formats, hard)
+
+Applies to training lectures, YouTube table show, podcast, Shorts, Reels, and any other Steadfast video.
+
 ## W01 POC feedback (2026-10-20, hard rules)
 
 Reference cut: training/w01-poc/best/w01-poc-5min-REFERENCE.mp4
