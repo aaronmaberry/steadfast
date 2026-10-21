@@ -208,3 +208,33 @@ Keep this exact face. Wes Hart, mid-40s, fair-olive skin, short dark brown hair 
 
 ### Pre-generation check
 Read this file before any training video generation. Do not start clips until the board timings and angle plan are written.
+
+## W01 POC feedback (2026-10-20, hard rules)
+
+Reference cut: training/w01-poc/best/w01-poc-5min-REFERENCE.mp4
+
+### Audio continuity
+- No blank screens. Audio starts immediately. Wes talks through every transition.
+- Gaps found at ~1:35, ~2:30, ~3:15. These must not recur.
+- At ~3:32 the return clip did not match the dialogue. Match the angle to the point.
+- At ~4:22 the hand motion was too fast. Hands move naturally, never snap.
+
+### Movement and hands
+- He is not static. Torso shifts. Hands are used. He works the stage.
+- Hands stay consistent. No watch. No extra fingers. No sudden jumps.
+- After a board, return on a different angle. Do not reuse the same angle back-to-back.
+- Start on the wider second-half angle from the reference. Use the tighter angle later.
+
+### Board consistency
+- Same font, same periwinkle highlight, same dark field, every board.
+- Scripture: one verse, key phrases highlighted.
+- Bullets: short points he is saying, not the whole script.
+- Boards stay up long enough to write. Fade in, hold, fade out. Audio continues underneath.
+
+### Pre-cut check
+Before any generation, confirm:
+1. Stage plate is 69-wes-screen-lock-plate.jpg.
+2. Audio is the locked Lesson 1 file.
+3. No watch, no new face, no new stage, no new board style.
+4. Audio continues under every board.
+5. Angle plan is written and randomized.
