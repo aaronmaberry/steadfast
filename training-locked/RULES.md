@@ -177,3 +177,34 @@ training-locked/ on main.
 ## Prompt block (paste under a signed plate)
 
 Keep this exact face. Wes Hart, mid-40s, fair-olive skin, short dark brown hair with a little lift at the front, light beard and mustache kept close, brown eyes, straight nose, calm closed-mouth look. Same long-sleeve henley, sleeves pushed up. Same dark stage: dark floor, black curtains, one screen, no chairs. Eyes on the room, not the camera. No audience. No podium. Photoreal, ordinary man, not a model, not a celebrity. Do not change the background. Do not redraw the logo. Stamp training-locked/LOCKED-stage-screen.jpg on the screen after. Negative: different man, younger, older, clean-shaven, long hair, glasses, smile-for-camera, beauty skin, plastic face, extra fingers, melted mouth, celebrity likeness, short sleeves, podium, audience, chairs.
+
+## Descript mastery (2026-10-21)
+
+### Crossfade rules
+- Crossfade needs extra frames beyond the visible cut. Trim clips so both sides have room.
+- Clips must be on the same layer to crossfade. Drag one onto the other until the red line appears, then drop.
+- Scene-level crossfade applies to all layers in the scene. Clip-level crossfade is per clip.
+- Audio and video fades can be separated: click the white handle, then remove the audio component if Wes should keep talking.
+
+### Board overlay method
+- Put the board on a layer above the script track.
+- Mute that layer so Wes's voice continues underneath.
+- Crossfade the board in and out. Do not cut hard to black.
+- Hold the board long enough for the point (scripture ~12–18s, bullets ~8–12s).
+
+### Underlord prompts that work
+- "Make all transitions crossfades, not smart transitions."
+- "Apply 0.8s crossfades between every scene."
+- "Mute the board layers so the script track stays audible."
+- "Add a fade in and fade out on the board layers."
+
+### Professional edit rules
+- J-cut: next clip's audio starts before its picture. Use for board entries.
+- L-cut: current audio continues after the picture changes. Use for board exits.
+- Cut on motion (hand, torso, step) not on stillness.
+- Change the visual every 10–20 seconds for retention, but only when it serves the point.
+- Hard cut is the default. Crossfade only for board entry/exit or angle change.
+- No watch. Hands consistent. Torso moves. Eyes on the room.
+
+### Pre-generation check
+Read this file before any training video generation. Do not start clips until the board timings and angle plan are written.
