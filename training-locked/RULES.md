@@ -211,7 +211,7 @@ Read this file before any training video generation. Do not start clips until th
 
 ## Steadfast video rules (all formats, hard)
 
-- Video must be 100% accurate. No invented facts, no misquoted scripture, no wrong board text, no mismatched lip sync.
+- Video must be 100% accurate to the source. No invented facts, no misquoted scripture, no wrong board text, no mismatched lip sync.
 
 Applies to training lectures, YouTube table show, podcast, Shorts, Reels, and any other Steadfast video.
 
