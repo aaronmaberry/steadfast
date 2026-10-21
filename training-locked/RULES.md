@@ -211,6 +211,8 @@ Read this file before any training video generation. Do not start clips until th
 
 ## Steadfast video rules (all formats, hard)
 
+- Video must be 100% accurate. No invented facts, no misquoted scripture, no wrong board text, no mismatched lip sync.
+
 Applies to training lectures, YouTube table show, podcast, Shorts, Reels, and any other Steadfast video.
 
 ## W01 POC feedback (2026-10-20, hard rules)
