@@ -1,0 +1,17 @@
+clip_id,source_plate,video,status,notes
+W1,(pre-v2 studio plate),studio-test/testA.mp4,retired,used in testA; file lost in 2026-10-22 box reset
+W2,(pre-v2 studio plate),studio-test/testA.mp4,retired,used in testA; lost in 2026-10-22 box reset
+W3,(pre-v2 studio plate),studio-test/testA.mp4,retired,used in testA; lost in 2026-10-22 box reset
+W4,(pre-v2 studio plate),studio-test/testA.mp4,retired,used in testA; also reused in testB/testA-v2 before no-reuse rule; lost in 2026-10-22 box reset
+L01-A14c,lesson01-v3,studio-test/testB.mp4,retired,face-swapped cutaway; lost in 2026-10-22 box reset
+L01-T07-P02,lesson01-v3,studio-test/testB.mp4,retired,face-swapped cutaway; lost in 2026-10-22 box reset
+V34a,(pre-v2 studio plate),studio-test/testA-v2.mp4,retired,lost in 2026-10-22 box reset
+VMCU,(pre-v2 studio plate),studio-test/testA-v2.mp4,retired,lost in 2026-10-22 box reset
+P01-cold,P01-wide-back,poc4 (planned),lost,never published; lost in 2026-10-22 box reset; regenerate as new clip
+P02-front-a,P02-med-center-FACEFIX,poc4 (planned),lost,never published; lost in 2026-10-22 box reset; regenerate as new clip
+P03-front-b,P03-low-stride-right,none,rejected,burned-in captions; lost in box reset
+P04-34,P04-profile-walk-left-FACEFIX,poc4 (planned),lost,never published; lost in 2026-10-22 box reset; regenerate as new clip
+P05-front-count,P05-medwide-right-FACEFIX,poc4 lipsync test only,lost,test render only; lost in 2026-10-22 box reset; regenerate as new clip
+P06-mcu-name,P06-ots-audience,poc4 (planned),lost,never published; lost in 2026-10-22 box reset; regenerate as new clip
+P07-34-kickoff,P07-high-walk-right,none,rejected,open palm toward camera ~5.5s; identity min 0.617; lost in box reset
+P08-mcu-system,P08-mcu-right-FACEFIX,poc4 (planned),lost,never published; lost in 2026-10-22 box reset; regenerate as new clip

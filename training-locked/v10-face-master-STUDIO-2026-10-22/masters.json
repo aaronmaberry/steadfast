@@ -1,0 +1,58 @@
+[
+ {
+  "file": "M1-front-0019.png",
+  "src_frame": "v3/F-in/0019.png",
+  "sharp": 426.0,
+  "yaw": -3.0,
+  "cos_to_mean": 0.943
+ },
+ {
+  "file": "M2-front-0133.png",
+  "src_frame": "v3/F-in/0133.png",
+  "sharp": 429.2,
+  "yaw": -3.2,
+  "cos_to_mean": 0.927
+ },
+ {
+  "file": "M3-front-0217.png",
+  "src_frame": "v3/F-in/0217.png",
+  "sharp": 422.4,
+  "yaw": -3.0,
+  "cos_to_mean": 0.931
+ },
+ {
+  "file": "M4-front-0421.png",
+  "src_frame": "v3/F-in/0421.png",
+  "sharp": 220.9,
+  "yaw": -7.0,
+  "cos_to_mean": 0.96
+ },
+ {
+  "file": "M5-front-0463.png",
+  "src_frame": "v3/F-in/0463.png",
+  "sharp": 216.9,
+  "yaw": -4.0,
+  "cos_to_mean": 0.97
+ },
+ {
+  "file": "M6-front-0568.png",
+  "src_frame": "v3/F-in/0568.png",
+  "sharp": 169.1,
+  "yaw": 1.0,
+  "cos_to_mean": 0.952
+ },
+ {
+  "file": "M7-front-0664.png",
+  "src_frame": "v3/F-in/0664.png",
+  "sharp": 151.1,
+  "yaw": -2.3,
+  "cos_to_mean": 0.945
+ },
+ {
+  "file": "M8-front-0811.png",
+  "src_frame": "v3/F-in/0811.png",
+  "sharp": 126.7,
+  "yaw": -2.7,
+  "cos_to_mean": 0.95
+ }
+]
