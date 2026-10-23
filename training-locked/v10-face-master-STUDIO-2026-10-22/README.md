@@ -1,3 +1,5 @@
+> **SUPERSEDED 2026-10-23:** v13 (`../v13-face-master-LOCKED-2026-10-23/`, LOCKED by Aaron) supersedes v10 for all new generations, face swaps, and identity checks (≥0.85 vs v13). v10 is kept as history.
+
 # v10 face master: STUDIO (2026-10-22). PENDING Aaron's confirmation
 
 Supersedes v9-face-master S1-S7 as the canonical Wes once Aaron confirms. v9 stays in place (not deleted) until then.

@@ -8,7 +8,13 @@ class _LM(_IS):
         so=ort.SessionOptions();so.enable_cpu_mem_arena=False;so.intra_op_num_threads=2;so.inter_op_num_threads=1
         k['sess_options']=so;super().__init__(*a,**k)
 ort.InferenceSession=_LM
-os.environ['MASTER_MEAN']='/workspace/steadfast-main/training-locked/v10-face-master-STUDIO-2026-10-22/mean_arcface_embedding.npy'
+# Face master: v13 (LOCKED 2026-10-23) by default; pass --master v10 (or set MASTER_MEAN) for the historical v10 master.
+_MASTERS={'v13':'/workspace/steadfast-main/training-locked/v13-face-master-LOCKED-2026-10-23/mean_arcface_embedding.npy',
+          'v10':'/workspace/steadfast-main/training-locked/v10-face-master-STUDIO-2026-10-22/mean_arcface_embedding.npy'}
+_m='v13'
+if '--master' in sys.argv:
+    _i=sys.argv.index('--master'); _m=sys.argv[_i+1]; del sys.argv[_i:_i+2]
+if _m!='v13' or not os.environ.get('MASTER_MEAN'): os.environ['MASTER_MEAN']=_MASTERS.get(_m,_m)
 import cv2,numpy as np
 sys.path.insert(0,'work'); import hq,detail
 M=np.load(os.environ['MASTER_MEAN']).ravel();M/=np.linalg.norm(M)
