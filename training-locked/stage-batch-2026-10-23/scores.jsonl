@@ -1,0 +1,4 @@
+{"clip": "S01-walk-right-a.mp4", "frames": 241, "fps": 24.0, "arcface_mean": 0.267, "arcface_min": 0.169, "frac_ge_085": 0.0, "max_faces": 1, "nofacesamples": 0, "mouth_std": 0.0194, "yaw_range": [49, 63]}
+{"clip": "S02-walk-right-b.mp4", "frames": 241, "fps": 24.0, "arcface_mean": 0.229, "arcface_min": 0.141, "frac_ge_085": 0.0, "max_faces": 1, "nofacesamples": 0, "mouth_std": 0.0263, "yaw_range": [0, 80]}
+{"clip": "S03-talk-P02.mp4", "frames": 241, "fps": 24.0, "arcface_mean": 0.765, "arcface_min": 0.729, "frac_ge_085": 0.02, "max_faces": 1, "nofacesamples": 0, "mouth_std": 0.0201, "yaw_range": [-54, 11]}
+{"clip": "S04-talk-P08.mp4", "frames": 241, "fps": 24.0, "arcface_mean": 0.721, "arcface_min": 0.658, "frac_ge_085": 0.0, "max_faces": 1, "nofacesamples": 0, "mouth_std": 0.0228, "yaw_range": [-36, 55]}
