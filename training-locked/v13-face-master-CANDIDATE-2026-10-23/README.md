@@ -1,3 +1,6 @@
 # v13 face master: CANDIDATE (2026-10-23). NOT LOCKED. Pending Aaron's sign-off; v10 remains canonical. Supersedes v11/v12 candidates.
 v10 M1-M8 + detail13.py (local, $0; crease 1.8, brow 1.4, tonal 1.3, spec 1.3): 3 strong horizontal forehead creases with shading (dark valley + lit shoulder) sized to read at full-frame 1280x720, brow-ridge definition, skin-tone variation, specular breakup of forehead shine, fine pores, plus real skin high-frequency transplanted from a CC BY-SA 2.0 reference forehead (REF-Ben_Affleck_by_Gage_Skidmore_3, Wikimedia Commons, Gage Skidmore). Delta is zero-mean over the forehead so tone matches v10 (measured forehead L 106.4->105.3, M1). Teeth at v12 level. Hair/beard/eyes/expression untouched.
 ArcFace v13 frame vs its v10 frame: 0.964-0.986, mean-vs-mean 0.9828 (v13-scores.json; key names say v11, legacy).
+
+## Use (added 2026-10-23 11:35 CDT)
+v13 is a STILL-IMAGE candidate. It is meant to be the source/reference image for NEW generations so forehead texture is generated natively and moves with expression. Do NOT paint its texture onto video: the v13 clip overlay (T03 v13) failed independent video review (static smudges that don't deform, flicker, gray teeth). Video fixes stay teeth-only (see T03 v14).
