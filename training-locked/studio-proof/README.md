@@ -24,3 +24,25 @@ Angle changes happen only at board cuts. Every transition is a 0.5s crossfade. N
 - sync-3 on fal at $8/min ($0.1333/s): 44s pending + 8.0s X1 unsynced = 52s = $6.93.
 - 60s total: about $15.40 (range $15.40-$19.60). fal balance is about $1.20, so fal needs at least a $6 top-up.
 - Full Lesson 1 (about 25:31): assume Wes on screen about 70% (about 1,070s). That is about 107 usable takes, about 150 with roughly 40% rejects, for $151-$212 xAI. sync-3 on 1,070s is $143. Total about $295-$355. ElevenLabs for the full lesson in the podcast voice is about 30.7k credits at the poc4 rate (4,109 credits/205s). Plan headroom is unchecked; the connector has no usage tool.
+
+---
+# v2 (2026-10-23 ~16:45 CT) - placeholders replaced, hard cuts
+Cut: Drive 19m3GTozrgG8BlO_pExdQH2aRD872lEnW (steadfast-L01-studio-proof-60s-v2-2026-10-23.mp4, 63.0s, 1280x720 native, 24fps, AAC, no music, no captions). Box: /workspace/artifacts/training/studio-proof/studio-proof-L01-60s-v2.mp4. Scripts/scores: studio-proof/v2/.
+New Wes takes: 6 xAI grok-imagine-video-1.5 10s 720p i2v from the v13 still (src13-blend.png; W09 from a tight chest-up crop of it): W02a W02b W04 W06 W08 W09, $1.41 each = $8.46. Each take has an internal camera cut (tight -> wide) at ~2-3.6s; frames within +-1 of it and any frame <0.852 excluded.
+
+| Time (s) | Layout | Wes source (take frames @24fps) |
+|---|---|---|
+| 0.00-5.70 | PIP | X1 raw 0-5.70 (unchanged) |
+| 5.70-25.48 | PIP | W02a 12-55, W02b 57-94, W04 12-65, W02b 100-137, W06 12-53, W02b 139-167, W08 60-113, W02b 171-193, W04 69-131, W02b 196-239, W08 176-232 |
+| 25.48-26.81 | PIP | X1 sync-3 restored (unchanged) |
+| 26.81-33.50 | PIP | W02a 56-77, W06 187-239, W08 135-164, W02b 12-54, W02a 212-229 |
+| 33.50-35.30 | PIP | X1 raw 8.25-10.0 (unchanged) |
+| 35.30-38.10 | Board 1 | - |
+| 38.10-52.40 | Split (Wes left / B-roll right) | W06 56-186, W04 134-239, W02a 104-212 (replaces W06/W08 placeholders AND OM03, whose source failed review) |
+| 52.40-55.04 | Board 2 (extended 0.49s) | - |
+| 55.04-63.00 | FULL-FRAME | W09 0-83 (tight) + hard cut + W09 131-239 (wide); no hands/wrists in any frame |
+
+PIP/split crops are face-tracked and scaled to face width (PIP 2.16x, split 2.24x) so hands, palms and wrists stay out of frame; wide-shot frames are upscaled ~1.4x inside the split panel.
+All layout transitions are now HARD CUTS (no 0.5s dissolves, no fade in/out). B-roll-to-B-roll crossfades kept (no face involved). 3 single frames (292, 377, 684) that scored 0.847-0.849 are 1-frame holds of the previous frame.
+ArcFace vs v13 mean emb, every Wes frame (1381; boards excluded; face picked inside the Wes panel): mean 0.893, median 0.894, min 0.850, 0 frames <0.85, 0 no-face. By section: W02 PIP mean 0.888 min 0.850; W04 PIP 0.892/0.855; split 0.896/0.852; full 0.895/0.860.
+KNOWN FLAWS: (1) New takes are NOT lip-synced to the voice - mouth moves continuously and naturally but does not match the words. sync-3 was blocked: fal account locked, "Exhausted balance" (403 at 16:16 CT); the ~$1.20 estimate was wrong. $0 spent on fal. Needs a fal top-up (fal.ai/dashboard/billing) of about $6.70 to sync 50.2s ($8/min). X1a/X1b remain unsynced too. (2) Gestures are out of frame in PIP/split (head-and-shoulders crops); only head nods/sway visible. (3) Many short PIP cuts (1-2.6s) between takes; 5 PIP pieces start near each take's shared opening pose (first 12 frames skipped). (4) Occasional slightly blocky front-teeth frames in split ~41-42s. (5) OM03's exact-sync replaced by unsynced takes.
