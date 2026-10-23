@@ -1,0 +1,53 @@
+{
+ "frames": [
+  {
+   "file": "M1-front-0019.png",
+   "cos_v11_vs_v10mean": 0.9265,
+   "cos_v11_vs_v10frame": 0.9638,
+   "cos_v10frame_vs_v10mean": 0.9434
+  },
+  {
+   "file": "M2-front-0133.png",
+   "cos_v11_vs_v10mean": 0.9204,
+   "cos_v11_vs_v10frame": 0.9855,
+   "cos_v10frame_vs_v10mean": 0.9272
+  },
+  {
+   "file": "M3-front-0217.png",
+   "cos_v11_vs_v10mean": 0.9136,
+   "cos_v11_vs_v10frame": 0.9759,
+   "cos_v10frame_vs_v10mean": 0.9308
+  },
+  {
+   "file": "M4-front-0421.png",
+   "cos_v11_vs_v10mean": 0.9405,
+   "cos_v11_vs_v10frame": 0.9791,
+   "cos_v10frame_vs_v10mean": 0.9603
+  },
+  {
+   "file": "M5-front-0463.png",
+   "cos_v11_vs_v10mean": 0.9448,
+   "cos_v11_vs_v10frame": 0.9738,
+   "cos_v10frame_vs_v10mean": 0.9697
+  },
+  {
+   "file": "M6-front-0568.png",
+   "cos_v11_vs_v10mean": 0.9337,
+   "cos_v11_vs_v10frame": 0.9673,
+   "cos_v10frame_vs_v10mean": 0.9518
+  },
+  {
+   "file": "M7-front-0664.png",
+   "cos_v11_vs_v10mean": 0.9343,
+   "cos_v11_vs_v10frame": 0.9708,
+   "cos_v10frame_vs_v10mean": 0.945
+  },
+  {
+   "file": "M8-front-0811.png",
+   "cos_v11_vs_v10mean": 0.9296,
+   "cos_v11_vs_v10frame": 0.9748,
+   "cos_v10frame_vs_v10mean": 0.9495
+  }
+ ],
+ "v11mean_vs_v10mean": 0.9828
+}
