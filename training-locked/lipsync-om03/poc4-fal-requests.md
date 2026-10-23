@@ -19,3 +19,8 @@ Round total ~$2.43.
 - 2026-10-23 13:50 CDT OM04: fal-ai/bytedance/omnihuman/v1.5 720p, v13 LOCKED M1 chest-up crop (640x360 -> 1280x720, 50/50 lanczos+Real-ESRGAN, still ArcFace 0.940) + a8.wav 0-5.18s, NO swap. Billed 5.18s = $0.8288 (cap $0.83).
   result: FAIL identity - ArcFace vs v13 per-frame n129 mean 0.856 min 0.734 (53/129 <0.85; worst 2.1-2.6s and 3.8-4.6s wide-eye moments); sync corr@0 0.102 best 0.219 lag +5; no seam, uniform texture, no hands/wrists.
 Day total fal 2026-10-23 (this session): $2.11.
+- 2026-10-23 14:14 CDT T03 redub: fal-ai/kling-video/lipsync/audio-to-video, video T03-talk-P03-trim0-5.5-v10 (5.5s, billed as 10s @ $0.014/s) = $0.14; audio lesson-01.mp3 (f9d374a) 192.70-198.20s "So here's the thing I wish somebody had told me, plain, a long time ago."
+  result: FAIL - ArcFace vs v13 n163 mean 0.880 min 0.790 (12 <0.85); sync corr@0 0.106 best 0.171; output re-timed to 30fps/5.43s; blob single-tooth artifacts ~1.6s, 2.1s.
+- 2026-10-23 14:19 CDT T03 redub: fal-ai/sync-lipsync/v3 (sync-3), same inputs, sync_mode cut_off, 5.5s x $8/min = $0.733
+  result: ArcFace vs v13 n132 mean 0.899 min 0.860 (0 <0.85); sync corr@0 0.316 best 0.353 (v10 original 0.107); mouth std 0.039; but face-box sharpness drops ~45% (Laplacian var 513 -> 285 = added smoothing) and gap/single-tooth artifacts at ~0.75s and ~2.25s. NOT a clean pass. Local mouth-only composite onto v10 raised sync to 0.355 but dropped ArcFace min to 0.772 -> rejected.
+Session total 14:14-14:21 CDT: $0.873 (cap $0.90). Day total fal: $2.98.
