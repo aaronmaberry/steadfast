@@ -46,3 +46,16 @@ PIP/split crops are face-tracked and scaled to face width (PIP 2.16x, split 2.24
 All layout transitions are now HARD CUTS (no 0.5s dissolves, no fade in/out). B-roll-to-B-roll crossfades kept (no face involved). 3 single frames (292, 377, 684) that scored 0.847-0.849 are 1-frame holds of the previous frame.
 ArcFace vs v13 mean emb, every Wes frame (1381; boards excluded; face picked inside the Wes panel): mean 0.893, median 0.894, min 0.850, 0 frames <0.85, 0 no-face. By section: W02 PIP mean 0.888 min 0.850; W04 PIP 0.892/0.855; split 0.896/0.852; full 0.895/0.860.
 KNOWN FLAWS: (1) New takes are NOT lip-synced to the voice - mouth moves continuously and naturally but does not match the words. sync-3 was blocked: fal account locked, "Exhausted balance" (403 at 16:16 CT); the ~$1.20 estimate was wrong. $0 spent on fal. Needs a fal top-up (fal.ai/dashboard/billing) of about $6.70 to sync 50.2s ($8/min). X1a/X1b remain unsynced too. (2) Gestures are out of frame in PIP/split (head-and-shoulders crops); only head nods/sway visible. (3) Many short PIP cuts (1-2.6s) between takes; 5 PIP pieces start near each take's shared opening pose (first 12 frames skipped). (4) Occasional slightly blocky front-teeth frames in split ~41-42s. (5) OM03's exact-sync replaced by unsynced takes.
+
+---
+# v3 (2026-10-23 ~20:40 CT) - lip-synced
+Cut: Drive 1oNr8e8mH9XsVA06xa-C5n-tUQngdpwaH (steadfast-L01-studio-proof-60s-v3-synced-2026-10-23.mp4). Box: /workspace/artifacts/training/studio-proof/studio-proof-L01-60s-v3.mp4. Same edit/timeline as v2 (render3.py), 63.0s 1280x720 24fps, no music/captions.
+- sync-3 (fal-ai/sync-lipsync/v3, cut_off) on every Wes span: 23 pieces (v3/pieces.json; X1a, all W02/W04 PIP pieces, X1b, 3 split pieces, 2 full-frame pieces) = 1,350 frames = 56.25s, each paired with its exact voice slice -> $7.50. The already-synced S3 "That counts." span unchanged.
+- Detail restore (rest.py, restore2.py method): raw take pixels outside a feathered mouth/jaw ellipse (0.85 x 1.6 of mouth box, feather 0.12), unsharp inside matched to the raw HF level. No painted texture. Face sharpness (Laplacian) restored from ~45% of raw to ~88% of raw on average.
+- Identity fix (fix.py): on frames where the restored frame scored <0.86, the synced mouth region was blended back toward raw (w 0.75/0.5/0.25/0). 146 of 1,350 frames reduced, 38 fully raw (unsynced mouth on those frames).
+- ArcFace vs v13 mean emb, every Wes frame (n1381, boards excluded, face picked in the Wes panel): mean 0.888, median 0.889, min 0.852, 0 <0.85, 0 no-face.
+- Mouth/audio-envelope corr (best lag): X1a 0.32, W02 0.07, W04 0.09, X1b 0.40, split 0.15, full 0.30 (v2: 0.27/0.15/0.13/0.42/-0.08/0.19). Low in the short-piece PIP/split sections; visual check shows mouth closing on pauses (e.g. 9.7s, 45.6s) with ~2-4 frame lag in split.
+- Known flaws: short pieces (0.7-2.6s) give sync-3 little context, so PIP sync is approximate; 38 raw-mouth frames + partial blends can cause brief mouth-shape jumps; occasional gap/single-tooth frames; face still slightly softer than raw.
+## fal keys
+- Box env FAL_KEY (old): personal fal account aaronmaberry (aaron.maberry@gmail.com, GitHub login) - balance $0, locked "Exhausted balance".
+- ~/.secrets/fal_key_box_sync: fal account youtube@walksteadfast.com ("Steadfast Men") - holds the $10 top-up; used for v3.
