@@ -101,7 +101,9 @@ class DevotionStore(app: Application) : AndroidViewModel(app) {
                                 verse = o.optString("verse"),
                                 body = o.optString("body"),
                                 videoURL = o.optString("videoURL"),
-                                imageURL = o.optString("imageURL")
+                                imageURL = o.optString("imageURL"),
+                                reflection = o.optString("reflection"),
+                                silentLine = o.optString("silentLine")
                             )
                         )
                     }
