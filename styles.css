@@ -1635,3 +1635,15 @@ body .hero { padding-top: 72px; padding-bottom: 48px; }
   .daily-bleed-inner { padding: 48px 22px 40px; }
   .daily-bleed, .daily-bleed-home { min-height: 64vh; }
 }
+
+.store-badges {
+  display: flex;
+  gap: 14px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.store-badges a { display: inline-block; line-height: 0; }
+.store-badge { width: 170px; height: 56px; }
+@media (max-width: 500px) {
+  .store-badge { width: 150px; height: 50px; }
+}
