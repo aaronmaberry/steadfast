@@ -6,7 +6,9 @@ data class Devotion(
     val verse: String,
     val body: String,
     val videoURL: String = "",
-    val imageURL: String = ""
+    val imageURL: String = "",
+    val reflection: String = "",
+    val silentLine: String = ""
 )
 
 data class Product(
