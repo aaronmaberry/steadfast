@@ -12,6 +12,8 @@ struct Devotion: Codable, Identifiable, Hashable {
     var body: String
     var videoURL: String?
     var imageURL: String?
+    var reflection: String?
+    var silentLine: String?
 
     var id: String { date }
 }
