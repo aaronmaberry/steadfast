@@ -3,161 +3,196 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="msvalidate.01" content="5EF812E178EE9B774C4B3CBCF20D2446" />
-  <title>Group inquiry — Steadfast Men</title>
-  <meta name="description" content="Inquire for a license quote, group supplies, scripts, and a bound workbook run. For a named table or church, not the personal path.">
-  <meta name="robots" content="noindex, nofollow">
+  <title>Groups & Churches — Steadfast Men</title>
+  <meta name="description" content="For churches, small groups, and ministry leaders. Request a quote or group order.">
   <link rel="canonical" href="https://www.walksteadfast.com/group-inquiry">
   <link rel="icon" href="img/logo-lockup.jpg">
-  <link rel="stylesheet" href="styles.css?v=263">
+  <link rel="stylesheet" href="styles.css?v=265">
+  <style>
+    .groups-hero {
+      position: relative;
+      padding: 100px 0 48px;
+      overflow: hidden;
+    }
+    .groups-hero::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(180deg, rgba(7,7,10,.5) 0%, rgba(7,7,10,.78) 100%), url('img/hero-table.jpg') center / cover no-repeat;
+      opacity: 0.4;
+      pointer-events: none;
+      z-index: 0;
+    }
+    .groups-hero .wrap { position: relative; z-index: 1; }
+    .section-block { padding: 32px 0; border-top: 1px solid var(--line); }
+    .icon-head { display: flex; align-items: center; gap: 10px; margin-bottom: 12px; }
+    .icon-head svg { width: 22px; height: 22px; color: #8b9cff; }
+    .form-card {
+      max-width: 640px;
+      margin: 24px 0;
+      padding: 24px;
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+    }
+    .form-card label { display: block; font-size: 13px; font-weight: 500; margin: 16px 0 4px; }
+    .form-card .hint { font-size: 13px; color: var(--muted); margin-bottom: 6px; }
+    .form-card input, .form-card select {
+      width: 100%; padding: 12px 14px; background: var(--bg); border: 1px solid var(--line); border-radius: 8px; color: var(--text); font: inherit;
+    }
+    .check-item { display: flex; align-items: flex-start; gap: 10px; margin: 12px 0; }
+    .check-item input { width: auto; margin-top: 3px; }
+    .check-item strong { display: block; }
+    .check-item span { color: var(--muted); font-size: 13px; }
+  </style>
 </head>
-<body class="inquiry">
-  <header class="nav">
-    <div class="wrap nav-inner">
-      <a class="brand" href="index.html"><img src="img/logo-lockup.jpg" alt="Steadfast Men"></a>
-      <button class="nav-toggle" aria-label="Open menu">☰</button>
-      <ul class="nav-links">
-        <li><a href="training.html">Training</a></li>
-        <li><a href="shop.html">Shop</a></li>
-        <li><a href="book.html">Book</a></li>
-        <li><a href="index.html#daily-walk">Daily</a></li>
-        <li><a href="give.html">Support</a></li>
-        <li><a href="login.html">Login</a></li>
-        <li><a class="nav-cta" href="start.html">Begin</a></li>
-      </ul>
-    </div>
-  </header>
-
-  <div class="page-hero page-hero-tight">
-    <div class="wrap">
-      <p class="eyebrow">Tables · churches · crews</p>
-      <h1>Interested in delivering this content yourself to a group?</h1>
-      <p>Inquire here for a license quote, group supplies, scripts, and a bound workbook run. This is not the personal path.</p>
-      <p style="margin-top:20px"><a class="btn btn-ghost" href="files/steadfast-men-small-group-guide.pdf" download="Steadfast-Men-Small-Group-Guide.pdf">Download the free Small-Group Guide (PDF)</a></p>
-    </div>
+<body>
+<header class="nav">
+  <div class="wrap nav-inner">
+    <a class="brand" href="index.html"><img src="img/logo-lockup.jpg" alt="Steadfast Men"></a>
+    <button class="nav-toggle" aria-label="Open menu">☰</button>
+    <ul class="nav-links">
+      <li><a href="training.html">Training</a></li>
+      <li><a href="shop.html">Shop</a></li>
+      <li><a href="book.html">Book</a></li>
+      <li><a href="index.html#daily-walk">Daily</a></li>
+      <li><a href="give.html">Support</a></li>
+      <li><a href="login.html">Login</a></li>
+      <li><a class="nav-cta" href="start.html">Begin</a></li>
+    </ul>
   </div>
+</header>
 
+<div class="groups-hero">
+  <div class="wrap">
+    <h1>Groups & Churches</h1>
+    <p class="lede" style="margin-top:12px;max-width:40em">We make it simple for churches, small groups, and ministry leaders to get Walk Steadfast into the hands of the men they shepherd. Use the form below to request a quote or place a group order.</p>
+  </div>
+</div>
 
-  <section id="bulk">
-    <div class="wrap">
-      <p class="eyebrow">Bulk paper</p>
-      <h2 style="margin:8px 0 16px">A room pays less per copy.</h2>
-      <p class="lede" style="margin-bottom:28px">Personal hardcover stays in Shop. This door is for a table or a ministry: 8+ copies. Final case prices land when print is live. Ask now so we size the run.</p>
-      <div class="bulk-grid">
-        <article class="lib-card">
-          <p class="eyebrow">Hardcover</p>
-          <h3>Case of the book</h3>
-          <p class="lede">Navy cloth. Gold lockup. Discount vs single Shop price when you take a case (start at 8).</p>
-          <p class="price" style="margin:12px 0">Ask · 8+ copies</p>
-          <a class="btn btn-ink" href="#inquire" data-paper="hardcover">Request hardcover case</a>
-        </article>
-        <article class="lib-card">
-          <p class="eyebrow">Paperback</p>
-          <h3>Case of paperbacks</h3>
-          <p class="lede">Same text. Lighter in the truck. Same 8+ floor.</p>
-          <p class="price" style="margin:12px 0">Ask · 8+ copies</p>
-          <a class="btn btn-ink" href="#inquire" data-paper="paperback">Request paperback case</a>
-        </article>
-        <article class="lib-card">
-          <p class="eyebrow">Workbook</p>
-          <h3>Printed 24-lesson workbooks</h3>
-          <p class="lede">One book per man in the room. Or print the workbook PDF on your copier.</p>
-          <p class="price" style="margin:12px 0">Ask · 8+ copies</p>
-          <a class="btn btn-ink" href="#inquire" data-paper="workbook">Request printed workbooks</a>
-        </article>
-      </div>
+<section class="section-block">
+  <div class="wrap" style="max-width:720px">
+    <div class="icon-head">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
+      <h2 style="font-size:22px;margin:0">For Pastors, Leaders, and Groups</h2>
     </div>
-  </section>
+    <p style="color:var(--muted);margin-bottom:12px">Walk Steadfast is a 10-week study designed to help men walk in truth, fight sin, and stand firm in Christ. It works well for:</p>
+    <ul style="color:var(--muted);margin:0 0 16px 20px">
+      <li>Men’s small groups and discipleship groups</li>
+      <li>Church-wide studies and leadership training</li>
+    </ul>
+    <p style="color:var(--muted)">Whether you need books, workbooks, or a custom license quote, we’re here to help your group get equipped.</p>
+  </div>
+</section>
 
-  <section id="inquire" style="margin-top:0;padding-top:16px">
-    <div class="wrap" style="max-width:640px">
-      <p class="lede" style="margin:0 0 28px">Scripts and films stay licensed to a named table or church. They are not sold, posted, or reprinted as someone else’s series. The ask goes to groups@walksteadfast.com.</p>
-      <form data-inquire-form>
-        <input type="hidden" name="offer" value="group-delivery">
-        <label for="iq-name">Your name</label>
-        <input id="iq-name" name="name" required>
-        <label for="iq-email">Email</label>
-        <input id="iq-email" name="email" type="email" required>
-        <label for="iq-church">Church or crew</label>
-        <input id="iq-church" name="church">
-        <label for="iq-seats">About how many men</label>
-        <input id="iq-seats" name="seats" type="number" min="3" placeholder="8">
-        <label for="iq-paper">Paper you want</label>
-        <select id="iq-paper" name="paper">
-          <option value="none">No paper yet</option>
-          <option value="hardcover">Bulk hardcover</option>
-          <option value="paperback">Bulk paperback</option>
-          <option value="workbook">Printed workbooks</option>
-          <option value="mix">Mix — we will reply</option>
+<section class="section-block">
+  <div class="wrap" style="max-width:720px">
+    <h3 style="margin-bottom:16px">Request a Quote or Group Order</h3>
+    <div class="form-card">
+      <form id="group-form">
+        <label for="name">Name</label>
+        <div class="hint">Your full name</div>
+        <input id="name" name="name" required>
+        <label for="email">Email</label>
+        <div class="hint">Where should we send your quote?</div>
+        <input id="email" name="email" type="email" required>
+        <label for="group">Group or church name</label>
+        <div class="hint">Name of your church, ministry, or group</div>
+        <input id="group" name="group">
+        <label for="count">How many men?</label>
+        <div class="hint">This helps us prepare an accurate quote.</div>
+        <select id="count" name="count">
+          <option value="">Select number of men</option>
+          <option>8–15</option>
+          <option>16–30</option>
+          <option>30+</option>
         </select>
-        <label for="iq-need">What you need</label>
-        <select id="iq-need" name="need">
-          <option value="pricing">Pricing for the room</option>
-          <option value="scripts">Scripts so I can deliver the lessons</option>
-          <option value="supplies">Group supplies and bound workbooks</option>
-          <option value="all">Pricing, scripts, and supplies</option>
-        </select>
-        <label for="iq-note">Anything else</label>
-        <textarea id="iq-note" name="note" rows="4" placeholder="When you want to start. Town. Denomination if it matters."></textarea>
-        <button class="btn btn-gold" type="submit">Send the inquiry</button>
+        <div class="check-item">
+          <input type="checkbox" name="need" value="hardcover" id="hc">
+          <div><strong>Hardcover case</strong><span>Case of 10 hardcover books</span></div>
+        </div>
+        <div class="check-item">
+          <input type="checkbox" name="need" value="paperback" id="pb">
+          <div><strong>Paper case</strong><span>Case of 10 paperback books</span></div>
+        </div>
+        <div class="check-item">
+          <input type="checkbox" name="need" value="workbooks" id="wb">
+          <div><strong>Workbooks</strong><span>Additional participant workbooks</span></div>
+        </div>
+        <div class="check-item">
+          <input type="checkbox" name="need" value="license" id="lc">
+          <div><strong>License quote</strong><span>For digital license or bulk customization</span></div>
+        </div>
+        <button class="btn" type="submit" style="width:100%;margin-top:16px;background:#8b9cff;color:#07070a">Send the inquiry</button>
+        <p style="margin-top:12px;font-size:14px;color:var(--muted)"><svg style="width:16px;height:16px;vertical-align:middle;margin-right:6px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg> You can also email us directly at <a href="mailto:groups@walksteadfast.com" style="color:#8b9cff">groups@walksteadfast.com</a></p>
       </form>
     </div>
-  </section>
+  </div>
+</section>
 
-  <footer>
-    <div class="wrap foot-grid mega">
-      <div>
-        <p class="brand-name" style="margin-bottom:14px">Steadfast</p>
-        <p>The way of Godly Men.</p>
-      </div>
-      <div>
-        <p class="eyebrow">Product</p>
-        <a href="training.html">Training</a>
-        <a href="book.html">Book</a>
-        <a href="shop.html">Shop</a>
-        <a href="daily.html">Daily</a>
-        <a href="/listen">Podcast</a>
-        <a href="index.html#apps">Apps</a>
-      </div>
-      <div>
-        <p class="eyebrow">House</p>
-        <a href="about.html">The men</a>
-        <a href="marks.html">Four marks</a>
-        <a href="group-inquiry.html">Groups</a>
-        <a href="affiliates.html">Affiliate</a>
-        <a href="merch.html">Merch</a>
-      </div>
-      <div>
-        <p class="eyebrow">Begin</p>
-        <a href="shop.html">Shop</a>
-        <a href="training.html">Training</a>
-        <a href="book.html">Book</a>
-      </div>
-      <div>
-        <p class="eyebrow">Legal</p>
-        <a href="give.html">Give once or monthly</a>
-        <a href="privacy.html">Privacy</a>
-        <a href="terms.html">Terms</a>
-        <a href="mailto:hello@walksteadfast.com">Contact</a>
-      </div>
+<section class="section-block">
+  <div class="wrap" style="max-width:720px">
+    <div class="icon-head">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+      <h3 style="margin:0">Our Goal</h3>
     </div>
-    <div class="wrap tiny">© <span id="y">2026</span> Steadfast Men</div>
-  </footer>
-  <script src="site.js?v=236"></script>
-  <script>
-    function setPaper(value) {
-      var paper = document.getElementById("iq-paper");
-      if (paper && value) paper.value = value;
-    }
-    document.querySelectorAll("[data-paper]").forEach(function (a) {
-      a.addEventListener("click", function () { setPaper(a.getAttribute("data-paper")); });
-    });
-    var asked = new URLSearchParams(location.search).get("paper");
-    if (asked) {
-      setPaper(asked);
-      document.getElementById("inquire") && document.getElementById("inquire").scrollIntoView();
-    }
-  </script>
+    <p style="color:var(--muted)">Our heart is to serve leaders and strengthen men in the faith. We respond to inquiries within 1–2 business days and are happy to customize a solution that fits your group’s needs.</p>
+  </div>
+</section>
 
+<footer>
+  <div class="wrap foot-grid mega">
+    <div>
+      <p class="brand-name" style="margin-bottom:14px">Steadfast</p>
+      <p>The way of Godly Men.</p>
+    </div>
+    <div>
+      <p class="eyebrow">Product</p>
+      <a href="training.html">Training</a>
+      <a href="book.html">Book</a>
+      <a href="shop.html">Shop</a>
+      <a href="daily.html">Daily</a>
+      <a href="/listen">Podcast</a>
+      <a href="index.html#apps">Apps</a>
+    </div>
+    <div>
+      <p class="eyebrow">House</p>
+      <a href="about.html">The men</a>
+      <a href="marks.html">Four marks</a>
+      <a href="group-inquiry.html">Groups</a>
+      <a href="affiliates.html">Affiliate</a>
+      <a href="merch.html">Merch</a>
+    </div>
+    <div>
+      <p class="eyebrow">Begin</p>
+      <a href="shop.html">Shop</a>
+      <a href="training.html">Training</a>
+      <a href="book.html">Book</a>
+    </div>
+    <div>
+      <p class="eyebrow">Legal</p>
+      <a href="give.html">Give once or monthly</a>
+      <a href="privacy.html">Privacy</a>
+      <a href="terms.html">Terms</a>
+      <a href="mailto:hello@walksteadfast.com">Contact</a>
+    </div>
+  </div>
+  <div class="wrap tiny">© <span id="y">2026</span> Steadfast Men</div>
+</footer>
+<script src="site.js?v=236"></script>
+<script>
+  document.getElementById("y") && (document.getElementById("y").textContent = new Date().getFullYear());
+  document.getElementById("group-form").addEventListener("submit", function (e) {
+    e.preventDefault();
+    var name = document.getElementById("name").value;
+    var email = document.getElementById("email").value;
+    var group = document.getElementById("group").value;
+    var count = document.getElementById("count").value;
+    var needs = Array.from(document.querySelectorAll('input[name="need"]:checked')).map(function(c){return c.value;}).join(", ");
+    var subject = encodeURIComponent("Group inquiry");
+    var body = encodeURIComponent("Name: " + name + "\nEmail: " + email + "\nGroup: " + group + "\nMen: " + count + "\nNeeds: " + needs);
+    window.location.href = "mailto:groups@walksteadfast.com?subject=" + subject + "&body=" + body;
+  });
+</script>
 </body>
 </html>
