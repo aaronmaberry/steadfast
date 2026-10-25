@@ -4,125 +4,201 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Affiliate — Steadfast Men</title>
-  <meta name="description" content="Tell men about Steadfast. They get 10% off. You earn 20% on training, 30% if you run a table.">
+  <meta name="description" content="Tell men. Keep a share. 10% off for them. Your cut on the sale.">
   <link rel="canonical" href="https://www.walksteadfast.com/affiliates">
   <link rel="icon" href="img/logo-lockup.jpg">
-  <link rel="stylesheet" href="styles.css?v=263">
-  <link rel="stylesheet" href="quiet.css">
+  <link rel="stylesheet" href="styles.css?v=265">
+  <style>
+    .aff-hero {
+      position: relative;
+      padding: 100px 0 64px;
+      overflow: hidden;
+    }
+    .aff-hero::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(180deg, rgba(7,7,10,.55) 0%, rgba(7,7,10,.82) 100%), url('img/hero-table.jpg') center / cover no-repeat;
+      opacity: 0.45;
+      pointer-events: none;
+      z-index: 0;
+    }
+    .aff-hero .wrap { position: relative; z-index: 1; }
+    .badge {
+      display: inline-block;
+      background: #8b9cff;
+      color: #07070a;
+      font-size: 12px;
+      font-weight: 500;
+      padding: 6px 12px;
+      border-radius: 999px;
+      margin-bottom: 16px;
+    }
+    .split-info {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 40px;
+      margin: 40px 0;
+    }
+    .icon-row { display: flex; align-items: flex-start; gap: 12px; margin: 14px 0; }
+    .icon-row svg { width: 20px; height: 20px; flex-shrink: 0; margin-top: 2px; color: #8b9cff; }
+    .form-card {
+      max-width: 640px;
+      margin: 48px auto;
+      padding: 32px;
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+    }
+    .form-card label { display: block; font-size: 13px; font-weight: 500; margin: 16px 0 6px; color: var(--text); }
+    .form-card input, .form-card select {
+      width: 100%; padding: 12px 14px; background: var(--bg); border: 1px solid var(--line); border-radius: 8px; color: var(--text); font: inherit;
+    }
+    .code-row { display: flex; gap: 12px; align-items: flex-end; }
+    .code-row input { flex: 1; }
+    .code-note { font-size: 13px; color: var(--muted); margin-bottom: 8px; }
+    @media (max-width: 700px) {
+      .split-info { grid-template-columns: 1fr; gap: 28px; }
+      .code-row { flex-direction: column; align-items: stretch; }
+    }
+  </style>
 </head>
 <body>
 <header class="nav">
-    <div class="wrap nav-inner">
-      <a class="brand" href="index.html"><img src="img/logo-lockup.jpg" alt="Steadfast Men"></a>
-      <button class="nav-toggle" aria-label="Open menu">☰</button>
-            <ul class="nav-links">
-        <li><a href="training.html">Training</a></li>
-        <li><a href="shop.html">Shop</a></li>
-        <li><a href="book.html">Book</a></li>
-        <li><a href="index.html#daily-walk">Daily</a></li>
-        <li><a href="give.html" aria-current="page">Support</a></li>
-        <li><a href="login.html">Login</a></li>
-        <li><a class="nav-cta" href="start.html">Begin</a></li>
-      </ul>
-    </div>
-  </header>
-  <div class="page-hero page-hero-tight">
-    <div class="wrap">
-      <p class="eyebrow">Affiliate</p>
-      <h1>Give them 10% off. Keep a share.</h1>
-      <p>You name the code. Any word you want. They use it at checkout.</p>
+  <div class="wrap nav-inner">
+    <a class="brand" href="index.html"><img src="img/logo-lockup.jpg" alt="Steadfast Men"></a>
+    <button class="nav-toggle" aria-label="Open menu">☰</button>
+    <ul class="nav-links">
+      <li><a href="training.html">Training</a></li>
+      <li><a href="shop.html">Shop</a></li>
+      <li><a href="book.html">Book</a></li>
+      <li><a href="index.html#daily-walk">Daily</a></li>
+      <li><a href="give.html">Support</a></li>
+      <li><a href="login.html">Login</a></li>
+      <li><a class="nav-cta" href="start.html">Begin</a></li>
+    </ul>
+  </div>
+</header>
+
+<div class="aff-hero">
+  <div class="wrap">
+    <span class="badge">Affiliate Program</span>
+    <h1>Tell men.<br>Keep a share.</h1>
+    <p class="lede" style="margin-top:16px;max-width:38em">Love Walksteadfast? Share it with men who walk. You keep <strong style="color:var(--text)">10% of every sale</strong> you generate—ongoing for as long as they stay subscribed.</p>
+
+    <div class="split-info">
+      <div>
+        <p class="eyebrow" style="color:#8b9cff">How it works</p>
+        <p style="color:var(--muted);margin-top:8px">You share your unique code or link. When someone uses it on a new subscription, you earn <strong style="color:var(--text)">10% commission</strong> for the life of that subscription. They get <strong style="color:var(--text)">10% off</strong> their first payment.</p>
+      </div>
+      <div>
+        <p class="eyebrow" style="color:#8b9cff">Commission rates</p>
+        <div class="icon-row">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
+          <div><strong>10% commission</strong><br><span style="color:var(--muted);font-size:14px">On every sale you refer</span></div>
+        </div>
+        <div class="icon-row">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+          <div><strong>Lifetime of the subscription</strong><br><span style="color:var(--muted);font-size:14px">Recurring for as long as they stay</span></div>
+        </div>
+        <div class="icon-row">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
+          <div><strong>10% off for new customers</strong><br><span style="color:var(--muted);font-size:14px">They get 10% off their first payment</span></div>
+        </div>
+      </div>
     </div>
   </div>
-  <section>
-    <div class="wrap quiet-col">
-      <div class="quiet-read">
-        <p>You already talk to men. Send them with your code. They pay 10% less. You earn 25% of the ebook, 20% of training and the bundle. If you run a table of 3–7 and we approve it, 30% on training and the bundle.</p>
-        <p>Print is not in yet. Support gifts are never commissioned. A church license stays a quote to groups@, not a code. You do not earn on your own buy.</p>
+</div>
+
+<section>
+  <div class="form-card">
+    <h3 style="margin-bottom:4px">Apply for your affiliate code</h3>
+    <p style="color:var(--muted);font-size:14px;margin-bottom:20px">Takes 30 seconds. We’ll send your code and tracking link after we review.</p>
+    <form id="aff-form">
+      <label for="an">Name</label>
+      <input id="an" name="name" required placeholder="Your full name">
+      <label for="ae">Email</label>
+      <input id="ae" name="email" type="email" required placeholder="you@example.com">
+      <label for="ac">Desired code</label>
+      <div class="code-row">
+        <input id="ac" name="code" maxlength="12" placeholder="e.g. walkwithpurpose" style="text-transform:uppercase" required>
+        <span class="code-note">Letters and numbers only. Must be unique.</span>
       </div>
-      <p class="eyebrow" style="margin-top:28px">Create your own code</p>
-      <p class="lede">This is not a code we assign. Type your own, the one you will tell men to use.</p>
-      <form class="quiet-form" id="aff-form">
-        <label for="an">Name</label>
-        <input id="an" name="name" required>
-        <label for="ae">Email</label>
-        <input id="ae" name="email" type="email" required>
-        <label for="aw">Where you will tell men</label>
-        <input id="aw" name="where" placeholder="Church, YouTube, table, list" required>
-        <label for="ac">Your promo code</label>
-        <input id="ac" name="code" maxlength="12" placeholder="Type your own code to promote" required autocomplete="off" style="font-size:18px;letter-spacing:.04em;text-transform:uppercase">
-        <p class="quiet-note">Rules: you name it. Letters and numbers only, four to twelve. One code.</p>
-        <p class="code-rules">Steadfast, Go First, and Four Marks are reserved and cannot be used as codes.</p>
-        <button class="btn btn-gold" type="submit">Create my code</button>
-        <p class="quiet-note" id="aff-ok" hidden></p>
-      </form>
+      <label for="asize">Rough audience size</label>
+      <select id="asize" name="size">
+        <option value="">Select one...</option>
+        <option>Under 50</option>
+        <option>50–200</option>
+        <option>200–1,000</option>
+        <option>1,000+</option>
+      </select>
+      <button class="btn" type="submit" style="width:100%;margin-top:20px;background:#8b9cff;color:#07070a">Reserve this code</button>
+      <p id="aff-ok" hidden style="text-align:center;margin-top:16px;color:var(--muted);font-size:14px"></p>
+      <p style="text-align:center;margin-top:12px;color:var(--muted);font-size:13px">You’ll receive an email confirmation if your code is approved. We review applications within 2 business days. Some categories and audiences may be excluded.</p>
+    </form>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap foot-grid mega">
+    <div>
+      <p class="brand-name" style="margin-bottom:14px">Steadfast</p>
+      <p>The way of Godly Men.</p>
     </div>
-  </section>
-  <footer>
-    <div class="wrap foot-grid mega">
-      <div>
-        <p class="brand-name" style="margin-bottom:14px">Steadfast</p>
-        <p>The way of Godly Men.</p>
-      </div>
-      <div>
-        <p class="eyebrow">Product</p>
-        <a href="training.html">Training</a>
-        <a href="book.html">Book</a>
-        <a href="shop.html">Shop</a>
-        <a href="daily.html">Daily</a>
-        <a href="/listen">Podcast</a>
-        <a href="index.html#apps">Apps</a>
-      </div>
-      <div>
-        <p class="eyebrow">House</p>
-        <a href="about.html">The men</a>
-        <a href="marks.html">Four marks</a>
-        <a href="group-inquiry.html">Groups</a>
-        <a href="affiliates.html">Affiliate</a>
-        <a href="merch.html">Merch</a>
-      </div>
-      <div>
-        <p class="eyebrow">Begin</p>
-        <a href="shop.html">Shop</a>
-        <a href="training.html">Training</a>
-        <a href="book.html">Book</a>
-      </div>
-      <div>
-        <p class="eyebrow">Legal</p>
-        <a href="give.html">Give once or monthly</a>
-        <a href="privacy.html">Privacy</a>
-        <a href="terms.html">Terms</a>
-        <a href="mailto:hello@walksteadfast.com">Contact</a>
-      </div>
+    <div>
+      <p class="eyebrow">Product</p>
+      <a href="training.html">Training</a>
+      <a href="book.html">Book</a>
+      <a href="shop.html">Shop</a>
+      <a href="daily.html">Daily</a>
+      <a href="/listen">Podcast</a>
+      <a href="index.html#apps">Apps</a>
     </div>
-    <div class="wrap tiny">© <span id="y">2026</span> Steadfast Men</div>
-  </footer>
-  <script src="site.js?v=236"></script>
-  <script>
-    document.getElementById("y") && (document.getElementById("y").textContent = new Date().getFullYear());
-    document.getElementById("aff-form").addEventListener("submit", function (e) {
-      e.preventDefault();
-      var code = (document.getElementById("ac").value || "").toUpperCase().replace(/[^A-Z0-9]/g, "");
-      if (code.length < 4) { document.getElementById("ac").setCustomValidity("Type your own code. Four letters or numbers."); document.getElementById("ac").reportValidity(); return; }
-      if (/STEADFAST|GOFIRST|FOURMARKS/.test(code)) { document.getElementById("ac").setCustomValidity("That name is the house. Pick your own."); document.getElementById("ac").reportValidity(); return; }
-      document.getElementById("ac").setCustomValidity("");
-      document.getElementById("ac").value = code;
-      var name = document.getElementById("an").value;
-      var email = document.getElementById("ae").value;
-      var where = document.getElementById("aw").value;
-      try {
-        var key = "steadfast-affiliate-holds";
-        var list = JSON.parse(localStorage.getItem(key) || "[]");
-        list.push({ at: new Date().toISOString(), name: name, email: email, where: where, code: code });
-        localStorage.setItem(key, JSON.stringify(list));
-      } catch (err) {}
-      var ok = document.getElementById("aff-ok");
-      ok.hidden = false;
-      ok.textContent = "Your code is " + code + ". Tell men to use that. It takes 10% off when live checkout is on.";
-      this.querySelectorAll("input, button").forEach(function (el) { el.disabled = true; });
-      var subject = encodeURIComponent("Affiliate code created · " + code);
-      var body = encodeURIComponent("Name: " + name + "\nEmail: " + email + "\nWhere: " + where + "\nCode: " + code);
-      window.location.href = "mailto:groups@walksteadfast.com?subject=" + subject + "&body=" + body;
-    });
-  </script>
+    <div>
+      <p class="eyebrow">House</p>
+      <a href="about.html">The men</a>
+      <a href="marks.html">Four marks</a>
+      <a href="group-inquiry.html">Groups</a>
+      <a href="affiliates.html">Affiliate</a>
+      <a href="merch.html">Merch</a>
+    </div>
+    <div>
+      <p class="eyebrow">Begin</p>
+      <a href="shop.html">Shop</a>
+      <a href="training.html">Training</a>
+      <a href="book.html">Book</a>
+    </div>
+    <div>
+      <p class="eyebrow">Legal</p>
+      <a href="give.html">Give once or monthly</a>
+      <a href="privacy.html">Privacy</a>
+      <a href="terms.html">Terms</a>
+      <a href="mailto:hello@walksteadfast.com">Contact</a>
+    </div>
+  </div>
+  <div class="wrap tiny">© <span id="y">2026</span> Steadfast Men</div>
+</footer>
+<script src="site.js?v=236"></script>
+<script>
+  document.getElementById("y") && (document.getElementById("y").textContent = new Date().getFullYear());
+  document.getElementById("aff-form").addEventListener("submit", function (e) {
+    e.preventDefault();
+    var code = (document.getElementById("ac").value || "").toUpperCase().replace(/[^A-Z0-9]/g, "");
+    if (code.length < 4) { document.getElementById("ac").setCustomValidity("Four to twelve letters or numbers."); document.getElementById("ac").reportValidity(); return; }
+    if (/STEADFAST|GOFIRST|FOURMARKS/.test(code)) { document.getElementById("ac").setCustomValidity("That name is reserved."); document.getElementById("ac").reportValidity(); return; }
+    document.getElementById("ac").setCustomValidity("");
+    document.getElementById("ac").value = code;
+    var name = document.getElementById("an").value;
+    var email = document.getElementById("ae").value;
+    var size = document.getElementById("asize").value;
+    var ok = document.getElementById("aff-ok");
+    ok.hidden = false;
+    ok.textContent = "Code " + code + " reserved. We’ll confirm by email.";
+    this.querySelectorAll("input, select, button").forEach(function (el) { el.disabled = true; });
+    var subject = encodeURIComponent("Affiliate code request · " + code);
+    var body = encodeURIComponent("Name: " + name + "\nEmail: " + email + "\nSize: " + size + "\nCode: " + code);
+    window.location.href = "mailto:groups@walksteadfast.com?subject=" + subject + "&body=" + body;
+  });
+</script>
 </body>
 </html>
