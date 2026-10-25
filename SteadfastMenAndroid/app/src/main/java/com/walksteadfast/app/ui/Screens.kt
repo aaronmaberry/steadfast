@@ -3,7 +3,17 @@ package com.walksteadfast.app.ui
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
-import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.width
+import androidx.compose.foundation.shape.RoundedCornerShape
+import androidx.compose.ui.Alignment
+import androidx.compose.ui.draw.clip
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.layout.ContentScale
+import androidx.compose.ui.res.painterResource
+import androidx.compose.ui.unit.dp
+import androidx.compose.foundation.Image
+import com.walksteadfast.app.R
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
@@ -27,19 +37,9 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.font.FontFamily
-import androidx.compose.ui.text.font.FontStyle
-import androidx.compose.ui.unit.dp
-import androidx.compose.ui.unit.sp
 import androidx.compose.ui.viewinterop.AndroidView
 import android.webkit.WebView
 import android.webkit.WebViewClient
-import com.walksteadfast.app.Config
-import com.walksteadfast.app.data.DevotionStore
-import com.walksteadfast.app.data.Product
-import com.walksteadfast.app.data.Social
-import java.text.SimpleDateFormat
-import java.util.Date
-import java.util.Locale
 
 @Composable
 fun InAppWeb(url: String, modifier: Modifier = Modifier) {
@@ -54,6 +54,16 @@ fun InAppWeb(url: String, modifier: Modifier = Modifier) {
         modifier = modifier.fillMaxSize()
     )
 }
+import androidx.compose.ui.unit.dp
+import androidx.compose.ui.unit.sp
+import com.walksteadfast.app.Config
+import com.walksteadfast.app.data.DevotionStore
+import com.walksteadfast.app.data.Product
+import com.walksteadfast.app.data.Social
+import java.text.SimpleDateFormat
+import java.util.Date
+import java.util.Locale
+
 @Composable
 fun TodayScreen(store: DevotionStore, openUrl: (String) -> Unit, modifier: Modifier) {
     val d = store.today
@@ -67,18 +77,39 @@ fun TodayScreen(store: DevotionStore, openUrl: (String) -> Unit, modifier: Modif
         Spacer(Modifier.height(4.dp))
         Text(greeting(), color = Text, fontSize = 24.sp)
         Spacer(Modifier.height(14.dp))
-        Column(
+        Box(
             Modifier
                 .fillMaxWidth()
-                .background(IndigoCard)
-                .padding(18.dp)
+                .height(340.dp)
+                .clip(RoundedCornerShape(18.dp))
         ) {
-            Text("VERSE OF THE DAY", color = Accent, fontSize = 11.sp, letterSpacing = 0.8.sp)
-            Spacer(Modifier.height(8.dp))
-            Text(versePlain(d.verse), color = Text, fontSize = 18.sp, lineHeight = 26.sp)
-            if (verseRef(d.verse).isNotEmpty()) {
-                Spacer(Modifier.height(8.dp))
-                Text(verseRef(d.verse), color = Muted, fontSize = 12.sp)
+            Image(
+                painter = painterResource(R.drawable.social_banner),
+                contentDescription = null,
+                contentScale = ContentScale.Crop,
+                modifier = Modifier.fillMaxSize()
+            )
+            Box(Modifier.fillMaxSize().background(Color.Black.copy(alpha = 0.58f)))
+            Column(Modifier.padding(20.dp)) {
+                Text("TODAY’S TEXT", color = Color.White.copy(alpha = 0.72f), fontSize = 11.sp, letterSpacing = 1.2.sp)
+                Spacer(Modifier.height(12.dp))
+                Row(verticalAlignment = Alignment.Top) {
+                    Box(Modifier.width(4.dp).height(72.dp).background(Accent, RoundedCornerShape(2.dp)))
+                    Spacer(Modifier.width(14.dp))
+                    Text(versePlain(d.verse), color = Color.White, fontSize = 20.sp, lineHeight = 28.sp)
+                }
+                if (verseRef(d.verse).isNotEmpty()) {
+                    Spacer(Modifier.height(10.dp))
+                    Text(verseRef(d.verse), color = Color.White.copy(alpha = 0.62f), fontSize = 12.sp, modifier = Modifier.padding(start = 18.dp))
+                }
+                if (d.reflection.isNotBlank()) {
+                    Spacer(Modifier.height(16.dp))
+                    Text(d.reflection, color = Color.White, fontSize = 16.sp, lineHeight = 22.sp)
+                }
+                if (d.silentLine.isNotBlank()) {
+                    Spacer(Modifier.height(8.dp))
+                    Text(d.silentLine, color = Color.White.copy(alpha = 0.78f), fontSize = 14.sp, lineHeight = 20.sp)
+                }
             }
         }
         Spacer(Modifier.height(16.dp))
@@ -282,7 +313,7 @@ private fun PairBlock(store: DevotionStore, openUrl: (String) -> Unit) {
         BrassButton("Ask him: did you do the act?") {
             store.savePair(draft)
             store.pingPair()
-            val body = java.net.URLEncoder.encode("Did you do the act from this lesson? Phone down at the table. — Steadfast", "UTF-8")
+            val body = java.net.URLEncoder.encode("Did you do the act this week? Phone down at the table. — Steadfast", "UTF-8")
             openUrl("sms:?body=$body")
         }
         if (store.pairPinged.isNotBlank()) {
