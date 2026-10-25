@@ -57,33 +57,56 @@ struct TodayView: View {
 
     private var verseCard: some View {
         Button { showVerse = true } label: {
-            VStack(alignment: .leading, spacing: 10) {
-                Text("VERSE OF THE DAY")
-                    .font(.system(size: 11, weight: .medium))
-                    .tracking(0.8)
-                    .foregroundStyle(SM.accent)
-                Text(versePlain(store.today.verse))
-                    .font(.system(size: 18, weight: .regular))
-                    .foregroundStyle(SM.text)
-                    .multilineTextAlignment(.leading)
-                    .lineSpacing(3)
-                if !verseRef(store.today.verse).isEmpty {
-                    Text(verseRef(store.today.verse))
-                        .font(.system(size: 12, weight: .medium))
-                        .foregroundStyle(SM.muted)
+            ZStack(alignment: .bottomLeading) {
+                Image("social-banner")
+                    .resizable()
+                    .scaledToFill()
+                    .frame(minHeight: 320)
+                    .clipped()
+                    .overlay(
+                        LinearGradient(
+                            colors: [Color.black.opacity(0.62), Color.black.opacity(0.42), Color.black.opacity(0.78)],
+                            startPoint: .top,
+                            endPoint: .bottom
+                        )
+                    )
+                VStack(alignment: .leading, spacing: 12) {
+                    Text("TODAY’S TEXT")
+                        .font(.system(size: 11, weight: .medium))
+                        .tracking(1.2)
+                        .foregroundStyle(Color.white.opacity(0.72))
+                    HStack(alignment: .top, spacing: 14) {
+                        RoundedRectangle(cornerRadius: 2)
+                            .fill(SM.accent)
+                            .frame(width: 4)
+                        Text(versePlain(store.today.verse))
+                            .font(.system(size: 22, weight: .regular))
+                            .foregroundStyle(.white)
+                            .multilineTextAlignment(.leading)
+                            .lineSpacing(3)
+                    }
+                    if !verseRef(store.today.verse).isEmpty {
+                        Text(verseRef(store.today.verse))
+                            .font(.system(size: 12, weight: .medium))
+                            .tracking(0.4)
+                            .foregroundStyle(Color.white.opacity(0.62))
+                            .padding(.leading, 18)
+                    }
+                    if let q = store.today.reflection, !q.isEmpty {
+                        Text(q)
+                            .font(.system(size: 17, weight: .regular))
+                            .foregroundStyle(.white)
+                            .padding(.top, 8)
+                    }
+                    if let act = store.today.silentLine, !act.isEmpty {
+                        Text(act)
+                            .font(.system(size: 15))
+                            .foregroundStyle(Color.white.opacity(0.78))
+                    }
                 }
-                HStack {
-                    spacerAction("heart", "Walk")
-                    spacerAction("bubble.right", "Notes")
-                    spacerAction("square.and.arrow.up", "Share")
-                    spacerAction("ellipsis", "More")
-                }
-                .padding(.top, 8)
-                .foregroundStyle(SM.accent.opacity(0.85))
+                .padding(20)
             }
-            .padding(18)
             .frame(maxWidth: .infinity, alignment: .leading)
-            .background(LinearGradient(colors: [SM.indigoCard, SM.bg2], startPoint: .top, endPoint: .bottom))
             .clipShape(RoundedRectangle(cornerRadius: 18, style: .continuous))
         }
         .buttonStyle(.plain)
