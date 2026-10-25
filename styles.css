@@ -1692,3 +1692,33 @@ body .hero { padding-top: 72px; padding-bottom: 48px; }
   .daily-box { grid-template-columns: 1fr; }
   .daily-cell-bleed { min-height: 0; }
 }
+
+.acts-c { gap: 10px; flex-wrap: wrap; }
+.acts-c button {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 40px;
+  padding: 0 16px;
+  border-radius: 999px;
+  font: 500 14px/1 Geist, sans-serif;
+  cursor: pointer;
+}
+.acts-c svg { width: 16px; height: 16px; flex: 0 0 auto; }
+.act-fill {
+  background: #8b9cff;
+  color: #07070a;
+  border: 0;
+}
+.act-ghost {
+  background: transparent;
+  color: #fff;
+  border: 1px solid rgba(255,255,255,.35);
+}
+.act-fill:hover { filter: brightness(1.05); }
+.act-ghost:hover { border-color: #fff; }
+@media (max-width: 500px) {
+  .acts-c { gap: 8px; }
+  .acts-c button { min-height: 44px; padding: 0 14px; font-size: 14px; }
+  .act-fill, .act-ghost { flex: 1 1 auto; justify-content: center; }
+}
