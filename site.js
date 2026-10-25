@@ -109,6 +109,8 @@ function paintDevotion(root, d) {
   fill("[data-devotion-prayer]", d.prayer);
   const refEl = root.querySelector("[data-devotion-reflection]");
   if (refEl) refEl.textContent = d.reflection || "";
+  const actEl = root.querySelector("[data-devotion-act]");
+  if (actEl) actEl.textContent = d.silentLine || "";
   const tease = root.querySelector("[data-devotion-tease]");
   if (tease) {
     const first = String(d.carryBody || "").split(/\n\n+/)[0].trim();
@@ -488,8 +490,9 @@ document.addEventListener("DOMContentLoaded", () => {
     ["Login", "login.html"],
     ["Listen", "listen.html"],
     ["Path", "program.html"],
+    ["Group kit", "group-kit.html"],
     ["Merch", "merch.html"],
-    ["Group inquiry", "group-inquiry.html"],
+    ["Groups", "groups.html"],
     ["Begin", "start.html"]
   ];
   const cmd = document.createElement("div");
