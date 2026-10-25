@@ -1560,7 +1560,7 @@ body .hero { padding-top: 72px; padding-bottom: 48px; }
   inset: 0;
   background:
     linear-gradient(180deg, rgba(7,7,10,.72) 0%, rgba(7,7,10,.55) 42%, rgba(7,7,10,.82) 100%),
-    url("img/social-banner.jpg") center 40% / cover no-repeat;
+    url("img/banner-road.jpg") center 40% / cover no-repeat;
   filter: saturate(.7);
 }
 .daily-bleed-inner {
@@ -1661,4 +1661,34 @@ body .hero { padding-top: 72px; padding-bottom: 48px; }
   .daily-q { font-size: clamp(16px, 4.4vw, 20px); margin-top: 24px; }
   .daily-act { font-size: 15px; }
   .daily-ref { margin-left: 16px; }
+}
+
+.daily-cell-bleed {
+  position: relative;
+  overflow: hidden;
+  min-height: 280px;
+}
+.daily-cell-bleed .daily-bleed-bg {
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(180deg, rgba(7,7,10,.7) 0%, rgba(7,7,10,.5) 50%, rgba(7,7,10,.78) 100%),
+    url("img/banner-road.jpg") center 40% / cover no-repeat;
+  filter: saturate(.75);
+}
+.daily-cell-inner {
+  position: relative;
+  z-index: 1;
+  padding: 22px 20px;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+.daily-cell-bleed .daily-verse { font-size: clamp(18px, 1.6vw, 22px); }
+.daily-cell-bleed .daily-q { font-size: 15px; margin-top: 16px; }
+.daily-cell-bleed .daily-act { font-size: 14px; }
+.daily-cell-bleed .daily-label { margin-bottom: 10px; }
+@media (max-width: 800px) {
+  .daily-box { grid-template-columns: 1fr; }
+  .daily-cell-bleed { min-height: 0; }
 }
