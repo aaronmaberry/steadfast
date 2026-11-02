@@ -17,7 +17,7 @@ struct PairView: View {
                     Text("One brother. No board.")
                         .font(.system(size: 28, weight: .semibold))
                         .foregroundStyle(SM.text)
-                    Text("Name one man for this mark. Midweek you ask: did you do the act? He asks you. The table only hears done. Shame stays off the stage.")
+                    Text("Name one man for this mark. Between lessons you ask: did you do the act? He asks you. The table only hears done. Shame stays off the stage.")
                         .font(.system(size: 16))
                         .foregroundStyle(SM.muted)
                     TextField("His first name", text: $name)

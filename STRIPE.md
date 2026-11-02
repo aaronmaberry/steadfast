@@ -12,7 +12,7 @@ These are the only paid product SKUs. Payment Links in Stripe must use these amo
 | SKU | Config key | Price | What it is |
 | --- | --- | --- | --- |
 | Ebook | `ebook` | $14 | Ebook alone |
-| Training | `training` | $79 | 24-week training |
+| Training | `training` | $79 | 24-lesson training |
 | Bundle | `bundle` | $89 | Training + print |
 
 Give / donate buttons stay on the test donate Payment Links in `checkout.js`. They are not these three SKUs.

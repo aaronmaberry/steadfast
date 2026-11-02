@@ -11,7 +11,7 @@ Anyone picking this up (Grok, Jarvis, Cursor) follows this file. Do not invent a
 
 - Class tape is Wes Hart only. Jonathon never appears on a lecture.
 - Public table show is separate: Wes and Jonathon at the locked oak table. Do not mix those frames into training.
-- 24 weekly lectures. 30 minutes, cap 40.
+- 24 lectures, taken one lesson at a time. 30 minutes, cap 40.
 - Paid lectures stay unlisted on the paywall. Public YouTube is the table show, not the class tape.
 
 ## Wes — face and body (do not drift)
@@ -158,11 +158,11 @@ Kepler is temp only if this id is missing. No celebrity clone.
 - 22–28 one act
 - 28–32 charge and tables
 
-Guide closes with three blanks plus: Name it / Do this week / Tell a brother / Carry this.
+Guide closes with three blanks plus: Name it / Do this next / Tell a brother / Carry this.
 
-Week map: 01–06 passivity, 07–12 responsibility, 13–18 lead, 19–24 reward.
+Lesson map: 01–06 passivity, 07–12 responsibility, 13–18 lead, 19–24 reward.
 
-Week 01 manuscript: artifacts/training/W01-A-Quiet-Tuesday-LECTURE.md. Teacher name on the tape is Wes Hart.
+Lesson 01 manuscript: artifacts/training/W01-A-Quiet-Tuesday-LECTURE.md. Teacher name on the tape is Wes Hart.
 
 ## What is already locked
 

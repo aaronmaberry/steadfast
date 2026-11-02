@@ -431,7 +431,7 @@
         </div>
         <div class="vcard" style="margin-top:10px;cursor:pointer" onclick="openPair()">
           <div class="k">Your pair this mark</div>
-          <div class="verse" id="pair-profile-line" style="font-size:16px">Name one brother. Midweek he asks if you did the act. Shame stays off the stage.</div>
+          <div class="verse" id="pair-profile-line" style="font-size:16px">Name one brother. Between lessons he asks if you did the act. Shame stays off the stage.</div>
         </div>
         <div class="list">
           <button class="row" type="button" onclick="openGive()">Support the mission <span>Web</span></button>
@@ -510,7 +510,7 @@
         <div class="article">
           <div class="k">The pair · six lessons</div>
           <h2 style="font-size:26px;margin:8px 0 10px">One brother. No board.</h2>
-          <p style="color:var(--muted);margin-bottom:16px">Name one man for this mark. Midweek you ask: did you do the act? He asks you. The table only hears “done.”</p>
+          <p style="color:var(--muted);margin-bottom:16px">Name one man for this mark. Between lessons you ask: did you do the act? He asks you. The table only hears “done.”</p>
           <label class="k" for="pair-name">His name</label>
           <input id="pair-name" type="text" placeholder="First name" style="width:100%;margin:8px 0 14px;background:var(--surf);border:1px solid var(--line);color:var(--text);border-radius:12px;padding:12px 14px;font:500 16px Geist,sans-serif">
           <p class="k">This lesson’s act</p>
@@ -801,7 +801,7 @@
       "silentBody": "“Two are better than one, because they have a good return for their labor: if either of them falls down, one can help the other up” (Ecclesiastes 4:9–10 NIV). Isolation feels like strength until the night it is not.\n\nYou do not need a crowd. You need one man who will ask if you did the act.\n\nText him. Not a group. Ask how he is actually doing. Tell him one true line about you.\n\nDo not wait until you are impressive enough to need company.\n\nIron sharpens iron only if two men stay in reach.",
       "videoURL": "",
       "versePlain": null,
-      "reflection": "Who will ask you midweek if you did the act?",
+      "reflection": "Who will ask you if you did the act?",
       "prayer": "God, isolation is not strength. Give me one man to ask and to answer. Keep shame off the stage. Amen."
     },
     {
@@ -1127,7 +1127,7 @@
       const field = document.getElementById("pair-name");
       if (field && name) field.value = name;
       const line = name
-        ? name + " asks midweek. You ask " + name + ". The table only hears done."
+        ? name + " asks between lessons. You ask " + name + ". The table only hears done."
         : "Name one brother for these six lessons.";
       if (daily) daily.textContent = name ? ("Brother: " + name + " · not scored") : "Name one brother for these six lessons.";
       if (prof) prof.textContent = line;
@@ -1151,13 +1151,13 @@
       s.pinged = new Date().toLocaleString();
       localStorage.setItem(PAIR_KEY, JSON.stringify(s));
       paintPair();
-      const msg = encodeURIComponent("Did you do the act this week? Phone down at the table. Walk with me: https://www.walksteadfast.com/");
+      const msg = encodeURIComponent("Did you do the act from this lesson? Phone down at the table. Walk with me: https://www.walksteadfast.com/");
       window.open("sms:?&body=" + msg);
     };
     document.getElementById("pair-share").onclick = () => {
       const name = document.getElementById("pair-name").value.trim();
       const act = (document.getElementById("pair-act") || {}).textContent || "the act";
-      const text = (name ? name + ", " : "") + "walk with me on Steadfast Men. One brother. No board. This week’s act: " + act.trim() + " Midweek I will ask if you did it. https://www.walksteadfast.com/";
+      const text = (name ? name + ", " : "") + "walk with me on Steadfast Men. One brother. No board. This lesson’s act: " + act.trim() + " Before the next lesson I will ask if you did it. https://www.walksteadfast.com/";
       if (navigator.share) {
         navigator.share({ title: "Steadfast Men", text, url: "https://www.walksteadfast.com/" }).catch(() => {});
       } else {
