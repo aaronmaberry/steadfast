@@ -294,7 +294,7 @@ private fun PairBlock(store: DevotionStore, openUrl: (String) -> Unit) {
         Text("One brother. No board.", color = Text, fontSize = 22.sp)
         Spacer(Modifier.height(8.dp))
         Text(
-            "Name one man for this mark. Midweek you ask: did you do the act? The table only hears done. Shame stays off the stage.",
+            "Name one man for this mark. Between lessons you ask: did you do the act? The table only hears done. Shame stays off the stage.",
             color = Muted,
             fontSize = 14.sp,
             lineHeight = 20.sp
@@ -313,7 +313,7 @@ private fun PairBlock(store: DevotionStore, openUrl: (String) -> Unit) {
         BrassButton("Ask him: did you do the act?") {
             store.savePair(draft)
             store.pingPair()
-            val body = java.net.URLEncoder.encode("Did you do the act this week? Phone down at the table. — Steadfast", "UTF-8")
+            val body = java.net.URLEncoder.encode("Did you do the act from this lesson? Phone down at the table. — Steadfast", "UTF-8")
             openUrl("sms:?body=$body")
         }
         if (store.pairPinged.isNotBlank()) {

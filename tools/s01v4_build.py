@@ -89,7 +89,7 @@ LMASK=LOGO.convert('L').point(lambda v:min(255,max(0,(v-22)*3)))
 def name_frame(t,a,b):
     img=card_bg(t,1).copy(); q=ease((t-91.5)/0.7)
     img.paste(LOGO,(W//2-LOGO.width//2,H//2-LOGO.height//2-40),LMASK.point(lambda v:int(v*q)))
-    d=ImageDraw.Draw(img); fs=F(FMONO,22); s='SESSION 1  ·  WEEK ONE'; q2=ease((t-93.0)/0.6)
+    d=ImageDraw.Draw(img); fs=F(FMONO,22); s='SESSION 1  ·  LESSON ONE'; q2=ease((t-93.0)/0.6)
     d.text((W/2-fs.getlength(s)/2,H//2+LOGO.height//2+10),s,font=fs,fill=tuple(int(c*q2) for c in ACC))
     return img
 # ---- clip frames

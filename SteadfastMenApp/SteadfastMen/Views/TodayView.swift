@@ -197,7 +197,7 @@ struct TodayView: View {
                         .foregroundStyle(SM.text)
                     Text(store.pairName.isEmpty
                          ? "Name one brother for these six lessons."
-                         : "Brother: \(store.pairName). Midweek he asks. Shame stays off the stage.")
+                         : "Brother: \(store.pairName). Between lessons he asks. Shame stays off the stage.")
                         .font(.system(size: 13))
                         .foregroundStyle(SM.muted)
                         .multilineTextAlignment(.leading)

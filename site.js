@@ -47,7 +47,7 @@ const devotionals = [
   {
     title: "Do not despise the small start",
     verse: "“For whoever has despised the day of small things shall rejoice.” — Zechariah 4:10",
-    body: "Twenty-four weeks looks long until you have done week one. Open the passage. Do the act. Tomorrow can have tomorrow."
+    body: "Twenty-four lessons looks long until you have done lesson one. Open the passage. Do the act. Tomorrow can have tomorrow."
   },
   {
     title: "Watch your mouth in your own house",
